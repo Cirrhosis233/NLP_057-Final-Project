@@ -1,0 +1,5 @@
+i would like know i set depth frame 24 bit . 
+i tri use follow xlib code am i use complet wrong approach is possibl set depth yes . 
+colormap window creat xview what i wrong look xvdepth . 
+also might want tri use xview colormap segment instead xlib colormap stuff . 
+they probabl easier use sinc use truecolor visual wo n't lose anyth compar straight xlib . 

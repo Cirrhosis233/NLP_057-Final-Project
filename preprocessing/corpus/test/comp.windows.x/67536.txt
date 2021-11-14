@@ -1,0 +1,13 @@
+we ad motif wrapper famili data display program . 
+these program written main loop ' step use semop check semaphor true access new data otherwis block new data come quit often use msgop check messag true read otherwis continu messag user command often updat display accord latest data messag . 
+we typic sever run window plus data produc serv devic set flag . 
+everyon block make sure devic server get run . 
+xt xm also main loop ' model must fit . 
+o'reilli vol iv ch 9 discuss ad file-watch also add workproc run idl time . 
+we open-up ' exist main loop call workproc . 
+the problem block new data longer appropri . 
+neither let program free-run other hurt . 
+the unix select call let block sever io readi . 
+we want x main loop except file io . 
+ani suggest exampl welcom ! 
+we run sgi person iri indigo system . 

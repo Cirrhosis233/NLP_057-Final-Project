@@ -1,0 +1,8 @@
+i problem athena strip chart widget call 's get valu function . 
+i pretti sure happen i use xtappmainloop deal event via socket . 
+ya ya . 
+anyway i want caus timeout strip chart widget call get valu callback . 
+or someon know anoth fast way around way matter let know . 
+i i n't think call xtngetvalu callback i n't valu third paramet get valu proc xtpointer calldata . 
+in word i want forc strip chart widget updat . 
+ani idea anyon ? 

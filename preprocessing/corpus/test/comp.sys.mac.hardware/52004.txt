@@ -1,0 +1,603 @@
+archive-nam macintoshgeneral-faq version 2.1.3 last-modifi april 16 1993 copyright 1993 elliott harold chang 2.1 where i ftp macintosh softwar ? 
+i ad ftp site anl.anl.fr . 
+2.5 what .bin ? 
+.hqx ? 
+.cpt ? 
+.imag ? 
+.etc . ? 
+disk doubler decod packit archiv . 
+binhex 5.0 decod macbinari file not stuffit file last version erron indic . 
+2.7 i ad question how i get binhex stuffit etc . 
+pc ? 
+comp.sys.mac.faq part 1 an introduct macintosh newsgroup i . 
+introduct 1 . 
+how i use document ? 
+2 . 
+what inform avail ? 
+3 . 
+which newsgroup i post ? 
+4 . 
+someon ask system take sixteen megabyt iicx . 
+should n't i display knowledg world post seventeenth respons question ? 
+ii . 
+ftp 1 . 
+where i ftp macintosh softwar ? 
+2 . 
+can i get sharewar e-mail ? 
+3 . 
+where i find applic x ? 
+4 . 
+can someon mail applic x ? 
+5 . 
+what .bin ? 
+.hqx ? 
+.cpt ? 
+.imag ? 
+.etc . ? 
+6 . 
+how i get binhex ? 
+stuffit ? 
+etc . ? 
+7 . 
+how i get binhex stuffit etc . 
+pc ? 
+iii . 
+troubleshoot . 
+what thing go wrong 1 . 
+identifi problem . 
+2 . 
+read read me file . 
+3 . 
+check virus . 
+4 . 
+reinstal applic support file . 
+5 . 
+reinstal system softwar . 
+6 . 
+isol problem . 
+7 . 
+contact technic support . 
+iv . 
+prevent mainten 1 . 
+trash unneed file 2 . 
+reevalu your extens 3 . 
+rebuild desktop . 
+4 . 
+zap pram reset clock 5 . 
+resiz system heap . 
+6 . 
+reinstal system softwar . 
+7 . 
+disk util 8 . 
+back up 9 . 
+disk defragment 10 . 
+reformat partit hard disk other faq list current avail b . 
+comp.sys.mac.system i . 
+memori 1 . 
+whi system use much memori ? 
+2 . 
+what mode 32 ? 
+32-bit enabl ? 
+do i need ? 
+3 . 
+cach carri how much memori i allot cach ? 
+ii . 
+system softwar 1 . 
+whi appl charg system 7.1 ? 
+2 . 
+what system 7.1 give 35 system 7.0 n't ? 
+3 . 
+where i get system 7.1 ? 
+4 . 
+how i use system 6 system 7 mac ? 
+5 . 
+non-us script system 6 . 
+what system 7 tuneup ? 
+do i need ? 
+7 . 
+whi da 's disappear i turn multifind ? 
+8 . 
+do i need system 7.0.1 ? 
+9 . 
+how i get system 7.0.1 800k disk ? 
+iii . 
+hard disk fileshar file system 1 . 
+help ! 
+my folder disappear ! 
+2 . 
+whi ca n't i throw folder away ? 
+3 . 
+whi ca n't i share remov drive ? 
+4 . 
+whi ca n't i eject syquest cartridg ? 
+cd-rom ? 
+etc . 
+5 . 
+whi ca n't i renam hard disk ? 
+iv . 
+miscellan 1 . 
+what system error xxx mean ? 
+2 . 
+what type 1 error ? 
+3 . 
+what aros ? 
+4 . 
+easi access one answer mani question c . 
+comp.sys.mac.misc i . 
+virus 1 . 
+help ! 
+i virus ! 
+2 . 
+report new virus ii . 
+print postscript 1 . 
+how i make postscript file ? 
+2 . 
+how i print postscript file ? 
+3 . 
+whi wo n't postscript file print mainfram 's printer ? 
+4 . 
+whi postscript file big ? 
+5 . 
+how i print postscript non-postscript printer ? 
+6 . 
+how i make imagewrit ii print color ? 
+7 . 
+whi n't printmonitor work imagewrit ? 
+8 . 
+whi document chang i print ? 
+9 . 
+how i preview postscript file ? 
+10 . 
+how i edit postscript file ? 
+iii . 
+dos mac 1 . 
+how i move file mac pc ? 
+2 . 
+how i translat file dos format ? 
+3 . 
+should i buy softpc real pc ? 
+iv . 
+secur 1 . 
+how i prevent user chang content folder ? 
+2 . 
+how i password protect mac ? 
+v . 
+no particular place go miscellan miscellanea 1 . 
+are good book mac ? 
+2 . 
+how i take pictur screen ? 
+3 . 
+how i use pictur desktop ? 
+4 . 
+can i replac welcom macintosh box pictur ? 
+5 . 
+what autodoubl ? 
+spacesav ? 
+more disk space ? 
+are safe ? 
+6 . 
+how compar timestwo stacker edisk ? 
+7 . 
+where icon go ? 
+8 . 
+where i find user group ? 
+this work copyright 1993 elliott m . 
+harold . 
+permiss herebi grant distribut unmodifi document provid fee excess normal on-lin charg requir distribut . 
+portion document may extract quot free charg without necess citat normal on-lin communic provid said quot repres correspond 's origin work . 
+permiss quotat document print materi edit on-lin communic info-mac digest tidbit given subject normal citat procedur i.e . 
+say got . 
+disclaim i best ensur inform contain document current accur i accept respons action result inform contain herein . 
+this document provid warranti kind . 
+correct suggest address appl macintosh laserwrit imagewrit finder hypercard multifind regist trademark powerbook trademark appl comput inc . 
+linotron regist trademark linotype-hel ag inc . 
+postscript regist trademark illustr photoshop trademark adob system inc . 
+microsoft regist trademark microsoft corpor . 
+pagemak regist trademark aldus corp . 
+autodoubl diskdoubl trademark fifth generat system inc . 
+stuffit stuffit delux trademark raymond lau aladdin system inc . 
+stuffit spacesav trademark aladdin system inc . 
+more disk space trademark alysi softwar corpor . 
+timestwo trademark golden triangl comput inc . 
+unix regist trademark att . 
+all tradenam trademark respect manufactur . 
+this first part faq . 
+the second part post comp.sys.mac.system featur mani question system softwar . 
+the third part post everi two week comp.sys.mac.misc . 
+tabl content two piec includ . 
+pleas familiar three section document post . 
+all piec avail anonym ftp rtfm.mit.edu 18.172.1.27 directori pubusenetnews.answersmacintosh . 
+except introductori faq appear multipl newsgroup store general-faq.z name file format last part group name follow -faq.z e.g faq comp.sys.mac.system store system-faq.z faq comp.sys.mac.misc store misc-faq.z . 
+rtfm store file compress .z binari file . 
+if leav .z end file name get file rtfm automat decompress file send . 
+you also file mail send e-mail messag pubusenetnews.answersmacintoshnam bodi text name name file want specifi e.g . 
+general-faq . 
+you also send server messag subject help detail instruct . 
+i have a question ... 
+1.0 congratul ! 
+you ve come right place . 
+usenet wonder resourc inform rang basic question how i lock floppi disk ? 
+queri would make steve job run scream room terror . 
+i use resedit remov resourc init 11 wdef 34 nvir 17 system file use hex editor add code string a67b45 patch sfgetfil routin standard file dialog box would nice shade mauv . 
+everyth work fine i instal supercdevblast i use aldus driver print pagemak 5.0d4 linotron 6000 system hang . 
+p.s . 
+i 'm run system 6.0.2 powerbook 170 . 
+sinc macintosh newsgroup medium high volum ask first perus faq list includ least tabl content piec check relev on-lin resourc list question 1.2 especi faq list macintosh newsgroup rtfm read friend manual post question . 
+we realiz person incens system take fourteen newly-instal twenti meg ram question alreadi made way around world three hundr time 's develop tire feet . 
+final post newsgroup macintosh otherwis pleas familiar basic etiquett usenet describ newsgroup news.announce.newus . 
+how do i use this document ? 
+where can i get it ? 
+1.1 comp.sys.mac.faq current divid multipl piec general introduct re read specif list newsgroup comp.sys.mac.system comp.sys.mac.misc . 
+faq list comp.sys.mac.w comp.sys.mac.app comp.sys.mac.hardwar develop . 
+when readi part avail respect newsgroup . 
+all piec avail via anonym ftp rtfm.mit.edu pubusenetnews.answersmacintosh directori . 
+except document name general-faq.z piec name per last part newsgroup cover follow -faq e.g . 
+system-faq.z misc-faq.z . 
+the .z mean file store compress ll need ftp binari mode use either maccompress stuffit delux unix uncompress command decompress . 
+howev leav .z extens get file rtfm automat decompress file send . 
+this introductori document post concern newsgroup . 
+the tabl content specif faq list begin file abl get least idea whether question answer anywher els faq even n't part hand . 
+it 's alway obvious especi newcom particular question comment post . 
+pleas familiar faq list major macintosh newsgroup post . 
+which question appear faq serv basic guid post belong . 
+to jump particular question search section-number.question-numb enclos parenthes . 
+for exampl find where i ftp macintosh softwar ? 
+search string 2.1 . 
+to jump section instead question use zero question number . 
+what other inform is avail ? 
+1.2 comp.sys.mac.faq provid short answer number frequent ask question appropri usenet newsgroup comp.sys.mac.misc comp.sys.mac.system . 
+four file worthi particular note daryl spitzer maintain faq list cover macintosh program newsgroup comp.sys.mac.programm . 
+it 's post group week avail anonym ftp ftp.cs.uoregon 128.223.8.8 pubmac . 
+eric rosen maintain frequent ask question list comp.sys.mac.comm avail newsgroup rascal.ics.utexas.edu macfaq file re read also irregular archiv . 
+this list answer mani frequent ask question network unix mac telecommun foreign file format . 
+norm walsh compil excel faq comp.font answer lot question various kind font cross-platform convers print . 
+it 's avail comp.font ftp ibis.cs.umass.edu pubnormcomp.fontsfaq . 
+final jim jagielski maintain faq comp.unix.aux cover appl 's unix environ aux . 
+it 's post everi 2 3 week comp.unix.aux news.answ . 
+it 's avail anonym ftp jagubox.gsfc.nasa.gov . 
+which newsgroup should i post to ? 
+1.3 there stupid question misplac one . 
+you would n't ask english teacher definit integr ln x zero one would ? 
+so n't ask programm newsgroup system slow microsoft word background . 
+ignor basic netiquett excus . 
+if want peopl help need learn way communic . 
+post question proper newsgroup fill mailbox pearl wisdom mayb rotten oyster post wrong newsgroup often engend thunder silenc . 
+for instanc common glare mispost one seem incongru dweller macintosh region usenet would purpl eleph aleut arctic ask question network anywher except comp.sys.mac.comm normal produc use respons . 
+post question comp.sys.mac.comm ensur post read consid dozen experienc network administr network softwar design . 
+pleas post exact one newsgroup . 
+do cross-post . 
+if question n't import enough take extra minut figur proper belong 's import enough sever thousand peopl spend time read . 
+for reason comp.sys.mac.misc use catch-al newsgroup . 
+the breakdown question differ newsgroup document also serv reason guid belong . 
+specif question product applic softwar bought macintosh run softwar bought make macintosh run better go comp.sys.mac.app unless applic cover specif newsgroup . 
+communic program game hypercard compil databas topic comp.sys.mac . 
+newsgroup . 
+post question non-commun hardwar includ question softwar necessari make particular hardwar work comp.sys.mac.hardwar . 
+question maco system softwar belong comp.sys.mac.system . 
+question util extens normal belong comp.sys.mac.misc . 
+question aux go comp.unix.aux . 
+detail question appletalk belong comp.protocols.appletalk . 
+direct question hypercard comp.sys.mac.hypercard . 
+non-hypercard program question question develop environ go comp.sys.mac.programm . 
+resedit question may post either comp.sys.mac.misc comp.sys.mac.system comp.sys.mac.programm general netter inhabit darker recess comp.sys.mac.programm consider practic art resourc hack . 
+a general except rule veri technic question applic actual begin delv 's program well 's recent exampl how writenow written entir assembl compar word processor written high level languag ? 
+might better address programm newsgroup . 
+for sale want buy post go comp.sys.mac.w misc.forsale.computers.mac onli . 
+we understand re desper sell upgrad 128k mac get powerbook 180 trust anyon want buy read comp.sys.mac.w . 
+polit religi question the mac better window ! 
+is ! 
+is ! 
+is ! 
+is ! 
+hey ! 
+how bout amiga ! 
+what ? 
+is not ! 
+is ! 
+belong comp.sys.mac.advocaci . 
+anyth specif mention probabl belong comp.sys.mac.misc . 
+final n't provinci consid comp.sys.mac newsgroup appropri forum question . 
+mani question modem comp.sys.mac.comm much thorough discuss comp.dcom.modem . 
+question mac midi often better handl comp.mus even though 's macintosh specif newsgroup . 
+shop around . 
+usenet 's big place everyth relev macintosh happen comp.sys.mac . 
+4 . 
+someon just ask whi the system was take up sixteen of their twenti megabyt of ram . 
+should n't i put my brillianc and wit on display for the world by post the seventeenth respons ? 
+no . 
+frequent answer bore uninterest frequent question . 
+unless realli someth new add tradit answer recent discoveri font system 7.1 could eat memori privat e-mail much better medium answer common question like one . 
+you might want add mention faq e-mail respons polit suggest correspond read post futur question . 
+i read newsgroup cover written small script microphon ii let send pwfaq 's peopl frequent ask question section document answer question click button pleas n't feel oblig respond someon care littl answer question ca n't troubl read faq list get . 
+ftp 2.0 where can i ftp mac softwar ? 
+2.1 the three major north american internet archiv sharewar freewar demo softwar sumex-aim.stanford.edu 36.44.0.6 mac.archive.umich.edu 141.211.165.41 wuarchive.wustl.edu 128.252.135.4 mirror two site sever other . 
+wuarchiv often hold file site remov space concern still file delet former import site rascal.ics.utexas.edu . 
+rascal notabl store file macbinari format rather less effici binhex format common archiv . 
+unless otherwis note sharewar freewar mention document avail site . 
+to keep traffic internet manag scandinavian tri connect ftp.funet.fi 128.214.6.100 ftp.lth.se 130.235.20.3 sics.s 192.16.123.90 instead . 
+those u.k . 
+look first src.doc.ic.ac.uk 146.169.2.1 . 
+continent european tri nic.switch.ch 130.59.1.40 ezinfo.ethz.ch 129.132.2.72 anl.anl.fr192.54.179.1 . 
+australian user tri find want archie.au 139.130.4.6 mirror info-mac mac.arch . 
+japanes user find sumex mirror ftp.u-tokyo.ac.jp 130.69.254.254 . 
+a fourth import site ftp.apple.com 130.43.2.3 . 
+this appl 's semi-offici repositori system softwar develop tool sourc code technic note thing come less straight appl 's mouth . 
+some materi site may distribut outsid u. . 
+site n't offici licens distribut appl system softwar . 
+pleas read various readm document avail ftp.apple.com detail info re connect outsid u. . 
+wish redistribut materi find . 
+can i get sharewar by e-mail ? 
+2.2 the info-mac archiv sumex-aim avail e-mail the listserv respond command macarch help macarch index macarch get filenam . 
+mac archiv file avail word help index quot first two line messag instruct get start list file may request . 
+you retriev file site use messag text help quot . 
+where can i find applic x ? 
+2.3 if ca n't find re look one site tri telnet nearest archi server send e-mail messag address archi subject help archi server locat archie.rutgers.edu 128.6.18.15 america archie.mcgill.ca 132.206.2.3 origin archi server canada archie.au 139.130.4.6 australia archie.funet.fi 128.214.6.100 scandinavia archie.doc.ic.ac.uk 146.169.3.7 u.k . 
+contin . 
+these site index ten thousand file avail anonym ftp . 
+login archi password need type prog filenam find re look type help detail instruct . 
+for instanc would type prog disinfect search conveni ftp site disinfect . 
+if initi search fail turn file want tri variat substr name . 
+for instanc n't find disinfect prog disinfect might tri prog disi instead . 
+substr search often hide gold pile dross . 
+to avoid mani erron match add .. hqx end substr e.g . 
+prog disi .. hqx most mac softwar avail net end .hqx almost unix pc softwar . 
+pleas check archiv archi person befor ask find particular piec sharewar . 
+if follow advic almost never ask net find particular piec softwar . 
+can someon mail me applic x ? 
+2.4 no . 
+nor anyon mail part file comp.binaries.mac corrupt miss site . 
+pleas refer first question section find anonym ftp archi automat e-mail server . 
+what is .bin ? 
+.hqx ? 
+.cpt ? 
+.etc ? 
+2.5 most file avail ftp modifi twice allow easili pass foreign comput system . 
+first re compress make faster download re translat either binhex .hqx macbinari .bin format comput digest . 
+the macintosh use special two-fork file system choke comput . 
+binhex file 7-bit ascii text file macbinari file pure 8-bit binari data must alway transfer use binari protocol . 
+how file translat compress transmiss indic suffix . 
+normal file name someth like filename.xxx.yyi . 
+.xxx indic compress .yyi indic translat . 
+to use file ve ftp 'd download mac ll need revers process . 
+most file get net requir two-step decod process . 
+first chang binhex .hqx macbinari .bin file double-click macintosh file decompress . 
+which program decod file type cover tabl . 
+also note macintosh telecommun program automat convert macbinari file regular macintosh file download . 
+suffix .sit .cpt .hqx .bin .pit .z .imag .dd .zip .uu .tar extractor stuffit 3.0 x x x x x compact pro x x packit x uutool x maccompress x suntar x x x x binhex 5.0 x binhex 4.0 x diskdoubl x x unzip x diskcopi x macutil x x x x a note decompressor stuffit famili product use sever differ compress scheme . 
+the freewar stuffit expand unstuff . 
+version stuffit earlier 3.0 stuffit 1.5.1 stuffit classic unstuffit stuffit delux 2.0 1.0 unstuff increas number file stuf stuffit 3.0 . 
+you need get recent version stuffit stuffit expand . 
+stuffit 3.0.5 lite delux consist make smaller archiv macintosh compress util . 
+to allow maximum space file various ftp site keep net-bandwidth pleas compress file send anonym ftp site stuffit 3.0.5 . 
+uutool maccompress suntar handl popular unix format uuencod .uu compress .z tar .tar respect . 
+the unix version often robust mac product use instead 's option . 
+translat allow stuffit lite expand uuencod tar file also avail anonym ftp . 
+macutil dik winter 's packag unix util decompress debinhex file workstat download mac . 
+sinc unix store file differ mac macutil creat macbinari .bin file automat convert download . 
+it ca n't decompress everyth . 
+in particular ca n't decompress new stuffit 3.0 archiv . 
+howev need one two file archivefor instanc want read readm find program need download itmacutil indispens . 
+it found sumex-aim info-macunix directori . 
+a note compress format .bin these macbinari file . 
+alway use binari file transfer protocol transfer never ascii text . 
+most file net store .hqx instead . 
+onli rascal store file .bin format . 
+most communic program zterm mackermit capabl translat macbinari file fli download know advanc ll download macbinari file . 
+.imag this format normal use system softwar on-lin user download file easili convert exact copi instal floppi . 
+instead use diskcopi restor imag floppi use steve christensen 's freewar util mountimag treat imag hard disk actual floppi insert floppi drive . 
+mountimag reput buggi blank floppi copi diskcopi handi case . 
+.sea .x .x .sea file n't merit posit tabl re self-extract . 
+they may creat compact pro stuffit even diskdoubl capabl decompress double-click . 
+for unknown reason alysi chosen use industri standard design self-extract archiv creat paywar product superdisk ! 
+more disk space . 
+instead append either .x .x self-extract archiv . 
+how can i get binhex ? 
+stuffit ? 
+etc . ? 
+2.6 by far easiest way get program ask human copi onto floppi . 
+if re univers 's absolut excus find someon give copi re anywher less remot mcmurdo sound chanc good someon comput center dealership user group provid copi stuffit . 
+onc stuffit version n't need binhex . 
+if re comput geek thought actual ask live breath human instead comput termin someth turn quiver mass protoplasm jelli probabl download work copi stuffit local bulletin board system . 
+if religi object softwar gotten mean anonym ftp i suppos i ll mention fact ftp work copi stuffit though far hardest way get . 
+ftp wuarchive.wustl.edu login . 
+type word binari hit return . 
+type cd mirrorsrascal.ics.utexas.educompress hit return . 
+then get stuffitexpander1.0.1seabin hit return . 
+of cours 's alway possibl time read stuffit expand updat name chang fail look someth similar . 
+if ve ftp 'd straight onto mac self-extract archiv produc work copi stuffit expand double-click . 
+if ve ftp 'd mainfram unix account first still need use modem program download mac . 
+just make sure mac receiv macbinari mode mainfram send binari mode . 
+if need detail last step consult faq list comp.sys.mac.comm manual mainfram macintosh telecommun softwar . 
+how can i get binhex stuffit etc . 
+from a pc ? 
+2.7 you ca n't . 
+there absolut no way get execut macintosh file ftp site onto pc onto mac without softwar obtain mean anonym ftp . 
+you must beg borrow steal necessari softwar binhex stuffit lite anoth person . 
+i realiz may terrifi among n't left parent ' basement sinc got appl ii 1980 eventu re go need link human mother . 
+though i suppos re much nerd could send mother get . 
+while re gather nerv ventur strang terrifi world daylight pleas n't bother net ask question . 
+there simpli way move execut macintosh program pc non-macintosh comput onto mac without softwar bundl mac . 
+troubleshoot what to do befor post when thing go wrong 3.0 while various faq list cover lot specif problem far problem n't cover . 
+these basic techniqu follow ask help . 
+you probabl also perform ten-step prevent mainten routin describ section four especi rebuild desktop 4.3 resiz system heap 4.5 . 
+follow step may may solv problem least make easier other recommend solut . 
+identifi the problem . 
+3.1 microsoft word crash n't say much . 
+what crash ? 
+can repeat action lead crash ? 
+the inform provid action preced crash like someon help . 
+the precis ve identifi problem action preced step 1 easier tell follow step fix problem . 
+for exampl sometim quarkxpress 3.0 crash coprocessor instal error near help quarkxpress 3.0 crash i link two text box master page copi text box alreadi contain text the former leav wonder whether bug remain given step . 
+the latter let go right problem see 's still . 
+read the read me file . 
+3.2 mani compani includ list known incompat bug read me file . 
+often n't document manual . 
+read read me file see problem sound familiar . 
+check for virus . 
+3.3 run disinfect anoth anti-vir across disk . 
+virus infect rarer peopl think occur caus sort weird problem . 
+reinstal the applic and all it support file . 
+3.4 for half dozen reason extern magnet field improp written softwar align planet file disk may contain data 's suppos contain . 
+this caus type unexplain unusu behavior . 
+restor origin master normal fix . 
+reinstal the system softwar . 
+3.5 bit even like get twiddl system file applic effect disastr . 
+see question 4.6 detail procedur perform clean reinstal . 
+if problem continu occur ve taken step chanc ve found either conflict applic softwar genuin bug program . 
+so 's time isol the problem . 
+3.6 you need find minim system problem assert . 
+here basic step isol caus system applic crash . 
+run one applic time . 
+occasion applic conflict . 
+if problem manifest without applic run simultan begin launch applic find one caus crash . 
+b . 
+if re run system 6 turn multifind . 
+if re run system 7 allot much memori applic afford . 
+sometim program need memori especi perform complic oper . 
+c . 
+if re run system 7 turn virtual memori 32-bit address . 
+there 's still aw lot system 7 hostil softwar includ compani realli excus . 
+can say microsoft word 5.1 boy girl ? 
+i knew could . 
+some softwar express incompat certain uncommon action taken . 
+. 
+boot virgin system floppi . 
+if problem disappear like init conflict . 
+you need progress remov extens problem vanish . 
+use littl common sens choos first extens remov . 
+if problem occur tri open file remov init mess standard file open procedur super boomerang first . 
+if problem remain obvious candid elimin either remov remain extens one time lot perform binari search remov half extens time . 
+onc problem disappear add half recent remov set back . 
+continu ve narrow conflict one extens . 
+when think ve found offend init restart init enabl make sure alon inde caus problem . 
+contact technic support . 
+3.7 by good idea conflict occur . 
+if tech support number avail softwar call . 
+if re lucki compani work around fix avail . 
+if perhap ll least add bug databas problem fix next releas . 
+prevent mainten 4.0 you would n't drive car 100000 mile without give tune-up . 
+a comput differ . 
+regular tune-up avoid lot problem . 
+although mac mechan ll happi charg 75 equival oil chang 's reason ca n't chang . 
+the follow nine-step program perform everi three month . 
+trash unneed file 4.1 mani oper follow run faster smooth free disk space work spend littl time clean hard disk . 
+if re like ll find sever megabyt worth prefer file applic longer archiv softwar ve dearchiv sharewar tri n't like announc event come gone mani file longer need . 
+if re run system 7 may also sever megabyt trash alon . 
+throw away empti trash . 
+rethink your extens 4.2 some macintosh attract init like new suit attract rain . 
+serious consid whether actual need everi extens collect . 
+if n't use function extens least everi fifth time boot re probabl better store system folder take memori destabil system slow everi startup . 
+for instanc read pc disk month 's need keep accesspc load time . 
+cut back extens habit realli help avoid crash . 
+rebuild the desktop 4.3 the desktop filedatabas hold inform necessari associ file applic creat . 
+it let system know applic launch open given file icon display . 
+depend size applic one repres desktop file . 
+as applic file move hard disk desktop file becom bloat corrupt . 
+think congress mac . 
+everi often 's necessari throw bum start clean slate . 
+fortun 's easier rebuild desktop defeat incumb . 
+one warn rebuild desktop eras comment ve store get info box . 
+under system 7 mauric volaski 's freewar init commentkeep retain comment across rebuild . 
+commentkeep also work system 6 appl 's desktop manag extens also instal . 
+to rebuild desktop restart mac extens finish load depress command option key . 
+you ll present dialog box ask want rebuild desktop warn this could take minut click ok . 
+it take minut . 
+the file longer take . 
+if re run system 6 may want turn multifind tri rebuild desktop . 
+if re experienc definit problem prevent mainten may want use fifth generat 's freewar init desktop reset . 
+desktop reset complet delet desktop file rebuild thus elimin possibl corrupt data structur . 
+zap the pram and reset the clock 4.4 all mac origin 128k thin mac quadra 950 contain small amount batteri power ram hold certain set proper move cpu rather disk disk boot . 
+unfortun paramet ram becom corrupt caus unexplain crash . 
+to reset system 7 hold command option p r key restart mac . 
+under system 6 hold command option shift key select control panel appl menu . 
+click yes ask want zap paramet ram . 
+sinc ve eras almost set general control panel reset whatev want . 
+the one set zap pram eras date time sinc intern clock macintosh notori inaccur ll probabl want take opportun reset anyway . 
+resiz the system heap 4.5 even rethink extens per step two peopl still least half row icon march across bottom screen everi time restart . 
+all extens applic need space section memori call system heap . 
+if system heap n't big enough comfort accommod program want piec start play king mountain system heap knock get bigger piec tri climb back get knock . 
+all fight amongst program sever degrad system perform almost inevit crash mac . 
+if re use system 7 macintosh automat resiz system heap necessari re run system 6 's import set system heap size larg enough manag extens applic . 
+by default size set 128k way small mac extens . 
+the system heap size store normal non-edit boot block everi system disk . 
+bill steinberg 's freewar util bootman let resiz system heap even check much memori heap alreadi use tell much need alloc . 
+if re run system 6 get bootman use amaz infrequ macintosh crash . 
+reinstal the system softwar 4.6 system file becom corrupt fragment especi ve store lot font desk accessori insid . 
+mere updat system softwar often fix system file corrupt . 
+i recommend clean reinstal . 
+here 's 1 . 
+boot instal floppi system disk . 
+2 . 
+copi non-standard font desk accessori system file temporari suitcas . 
+3 . 
+trash system file hard disk . 
+also trash finder multifind da handler standard appl extens like control panel chooser . 
+these replac new instal . 
+if re run instal system 7 move everyth extens control panel prefer folder top level system folder . 
+4 . 
+renam system folder . 
+ani name system folder fine . 
+5 . 
+double-click instal script system disk . 
+then choos custom ... 
+select appropri softwar model mac printer . 
+you could easi instal instead add lot extens code n't need wast memori disk space . 
+6 . 
+onc instal finish move everyth temporari folder creat step 4 new system folder . 
+if re ask want replac anyth forgot take someth step 3 . 
+you ll need replac thing individu find duplic piec . 
+7 . 
+reinstal font da 's remov step 2 . 
+8 . 
+reboot . 
+you clean defrag system file take less memori disk space much stabl system overal . 
+disk util 4.7 much like system file hard disk data structur occasion becom corrupt affect perform even caus data loss . 
+appl includ disk first aid simpl util detect repair hard disk problem system disk . 
+it 's also avail anonym ftp ftp.apple.com directori dtsmacsys.softhdsc . 
+even earlier version get latest version 7.1 ftp.apple.com run hard disk . 
+sever compani releas paywar disk util detect repair consider problem disk first aid though interest none detect repair everyth disk first aid . 
+the three effect general work central point 's mactool delux 2.0 fifth generat 's public utilit symantec 's norton util macintosh 2.0 . 
+a depart work group well disk first aid sinc none fix everyth other . 
+for individu mactool 48 street half price norton 94 street public util 98 street featur eas use rough equal i recommend mactool . 
+all product occasion encount problem ca n't fix . 
+when happen 's time backup 4.7 reformat 4.9 . 
+back up 4.8 this one part prevent mainten done lot often everi three month . 
+the simplest back mere copi file hard disk onto floppi remov media . 
+if keep data file separ applic support file 's easi back folder chang frequent . 
+nonetheless everi three month complet backup hard disk . 
+a number program avail make back easier . 
+appl includ basic full backup applic system 6 . 
+with performa appl ship new appl backup util backup entir disk system folder onto floppi . 
+the previous mention norton util mac mactool delux 2.0 includ power floppi backup util incorpor compress increment backup . 
+final re lucki enough tape drive network server remov media devic use backup check power paywar util redux 49 street n't support tape drive diskfit pro 74 street . 
+there no freeli avail backup util old hd backup system 6 . 
+disk defragment 4.9 as disk fill get harder harder find enough free space place write larg file . 
+therefor oper system often split larger file piec store differ place hard disk . 
+as file becom fragment perform degrad . 
+there sever way defrag hard disk . 
+the tedious cheapest method backup file eras hard disk might well reformat re . 
+see question 4.10 . 
+restor file . 
+a number paywar util includ norton util mac mac tool delux defrag disk place i.e . 
+without eras . 
+although ad product brag safeti ve bought softwar open shrink-wrap warn back disk defrag case someth go wrong . 
+there no freewar sharewar disk defragment pleas n't annoy net ask one . 
+reformat your hard disk 4.10 just floppi disk need initi use hard disk must format hold data . 
+you n't need reformat everi three month system crash matter tri reformat ultim mean wipe slate clean . 
+reformat hard disk may even gain extra megabyt space . 
+not hard disk creat equal . 
+some hold data other . 
+to facilit mass product advertis without lot asterisk 81.3 megabyt averag format capac . 
+your mileag may vari . 
+appl often format drive lowest common denomin drive capac . 
+when reformat 's reason reclaim whatev unus space appl 's left disk . 
+unlik floppi hard disk need special program initi . 
+most hard disk come format softwar . 
+appl 's disk system softwar ship hd sc setup minim disk formatt format appl brand hard drive onli . 
+most manufactur ship appropri format softwar hard drive . 
+normal need reformat hard disk . 
+a number general-purpos formatt also avail go beyond bundl softwar includ featur like encrypt password protect multipl partit faster disk access system 7 compat even compress . 
+two best paywar drive7 hard disk toolkit person edit 49 street either . 
+while one two freewar formatt avail none like superior one bundl hard disk . 
+powerbook user sure turn sleep processor cycl reformat hard drive matter softwar use . 
+otherwis disk corrupt crash data loss good possibl . 

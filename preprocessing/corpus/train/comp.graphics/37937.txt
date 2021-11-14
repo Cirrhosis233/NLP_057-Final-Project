@@ -1,0 +1,18 @@
+kjbmgluvesa32.zip this univers vesa driver . 
+it support video boardschipset includ speedstar-24 -24x 24 bit color . 
+terri p.s . 
+i ve tri speedstar-24 -24x work . 
+not softwar . 
+for instanc n't work anim pro autodesk . 
+it ca n't detect ani svga mode run univesa . 
+this realli problem need vesa driver aa pro hi-color stuff . 
+just curios ... 
+are use latest version 3.2 ? 
+version previous fill capabl bit inform correct . 
+i problem lot softwar i got version . 
+i n't think author got around post announcementof least i miss 3.2 avail directori indic 329 . 
+i sure use version 3.2 . 
+it work fine softwar not anim pro one quit import . 
+pretti useless program without thing work imho . 
+so i hope author fix . 
+daniel ... 

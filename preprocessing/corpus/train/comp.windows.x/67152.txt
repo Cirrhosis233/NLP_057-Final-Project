@@ -1,0 +1,8 @@
+doug nntp-posting-host se05.wg2.waii.com i big problem tri build mit x11r5 xlc 1.2.1 one bundl aix 3.2.3e . 
+it almost linker work proper share librari . 
+i ve built x11r5 problem .. 
+headach . 
+for exampl xset client complain libxmu doesnt bunch xt routin shr.o miss someth like . 
+the build libxmu doe link libxt i realli perplex go . 
+.... follow specif error 
+i get could load program .xset symbol xtvasetvalu ..... libxmulibxmu.a undefin symbol xtname ..... libxmulibxmu.a undefin symbol xtwindowofobject ..... libxmulibxmu.a undefin symbol xtgetconstraintresourcelist ..... libxmulibxmu.a undefin symbol xtdisplaytoapplicationcontext ..... libxmulibxmu.a undefin symbol xtappsettypeconvert ..... libxmulibxmu.a undefin symbol xtscreendatabas ..... libxmulibxmu.a undefin symbol xtresolvepathnam ..... libxmulibxmu.a undefin symbol xtcvtstringtofont ..... libxmulibxmu.a undefin symbol xtcallconvert ..... libxmulibxmu.a undefin symbol xtdisplaystringconversionwarn ..... libxmulibxmu.a undefin could load librari libxmu.ashr.o error exec format error 

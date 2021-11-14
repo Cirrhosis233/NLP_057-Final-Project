@@ -1,0 +1,5 @@
+i need display 2 12 d surfac x use xlib xt xm . 
+doe anyon know packag avail internet abl work ? 
+i look stand-alon packag provid similar function xprism3 avail khoro without numer librari requir . 
+i want abl recompil run various platform sgis i486 unix . 
+ani help appreci . 

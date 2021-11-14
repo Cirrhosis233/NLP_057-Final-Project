@@ -1,0 +1,10 @@
+we program written x11r5 motif 1.2.1 . 
+it run fine sun x11r5 server macx . 
+when program run sparc 2 ow server program crash along server . 
+it crash first window show . 
+i got follow error x . 
+xio fatal io error 32 broken pipe x server perot0.0 62 request 59 known process 0 event remain . 
+the connect probabl broken server shutdown killclient . 
+i run program xmon last twenti line xmon program server crash . 
+............ request getproperti delet fals window win 00900001 properti atm 00000074 type atm 00000074 long-offset 00000000 .............. repli getproperti format 00 type none bytes-aft 00000000 ............ request getinputfocus .............. repli getinputfocus revert-to parent focus win 0040000d ............ request changeproperti mode replac window win 00900001 properti atm 00000074 type atm 00000074 format 08 data 42 00 00 01 00 00 00 10 00 00 00 75 00 00 00 00 ............ request getinputfocus pleas email idea problem . 
+thank advanc . 

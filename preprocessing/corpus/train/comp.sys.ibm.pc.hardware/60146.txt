@@ -1,0 +1,6 @@
+how vlb ethernet card ? 
+move data card 130 odd mbs wait tickl onto net 1mbs . 
+how 250mbs 64-bit vlb 350mbs quickr appl 's impliment vlb byte 1092132 quickr interest allow interleav card 350mbs divid among mani card time nubus 90 mca card interfac abl do anyth kind speed even nubus 90 ditz around 30mbs burst mode 80mbs . 
+mca also call micro channel ibm 's 16 32-bit bus allow use one cpu comput dct anyth talk anyth fast two compon involv handl . 
+never took incompat isa eisa . 
+plan bus interfac ibm powerpc 601 carl jabido . 

@@ -1,0 +1,87 @@
+i interrest extrodinarili simpl concept null modem cabl . 
+actual i no idea n't count last statement . 
+what i 'm ask pin use 's specif ? 
+i want solder one instead buy one . 
+i n't even know port use . 
+kevin p.s . 
+i 'm intend use cabl pc-to-pc transfer via lap-link telix . 
+idea info glad accept . 
+i specif knowledg lap-link telix recommend ani packag follow one 's instruct make null- modem cabl . 
+the reason one may differ sinc n't realli standard pc pc communic . 
+the follow tutori i wrote give understand rs-232 null modem still check softwar ! 
+i eplain coupl detail rs-232 . 
+rs-232 commum specif communic comput modem . 
+actual end system communic hardwar . 
+the terminolog use data termin equip dte data communic equip dce . 
+rs-232 spell voltag level connector type pinout signal protocol . 
+the connector db-25 ibm set altern standard db-9 . 
+the primari signal transmit data td reciev data rd signal ground sg . 
+there signal provid control dte dce . 
+for exampl dte announc power readi particip communic via data termin readi dtr signal . 
+dtr output dte input dce . 
+similar dce announc readi particip communic via data set readi dsr signal . 
+dsr input dte output dce . 
+ok 's five signal four interest . 
+the request to send rts signal output dte input dce use ask dce permiss send data . 
+if dce agre send ok via clear to send cts signal . 
+for complet cts input dte output dce . 
+the two signal interest ring indic ri data carrier detect dcd . 
+these input dte output dce . 
+ri would expect signal dte say someon attempt establish connect dce . 
+this rather specif modem telephon line setup . 
+dcd way dce announc connect establish i.e . 
+local dce talk remot dce . 
+there 's . 
+oh mani rs-232 signal defin obsolet . 
+i explain nine signal pc . 
+the pinout follow name db-9 db-25 sg 5 7 td 3 2 rd 2 3 dtr 4 20 dsr 6 6 dcd 1 8 rts 7 4 cts 8 5 ri 9 22 now address problem hand . 
+when connect pc pc dte dte dce pair middl therefor rs-232 signal definit n't work quit right . 
+there dce assert cts dsr dcd ri . 
+so common thing use signal also forget dtr rts output well . 
+if done simpli make null modem cabl pass sg cross td rd i.e . 
+pin 2 one end connect pin 3 end etc . 
+the problem solut pc want send data way know pc readi . 
+it would send data hope got . 
+therefor better null modem would includ dtrdsr pair cross . 
+a particular point confus softwar area . 
+just run wire mean soft- ware use . 
+if use built-in bio control serial port bio dictat wire need use . 
+but comm . 
+packag brooklyn bridg lap- link telix packag dictat cabl requir . 
+the thing guess reliabl sg td rd . 
+the dtrdsr also fair common . 
+there one issu need address . 
+and flow control . 
+in rs-232 scenerio dce 's respons flow control assum dce could n't possibl over-run dte . 
+by i mean long dte dtr line assert dce send data without request permiss first . 
+note contrast direct data flow dte must request permiss assert rts line must wait cts signal send . 
+and dte dte scenerio question need flow control ? 
+the answser usual . 
+but ? 
+for non-binari communic one common techniqu xon xoff implement softwar wire dedic flow control td rd carri xon xoff command . 
+this type flow control use addit hardwar flow control problem ca n't send binari data data might includ xon xoff code caus erron conrol signal . 
+a work around softwar insert extract escap code hardwar flow control prefer . 
+the problem hard- ware flow control standard . 
+there lot way i bet tri . 
+one cornerston method use rtscts one direct . 
+but beyond anyth fair game . 
+again must look comm packag cabl requir . 
+but i bet ll find one cabl wire proper could work packag long vintag . 
+by way i familiar one packag use rtscts dtrdsr flow control rts request send dtr readi reciev cts clear send dsr request reciev . 
+this mean differnt cabl softwar . 
+the clincher cabl stuff common uart direct control cts signal mean cts must present even support- ing softwar . 
+for case find cabl short rts cts end perhap dtr cts . 
+other possibl short might done softwar expect certain signal n't n't feel like provid would mean addit wire . 
+specif i talk dsr . 
+short dtr dsr good idea general may find cabl like . 
+it bad idea defeat whole purpos . 
+one gotcha signal dcd . 
+some softwar includ pc bio expect see dcd work . 
+this signal sometim get short dtr . 
+but favorit null modem rts cts short end rts also connect end connect dcd . 
+and cours dtrdsr cross tdrd cours sg must pass . 
+this null modem work softwar . 
+the flow control use rtsdcd dtrdsr . 
+if comm . 
+packag specifi cabl requir pc pc connect i suggest use one . 
+td rd rd td dtr dsr dsr dtr dcd rts- -rts dcd -cts cts- 

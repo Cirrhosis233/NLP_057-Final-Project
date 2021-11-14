@@ -1,0 +1,13 @@
+question delet i actual pas-16 could wast i guess would ... 
+hook scsi hd 's scsi port yield optimum 690kbsec . 
+actual i borrow 12ms fujitsu hd hook trantor hd driver pas-16 scsi port . 
+is scsi port scsi-2 port ? 
+how could i tell ? 
+is fujitsu 2623a scsi-2 ? 
+are scsi hd 's scsi-2 ? 
+doe one know pas16 scsi port ? 
+i count pin board display ad got 40 ! 
+what happen 50 ? 
+did junk whole bunch ground ? 
+thank comment . 
+randi guy 

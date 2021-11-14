@@ -1,0 +1,14 @@
+c hi c i 486dx2-66mhz comput use ad board c data acquisit at bus ... i 'm problem . 
+c the at bus run 12.5 mhz correct ? 
+so c bus speed conflict . 
+but i read somewher c new 486dx2-66 mhz cpu run 33 mhz bus c local bus at bus also i problem . 
+c c when i run non-turbo-mod speed goe 8 mhz c ad n't work . 
+pleas mail view ! 
+thank . 
+c vincent c the standard at bus isa run 8mhz 12.5 mhz non-stnadard isa buse higher clock rate care sinc board n't work faster standard rate . 
+for instanc 486 adjust at bus speed pas16 audio card choke i ad data acquisit bus speed faster 10mhz . 
+the fact non-turbo-mod speed ad n't work weird . 
+you may motherboard hardwar bug ' . 
+33 mhz bus 486dx2 66 refer local bus . 
+fyi at bus oper asynchron link local bus via bus interfac ' one function chipset ' . 
+-rdd winqwk 2.0b0 unregist evalu copi kmail 2.95d w-net hq hal9k.ann-arbor.mi.us 1 313 663 4173 3959 

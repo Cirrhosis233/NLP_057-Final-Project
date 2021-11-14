@@ -1,0 +1,47 @@
+archive-nam cryptography-faqpart02 last-modifi 1993415 faq sci.crypt part 2 net etiquett this second ten part sci.crypt faq . 
+the part most independ read first part rest . 
+we n't time send miss part mail n't ask . 
+note kah67 '' refer refer list last part . 
+the section faq avail via anonym ftp rtfm.mit.edu pubusenetnews.answerscryptography-faqpartxx . 
+the cryptographi faq post newsgroup sci.crypt sci.answ news.answ everi 21 day . 
+content what group around ? 
+what 's faq ? 
+who i ? 
+whi i ? 
+do polit discuss belong sci.crypt ? 
+how i present new encrypt scheme sci.crypt ? 
+what group around ? 
+what 's faq ? 
+who i ? 
+whi i ? 
+read news.announce.newus news.answ week . 
+alway make sure read newsgroup time post . 
+you ll amaz often question ask newsgroup . 
+after month ll much better sens reader want see . 
+do polit discuss belong sci.crypt ? 
+no . 
+in fact newsgroup notabl misc.legal.comput creat exact polit question like should rsa patent ? '' n't get way technic discuss . 
+mani sci.crypt reader also read misc.legal.comput comp.org.eff.talk comp.pat sci.math comp.compress et al . 
+benefit peopl n't care topic tri put post right group . 
+question microfilm smuggl non-cryptograph spi stuff '' n't belong sci.crypt either . 
+how i present new encrypt scheme sci.crypt ? 
+i came neat method encrypt . 
+here 's doubt question like annoy traffic sci.crypt . 
+if come encrypt scheme provid ciphertext adequ . 
+nobodi ever impress random gibberish . 
+ani new algorithm secur even oppon know full algorithm includ messag key distribut privat key kept secret . 
+there systemat unsystemat way take reason long ciphertext decrypt even without prior knowledg algorithm time-consum possibl fruitless exercis sci.crypt reader wo n't bother . 
+so new encrypt scheme ? 
+first find 's realli new . 
+look faq refer relat method . 
+familiar literatur introductori textbook . 
+when appreci cryptosystem fit world larg tri break ! 
+you n't wast time ten thousand reader ask question could easili answer . 
+if realli think system secur want get reassur expert might tri post full detail system includ work code solid theoret explan sci.crypt . 
+keep mind export cryptographi regul area . 
+if re lucki expert might take interest post . 
+you encourag offer cash rewards-for instanc note cryptograph ralph merkl offer 1000 anyon break snefru-4-but guarante . 
+if n't enough experi like expert look system abl find flaw . 
+if happen 's respons consid flaw learn rather add one layer complic come back anoth round . 
+a differ way get cryptosystem review nsa look . 
+a full discuss procedur outsid scope faq . 

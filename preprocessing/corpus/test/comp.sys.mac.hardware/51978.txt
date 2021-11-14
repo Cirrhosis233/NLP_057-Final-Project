@@ -1,0 +1,11 @@
+sorri must faq 's quick fix i need take care demo less 24 hour ! 
+could n't think better place rapid answer comp.sys.mac.hardwar . 
+i need connect serial a compac 38620 pc printer port mac iici . 
+doe anyon handi pin-pin rout cabl would allow connect ? 
+the serial port compaq male db9 . 
+how would map din8 mac serial ? 
+i tri one realli short femaledb9-maledin8 cabl appl sold adaptor plug macintosh serial peripher pre-macplus era . 
+this cabl n't . 
+do i need null modem adaptor well db9 side thing ? 
+i need abl map data tx rx pin correct . 
+thank kind 

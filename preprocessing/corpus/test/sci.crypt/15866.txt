@@ -1,0 +1,16 @@
+each chip includ follow compon skipjack encrypt algorithm f 80-bit famili key common chip n 30-bit serial number length subject chang u 80-bit secret key unlock messag encrypt chip ... 
+to see chip use imagin embed att telephon secur devic . 
+suppos i call someon devic . 
+after push button start secur convers secur devic negoti 80-bit session key k devic end . 
+this key negoti take place without clipper chip . 
+in general method key exchang use diffie-hellman public-key distribut method . 
+onc session key k establish clipper chip use encrypt convers messag stream m digit voic . 
+the telephon secur devic feed k m chip produc two valu em k encrypt messag stream eek u n f law enforc field ... 
+transmit telephon line . 
+the law enforc field thus contain session key k encrypt unit key u concaten serial number n encrypt famili key f . 
+the law enforc field decrypt law enforc author wiretap instal . 
+one interest thing i notic use chip key encod session key law enforc field . 
+it use encrypt algorithm . 
+it seem like would possibl creat devic would otherwis compat would send bogus law enforc field . 
+this might render devic unus normal devic 's sort valid involv law enforc field could certain use modifi devic . 
+of cours irrelev nsa backdoor algorithm make possibl defeat key escrow system . 

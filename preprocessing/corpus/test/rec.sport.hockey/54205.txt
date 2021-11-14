@@ -1,0 +1,90 @@
+player team gp g a pts pim m.lemieux pit 3 4 
+2 6 2 0 franci pit 3 1 5 6 5 4 
+oat bos 3 0 6 6 1 2 yzerman det 2 3 2 5 3 0 coffey det 2 0 5 5 1 0 d.hunter was 3 5 0 5 -4 10 mogilni buf 3 4 
+1 5 3 4 
+thoma nyi 3 2 3 5 6 0 lapoint que 3 1 4 
+5 2 2 johansson was 3 0 5 5 -1 4 
+carson la 2 4 
+0 4 
+0 2 brown stl 2 1 3 4 
+1 2 fleuri cal 2 1 3 4 
+0 19 g.courtnal van 2 1 3 4 
+3 2 flatley nyi 2 0 4 
+4 
+3 2 macinni cal 2 0 4 
+4 
+-1 4 
+ferraro nyi 3 3 1 4 
+2 2 mceachern pit 3 3 1 4 
+4 
+8 neeli bos 3 3 1 4 
+1 4 
+turgeon nyi 3 3 1 4 
+5 0 bellow mon 3 2 2 4 
+0 0 jagr pit 3 2 2 4 
+3 0 khmylev buf 3 2 2 4 
+3 0 khristich was 3 2 2 4 
+0 2 hawerchuk buf 3 1 3 4 
+0 2 hogu nyi 3 1 3 4 
+3 2 juneau bos 3 1 3 4 
+0 6 k.steven pit 3 1 3 4 
+1 6 l.murphi pit 3 1 3 4 
+2 0 lafontain buf 3 1 3 4 
+2 0 ramsey pit 3 0 4 
+4 
+3 4 
+smehlik buf 3 0 4 
+4 
+4 
+2 noonan chi 2 3 0 3 0 0 gilmour tor 2 2 1 3 -1 12 hull stl 2 2 1 3 0 0 otto cal 2 2 1 3 2 2 reichel cal 2 2 1 3 0 0 bure van 2 1 2 3 2 0 drake det 2 1 2 3 2 0 linden van 2 1 2 3 4 
+2 nieuwendyk cal 2 1 2 3 -1 2 robert cal 2 0 3 3 -2 4 
+young que 3 3 0 3 3 0 b.sweeney buf 3 2 1 3 2 4 
+s.steven nj 3 2 1 3 -2 4 
+tocchet pit 3 2 1 3 0 2 carpent was 3 1 2 3 0 6 j.mullen pit 3 1 2 3 2 2 ron van 2 2 0 2 4 
+0 suter cal 2 2 0 2 0 4 
+yawney cal 2 2 0 2 3 4 
+adam van 2 1 1 2 2 0 chiasson det 2 1 1 2 -1 4 
+craven van 2 1 1 2 2 2 cullen tor 2 1 1 2 -1 0 dahlquist cal 2 1 1 2 2 4 
+king win 2 1 1 2 2 2 racin det 2 1 1 2 6 14 rychel la 2 1 1 2 1 19 shanahan stl 2 1 1 2 0 4 
+sheppard det 2 1 1 2 2 0 sydor la 2 1 1 2 0 4 
+barn win 2 0 2 2 1 2 emerson stl 2 0 2 2 0 0 gill tor 2 0 2 2 -2 0 granato la 2 0 2 2 1 4 
+gretzki la 2 0 2 2 -3 0 housley win 2 0 2 2 -2 0 janney stl 2 0 2 2 0 0 king nyi 2 0 2 2 4 
+6 kozlov det 2 0 2 2 1 2 sandstrom la 2 0 2 2 -4 4 
+shuchuk la 2 0 2 2 -1 2 vask nyi 2 0 2 2 1 0 damphouss mon 3 1 1 2 0 0 elynuik was 3 1 1 2 -1 0 guerin nj 3 1 1 2 0 4 
+hannan buf 3 1 1 2 2 8 holik nj 3 1 1 2 1 4 
+muller mon 3 1 1 2 0 0 sakic que 3 1 1 2 0 0 semak nj 3 1 1 2 -2 0 sundin que 3 1 1 2 1 2 taglianetti pit 3 1 1 2 3 6 tipett pit 3 1 1 2 -1 6 barasso pit 3 0 2 2 0 2 bondra was 3 0 2 2 1 0 carney buf 3 0 2 2 3 4 
+cavallini was 3 0 2 2 0 2 desjardin mon 3 0 2 2 0 0 duchesn que 3 0 2 2 1 2 niedermay nj 3 0 2 2 -1 2 ricci que 3 0 2 2 3 2 ridley was 3 0 2 2 -1 0 u.samuelsson pit 3 0 2 2 4 
+6 blake la 1 0 1 1 2 0 borschevski tor 1 0 1 1 0 0 zelepukin nj 1 0 1 1 -2 0 b.mullen nyi 2 1 0 1 -2 0 burr det 2 1 0 1 -1 2 domi win 2 1 0 1 2 4 
+fedorov det 2 1 0 1 2 2 felsner stl 2 1 0 1 1 0 howe det 2 1 0 1 4 
+2 huddi la 2 1 0 1 1 0 kurri la 2 1 0 1 -2 2 lefebvr tor 2 1 0 1 0 12 lidstrom det 2 1 0 1 -1 0 lowri stl 2 1 0 1 1 2 mcsorley la 2 1 0 1 -3 12 millen la 2 1 0 1 2 4 
+mironov tor 2 1 0 1 -1 2 numminen win 2 1 0 1 -2 0 paslawski cal 2 1 0 1 -1 0 steen win 2 1 0 1 -4 0 ysebaert det 2 1 0 1 0 0 anderson tor 2 0 1 1 -2 2 berub cal 2 0 1 1 1 15 chelio chi 2 0 1 1 -1 2 ciccarelli det 2 0 1 1 1 14 clark tor 2 0 1 1 0 6 dahl cal 2 0 1 1 2 6 dipietro mon 2 0 1 1 0 0 donnelli la 2 0 1 1 1 2 ellett tor 2 0 1 1 -3 0 gallant det 2 0 1 1 1 4 
+k.brown chi 2 0 1 1 1 0 kennedi det 2 0 1 1 1 0 larmer chi 2 0 1 1 0 0 matteau chi 2 0 1 1 -1 2 mclean van 2 0 1 1 0 0 mcrae stl 2 0 1 1 1 2 murzyn van 2 0 1 1 2 0 musil cal 2 0 1 1 0 5 pearson tor 2 0 1 1 -1 21 primeau det 2 0 1 1 1 20 probert det 2 0 1 1 0 6 ranheim cal 2 0 1 1 2 0 robitaill la 2 0 1 1 -4 2 roenick chi 2 0 1 1 -1 0 selann win 2 0 1 1 -2 0 shannon win 2 0 1 1 4 
+0 skrudland cal 2 0 1 1 2 10 sutter chi 2 0 1 1 -1 0 taylor la 2 0 1 1 1 0 zhitnik la 2 0 1 1 -2 2 barr nj 3 1 0 1 0 6 bourqu bos 3 1 0 1 -2 2 burridg was 3 1 0 1 -2 0 dionn mon 3 1 0 1 0 0 heinz bos 3 1 0 1 0 0 leschyshyn que 3 1 0 1 1 4 
+presley buf 3 1 0 1 0 0 rucinski que 3 1 0 1 1 2 smolinski bos 3 1 0 1 -1 2 wood buf 3 1 0 1 -1 4 
+brunet mon 3 0 1 1 0 0 daniel pit 3 0 1 1 1 0 donato bos 3 0 1 1 -5 0 driver nj 3 0 1 1 -3 4 
+gusarov que 3 0 1 1 2 0 houlder buf 3 0 1 1 0 0 k.samuelsson pit 3 0 1 1 2 0 kamenski que 3 0 1 1 1 4 
+krygier was 3 0 1 1 0 4 
+loney pit 3 0 1 1 2 0 may was 3 0 1 1 1 2 miller was 3 0 1 1 -3 0 odelein mon 3 0 1 1 0 0 pivonka was 3 0 1 1 -1 0 shaw bos 3 0 1 1 -2 4 
+straka pit 3 0 1 1 0 0 belang mon 1 0 0 0 0 0 chorsk nj 1 0 0 0 0 0 druce win 1 0 0 0 0 0 eagl win 1 0 0 0 0 0 errey buf 1 0 0 0 0 4 
+ewen mon 1 0 0 0 0 0 foligno tor 1 0 0 0 0 16 goulet chi 1 0 0 0 0 0 grimson chi 1 0 0 0 0 2 hugh bos 1 0 0 0 0 2 kovalenko que 1 0 0 0 0 2 leeman mon 1 0 0 0 0 0 mcllwain tor 1 0 0 0 -2 0 osbourn tor 1 0 0 0 -1 2 richer nj 1 0 0 0 -4 0 roberg mon 1 0 0 0 0 0 schneider mon 1 0 0 0 0 0 watter la 1 0 0 0 1 4 
+weimer bos 1 0 0 0 -1 4 
+andreychuk tor 2 0 0 0 -2 2 ashton cal 2 0 0 0 -1 2 babych van 2 0 0 0 2 2 baron stl 2 0 0 0 0 6 bassen stl 2 0 0 0 0 4 
+baumgartn tor 2 0 0 0 0 0 bautin win 2 0 0 0 -2 2 belfour chi 2 0 0 0 0 0 berg tor 2 0 0 0 -1 4 
+billington nj 2 0 0 0 0 0 blue bos 2 0 0 0 0 0 borsato win 2 0 0 0 -2 0 bozon stl 2 0 0 0 0 0 butcher stl 2 0 0 0 2 0 chevelda det 2 0 0 0 0 2 conach la 2 0 0 0 2 0 corkum buf 2 0 0 0 0 0 diduck van 2 0 0 0 2 2 dirk van 2 0 0 0 0 2 erickson win 2 0 0 0 -1 0 essensa win 2 0 0 0 0 2 gilbert chi 2 0 0 0 0 0 graham chi 2 0 0 0 0 0 hardi la 2 0 0 0 -1 10 hedican stl 2 0 0 0 0 0 hrudey la 2 0 0 0 0 0 j.lemieux chi 2 0 0 0 0 0 johansson cal 2 0 0 0 -1 0 joseph stl 2 0 0 0 0 0 kasatonov nj 2 0 0 0 -2 0 kennedi win 2 0 0 0 0 0 konstantinov det 2 0 0 0 1 4 
+krushelnyski tor 2 0 0 0 -2 0 lidster van 2 0 0 0 0 0 lumm van 2 0 0 0 2 4 
+macoun tor 2 0 0 0 -1 6 marchment chi 2 0 0 0 1 6 miller stl 2 0 0 0 0 0 momesso van 2 0 0 0 -1 2 moog bos 2 0 0 0 0 0 muni chi 2 0 0 0 -1 0 murphi chi 2 0 0 0 -1 4 
+murray chi 2 0 0 0 0 0 nedv van 2 0 0 0 -2 2 olausson win 2 0 0 0 -1 2 pearson que 2 0 0 0 0 0 potvin tor 2 0 0 0 0 6 quintal stl 2 0 0 0 -1 0 ramag mon 2 0 0 0 0 0 ri.sutt stl 2 0 0 0 0 0 rous tor 2 0 0 0 -2 0 russel chi 2 0 0 0 0 0 ruuttu chi 2 0 0 0 1 0 s.richer bos 2 0 0 0 -1 0 s.smith chi 2 0 0 0 -2 4 
+sandlak van 2 0 0 0 -2 0 semenov van 2 0 0 0 0 0 stern cal 2 0 0 0 -1 26 t.hunter van 2 0 0 0 0 2 t.sweeney bos 2 0 0 0 0 0 terreri nj 2 0 0 0 0 0 tkachuk win 2 0 0 0 -3 10 ulanov win 2 0 0 0 -1 4 
+valk van 2 0 0 0 0 2 vernon cal 2 0 0 0 0 2 wilson stl 2 0 0 0 0 4 
+zezel tor 2 0 0 0 -2 2 zhamnov win 2 0 0 0 -1 0 zombo stl 2 0 0 0 -1 4 
+albelin nj 3 0 0 0 -1 0 anderson was 3 0 0 0 -1 0 audett buf 3 0 0 0 -1 4 
+bodger buf 3 0 0 0 3 0 briseboi mon 3 0 0 0 0 0 c.lemieux nj 3 0 0 0 -4 17 carbonneau mon 3 0 0 0 0 0 cavallini que 3 0 0 0 0 0 cote was 3 0 0 0 -3 0 d.sweeney bos 3 0 0 0 -2 4 
+daigneault mon 3 0 0 0 0 0 dalgarno nyi 3 0 0 0 -3 0 daneyko nj 3 0 0 0 -1 2 douri bos 3 0 0 0 -3 0 fetisov nj 3 0 0 0 -5 0 finn que 3 0 0 0 -1 0 fitzgerald nyi 3 0 0 0 0 0 foot que 3 0 0 0 1 0 fuhr buf 3 0 0 0 0 2 g.robert bos 3 0 0 0 -1 4 
+haller mon 3 0 0 0 0 0 hatcher was 3 0 0 0 -1 2 heali nyi 3 0 0 0 0 0 hextal que 3 0 0 0 0 0 hough que 3 0 0 0 0 0 iafrat was 3 0 0 0 -2 0 jen pit 3 0 0 0 0 4 
+jone was 3 0 0 0 -2 5 kaspara nyi 3 0 0 0 0 4 
+kean mon 3 0 0 0 0 0 kimbl bos 3 0 0 0 0 0 krupp nyi 3 0 0 0 2 2 kvartalnov bos 3 0 0 0 0 2 leclair mon 3 0 0 0 0 0 leach bos 3 0 0 0 0 0 lebeau mon 3 0 0 0 0 0 ledyard buf 3 0 0 0 -3 4 
+loisell nyi 3 0 0 0 -1 2 maclean nj 3 0 0 0 -4 4 
+malakov nyi 3 0 0 0 1 2 may buf 3 0 0 0 0 4 
+mckay nj 3 0 0 0 0 16 nichol nj 3 0 0 0 -4 4 
+nolan que 3 0 0 0 1 2 norton nyi 3 0 0 0 3 0 patterson buf 3 0 0 0 -1 2 pilon nyi 3 0 0 0 1 22 poulin bos 3 0 0 0 -4 0 roy mon 3 0 0 0 0 0 savard mon 3 0 0 0 0 0 simon que 3 0 0 0 -1 2 stapleton pit 3 0 0 0 1 0 stastni nj 3 0 0 0 -1 2 sutton buf 3 0 0 0 2 0 t.green nyi 3 0 0 0 -3 0 tabaracci was 3 0 0 0 0 4 
+vukota nyi 3 0 0 0 -1 2 wesley bos 3 0 0 0 1 0 wolanin que 3 0 0 0 1 4 

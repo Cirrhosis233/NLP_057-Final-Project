@@ -1,0 +1,16 @@
+i repost i sure first post ever made . 
+i built instal x11r5 sparcstat 2 . 
+my aim run mit x server retain openlook window manag . 
+i sure uncommon i want make sure i chang andor delet everyth i need . 
+for instanc i start xdm rc.local i get rid xnew ? 
+the openlook window manag sourc avail mit contrib tape export.lcs.mit.edu .i would suggest build rather use version openwindow . 
+it olwm v3 . 
+i would suggest skip olwm get olvwm instead . 
+this version olwm window manag implement virtual desktop i find realli handi even larg monitor . 
+this version also avail export.lcs.mit.educontribolvwm3.tar.z . 
+the readm file also suggest get file contribxview3 . 
+in case i built x server first xview second olvwm . 
+all instal usrx5 . 
+onc i verifi server work correct i happili issu rm -rf usropenwin . 
+use gcc 2.3.3 build result window system intent purpos ident openwindow 3.0 incred faster . 
+there bit tweak want thing work exact like openwindow much . 

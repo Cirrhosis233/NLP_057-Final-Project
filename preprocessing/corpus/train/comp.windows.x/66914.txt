@@ -1,0 +1,9 @@
+i ve got problem concern maximum size x pixmap decwindow . 
+i use decstat 5000200 run ultrix v4.2 rev . 
+96 system 2 uw v4.2 rev . 
+272 decwindow . 
+our color display 1280x1024 pixel . 
+on hardwar hp sgi i abl alloc much larger pixmap . 
+did anyon similar problem onyon know i configr system allow larger pixmap ? 
+dec px pxg server known 3d acceler . 
+this board local offscreen memori limit slow handl thus set limit . 

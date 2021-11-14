@@ -1,0 +1,16 @@
+sorri bryan quit correct . 
+rememb vgalib packag come linuxsl ? 
+it switch vga 320x200x256 mode without xwindow . 
+so least possibl write gif viewer linux . 
+howev i n't think exist similar svga packag view gif 320x200 nice . 
+no vgalib ? 
+amaz .. 
+i guess lost subdir thank correct . 
+it n't sound appeal though 320x200 ? 
+i 'm glad n't someth major i miss . 
+tommi frandsen 's vgalib probabl re talk standard vga mode tweak mode tseng et4000 super vga mode . 
+i et4000 i 'm view gif 's 640x480256 i lousysmal monitor dpg-view linux . 
+i think i chang constant dpg-view sourc make use et4k mode . 
+vgalib 's sourc seem design easi addit new super vga support mode array regist valu 's program dump array declar kind describ current mode . 
+have n't tri though ... 
+btw version vgalib 1.2 . 

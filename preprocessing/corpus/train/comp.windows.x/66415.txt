@@ -1,0 +1,7 @@
+i need pcs sparcstat run applic name microsoft project the origin system ran pc . 
+now need expand allow unix user work applic . 
+the current propos use desqviewx display server applic . 
+i would like know experi use desqviewx run applic pc display sparcstat . 
+i ve heard network traffic slow . 
+repli e-mail pleas . 
+thank advanc . 

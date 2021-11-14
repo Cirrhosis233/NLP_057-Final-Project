@@ -1,0 +1,7 @@
+2nd post question n't seem get answer how resist question say someth like ? 
+the problem cours expos event generat window alreadi visibl map . 
+what need somehow tickl window expos handler hit argument enabl render part window contain new item . 
+what best way tickl window produc behavior ? 
+if expos event handler truli intellig expos rectangl inform use xcleararea generat expos event assum background pixel none enclos rectangl new item . 
+this still great sinc item contain within rectangl still unnecessarili redrawn . 
+if expos event handler simpli redraw everyth ll much work draw new item top exist scene . 

@@ -1,0 +1,6 @@
+usual i start applic i first get window outlin display . 
+i click mous button actual place window screen . 
+yet i specifi -geometri option window appear right away properti specifi -geometri argument . 
+the question how i overrid intermediari step user specifi window posit mouseclick ? 
+i ve tri explicit set window size posit alter normal program behaviour . 
+thank hint robert ps i 'm work plain x . 

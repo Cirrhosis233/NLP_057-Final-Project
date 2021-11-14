@@ -1,0 +1,11 @@
+suppos boolean function minim sum-of-product deriv k-map someth like fabcd bc 'd ' acd ' abc ' ab ' c the book logic design i consult seem impli analysi end ... 
+but factor ' term function get fewer gate fabcd bc 'd ' acd ' bc ' b ' c yield 9 gate . 
+yes ... 
+minim gate import part time consider . 
+a ttl gate basic structur andorinvert invers sum product exact one gate delay . 
+the reason find minim sum product match hardwar optim . 
+a positive-or gate 9-gate solut use two gate delay 's anoth gate delay second term second solut simpler logic symbol expect someth less optim real world . 
+ecl similar ttl support orand gate minimum delay unlik ttl get true invers output free ' use ecl . 
+pal basic larg programm andorinvert gate choic intern connect various section perhap latch minimum sum product also way shoehorn logic design pal . 
+it 's compar easi design minim logic gate softwar packag claim allow take mess gate nodelist 74xxx seri logic ic produc descript logic cell array job . 
+xilinx 's xact softwar treat logic block macro expand simplifi . 

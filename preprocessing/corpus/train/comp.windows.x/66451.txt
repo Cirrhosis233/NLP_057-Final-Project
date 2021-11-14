@@ -1,0 +1,2 @@
+hi i tri implement pointer featur xlib i multipl window take input show output simultan display i want implement pointer featur i would like get pointer come window i choos pointer menu everi one abl see can 
+give hint i proceed i new xlib repli great appreci thank 

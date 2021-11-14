@@ -1,0 +1,2 @@
+this qvthost.rc file . 
+137.112.5.2 137.112.199.50 the host file requir name ll use addit ip address sucb 100.0.0.1 name.server.nam 100.2.2.1 name.router.nam 

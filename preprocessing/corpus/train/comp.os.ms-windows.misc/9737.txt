@@ -1,0 +1,63 @@
+while run ms quick c compil dos window window 3.1 even i got program violat system integr ... 
+close applic exit window restart comput error . 
+gawd i love window 1 is easi way restor everyth work order ? 
+what might better approach ? 
+you ll probabl want delet damag execut reload fresh . 
+data file examin repair . 
+2 what might caus ? 
+doe smartdrv cach make vulner ? 
+i 'm suspici hard drive cach especi cach data write . 
+you re stupid . 
+smartdriv cach thing window also run swap file may contain data also . 
+all pretti riski stuff pc environ . 
+the straightforward approach would run chkdsk f option fix disk look like i would probabl reinstal window thing . 
+a reason accur predict ... 
+here 's brief descript dos store file there three piec file . 
+the directori entri fat chain data area . 
+you think sheet line notebook paper sheet graph paper stack 3x5 card . 
+the directori entri notebook paper hold file name actual size first cluster number . 
+it also hold inform 's import right . 
+the file alloc tabl fat chain graph paper tell find actual data . 
+each squar graph paper hold number . 
+if number zero cluster associ box avail . 
+if hold magic number either last piec file bad unus spot disk . 
+ani number tell cluster contain next section file . 
+the data area 3x5 card actual inform store . 
+the data area organ cluster fix size storag dole chunk one cluster . 
+in case one cluster 2048 byte . 
+as cluster fill anoth alloc . 
+to read file first look directori entri get start cluster number . 
+now read data cluster . 
+next look fat entri cluster read . 
+this tell cluster number next chunk file . 
+natur number usual sequenti jump around even go backward . 
+continu read one cluster time walk chain fat hit marker say 's last cluster file . 
+chkdsk dos util check saniti coher directori fat bludgeon flaw submiss . 
+it n't intellig double-check anyth fix . 
+now let 's bit post-mortem cgfxvpic46cvpic.ex cgfxvpic46vpic.txt cgfxvpic46video7.cfg cgfxvpic46orcpro2.cfg cgfxvpic46vga.cfg cgamegoosebird2.x cwinmiscadv21winadv.ex alloc error size adjust all file size accord fat n't match size report directori entri . 
+chkdsk f alter directori entri match fat size . 
+in word directori entri cvpic.ex may say file 64877 byte long . 
+but chkdsk found fat chain 43 cluster attach . 
+my number obvious made . 
+316 lost alloc unit found 224 chain . 
+647168 byte disk space would freed disk space found alloc fat attach directori entri . 
+chkdsk f give option convert lost chain file . 
+you examin file file0000.chk file0223.chk renam discard . 
+or tell chkdsk convert file cluster simpli mark avail fat . 
+cgfxvpic46cvpic.ex is cross link alloc unit 16133 ... 
+c386spart.par is cross link alloc unit 16133 these file referenc data cluster . 
+obvious one least must wrong . 
+it 's interest note c386spart.par window swap file ... 
+to fix copi cross-link file new name . 
+this fix cross-link give file uniqu data space . 
+now delet cross-link file . 
+examin copi tri assembl proper . 
+good luck . 
+hint miss piec like found lost chain top ... 
+42366976 byte total disk space 3958784 byte 4 hidden file 153600 byte 67 directori 36042752 byte 1496 user file 1564672 byte avail disk your disk pretti close full . 
+this may actual caus problem perhap window need expand swapfil amount exceed avail disk space ... 
+in case short summari someth trash fat . 
+there util mirror fat help repair damag someth like run problem occur . 
+sorri . 
+vote straight ticket procrastin parti dec . 
+3rd ! 

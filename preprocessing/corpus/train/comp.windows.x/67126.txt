@@ -1,0 +1,10 @@
+i 'm new . 
+have found file public look i ftp'ed system i access . 
+i use kermit transmit via modem host comput pc-base file system . 
+i access internet modem access univers mainfram . 
+from pc file server i pull file disk pull disk sgi indigo sgi network yet . 
+when i tri uncompress un-tar file either come garbag i get error tar process directori invalid . 
+what i 'm wonder transfer unix file compress binaryascii multipl platform . 
+my guess copi dos ' disk screw thing . 
+ani help appreci . 
+bob 

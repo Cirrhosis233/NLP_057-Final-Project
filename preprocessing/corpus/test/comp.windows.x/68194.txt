@@ -1,0 +1,4 @@
+after look scale code i realiz follw 1 my problem resolut 100x100 foint due instal problem . 
+2 that x server font server rescal best font find meet requir . 
+this mean server return respons like follow -adobe-helvetica-medium-o-normal0-0-75-75-p-0-iso8859-1 you ask follwogin -adobe-helvetica-medium-o-normal14-100-90-90-p-0-iso8859-1 generat . 
+you tri alway use known pixel size . 

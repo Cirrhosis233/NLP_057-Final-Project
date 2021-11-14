@@ -1,0 +1,5 @@
+i somehow start doubt technic compet peopl design system . 
+whi earth split 80-bit key 40-bit part keep escrow separ 40 bit larg volum data voic link produc relat easi break simpli could keep 80-bit sequenc n n2 independ place xor partial key get actual key n-1 sequenc obvious select random nth actual key xor- random sequenc . 
+without real technic detail 's hard answer question . 
+but suppos alreadi xore two 40-bit part produc 40 bit real key materi ? 
+mayb re use export version rc2 ... ? 

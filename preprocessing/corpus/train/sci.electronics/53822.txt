@@ -1,0 +1,40 @@
+i built littl project use radio shack 5vdc relay switch audio . 
+i got pretti bad click ' thing switch . 
+i common thing one suppos use relay noth seem get rid click . 
+my question is good relayrelay circuit i use switch audio no nois kind audio line . 
+i appreci advic refer advic . 
+also exact part numberscompani name etc . 
+relay help ! 
+are switch high level signal low level signal like pre-amp level signal ? 
+also click mention big clack happen switch refer contact bounc ? 
+how drive relay ? 
+ttl gate output ? 
+switch transistor ? 
+how relay connect drive ? 
+need specif answer question ! ! 
+as general rule relay clean switch audio tri tranfer circuit contact . 
+the nois hear due momentari open close path . 
+the noiseless way transfer audio ground circuit . 
+in high imped audio circuit resist t construct close characterist imped circuit . 
+ground imput connect t transfer audio . 
+in low imped circuit transform usual use input short ground . 
+secondari parallel characterist imped . 
+sometim necessari actual switch audio second contact use momentarili short circuit output durat switch time . 
+telephon relay handi contact adjust make break vica versa i n't seen year . 
+nowadi switch done electron op amp etc . 
+a novel circuit i use build primit optic isol .. 
+it consist resist photocel lamp packag tube . 
+when lamp cell high resist . 
+turn lamp resist lower pass audio . 
+onc devic t switch audio . 
+vari lamp resist give remot volum control . 
+use 2 variabl resist mixer ! 
+lot luck ! 
+73 tom tom wagner audio visual technician . 
+malaspina colleg nanaimo british columbia 604753-3245 loc 2230 fax755-8742 callsignve7gda weapon.45 kentucki rifl snail mail site q4 c2 . 
+rr4 nanaimo british columbia canada v9r 5x9 
+i recyl ..... 
+i keep everyth ! 
+all standard disclaim appli 73 tom tom wagner audio visual technician . 
+malaspina colleg nanaimo british columbia 604753-3245 loc 2230 fax755-8742 callsignve7gda weapon.45 kentucki rifl snail mail site q4 c2 . 
+rr4 nanaimo british columbia canada v9r 5x9 

@@ -1,0 +1,4 @@
+here cool 3-d background pattern i made . 
+edit control.ini add follow line pattern section . 
+bricks148 43 86 172 89 182 99 201 tile1 43 85 43 85 43 85 255 tile diagonal148 107 54 156 73 182 99 201 slats0 170 85 170 85 170 85 255 make sure desktop color one standard 16 color pattern might work . 
+i like dark grey best . 

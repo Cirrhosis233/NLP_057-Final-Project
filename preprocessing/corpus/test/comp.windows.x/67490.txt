@@ -1,0 +1,3 @@
+how i view .ep file x ? 
+i imag color encapsul postscript need view screen . 
+are util let convert encapsul postscript plain postscript ? 

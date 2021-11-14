@@ -1,0 +1,14 @@
+this suggest new pc secur product design approach first fill hard drive 50 random file 50 file encrypt number known key . 
+then whenev new secret file creat delet random file replac real encrypt data . 
+new non-secret file encrypt known key . 
+better yet instead thrash around dos file system take step . 
+write minim file system program use createdelet file endecrypt ramdisk list directori . 
+put util password protect floppi . 
+the catch storag space use util not part dos file system . 
+instead defrag disk thus pack alloc cluster cluster 0-n . 
+then use back end partit hold stealth ' file system . 
+or leav small 2nd partit disk assign dos . 
+anoth approach might use directori contain set invari file dos system file instanc . 
+due dos alloc minimum storag unit cluster unus physic space disk tail end file end associ cluster . 
+these dead space could concaten use hold stealth file system . 
+now situat encrypt data appear disk - . 

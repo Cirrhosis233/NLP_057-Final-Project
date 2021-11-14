@@ -1,0 +1,24 @@
+befor global multimedia e-mail solut must definit minimum servic level mime provid yet . 
+befor internet invest softwar peopl need see content . 
+i would suggest 50 attract mime format news messag day would suffici get peopl think ad mime support news reader esp content realli worth . 
+imho long way go unix-specif mua newsread etc reach servic level commerci platform . 
+there ought definit consist known object data type rule handl includ transport specif document . 
+yes . 
+but also long way go mac pc window mua newsread readi handl sheer volum news mail mani unix specif tool abl cope . 
+when choic feechur make damn thing fast enough keep flood bet fast enough win . 
+ed usual make good point . 
+one time friend mine sun sent e-mail . 
+he compos use sun openwindow 3 mailtool handl non-mim attach like . 
+sinc i n't use mailtool i manual save cut past uudecod actual attach . 
+what i got not-inconsider amount time spent audio file . 
+the origin messag 32kb mail header uuencod data result audio messag singl sentenc i transcrib 135 charact messag . 
+if sent sentenc plain text e-mail would around 250 byte would taken 3 second process . 
+instead 32k took least minut . 
+a complet wast time bandwidth far i 'm concern . 
+send plain text still effici method transmiss given transport mechan . 
+i shudder think would happen everyon start post usenet articl audio file instead plain text ! 
+meltdown net predict ! 
+film eleven ! 
+back mono ! 
+this sub-thread longer anyth pem administr polici i ve redirect followup back comp.mail.mim ... 
+greg 

@@ -1,0 +1,188 @@
+archive-nam cryptography-faqpart05 last-modifi 1993415 faq sci.crypt part 5 product cipher this fifth ten part sci.crypt faq . 
+the part most independ read first part rest . 
+we n't time send miss part mail n't ask . 
+note kah67 '' refer refer list last part . 
+the section faq avail via anonym ftp rtfm.mit.edu pubusenetnews.answerscryptography-faqpartxx . 
+the cryptographi faq post newsgroup sci.crypt sci.answ news.answ everi 21 day . 
+content what product cipher ? 
+what make product cipher secur ? 
+what group-theoret properti product cipher ? 
+what proven secur product cipher ? 
+how block cipher use encrypt data longer block size ? 
+can symmetr block cipher use messag authent ? 
+what exact des ? 
+what tripl des ? 
+what differenti cryptanalysi ? 
+how nsa involv design des ? 
+is des avail softwar ? 
+is des avail hardwar ? 
+can des use protect classifi inform ? 
+what ecb cbc cfb ofb encrypt ? 
+what product cipher ? 
+a product cipher block cipher iter sever weak oper substitut transposit modular additionmultipl linear transform . 
+a block cipher '' mean cipher encrypt block data-8 byte say-al goe next block . 
+the notion product cipher due shannon sha49 . 
+exampl modern product cipher includ lucif sor84 des nbs77 sp-network kam78 loki bro90 feal shi84 pes lai90 khufu khafr me91a . 
+the so-cal feistel cipher class product cipher oper one half ciphertext round swap ciphertext halv round . 
+lucif des loki feal exampl feistel cipher . 
+the follow tabl compar main paramet sever product cipher cipher block length key bit number round lucif 128 128 16 des 64 56 16 loki 64 64 16 feal 64 128 2x x 5 pes 64 128 8 what make product cipher secur ? 
+nobodi know prove mathemat product cipher complet secur . 
+so practic one begin demonstr cipher look high random '' . 
+for exampl cipher must nonlinear must produc ciphertext function depend everi bit plaintext key . 
+meyer mey78 shown least 5 round des requir guarante depend . 
+in sens product cipher act mix '' function combin plaintext key ciphertext complex nonlinear fashion . 
+the fix per-round substitut product cipher refer s-box . 
+for exampl lucif 2 s-box des 8 s-box . 
+the nonlinear product cipher reduc care design s-box . 
+a list partial design criteria s-box des appli s-box general may found brown bro89 brickel et al . 
+bri86 . 
+what group-theoret properti product cipher ? 
+let e product cipher map n-bit block n-bit block . 
+let ekx encrypt x key k . 
+then fix k map send x ekx permut set n-bit block . 
+denot permut pk . 
+the set n-bit permut call symmetr group written s2n . 
+the collect permut pk k rang possibl key denot es2n . 
+if e random map plaintext ciphertext would expect es2n generat larg subset s2n . 
+coppersmith grossman cop74 shown simpl product cipher generat altern group a2n given suffici number round . 
+the altern group half symmetr group consist even '' permut i.e . 
+permut written even number swap . 
+even goldreich eve83 abl extend result show feistel cipher generat a2n given suffici number round . 
+the secur multipl encipher also depend group-theoret properti cipher . 
+multipl encipher extens singl encipher key k1 k2 exist third key k3 ek2ek1x ek3x indic encrypt twice two independ key k1 k2 equal singl encrypt third key k3 . 
+if everi k1 k2 exist k3 eq . 
+true say e group . 
+this question whether des group definit extens studi sherman kaliski rivest she88 . 
+in paper give strong evid hypothesi des group . 
+in fact des group cam93 . 
+what proven secur product cipher ? 
+recal pk permut produc e key k . 
+the goal design e ensur pk appear random element s2n symmetr group . 
+let r element s2n select random . 
+we say pk r indistinguish observ given pk r order distinguish two permut polynomi time . 
+that time bound resourc observ determin permut produc e optim decis better simpli guess . 
+lubi rackoff lub88 shown class feistel cipher secur sens round map replac random boolean function . 
+how block cipher use encrypt data longer block size ? 
+there four standard mode oper 
+numer non-standard one well . 
+the standard mode oper 
+defin u. . 
+depart commerc feder inform process standard fip 81 publish 1980 . 
+see question ecb detail . 
+although defin des block cipher mode oper 
+use block cipher . 
+can symmetr block cipher use messag authent ? 
+one may use symmetr cryptosystem block cipher prove generat messag prove whether messag alter unalt sinc generat . 
+but one prove thing anoth without reveal key thereaft key use prove anyth messag authent use key . 
+see ansi x3.106-1983 fip 113 1985 standard method messag authent use des . 
+what exact des ? 
+des u. . 
+govern 's data encrypt standard product cipher oper 64-bit block data use 56-bit key . 
+it defin fip 46-1 1988 supersed fip 46 1977 . 
+fip feder inform process standard publish ntis . 
+des ident ansi standard data encrypt algorithm dea defin ansi x3.92-1981 . 
+what tripl des ? 
+tripl des product cipher like des oper 64-bit data block . 
+there sever form use des cipher 3 time . 
+some form use two 56-bit key use three . 
+the des mode oper 
+may also use triple-d . 
+some peopl refer ek1dk2ek1x triple-d . 
+this method defin chapter 7.2 ansi standard x9.17-1985 financi institut key manag intend use encrypt des key iv autom key distribut . 
+it formal name encrypt decrypt singl key key pair referenc standard document ede . 
+that standard say section 7.2.1 key encrypt key may singl dea key dea key pair . 
+key pair shoud use addit secur need e.g . 
+data protect key long secur life . 
+a key pair shall encrypt decrypt use singl key other use term triple-d ek1dk2ek3x ek1ek2ek3x . 
+one us carl ellison keep advoc des tripl use form ek1 tran ek2 tran ek3 compress x des instanc key iv cbc mode tran post sci.crypt . 
+it large-block transposit program take key data stream encrypt program part . 
+what differenti cryptanalysi ? 
+differenti cryptanalysi statist attack appli iter map ie . 
+map base repeat round function . 
+the method recent popular biham shamir bih91 coppersmith remark s-box des optim attack 20 year ago . 
+this method prove effect sever product cipher notabl feal bi91a . 
+differenti cryptanalysi base observ larg number ciphertext y y ' whose correspond plaintext x x ' satisfi known differ d xx ' componentwis xor . 
+in basic biham-shamir attack 247 plaintext pair requir determin key des . 
+substanti fewer pair requir des truncat 6 8 round . 
+in case actual key recov matter minut use thousand pair . 
+for full des attack impract requir mani known plaintext . 
+the work biham shamir des reveal sever startl observ algorithm . 
+most import key schedul remov des 1648 768-bit key use key could recov less 264 step . 
+thus independ subkey add substanti secur des . 
+further s-box des extrem sensit chang even singl entri tabl yield signific improv differenti attack . 
+adi shamir quot say nytim oct 13 1991 i would say contrari peopl believ evid tamper des basic design weaken . '' how nsa involv design des ? 
+accord kinnucan kin78 tuchman member group develop des ibm quot say we develop des algorithm entir within ibm use ibmer . 
+the nsa dictat singl wire ! '' tuchman meyer anoth develop des spent year break cipher find weak lucif . 
+they spent two year strengthen lucif . 
+their basic approach look strong substitut permut key schedul function ... 
+ibm classifi note contain select criteria request nsa .... 
+the nsa told us inadvert reinvent deep secret use make algorithm ' explain tuchman . '' on hand document call involv nsa develop des unclassifi summari unit state select committe intellig '' print ieee communic magazin p53-55 1978 state in develop des nsa convinc ibm reduc keysiz suffici indirect assist develop s-box structur certifi final des algorithm best knowledg free statist mathemat weak . '' clear key size reduc insist nsa . 
+the articl state nsa tamper algorithm paramet sens resolv appar conflict remark meyer tuchman present . 
+is des avail softwar ? 
+sever peopl made des code avail via ftp see part 10 pathnam stig ostholm ftpso bsd ftpbk eric young ftpey denni furguson ftpdf mark riordan ftpmr phil karn ftppk . 
+a pascal list des also given patterson pat87 . 
+fip 46-1 say the algorithm specifi standard implement ... 
+use hardwar softwar technolog . 
+... 
+softwar implement general purpos comput complianc standard despit softwar implement abound use govern agenc . 
+is des avail hardwar ? 
+the follow paragraph quot messag sent editor . 
+we n't vouch qualiti even exist product . 
+chip rosenth say dalla semiconductor make des encryptiondecrypt devic use standard digit 64kbps pcm telecom data stream . 
+it capabl process data real time e.g . 
+one samplefram . 
+it ds2160 . 
+their phone number 214-450-0400 . 
+you would probabl need talk dewight telecom market . '' cryptech cry12c102 22.5mbit accord data sheet 32 bit interfac . 
+we use one one avail start project . 
+no problem 2 . 
+pijnenburg pcc100 20mbit accord data sheet . 
+address pijnenburg b.v . 
+boxtelswweg 26 nl-5261 ne vught the netherland . 
+3 . 
+infosi des chip germani s-box must load softwar . 
+so modifi algorithm . 
+sorri i n't data sheet handi . 
+pleas e-mail need inform . '' des proprietari storag 16 56-bit key key stream generat integr hardwar des3 procedur extend mode 112 bit key comput elektronik infosi 512-a herndon parkway herndon va 22070 800322-3464 am9568 compat des chip oper 25mhz perform round encrypt 18 clock three-stag pipelin support ecb cbc cfb-8 cfb-1 further reason price oppos high-end des chip . 
+call newbridg microsystem ottawa 613 592-0714 . 
+... 
+importexport issu canada us . 
+if requir custom des public key ic timestep engin develop newbridg 's crypto chip ic commerci educ establish . 
+they reach 613 820-0024 . 
+can des use protect classifi inform ? 
+des intend protect classifi data . 
+fip 46-1 say this standard use feder depart agenc cryptograph protect comput data follow condit appli 1 . 
+... 
+cryptograph protect requir 2 . 
+data classifi accord nation secur act 1947 amend atom energi act 1954 amend what ecb cbc cfb ofb encrypt ? 
+these method use block cipher des encrypt messag file block data known mode oper 
+four mode oper 
+defin fip 81 1980 decemb 2 also ansi x3.106-1983 . 
+fip 81 specifi 7-bit ascii data sent octet unus most-signific bit set 1 . 
+fip 81 also specifi pad short block . 
+the four des mode oper 
+electron code book ecb cipher block chain cbc k-bit cipher feedback cfb k-bit output feedback ofb . 
+these method explain c-language-lik notat . 
+some symbol pn the n'th block plaintext input encrypt output decrypt . 
+size block determin mode . 
+cn the n'th block ciphertext output encrypt input decrypt . 
+size block determin mode . 
+em the des encrypt function perform 64-bit block use 16-key schedul deriv 56-bit key . 
+dm the des decrypt function perform 64-bit block use key schedul em except 16 key schedul use opposit order em . 
+iv a 64-bit initi vector secret valu along key share encryptor decryptor . 
+in the n'th valu 64-bit variabl use mode . 
+rn the n'th valu 64-bit variabl use mode . 
+lsbmk the k least signific right-most bit . 
+e.g . 
+1 k 1 msbmk the k signific left-most bit . 
+e.g . 
+64-k 1 k 1 oper defin c langag . 
+electron code book ecb pn cn 64-bit long . 
+encrypt decrypt cn epn pn dcn cipher block chain cbc pn cn 64-bit long . 
+encrypt decrypt c0 ep0iv p0 dc0iv n0 cn epncn-1 pn dcncn-1 k-bit cipher feedback cfb pn cn k bit long 1 k 64 . 
+encrypt decrypt i0 iv i0 iv n0 in in-1k cn-1 in in-1k cn-1 n rn msbeink rn msbeink n cn pnrn pn cnrn note k64 reduc i0 iv i0 iv n0 in cn-1 in cn-1 n rn ein rn ein n cn pnrn pn cnrn cfb note sinc in depend plain cipher text previous oper 
+e function perform parallel recept text use . 
+k-bit output feedback ofb pn cn k bit long 1 k 64 . 
+encrypt decrypt i0 iv i0 iv n0 in in-1k rn-1 in in-1k rn-1 n rn msbeink rn msbeink n cn pnrn pn cnrn note k64 reduc i0 iv i0 iv n0 in rn-1 in rn-1 n rn ein rn ein n cn pnrn pn cnrn ofb note encrypt decrypt ident . 
+sinc in independ p c e function perform advanc receipt plainciph text use . 
+addit note des mode oper 

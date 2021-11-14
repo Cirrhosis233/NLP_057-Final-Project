@@ -1,0 +1,7 @@
+i want add link encrypt modul multiplex upper level routin singl data link . 
+the upper level wo n't know thus key exchang shall need occur initi link establish . 
+i figur i des diffie-hellman key exchang . 
+is use diffie-hellman exchang establish 64 bit des key accept word pro 's con 's setup ? 
+are import issu watch asid filter unaccept key ? 
+and order achiev i guess i need use 64bit math routin probabl prime number calcul exponenti etc could someon point toward good packag strict non-commerci . 
+matthew . 

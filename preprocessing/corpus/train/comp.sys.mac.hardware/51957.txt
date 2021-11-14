@@ -1,0 +1,24 @@
+enter game develop . 
+the sound driver current sound manag inconveni lame make game . 
+the sound driver pretti ok sinc 's fast . 
+sound manag use book useless . 
+dispos sound channel soon sound complet question game smooth anim . 
+it 's slow . 
+the sound driver much snappier sound manag . 
+unfortun system 7 support poor make program crash occasion . 
+the stori develop do n't cheat ! 
+realli i absolut posit allow i i 'm go say anyway . 
+stop cheat sound ! 
+realli soon sorri even without extern speaker disappoint sound futur hardwar . 
+the grace period end . 
+the sound manag understand work pretti well work even better soon use . 
+well i want code work old system . 
+i n't know sys 7.1 least 6.0.7 bug sound manag caus channel hang error messag . 
+this happend i keep channel open long period necessari perform play mani sound stop sound halfway . 
+callback seem reliabl . 
+then way i safe tell sound stop play inspect privat variabl channel qhead i think way i found tell channel hung inspect undocu flag modifi . 
+am i happi ? 
+nope . 
+i consid write soundbas simpli get rid bug . 
+ani better suggest ? 
+silent game among acceptab solut . 

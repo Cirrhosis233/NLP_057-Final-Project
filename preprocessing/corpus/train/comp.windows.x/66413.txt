@@ -1,0 +1,5 @@
+can peopl pleas send hint build x11r5 gcc 2.3.3 is pitfal avoid ani hint i would appreci hear peopl ' stori . 
+i build x11 gcc sinc 2.1 time i troubl posit independ code option broke i could n't use gcc build sun share librari . 
+the import thing follow tip given gcc releas . 
+gcc generat code requir libgcc2 take account decid compil use librari . 
+michael salmon includ standard.disclaim includ witty.say includ fancy.pseudo.graph 

@@ -1,0 +1,4 @@
+i 286 m205 motherboard . 
+the last byte memori manag i download trial report chipset addtech pcchip1 chipset abl activ ram behind segment a000-ffff use umb except videobio . 
+i would like write driver activ memori . 
+doe anyon know i get program inform chip ? 

@@ -1,0 +1,4 @@
+i group gif imag contain 6 small imag place imag . 
+i need program crop small imag new gif file . 
+all program i find make use mous keyboard defin crop coordin . 
+is program pc take crop coordin command line ? 

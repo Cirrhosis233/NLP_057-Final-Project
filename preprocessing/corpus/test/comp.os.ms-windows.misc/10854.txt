@@ -1,0 +1,7 @@
+here latest reloc help file server . 
+the winhelp function i told ms search path reloc ms window helpfil wo n't problem long includ path move howev applic hardcod path code winhelp invok search given path i.e . 
+winhelphwnd camipro exampl winhelp search path instead look directori instal softwar . 
+i test varieti softwar packag . 
+i move helpfil drive z includ path statement . 
+here result differ softwar packag norton desktop found helpfil window v3.1 workgroup found helpfil window v3.1 found helpfil ms powerpoint v3.0 found helpfil ms word found helpfil ms excel v4.0a did not find helpfil strang ms foxpro v2.5 window found helpfil lotus amipro v3.0 did not find helpfil procomm plus window did not find helpfil i guess better noth would make sens abl specifi global path helpfil . 
+if anyon comment if i help anyon i left someth pleas let know . 

@@ -1,0 +1,4 @@
+environ x11r4 motif 1.1.4 sun ipc 4.1.3 problem when mous move across screen horizont sprite goe edg screen reappear edg . 
+it appear server think run multi-screen mode cursor seem wrap one side screen . 
+as far tell run server multi-screen mode . 
+pleas repli via e-mail . 

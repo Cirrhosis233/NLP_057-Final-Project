@@ -1,0 +1,8 @@
+x window instal sun4470 cg6 alon cg2 screen0.0 cg6 screen0.1 . 
+question 1 are hardwar configur chang cg2 andor cg6 devic need made pull insert cg2 frame buffer vme bus ? 
+2 the cg6 call graphic acceler ' appos frame buffer ' . 
+what signific x server instal suno driver x compat . 
+i would appreci inform . 
+i post behalf dr . 
+john charlton net address i forward . 
+thank help ! 

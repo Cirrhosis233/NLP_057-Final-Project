@@ -1,0 +1,8 @@
+one way mask left button check content xevent xaddeventhandl send eventhandl function case showmouseposit function . 
+if xevent arriv function xevent pevent valu pevent-xbutton.button button press . 
+so switch valu order distinguish . 
+in case clear pevent-xevent.button int . 
+by way mention button1motionmask anyon help motionmask i would grate . 
+i figur distinguish motion button press motion occur . 
+in essenc i would like seper event-handl motion button . 
+unfortun xevent sent motionmask seem contain valu press button . 

@@ -1,0 +1,9 @@
+i put 33mhz 040 cpu centri 610 . 
+now i math coprocessor possibl speed centri run either 25mhz 33mhz ? ? 
+not without replac chip motherboard . 
+the c610 n't like iisi mean motherboard c610 actual design run speed cpu design run higher speed like 25mhz forc run speed slower cpu 20mhz . 
+i n't see oscil motherboard like one iisi 's motherboard ! 
+where oscil centri ? 
+there one oscil . 
+if talk cpu oscil chip i think locat socket 040 . 
+at least i read post group . 

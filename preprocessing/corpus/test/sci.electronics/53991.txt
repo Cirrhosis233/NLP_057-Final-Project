@@ -1,0 +1,8 @@
+what pink nois use sound experi ? 
+-toni pink nois random signal low-frequ compon white nois . 
+if look frequenc spectrum white nois frequenc analyz find spectrum power densiti flat mean everi frequenc present nois signal . 
+often pink nois obtain white nois integr low-pass filter white nois signal . 
+therefor pink nois contain much low-frequ compon . 
+the effect pink nois sometim use simul thunder roar anim . 
+an addit low-pass filter variabl cutoff frequenc explain . 
+enjoy . 

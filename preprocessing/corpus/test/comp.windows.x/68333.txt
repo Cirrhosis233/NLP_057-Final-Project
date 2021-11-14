@@ -1,0 +1,3 @@
+if i instal x11r5 backward compat motif motif 1.2 client work x11r5 server ? 
+it work . 
+i ve run motif 1.1.31.1.41.1.51.21.2.1 1.2.2 x11r5 server motifbc defin . 

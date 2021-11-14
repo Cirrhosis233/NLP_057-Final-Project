@@ -1,0 +1,8 @@
+i never work realli small signal question low level nois . 
+i notic waveform synthes i use analog 2020 relat larg common mode nois . 
+i use synthes null ' anoth transient waveform amplifi differ 200uv sever hundr time . 
+the 2020 1-3 mvp-p common mode nois tend make measur hard repeat . 
+the nois quit sync line frequenc spectrum analyz main compon 64hz . 
+how i get rid nois ? 
+when i look spectrum use hp 3582a audio rang analyz nois goe away minut i switch isol ' input . 
+i guess anlayz diff amp input sinc read accur dc . 

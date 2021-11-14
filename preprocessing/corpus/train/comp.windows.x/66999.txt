@@ -1,0 +1,3 @@
+do anyon know shade program base xlib public domain ? 
+i need exampl alloc correct colormap program . 
+appreci help . 

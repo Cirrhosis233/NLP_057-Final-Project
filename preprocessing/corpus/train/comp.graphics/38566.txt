@@ -1,0 +1,7 @@
+i got univesa driver avail net . 
+i thought final 1-meg oak board would abl show 680x1024 256 color . 
+unfortun program still say i ca n't . 
+is fault program fractint someth wrong card . 
+univesa- free driver avail net make mani board vesa compat . 
+what this 680x1024 256 color mode ? 
+ask lot hardwar 

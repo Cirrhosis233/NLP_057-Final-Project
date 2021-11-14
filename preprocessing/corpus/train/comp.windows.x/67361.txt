@@ -1,0 +1,18 @@
+i 'm work x11r5 applic concern regard standard colormap . 
+the x11r5 document say usual window manag creat colormap i wonder window manag writer mind . 
+neither twm mwm seem creat standard colormap . 
+of cours one use xstdcmap creat standard colormap . 
+howev xstdcmap n't seem tri hard avoid conflict default colormap . 
+when i use standard colormap creat xstdcmap rest display goe black . 
+so seem use standard colormap caus problem standard colormap intend avoid . 
+perhap everi applic use standard colormap thing would wonder . 
+but mani applic seem use standard colormap . 
+final oper function xmugetcolormapalloc xmustandardcolormap xmucreatecolormap seem inconsist section 14.3 x11r5 xlib document . 
+accord section 14.3 x11r5 xlib document p . 
+436 for grayscal colormap colormap redmax redmult basepixel member defin . 
+the member ignor . 
+to comput grayscal pixel valu use follow express gray redmult basepixel 0xffffffff xmugetcolormapalloc defin mitlibxmucmapalloc.c use xmulookupstandardcolormap defin mitlibxmulookupcmap.c select redmax greenmax bluemax valu call xmustandardcolormap . 
+when rgbgraymap properti specifi xmugetcolormapalloc set redmax 30 total number cell gray scale set greenmax 59 total number set bluemax ot 11 total number . 
+refer section 14.3 one would expect xmugetcolormapalloc set redmax total number cell gray scale . 
+when rgbgraymap properti specifi xmustandardcolormap defin mitlibxmustdcmap.c set redmult greenmult bluemult equal 1 . 
+refer section 14.3 one would expect greenmult bluemult ignor . 

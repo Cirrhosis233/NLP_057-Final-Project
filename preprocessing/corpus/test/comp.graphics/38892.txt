@@ -1,0 +1,3 @@
+i littl question i need convert rgb-code red-green-blu color hvs-code hue-value-saturn color . 
+doe anyon know formula use ? 
+thank ! 

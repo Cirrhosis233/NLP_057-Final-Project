@@ -1,0 +1,257 @@
+archive-nam x-faqpart5 last-modifi 19930404 subject 119 i 'm write widget ca n't use float resourc valu . 
+float resourc portabl size valu may larger size xtpointer . 
+tri use pointer float instead xaw scrollbar float resourc handl way . 
+subject 120 is memori leak x11r4 xtdestroywidget ? ! 
+yes . 
+this unoffici fix-19 x11r4 destroy.c destroy.c.1.37 thu jul 11 154125 1991 libxtdestroy.c thu jul 11 154223 1991 14 15 xconsortium destroy.cv 1.37 900928 102132 swick exp plus unoffici patch revis 1.40 1.41 copyright 1987 1988 digit equip corpor maynard massachusett 221239 int 0 destroyrec dr app-destroylist app-destroycount dr-dispatchlevel dispatchlevel widget w dr-widget app-destroycount bcopi chardr1 chardr app-destroycountsizeofdestroyrec xtphase2destroyw els dr 222245 int 0 destroyrec dr app-destroycount xtphase2destroy result call xtdestroywidget could caus app-destroylist realloc . 
+dr app-destroylist dr-dispatchlevel dispatchlevel widget w dr-widget app-destroycount bcopi chardr1 chardr app-destroycount sizeofdestroyrec xtphase2destroyw els subject 121 are callback guarante call order regist ? 
+although book demonstr current implement xt happen call callback procedur order regist specif guarante sequenc supplement authorit document i.e . 
+asenteswick volum say order undefin . 
+becaus callback list manipul widget applic xt guarante order execut . 
+in general callback procedur thought oper independ one anoth depend side-effect callback oper seqenc need singl callback regist explicit call function necessari . 
+subject 122 whi n't xtdestroywidget actual destroy widget ? 
+xtdestroywidget oper two pass order avoid leav dangl data structur function-cal mark widget actual destroy program return event-loop . 
+subject 123 how i queri user synchron use xt ? 
+it possibl code look like trivial callback clear flow control . 
+the call askus block answer set one valid valu . 
+if yes answer code drop callback back event-process loop void quitwidget w xtpointer client xtpointer call int answer answer askuserw realli quit ? 
+rety answer answer askuserw are you realli posit ? 
+rety answer exit0 a realist exampl might ask whether creat file whether overwrit . 
+this accomplish enter second event-process loop wait user answer question answer return call function . 
+that function askus look someth like motif replac widget-set-specif code creat sort dialog-box display question string button ok cancel help equival int askuserw string widget w char string int answerretnon not-us marker widget dialog could cachecarri ... 
+arg args3 int n 0 xtappcontext context n0 xtsetargargsn xmnmessagestr xmstringcreateltorstr xmstringdefaultcharset n xtsetargargsn xmndialogstyl xmdialogapplicationmod n dialog xmcreatequestiondialogxtparentw string arg n xtaddcallbackdialog xmnokcallback respons answer xtaddcallbackdialog xmncancelcallback respons answer xtaddcallbackdialog xmnhelpcallback respons answer xtmanagechilddialog context xtwidgettoapplicationcontext w answer retnon xtapppendingcontext xtappprocessev context xtimal xtdestroywidgetdialog blow away dialog box shell return answer the dialog support three button set call function tickl user . 
+the variabl answer set user final select one choic void responsew client call widget w xtpointer client xtpointer call int answer int client xmanycallbackstruct reason xmanycallbackstruct call switch reason-reason case xmcrok answer rety defin valu break case xmcrcancel answer retno break case xmcrhelp answer rethelp break default return code unwrap back point answer need continu . 
+widgetwrap librari . 
+291 subject 124 how i determin name exist widget ? 
+i widget id need know name widget . 
+user r4 later best use xtname function work widget non-widget object . 
+if still use r3 use simpl bit code want . 
+note depend widget 's intern data structur necessarili portabl futur version xt includ r4 . 
+includ x11corep.h includ x11xresource.h string xtname widget widget widget will work non-widget object return xrmnametostringwidget-core.xrmnam subject 125 whi i get baddraw error draw xtwindowwidget ? 
+i 'm order get window i xlib graphic within xt-base program canva xtcreatemanagedwidget ... widgetclass ... 
+draw area ... 
+window xtwindowcanva get window associ widget ... 
+xdrawlin ... window ... 
+produc error the window associ widget creat part realize widget . 
+use window id null window could creat error describ . 
+it necessari call xtrealizewidget attempt use window associ widget . 
+note window creat xtrealizewidget call server may actual map yet also wait expos event window draw . 
+subject 126 whi i get badmatch error call xgetimag ? 
+the badmatch error occur specifi rectangl goe edg screen . 
+if n't want catch error deal take follow step avoid error 1 make pixmap size rectangl want captur . 
+2 clear pixmap background use xfillrectangl . 
+3 use xcopyarea copi window pixmap . 
+4 if get noexpos event copi clean . 
+use xgetimag grab imag pixmap . 
+5 if get one graphicsexpos event copi n't clean xywidthheight member graphicsexpos event structur tell part pixmap n't good . 
+6 get rid pixmap probabl take lot memori . 
+subject 127 how applic tell run x ? 
+a number program offer x mode otherwis run straight character-on mode . 
+the easiest way applic determin run x display attempt open connect x server display xopendisplaydisplaynam display x stuff els curs someth els displaynam either string specifi command-lin follow -display convent otherwis charnul case xopendisplay use valu display set . 
+this superior simpli check exist -display command-lin argument check display set environ neither adequ . 
+591 subject 128 how i make busi cursor applic comput ? 
+is necessari call xdefinecursor everi window applic ? 
+the easiest thing creat singl inputon window larg largest possibl screen make child toplevel window clip window wo n't affect applic . 
+it need big largest possibl screen case user enlarg window busi move elsewher within virtual desktop . 
+substitut toplevel top-most widget similar code work xlib-on applic use top window unsign long valuemask xsetwindowattribut attribut ignor devic event busi cursor display . 
+valuemask cwdontpropag cwcursor attributes.donotpropagatemask keypressmask keyreleasemask buttonpressmask buttonreleasemask pointermotionmask attributes.cursor xcreatefontcursorxtdisplaytoplevel xcwatch the window big display screen clip parent window never worri resiz xcreatewindowxtdisplaytoplevel xtwindowtoplevel 0 0 65535 65535 unsign int 0 0 inputon copyfrompar valuemask attribut maximum size could replac real size screen particular avoid server problem window larger 32767 . 
+when want use busi cursor map rais window go back normal unmap . 
+this automat keep get extra mous event depend precis window manag work may may similar effect keystrok well . 
+in addit note also xaw widget support xtncursor resourc temporarili reset mere wish chang cursor without block pointer event . 
+subject 129 how i fork without hang parent x program ? 
+an x-base applic spawn unix process continu run close typic vanish children termin children inherit parent open x connect display . 
+what need fork immedi child process close connectionnumberxtdisplaywidget close file-descriptor display inform . 
+after exec . 
+you abl exit parent . 
+altern exec' make call caus file descriptor close exec . 
+void fcntlconnectionnumberxdisplay fsetfd 1 subject 130 can i make xt xlib call signal handler ? 
+no . 
+xlib xt mutual exclus protect critic section . 
+if signal handler make call wrong time might function call alreadi execut leav librari inconsist state . 
+note ansi c standard point behavior signal handler undefin signal handler call function signal problem specif xlib xt posix specif mention function may call safe may assum function call xlib xt function . 
+you work around problem set flag interrupt handler later check work procedur timer event previous ad . 
+note articl the x journal 14 exampl o'reilli volum 6 error . 
+subject 131 what xlib sequenc lost error ? 
+you may see error issu xlib request xlib error handler like make call generat x request xt xlib signal handler n't case . 
+subject 132 how xt program handl socket pipe file input ? 
+it 's common need write xt program accept input user via x connect file descriptor oper effici without block either x connect file descriptor . 
+a solut use xtappaddinput . 
+after open file descriptor use xtappaddinput regist input handler . 
+the input handler call everi time someth file descriptor requir program 's attent . 
+write input handler like would xt callback work quick return . 
+it import use non-block io system call input handler . 
+most input handler read file descriptor although input handler write handl except condit wish . 
+be care regist input handler read disk file . 
+you find function call even n't input pend . 
+xtappaddinput actual work suppos . 
+the input handler call whenev file descriptor readi read new data read . 
+a disk file unlik pipe socket almost alway readi read howev spin back begin read data ve read . 
+the result function almost alway call everi time around xtappmainloop . 
+there way get type interact expect add line begin function test whether new data ioctlfd fionread n -1 n 0 return but call frequent applic effect busy-wait may better use xtappaddinput instead set timer timer procedur check file input . 
+subject 133 how i simul button pressreleas event widget ? 
+you use xsendev 's like re set window field event xt need order match widget receiv event . 
+if re send event applic use xtdispatchev instead . 
+this effici xsendev avoid round-trip server . 
+depend well widget written may abl call action procedur order get effect want . 
+subject 134 whi n't anyth appear i run simpl program ? 
+... 
+thewindow xcreatesimplewindowthedisplay rootwindowsizehints.xsizehints.i sizehints.widthsizehints.heightborderwidth blackpixelthedisplaythescreen whitepixelthedisplaythescreen ... 
+xselectinputthedisplaythewindowexposuremaskbuttonpressmask buttonreleasemask xmapwindowthedisplaythewindow ... 
+xdrawlinethedisplaythewindowthegc55100100 ... 
+you right map window draw . 
+howev window readi drawn actual appear screen applic receiv expos event . 
+draw done general appear . 
+you ll see code like mani program code would appear window creat map ! done xnexteventthedisplaytheev switch theevent.typ case expos on expos event redraw xdrawlinethedisplaythewindowthegc55100100 break ... 
+note second problem xlib implement n't set default graphic context correct foregroundbackground color program could previous includ code ... 
+thegcvalues.foregroundblackpixelthedisplaythescreen e.g . 
+thegcvalues.backgroundwhitepixelthedisplaythescreen e.g . 
+thegc xcreategcthedisplaythewindow gcforegroundgcbackgroundthegcvalu ... 
+note code use blackpixel whitepixel avoid assum 1 black 0 white vice-versa . 
+the relationship pixel 0 1 color black white implementation-depend . 
+they may revers may even correspond black white . 
+also note actual use blackpixel whitepixel usual wrong thing finish program ignor user 's prefer foreground background . 
+and also note run situat xt-base program draw xtwindoww right realiz may yet appear . 
+subject 135 what differ screen screen ? 
+the screen ' xlib structur includ inform one monitor virtual monitor singl x display support . 
+a server support sever independ screen . 
+they number unix0.0 unix0.1 unix0.2 etc screen ' screennumb ' second digit 0 1 2 thought index array avail screen particular display connect . 
+the macro use obtain inform particular screen applic run typic two form one take screen one take display screennumb . 
+in xt-base program typic use xtscreenwidget determin screen applic run use singl screen . 
+part confus may aris fact macro return characterist screen display name xdisplaywidth xdisplayheight etc . 
+subject 136 can i use c x11 ? 
+motif ? 
+xview ? 
+the x11r45 header file compat c . 
+the motif 1.1 header file usabl insid extern c .... 
+howev definit string intrinsic.h conflict libg string class need work around . 
+some project help wwl set c class jean-daniel feket wrap x toolkit widget avail via anonym ftp export.lcs.mit.edu contribwwl-1.2.tar.z 792 lri.lri.fr 129.175.15.1 pubwwl-1.2.tar.z . 
+it work build set c class parallel class tree widget . 
+the c interview toolkit obtain via anonym ftp interviews.stanford.edu . 
+interview use boxglu model similar tex construct user interfac support multipl look user interfac . 
+some sampl applic includ wysiwig document editor doc macdraw-lik draw program idraw interfac builder ibuild . 
+thing class librari written rome air forc base strateg air command avail freewar archiv site . 
+motif public-domain librari defin c class wrapper motif 1.1 add applic class e.g . 
+initi x also integr wcl xbae widget set . 
+this work develop ronald van lowel graphic research laboratori . 
+the current sourc avail decuac.dec.com 192.5.214.1 pubx11motif.21.jul.92.tar.z . 
+the sourc code exampl doug young 's object-ori program c osfmotif isbn 0-13-630252-1 includ widget wrapper includ set class encapsul higher-level facil common need motif- xt-base applic check export ftpcontribyoung.c.tar.z . 
+rogu wave offer view.h c programm use motif info 1-800-487-3217 1 503 754 2311 . 
+a product call commonview glockenspiel ltd ireland ? ? 
+appar c-base toolkit multipl window system includ pm window xmotif . 
+xv sold qualix 415-572-0200 fax -1300 implement interfac gil file sun 's openwindow develop guid 3.0 produc xview wrapper class c . 
+uit set c class embed xview toolkit intend use sun 's openwindow develop guid 3.0 builder tool . 
+sourc export.mit.edu.au uit.tar.z . 
+version 2 releas 52892 . 
+also like use objectcent saber-c . 
+and reason altern parcplac 's former solbourn 's object interfac . 
+subject 137 where i obtain altern languag bind x ? 
+version clx lisp bind part x11 core sourc distribut . 
+a version clx r5 tape 1091 version 5.0.2 992 export.lcs.mit.edu contribclx.r5.02.tar.z . 
+the saic ada-x11 bind anonym ftp pub stars.rosslyn.unisys.com 128.126.164.2 . 
+there xada studi team sponsor nasa jsc appar gnu smalltalk beta nativ smalltalk bind x call stix document spars outsid smalltalk code . 
+the sourc avail pubgnusmalltalk-1.1.1.tar.z prep.ai.mit.edu 18.71.0.38 ugle.unit.no 129.241.1.97 . 
+prolog bind call xwip written ted kim ucla support part darpa avail anonym ftp export.lcs.mit.educontribxwip.tar.z ftp.cs.ucla.edupubxwip.tar.z . 
+these prolog languag bind depend quintus-typ foreign function interfac prolog . 
+the develop gotten work quintus scheme bind xlib osfmotif xaw part elk distribut version 1.5a export obsolet version r5 contrib tape . 
+x-scm bolt-on accessori aubrey jaffer 's scm scheme interpret provid interfac xlib motif openlook avail via ftp altdorf.ai.mit.eduarchivescmxscm1.05.tar.z nexus.yorku.capubschemenewxscm1.05.tar.z . 
+ada bind motif explicit eventu made avail jet propuls laboratori probabl normal electron may respond time permit . 
+adamotif complet bind x motif ada languag mani common system base part upon saicunisi bind also includ uil ada translat . 
+info system engin research also mit consortium although involv produc ada bind x maintain partial list peopl involv x ada subject 138 can xgetwindowattribut get window 's background pixelpixmap ? 
+no . 
+onc set background pixel pixmap window re-read client . 
+the reason client creat pixmap set background pixmap window free pixmap . 
+the window keep background pixmap destroy . 
+if re sure window background pixel pixmap use xcleararea clear region background color use xgetimag read back pixel . 
+howev action alter content window suffer race condit exposur . 
+courtesi dave lemk ncd stuart mark sun note appli border pixelpixmap . 
+this misfeatur protocol allow server free manipul pixelpixmap howev want . 
+by requir server keep origin pixel pixmap potenti lot space save . 
+courtesi jim fulton mit x consortium subject 139 how i creat transpar window ? 
+a complet transpar window easi get use inputon window . 
+in order creat window most transpar sever choic shape extens first releas x11r4 offer easi way make non-rectangular window set shape window fit area window nontranspar howev server support extens . 
+machine-specif method implement transpar window particular server use overlay plane support hardwar . 
+note x notion transpar color index . 
+general portabl solut use larg number tini window make oper applic unit difficult . 
+final answer consid whether realli need transpar window would satisfi abl overlay applic window inform draw separ bitplan color appear proper . 
+the x journal 14 complet answer includ code sampl last option subject 140 whi n't gxxor produc mathematically-correct color valu ? 
+when use gxxor may expect draw valu black background black exampl produc white . 
+howev draw oper work rgb valu colormap indic . 
+the color result colormap index actual point undefin visual random unless actual fill . 
+on mani x server black white often 01 10 program take advantag mathemat coincid break . 
+if want combin color gxxor alloc number color cell fill chosen pre-comput valu . 
+if want use gxxor simpli switch two color take shortcut set background color gc graphic context 0 foreground color valu draw red say result blue draw blue result red . 
+this foreground valu xor colormap indic red blue . 
+subject 141 whi everi color i alloc show black ? 
+make sure re use 16 bit 8 . 
+the red green blue field xcolor structur scale 0 noth 65535 full-blast . 
+if forget scale use exampl 0-255 color xalloccolor function perform correct result color usual black . 
+subject 142 whi ca n't program get standard colormap ? 
+i image-process program use xgetrgbcolormap get standard colormap n't work . 
+xgetrgbcolormap use properti xargbdefaultmap creat standard colormap return one one alreadi exist . 
+use xstdcmap order creat standard colormap first . 
+subject 143 whi pixmap i copi screen show garbag ? 
+the initi content pixmap undefin . 
+this mean server alloc memori leav around whatev happen usual garbag . 
+you probabl want clear pixmap first use xfillrectangl function gxcopi foreground pixel whatev color want background 0l use pixmap mask . 
+courtesi dave lemk ncd stuart mark sun subject 144 how i check whether window id valid ? 
+my program id window remot display . 
+i want check whether window exist anyth . 
+becaus x asynchron n't guarante window would still exist time got id time sent event window otherwis manipul . 
+what send event without check instal error handler catch badwindow error would indic window longer exist . 
+this scheme work except rare occas origin window destroy id realloc anoth window . 
+subject 145 can i two applic draw window ? 
+yes . 
+the x server assign id window resourc actual server assign bit client other applic know id manipul resourc almost x server resourc except gcs privat color cell share . 
+the problem face dissemin window id multipl applic . 
+a simpl way handl solv problem applic ' run differ machin first applic creat specially-nam properti root-window put window id . 
+the second applic retriev properti whose name also know draw whatev want window . 
+note scheme work iff one instanc first applic run scheme subject limit mention question use window id remot display . 
+note also still need coordin higher-level cooper among applic . 
+note also two process share window tri use server connect . 
+if one process child close connect server open connect . 
+subject 146 whi ca n't program work tvtwm swm ? 
+a number applic includ xwd xwininfo xsetroot handl virtual root window tvtwm swm use typic return wrong child root . 
+a general solut add code use applic would normal use rootwindowdpyscreen function name getvroot descript get root window even 's virtual root argument display screen return root window client includ x11xatom.h window getvrootdpi scr display dpi int scr window rootreturn parentreturn children unsign int numchildren window root rootwindowdpi scr atom swmvroot none int swmvroot xinternatomdpi swmvroot fals xquerytreedpi root rootreturn parentreturn children numchildren 0 numchildren atom actualtyp int actualformat long nitem bytesaft window newroot null xgetwindowpropertydpi childreni swmvroot 0 1 fals xawindow actualtyp actualformat nitem bytesaft unsign char newroot success newroot root newroot break return root version xsetroot distribut tvtwm . 
+291 a header file andrea stolck icsi export.lcs.mit.educontribvroot.h function similar provid macro rootwindow defaultrootwindow code includ header file first run proper presenc virtual desktop . 
+subject 147 how i keep window resiz user ? 
+resiz window done window manag window manag pay attent size hint applic place window guarante window manag listen . 
+you tri set minimum maximum size hint target size hope best . 
+191 subject 148 how i keep window foreground time ? 
+it 's rather antisoci applic constant rais e.g . 
+track visibilitynotifi event n't overlap imagin conflict two program run . 
+the sure way window appear top stack make window override-redirect mean temporarili assum window-manag duti window want infrequ short period time e.g . 
+popup menus short parameter-set window . 
+subject 149 how i make text bitmap blink x ? 
+there easi way . 
+unless re will depend sort extens yet non-exist arrang blink either redraw content period possibl play game colormap chang color content . 
+subject 150 how i get double-click xlib ? 
+user xt support translat manag help get notif double-click . 
+there good way get double-click xlib protocol provid enough support double-click . 
+you client-sid timeout unless single-click action defer actual take next see event server . 
+thus timeout mean system-depend code . 
+on unixish implement use xconnectionnumb get file descriptor x connect use select someth similar . 
+note mani user-interfac refer suggest double-click use extend action indic single-click case interfac execut first action compromis check timestamp second event determin whether single-click action double-click action . 
+subject 151 ! 
+how i render rotat text ? 
+xlib intent provid sophist graphic capabl leav server-extens clients-sid graphic librari . 
+your choic want stay within core x protocol render text pixmap read back via xgetimag rotat hand whatev matric want put back server via xputimag specif 1 creat bitmap b write text . 
+2 creat xybitmap imag i b via xgetimag . 
+3 creat xybitmap imag i2 big enough handl transform . 
+4 xy i2 i2xi iab x costheta sintheta b x sintheta costheta 5 render i2 note care implement lose bit algorithm base shear transform may fact better . 
+the high-level server-extens graphic packag avail x also permit render rotat text display postscript pex phig gks although capabl arbitrari rotat probabl use font would found printer . 
+in addit enough access server instal font creat font consist letter rotat predefin angl . 
+your applic figur placement glyph . 
+interview c ui toolkit x contrib softwar support render rotat font x . 
+it could one sourc exampl code . 
+anoth possibl use hershey font stroke-rend use x convert xdrawlin post comp.sources.x juli 14 1992 paint rotat font implement method use outlin hershey font . 
+set function facilit write text angl . 
+version 3.0 recent releas alt.sourc comp.sources.misc 393 also export contribxvertext.3.0.shar.z . 
+o'reilli 's x resourc volum 3 includ inform hp modif x font server provid rotat scale text . 
+subject 152 what x registri ? 
+how i reserv name ? 
+there place x toolkit applic x protocol defin use string name . 
+the context conflict possibl differ compon use name differ thing . 
+the mit x consortium maintain registri name domain orgain name select name select target resourc type applic class class extens record type sever other . 
+the list 791 directori mitdocregistri r5 tape also avail send send doc registri xstuff mail server . 
+to regist name first come first serv ask question send confirm . 
+1190 condens asenteswick appendix h just faq ma'am joe friday 

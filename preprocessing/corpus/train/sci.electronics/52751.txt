@@ -1,0 +1,7 @@
+b votr host est mal configur ... 
+bonjour sylvain j'ai travaill avec le hc11 il 3 an et je ne souvien pas de tout les possibilit mai je vai quand meme essay de t'aider . 
+je ne croi pas que download une programm direct dan le eeprom soit une bonn ide le eeprom une dure de vie limite 10 000 cycl il sembl . 
+le communic break vient peut-etr du fait que le eeprom est long programm 1ms par 8 byte mai c'est verifi et que les delai de transfer de programm s19 ver la memoir sont exced . 
+normal les transfert en ram du code s19 est plus rapid car le ram est plus rapid que le eeprom en ecritur . 
+c'est tout ce que memoir permet de souvenir ! 
+bonn chanc oh yeah easi say ! ... 

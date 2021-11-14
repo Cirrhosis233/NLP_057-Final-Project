@@ -1,0 +1,23 @@
+i 'm look circuit flash led respons output walkman cassett player . 
+how could i ? 
+i n't want turn i want strobe ' speak per everi beep i put cassett tape . 
+would better use circuit base volum beep cassett better led respond tone certain frequenc ? 
+is easi way either ? 
+i 'm look simplest circuit possibl . 
+i guess i 'm ask sort color organ quit . 
+let trt explain ... 
+i 'm go pattern beat beep cassett tape . 
+so tape 'd hear beep ! 
+paus beep ! 
+paus beep ! 
+paus .. etc . 
+speed increas time goe . 
+i want synchron led probabl two beep cassett tape . 
+so led beep would go real quick generat strobe light sort effect . 
+the rapid beep tape would turn effect rapid blink led . 
+and sound tape except background led would remain . 
+pleas help ! 
+thank dana tri look magizin call radio electron may 1992 issu page 41 . 
+there circuit midi light control . 
+-- 
+andi -- 

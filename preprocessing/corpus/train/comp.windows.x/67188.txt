@@ -1,0 +1,9 @@
+can anyon give inform pleas ... 
+i need probabl write one new motif widget hp-ux platform . 
+do i need motif privat header file sourc i make public header provid ? 
+motif includ xt context . 
+one widget multi-column list lot peopl alreadi written i sure would therefor probabl subclass list rather someth simpl like xt class . 
+is difficult principl line code ? 
+altern anyon multi-column list widget could sell might save write one ! 
+doe chanc exist motif 1.2 alreadi i yet spec ? 
+answer appreci nichola . 

@@ -1,0 +1,16 @@
+when incid ray i strike object point p ... 
+the reflect ray r transmit ray t calcul formula . 
+call routin recurs r t return colour along ray r t rcol tcol . 
+each object colour ocol light sourc licol 1 n . 
+the question how combin rcol tcol ocol licol 's get correct result colour return along i ray ? 
+first not snide respons re confus issu stumbl lot thing well . 
+i suggest weak refer materi . 
+get an introduct ray trace andrew glassner good coverag raytrac algorithm . 
+you could also refer 2nd edit foley van dam . 
+on question . 
+the simpl answer keep ad contribut clamp maximum intens . 
+for exampl intens valu rang 0.0 1.0 keep ad clamp result valu 1.0 might clamp lower bound 0.0 dark bulb 's anoth issu so get illumin equat like i lambient ldiffuselightn lreflect ltranspar the contribut due reflect sum light intens light due transpar . 
+now slight less hand-wav illumin equat i kala kdldlightn krlr ktlt that compon illumin equat govern materi constant ka kd kr kt . 
+so maximum get transpar given object exampl might 0.4 0.1 0.5 purple-color glass object . 
+hope answer question . 
+i ll forward illumin equat sermon also . 

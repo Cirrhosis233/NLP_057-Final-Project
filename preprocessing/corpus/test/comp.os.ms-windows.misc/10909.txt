@@ -1,0 +1,11 @@
+i receiv gateway 48633 window dos 6.0 . 
+i ran time appar problem . 
+i decid give doubl space tri . 
+after compress drive problem i decid load window . 
+it took 1 minut 45 second load dblspace 17 second dblspace . 
+i tinker littl machin notic error messag say smartdriv 4.0 work dblspace . 
+not unreason sinc smartdrv packag dos 6 version 4.1 . 
+make sure driver himem emm386 smartdrv execut dos directori . 
+loss cach provid smartdrv could problem i n't know might caus startup delay . 
+my testb dblspace minim amount data disk i n't eat much time i instal uninstal dblspace boot 20 second start ms-dos herald end autoexec.bat execut . 
+i n't handi system realist volum data time . 

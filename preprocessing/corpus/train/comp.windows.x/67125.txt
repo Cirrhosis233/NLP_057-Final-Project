@@ -1,0 +1,15 @@
+i post ago n't reciev one repli anoth bug report subject . 
+can anybodi help ? 
+how ensur acceler work independ case ? 
+what i want ctrlo ctrlo acceler one menu entri . 
+in ora vol . 
+6 section acceler say for inform specifi translat tabl see vol . 
+4 .. 
+know put xmnacceler resourc . 
+if go vol . 
+4 say likewis modifi specifi noth prohibit modifi present well . 
+for exampl translat shiftkeyq quit take effect even ctrl key held time shift key q key . 
+this impli set xmnacceler ctrlkeyo i want n't n't work user press control key shift key key . 
+is possibl suppli 1 acceler menu entri ? 
+keep mind answer question use motif ca n't use xtinstallacceler . 
+i use motif 1.1.3 decstat 5000 i also tri hp use motif 1.1.3 1.2 . 

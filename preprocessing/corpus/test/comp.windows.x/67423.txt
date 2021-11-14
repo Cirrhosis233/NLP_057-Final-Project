@@ -1,0 +1,10 @@
+i 'm tri turn xauthor use mit-magic-cooki server cpu head hp700rx xtermin i 'm run coupl problem . 
+first least one applic mapl n't seem understand deliv magic cooki wo n't run display author turn . 
+second peopl client softwar remot machin i realli n't want hassl copi .xauthor file remot machin ... 
+assum client support xauthor . 
+so i would like turn mit-magic-cooki default non-privileg user abl turn drop back host-bas author . 
+yes i know turn chang xconfig file head client author set xtermin non-privileg user ca n't . 
+i ve check hp support line n't appear way . 
+can anyon confirm know way accomplish i want ? 
+btw i 'm run hpux 9.0 vue 3.0 . 
+thank advanc rick rick mcteagu electr engin depart speed scientif school univers louisvill louisvill ky 40292 502 588-7020 

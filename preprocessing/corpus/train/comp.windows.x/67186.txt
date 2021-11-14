@@ -1,0 +1,11 @@
+nick kisseberth look interest i need someon point document . 
+is method like give better result server- resid pixmap ? 
+i 'd also interest look xview code mention ... 
+there easi answer question depend whether display devic hold pixmap off-screen memori effici server manag resourc deal limit off-screen memori bane server implementor 's exist ! . 
+i work graphic devic off-screen memori main display copi rate eclips main memori display copi rate main memori display faster off-screen display requir write framebuff rather read f.b . 
+follow write if server use cfb code someth like render pixmap cpu main memori rate get mit-shm like equal mayb tad slower depend os 's implement share memori copyarea pixmap window also copi cpu main memori graphic devic . 
+one advanag mit-shm imag larg n't end grow size server process hold . 
+one disadvantag mit-shm sampl implement provis eleg clean share memori segment client die sudden violent death e.g . 
+kill . 
+you mind clutter system zombi share memori segment . 
+ken 

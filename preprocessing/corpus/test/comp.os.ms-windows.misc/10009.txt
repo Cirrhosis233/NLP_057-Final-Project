@@ -1,0 +1,7 @@
+use window 3.1 printer driver i would like print file output postscript file . 
+later i would like take postscript file machin attach hewlett packard 4m laser printer print document 600 dot per inch resolut . 
+i would like use method print wordperfect for window imag process program output imag postscript . 
+here 's problem window postscript printer driver pscript.drv n't allow specifi 600 dpi . 
+in fact setup dialog driver pull-down menu resolut choic given menu 300 ! 
+not realli use menu . 
+ani idea ? 

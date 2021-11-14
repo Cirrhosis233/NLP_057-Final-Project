@@ -1,0 +1,15 @@
+i seen sever ray-trac scene mtv rayshad ? ? 
+stroke font appear object imag . 
+the fontschar color depth even textur associ . 
+now i wonder possibl pov ? ? 
+hi noel i ve made attempt write convert read adob type 1 font triangul bevel extrud result generic 3d object could use pov f.i . 
+the problem i 'm current stuck there algorithm triangul arbitrari polygon shape . 
+delaunay seem limit convex hull . 
+constrain delaunay may okay i code exampl . 
+anoth way bartman may tga2pov a selfmad variat use heightfield . 
+creat bw pictur big text need f.i . 
+use postscript preview . 
+then use heightfield . 
+if white black heightfield exact imag white part 's still open backsid . 
+to close mirror compound origin . 
+exampl object union heightfield gif abp2.gif heightfield gif abp2.gif scale 1 -1 1 textur glass translat -0.5 0 -0.5 center rotat -90 0 0 rotat upward scale 10 5 100 scale bigger thicker translat 0 2 0 final placement abp2.gif gif arbitrari size contain abp black white times-roman 256 point . 

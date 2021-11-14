@@ -1,0 +1,4 @@
+on export.lcs.mit.edu directori contrib avahi.inria.fr directori pubxpm xpm-3.2f-to-3.2g.patch.z xpm-3.2g.tar.z copyright 1990-93 group bull see licens condit file copyright histori user-vis chang 3.2g 930426 enhanc much faster close color pipe fromto compress file handl gnu 's gzip .z format ad xpmcolorkey attribut abil specifi visual 's color use ie 's possibl read pixmap color visual use color specifi monochrom . 
+ad -mono -grey4 -grey -color option sxpm demonstr xpmcolorkey attribut . 
+bug correct fix bug redefin none pixel stop mask generat minor svr4 defin string.h fix annoy closecolor bug relat readwrit color cell fix minor bug color valu pixel overload manual updat includ new redgreenblu close attribut top imakefil miss depend target sxpmimakefil fix -l .. lib set standard librari locat . 
+libxpmp.h defin bcopi memcpi vms requir recent version vms libimakefil n't work x11r4 . 

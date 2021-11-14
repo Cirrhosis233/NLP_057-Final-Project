@@ -1,0 +1,6 @@
+i dec nt 486dx33 adaptec scsi control hard disk cd-rom drive . 
+when i add 3comm ethernet card 3c503 reboot system i receiv error messag boot devic found . 
+pull 3comm card reboot everyth fine . 
+i ve move control 3comm card various slot differ posit slot control slot control result . 
+dec n't respond problem yet . 
+ani help would appreci . 

@@ -1,0 +1,29 @@
+hartford 1 
+1 
+35 ny ranger 1 
+2 14 first period 1 
+hartford cunneyworth 5 janssen greig 1221 . 
+2 ny ranger grave 34 turcott zubov 1839 . 
+second period 3 ny ranger kovalev 19 turcott grave 212 . 
+4 hartford sanderson 44 cassel pp 454 . 
+5 ny ranger amont 30 andersson vanbiesbrouck pp 1913 . 
+third period 6 ny ranger m.messier 25 amont andersson 226 . 
+7 hartford sanderson 45 cassel sh 523 . 
+8 hartford nyland 6 ladouceur 835 . 
+9 hartford verbeek 36 zalapski 1743 . 
+hartford 5 power play 4-1 special goal pp 1 
+sh 1 
+total 2 scorer g a pts cassel 0 2 2 cunneyworth 1 
+0 1 
+greig 0 1 
+1 
+janssen 0 1 
+1 
+ladouceur 0 1 
+1 
+nyland 1 
+0 1 
+sanderson 2 0 2 verbeek 1 
+0 1 
+zalapski 0 1 
+1 

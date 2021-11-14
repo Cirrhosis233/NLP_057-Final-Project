@@ -1,0 +1,12 @@
+i recent bought amd 38640 . 
+the motherboard booklet say board 391 wbh i 4 1x3 simm board . 
+the machin also use super ide io card model pt-604 . 
+cours niether motherboard io card booklet clear state manufacur i 'm also use trident 8900c svga card . 
+anyway 's pertin info i think . 
+my problem comput often freez display pariti error system halt messag depend whether i set memori pariti error check disabl enabl setup bio make sens . 
+it ami bio must ami board ? . 
+i took back dealer replac simm i keep get error frequent . 
+it work dealer n't start screw till i got home figur . 
+i ve tri take simm even re-insert revers order make sure connect solid . 
+my suspicion jump damn one hd controllerseri parallelgame-port io card motherboard god forbid . 
+can anyon help ? 

@@ -1,0 +1,8 @@
+hi i wonder possibl parent window paint area child . 
+if could possibl implement rubberband across multipl xwindow select object display one window ? 
+hauk if specifi rootwindow creat gc . 
+you may use xlib draw multipl window . 
+i applic someth similar rubber band . 
+cursmov xcreatefontcursor dispdata xccrosshair geomvals.foreground blckpixl greydark geomvals.planemask allplan geomvals.linewidth 0 geomvals.funct gxxor geomvals.subwindowmod includeinferior evntmask gcforeground gcplanemask gclinewidth gcfunction gcsubwindowmod geomgcon xcreategc dispdata rootiden evntmask geomval later i move rubber band band use follow logic void tselectmoveband int deltxloc int deltyloc stuff delet ... 
+xdrawrectangl dispdata rootiden geomgcon selepntr-rootx selepntr-rooti selepntr-xlnth selepntr-ylnth undraw old one selepntr-papax deltxloc selepntr-papay deltyloc selepntr-rootx deltxloc selepntr-rooti deltyloc xdrawrectangl dispdata rootiden geomgcon selepntr-rootx selepntr-rooti selepntr-xlnth selepntr-ylnth draw new one stuff delet hope help brian deali 301-572-8267 it know 's ! uunet ! dftsrv ! kong ! deali 's ... 
+b.dylan 

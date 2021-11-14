@@ -1,0 +1,2 @@
+in past i use name pipe communic process use xtaddinput function set event handl motif . 
+doe anybodi know way messag pass ipc i tri luck far . 

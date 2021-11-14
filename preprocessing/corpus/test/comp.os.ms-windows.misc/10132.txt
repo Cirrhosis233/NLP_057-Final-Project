@@ -1,0 +1,5 @@
+hello who tell where i find pd sharewar which captur window 3.1 's output printer manang ? 
+if plan use regular basi connct printer file becom bothersom window ask filenam want creat . 
+i ve found put line system.ini port section path filenam work . 
+the problem send one job second one delet first . 
+chris 

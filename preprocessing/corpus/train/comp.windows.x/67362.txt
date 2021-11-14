@@ -1,0 +1,6 @@
+i process modifi x applic use xlib . 
+i 'd like includ timer-driven facil network poll see use xlib . 
+i know done xaw use xtappaddtimeout xttimercallbackproc . 
+how i use xlib ? 
+thank help . 
+pleas email . 

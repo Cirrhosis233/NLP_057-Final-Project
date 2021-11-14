@@ -1,0 +1,11 @@
+subject pc keyboard summari locat cap lock ctrl key pc keyboard keyword cap lock ctrl key date mon 5 apr 1993 192335 gmt doe anyon know softwar exchang cap lock ctrl key at-styl keyboard ? 
+i 'm look memori resid program work program rather featur specif program i awar sharewar program back forth provid featur within program . 
+thank . 
+a program archiv keymap00.zip simtel mirror site msdoskeyboard directori . 
+it written assembl best compil creat new keyboard map . 
+it possibl howev use binari editor edit provid compil keyboard driver compil . 
+i use hexed100.zip also avail simtel . 
+simpli serach code 00 01 02 03 locat bigin normal keyboard map . 
+then swap code key wish swap . 
+see keyboard directori simtel program report scancod key bio program also info . 
+good luck pete electrohydrodynam laboratori fluid mechan wind engin program civil engin depart colorado state univers 

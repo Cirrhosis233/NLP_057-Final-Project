@@ -1,0 +1,15 @@
+klossner wrote these lpt1 com1 disk control call devic . 
+there devic requir exclus interrupt ownership eg . 
+disk control i6 keyboard i1 . 
+there also devic requir exclus ownership ie . 
+share interrupt anoth devic eg . 
+lpt1 no . 
+in standard isa bus one almost non-laptop pcs use two separ interfac card share interrupt . 
+this due screwup bus design . 
+for exampl soundblast want drive interrupt number 7 must hold certain bus wire 0 1 time depend whether want interrupt . 
+this preclud let anoth card assert interrupt number 7 . 
+when two devic isa bus pc share interrupt 's re implement singl card . 
+interest . 
+would care explain soundblast pro card printer card share irq 7 success ? 
+i assur set irq 7 i problem . 
+my comput dtk 286-12 ibm clone . 

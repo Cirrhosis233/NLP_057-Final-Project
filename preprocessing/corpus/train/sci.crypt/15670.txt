@@ -1,0 +1,60 @@
+here revis version summari correct error provid addit inform explan . 
+the clipper chip a technic summari dorothi den revis april 21 1993 introduct on april 16 presid announc new initi bring togeth feder govern industri voluntari program provid secur communic meet legitim need law enforc . 
+at heart plan new tamper-proof encrypt chip call clipper chip togeth split-key approach escrow key . 
+two escrow agenc use key part need reconstruct key . 
+chip content the clipper chip contain classifi single-key 64-bit block encrypt algorithm call skipjack the algorithm use 80 bit key compar 56 des 32 round scrambl compar 16 des . 
+it support 4 des mode oper . 
+the algorithm take 32 clock tick electron codebook ecb mode run 12 mbit per second . 
+each chip includ follow compon skipjack encrypt algorithm f 80-bit famili key common chip n 30-bit serial number length subject chang u 80-bit secret key unlock messag encrypt chip the chip program mykotronx inc . 
+call myk-78 the silicon suppli vlsi technolog inc . 
+they implement 1 micron technolog initi sell 30 quantiti 10000 . 
+the price drop technolog shrunk .8 micron . 
+encrypt with the chip to see chip use imagin embed att telephon secur devic . 
+suppos i call someon devic . 
+after push button start secur convers secur devic negoti 80-bit session key k devic end . 
+this key negoti take place without clipper chip . 
+in general method key exchang use diffie-hellman public-key distribut method . 
+onc session key k establish clipper chip use encrypt convers messag stream m digit voic . 
+the telephon secur devic feed k m chip produc two valu em k encrypt messag stream eek u n f law enforc field transmit telephon line . 
+the law enforc field thus contain session key k encrypt unit key u concaten serial number n encrypt famili key f . 
+the law enforc field decrypt law enforc author wiretap instal . 
+the ciphertext em k decrypt receiv 's devic use session key dem k k m chip program and escrow all clipper chip program insid scif secur compart inform facil essenti vault . 
+the scif contain laptop comput equip program chip . 
+about 300 chip program singl session . 
+the scif locat mykotronx . 
+at begin session trust agent two key escrow agenc enter vault . 
+agent 1 enter secret random 80-bit valu s1 laptop agent 2 enter secret random 80-bit valu s2 . 
+these random valu serv seed generat unit key sequenc serial number . 
+thus unit key function 160 secret random bit agent know 80 . 
+to generat unit key serial number n 30-bit valu n first pad fix 34-bit block produc 64-bit block n1 . 
+s1 s2 use key triple-encrypt n1 produc 64-bit block r1 r1 eden1 s1 s2 s1 similar n pad two 34-bit block produc n2 n3 two addit 64-bit block r2 r3 comput r2 eden2 s1 s2 s1 r3 eden3 s1 s2 s1 r1 r2 r3 concaten togeth give 192 bit . 
+the first 80 bit assign u1 second 80 bit u2 . 
+the rest discard . 
+the unit key u xor u1 u2 . 
+u1 u2 key part separ escrow two escrow agenc . 
+as sequenc valu u1 u2 u generat written onto three separ floppi disk . 
+the first disk contain file serial number contain correspond key part u1 . 
+the second disk similar contain u2 valu . 
+the third disk contain unit key u . 
+agent 1 take first disk agent 2 take second disk . 
+thus agent walk away know 80-bit seed 80-bit key part . 
+howev agent know 80 bit use generat key 80-bit key part . 
+the third disk use program chip . 
+after chip program inform discard vault agent leav . 
+the laptop may destroy addit assur inform left behind . 
+the protocol may chang slight four peopl room instead two . 
+the first two would provid seed s1 s2 second two escrow agent would take disk back escrow agenc . 
+the escrow agenc yet determin nsa cia fbi law enforc agenc . 
+one may independ govern . 
+law enforc use when law enforc author tap encrypt line first take warrant servic provid order get access communic line . 
+let us assum tap place determin line encrypt clipper chip . 
+the law enforc field first decrypt famili key f give ek u n . 
+document certifi tap author parti associ serial number n sent e.g . 
+via secur fax key escrow agent return e.g . 
+also via secur fax u1 u2 . 
+u1 u2 xore togeth produc unit key u ek u decrypt get session key k . 
+final messag stream decrypt . 
+all accomplish special black box decod . 
+capston the next generat a successor clipper chip call capston govern myk-80 mykotronx alreadi develop . 
+it includ skipjack algorithm digit signatur standard dss secur hash algorithm sha method key exchang fast exponenti random . 
+a prototoyp avail test april 22 chip expect readi deliveri june juli . 

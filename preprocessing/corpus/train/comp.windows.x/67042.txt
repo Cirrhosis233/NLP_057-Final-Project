@@ -1,0 +1,12 @@
+anybodi implement rpc server hp xwindow ? 
+in sun xview notifyenablerpcsvc call automat execut rpc process detect incom request . 
+i wonder similar function hp xmotif perform function . 
+i ve use xrpc packag year . 
+i believ i got export . 
+glad hear 's work ! 
+i could n't find export . 
+howev simon leinen version made avail ftp file liasun3.epfl.chpubxcontribxrpc.tar.z . 
+note .z suffix ll need gnu gzip also liasun3 pubgnu uncompress . 
+if n't work send note i 'd happi mail copi probabl wo n't get start may i 'm holiday tomorrow ! 
+mpr teltech ltd . 
+8999 nelson way burnabi bc canada v5a 4b5 

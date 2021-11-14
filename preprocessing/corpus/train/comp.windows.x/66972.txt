@@ -1,0 +1,12 @@
+the problem occur initi make world . 
+when get compil standard x client ca n't seem find librari . 
+right high suspect program ld updat 413 . 
+yip problem fix found link static client btw use cc . 
+- . 
+or use suno 4.1.1 ld . 
+or read fix 9 10 11 mit distribut . 
+this known problem appli fix set sunpost411fcsld yes osteenyvers 
+mitconfigsun.cf 3 . 
+in fix-09 if run suno 4.1.1 appli sun 's ld patch 100170-6 need edit site.def add line aftervendorcf section defin sunpost411fcsld yes in fix-10 if run suno 4.1.2 chang osteenyvers 
+mitconfigsun.cf valu 2 . 
+in fix-11 brief note patch fix config make suno 4.1.2 fail unless tree previous built 

@@ -1,0 +1,7 @@
+my next project come ifdetector modul fast 112 250 kbsec packet radio use . 
+no fanci modul scheme wide fsk use 902 1296 mhz . 
+i 'm bit familiar motorola 3362 chip i wonder newer design might work higher input frequenc . 
+my goal come inexpens design receiv back end if input one end fsk demondul . 
+i 'm particular interest way use higher if 10.7 current chip work say 150mhz intern downconvers normal if filter use ? 
+ani suggest ? 
+john 

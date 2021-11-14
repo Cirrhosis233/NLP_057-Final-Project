@@ -1,0 +1,10 @@
+e g l i n a f b from denni l . 
+hart date 14-may-1993 0241pm cst hart tel no 904 882 3154 dept 646ccsgscwasa subject vxt2000 window termin help greet ! 
+we sever vxt 2000 window termin associ softwar network . 
+we abl open lat termin window workstat node unabl get lat x session work . 
+we custom termin secur allow lat connect . 
+tri invok lat x session vxt 2000 result follow messag display termin manag window messag area host doe not support x session the host vax4000 model 60 support x session open lat termin window log server node set display variabl follow set displaycreatenodelattransportlat tri creat decterm vxt follow createtermdectermdetach fail give follow error messag dectermport fail find languag xopendisplay return null decw-f-cant-open-displ ca n't open display the vxt 2000 use system default ie . 
+default font languag ... 
+except secur option allow connect option enabl lat protocol . 
+vt1200 window termin thing enough allow lat x session . 
+vms version 5.5-1 run decwindowsmotif vax4000 model 60s pleas help . 

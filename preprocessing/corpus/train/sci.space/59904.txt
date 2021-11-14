@@ -1,0 +1,56 @@
+archive-nam spaceschedul last-modifi date 930401 143923 space shuttl answer launch schedul tv coverag shuttl launch and land schedul and how to see them shuttl oper discuss usenet group sci.space.shuttl shuttl manifest launch date inform period . 
+the manifest also avail ame space archiv spacefaqmanifest . 
+the portion manifest former includ faq remov pleas refer post archiv copi . 
+for date inform upcom mission call 407 867-info 867-4636 kennedi space center . 
+offici nasa shuttl status report post sci.space.new frequent . 
+whi doe the shuttl roll just after liftoff ? 
+the follow answer translat provid ken jenk the ascent guidanc flight control train manual asc gc 2102 say dure vertic rise phase launch pad attitud command i-load vrel suffici assur launch tower clearanc achiev . 
+then tilt maneuv roll program orient vehicl head attitud requir generat negat q-alpha turn allevi structur load . 
+other advantag attitud perform gain decreas abort maneuv complex improv s-band look angl crew view horizon . 
+the tilt maneuv also requir start gain downrang veloc achiev main engin cutoff meco target second stage this realli good answer 's couch nasa jargon . 
+i ll tri interpret . 
+1 we wait shuttl clear tower roll . 
+2 then roll shuttl around angl attack wind caus passag atmospher relat wind chord wing imaginari line lead edg trail edg slight negat angl negat q-alpha . 
+this caus littl bit downward forc toward belli orbit z direct forc allevi structur load we care wing re delic part vehicl . 
+3 the new attitud roll also allow us carri mass orbit achiev higher orbit mass chang orbit higher lower inclin would case n't roll perform gain . 
+4 the new attitud allow crew fli less complic flight path execut one danger abort maneuv return to launch site decreas abort maneuv complex . 
+5 the new attitud improv abil ground-bas radio antenna good line-of-sight signal s-band radio antenna orbit improv s-band look angl . 
+6 the new attitud allow crew see horizon help mandatori part pilot fli machin . 
+7 the new attitud orient shuttl bodi near parallel ground nose east usual . 
+this allow thrust engin add veloc correct direct eventu achiev orbit . 
+rememb veloc vector quantiti made speed direct . 
+the shuttl larg horizont compon veloc small vertic compon attain orbit . 
+this beg question whi n't launch pad orient give nice attitud begin ? 
+whi shuttl need roll achiev attitud ? 
+the answer pad leftov apollo day . 
+the shuttl straddl two flame trench one solid rocket motor exhaust one space shuttl main engin exhaust . 
+you see effect daytim launch . 
+the srm exhaust dirti gray garbag ssme exhaust fluffi white steam . 
+watch differ top orbit side bottom extern tank side stack . 
+the access tower support servic structur orient basic way saturn v 's . 
+a side note saturn v 's also roll program . 
+do n't ask i 'm shuttl guy . 
+i check buddi ascent dynam . 
+he ad roll maneuv realli maneuv three axe roll pitch yaw . 
+the roll compon maneuv perform reason state . 
+the pitch compon control load wing keep angl attack q-alpha within tight toler . 
+the yaw compon use determin orbit inclin . 
+the total maneuv realli express quaternion grad-level-math concept combin three rotat matric one four-el array . 
+how to receiv the nasa tv channel nasa select nasa select broadcast satellit . 
+if access satellit dish find select satcom f2r transpond 13 c-band 72 degre west longitud audio 6.8 frequenc 3960 mhz . 
+f2r station atlant increas difficult receiv california point west . 
+dure event special interest e.g . 
+shuttl mission select sometim broadcast second satellit viewer . 
+if ca n't get satellit feed cabl oper carri select . 
+it 's worth ask n't . 
+the select schedul found nasa headlin news frequent post sci.space.new . 
+general carri press confer brief nasa offici live coverag shuttl mission planetari encount . 
+select recent begun carri much secondari materi associ spacelink mission cover . 
+amateur radio frequenc for shuttl mission the follow believ rebroadcast space shuttl mission audio w6fxn los angel k6mf ame research center mountain view california wa3nan goddard space flight center gsfc greenbelt maryland . 
+w5rrr johnson space center jsc houston texa w6vio jet propuls laboratori jpl pasadena california . 
+w1aw voic bulletin station vhf 10m 15m 20m 40m 80m w6fxn 145.46 k6mf 145.585 7.165 3.840 wa3nan 147.45 28.650 21.395 14.295 7.185 3.860 w5rrr 146.64 28.400 21.350 14.280 7.227 3.850 w6vio 224.04 21.340 14.270 w6vio 224.04 21.280 14.282 7.165 3.840 w1aw 28.590 21.390 14.290 7.290 3.990 w5rrr transmit mission audio 146.64 special event station frequenc suppli keplerian element mission inform . 
+w1aw also transmit 147.555 18.160 . 
+no mission audio transmit voic bulletin 0245 0545 utc . 
+frequenc 10-20m band requir usb frequenc 40 80m band lsb . 
+use fm vhf frequenc . 
+this item recent updat courtesi gari morri solid rocket booster fuel composit refer shuttl flight oper manual volum 8b solid rocket booster system nasa document jsc-12770 propel composit percent ammonium perchlor oxid 69.6 aluminum 16 iron oxid burn rate catalyst 0.4 polybutadiene-acril acid-acrylonitril rubber 12.04 epoxi cure agent 1.96 end refer comment the aluminum rubber epoxi burn oxid . 

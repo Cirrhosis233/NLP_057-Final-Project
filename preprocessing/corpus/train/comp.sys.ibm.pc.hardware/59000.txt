@@ -1,0 +1,13 @@
+b bkis possibl plug 70ns 60ns simm motherboard say bkwant 80ns simm ? 
+you n't troubl . 
+i heard machin problem slower recommend memori speed never faster . 
+it run without troubl cours want buy 60ns mix 80ns ? 
+60ns expens 80ns furthermor machin run slowest simm clock speed eventhough 60ns . 
+just 0.02cent thought .... 
+your machin run whatev bus jumper tocmo set usual wait state regardless speed ram instal . 
+no motherboard sens speed ram instal unless call fail sort auto-sens . 
+this sometim use slower ram machin . 
+you either set number wait state accomod slow ram case memori run slower rate reduc wait state take chanc slower ram act like faster ram wo n't crash . 
+put faster ram wo n't speed thing unless tell machin faster ram . 
+mix fast slow ram help keep bus slow accomod slow ram . 
+jiml 

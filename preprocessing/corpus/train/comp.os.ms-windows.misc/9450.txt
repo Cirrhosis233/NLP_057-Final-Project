@@ -1,0 +1,32 @@
+in comp.os.ms-windows.misc write while read dos 6.0 book state window permana swap file work correct place compress drive . 
+to make thing compat i remov perman swap file start upgrad . 
+howev dust settl i go window say temporari swap file right alway window directori . 
+my question how come temporari swap file work ok compress drive perman one n't ? 
+might want look window faq one best explan . 
+but i ca n't guarante i 'm way base ... 
+the permen swap file readwritten window talk direct hard disk control card . 
+the control card must use protoc set western digit someth like . 
+window creat file call spart.par window directori point file . 
+it use physic inform disk index inform file . 
+compress disk actual logic disk . 
+these disk differ characterist actual physic disk . 
+furthermor inform compress disk must uncompress use . 
+i.e must go decompress program trap disk read oper system level bio level . 
+becaus inbetween program window use direct method read logic disk . 
+permen swap file reserv area disk window use block space dos . 
+window would theoret even access file dos use disk space . 
+i n't know n't ... check somewher everytim boot window . 
+temporari swap file normal dos file access window via dos bio . 
+if disk compress program tsr load file access must go dos ... tsr 's disk compress ... bio order access . 
+i.e . 
+never use a temporari swap file ... never permen swap file ... 
+'m sure everyon uncompress part compress hard disk seen messag select swap file greater suggest size ... window use size suggest ... wa n't creat swap file anyway someth like . 
+well friend mine robert call microsoft ask . 
+said window check amount free disk space divid number 2 . 
+then check largest contigu block free disk space . 
+window suggest smaller two number . 
+they also said absolut circumst ... none ! ... window use swap file larger suggest size . 
+well ... 's said ! 
+avail 's go use ? 
+taker ? 
+jame 

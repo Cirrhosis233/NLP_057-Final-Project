@@ -1,0 +1,21 @@
+i 'm use int15h read joystick hideous slow . 
+someth like 90 cpu time spent read joystick program noth printf joyread . 
+if readprint reason joystick stuff take 90 time even effici . 
+the problem lot program trap int15h like smartdrv slow hell interfac . 
+can i read joystick port reason safe fashion via poll ? 
+and n't platform clockspe specif ? 
+the truth int 15h joystick read is slow . 
+i read direct hardwar port . 
+note expos intermitt disturb interrupt may want read say twice row keep lower result . 
+do n't turn interrupt may prove detriment health high speed comm devic . 
+here exampl joy.c an exampl read pc joystick port poll hardwar port direct . 
+use inpoutp byte port access . 
+will timeout int count0 ' count zero . 
+this sampl read one port a present b comment . 
+you read merg two time either joystick connect . 
+there need optim routin sinc run long joystick circuitri need . 
+includ stdio.h includ stdlib.h includ conio.h extern int readjoy int x int int b1 int b2 
+defin joyport 0x201 defin xjoy 0x01 joystick b use 0x04 defin yjoy 0x02 joystick b use 0x08 defin xymask xjoyyjoy defin but1 0x10 joystick b use 0x40 defin but2 0x20 joystick b use 0x80 int return 0 ok readjoy int x int int b1 int b2 
+regist int count regist char temp joy temp charxymask count 0 outp joyport 0 set trigger temp joy charinp joyport temp xjoy x count temp yjoy count count temp joy xymask b1 ! joy but1 b2 
+! joy but2 return ! count this main demonstr . 
+int main int rc x b1 b2 

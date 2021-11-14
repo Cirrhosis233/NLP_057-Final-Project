@@ -1,0 +1,17 @@
+hi netter i current investig develop surfac . 
+can anyon familiar topic give inform sourc allow find infom develop surfac ? 
+thank help ! 
+abel a develop surfac s.t . 
+lay roll flat plane may requir give cut though ... 
+e.g . 
+cylind cone plane cours ! 
+surfac patch vanish gaussian intrins curvatur i.e . 
+singular hessian matrix 2nd deriv adequ coordin patch develop . 
+in technic word develop surfac local isometr plane point . 
+think also sphere earth non-develop whatev way cut abl lay flat piec ... 
+intrins curvatur nowher vanish . 
+for detail look book differenti geometri treat surfac 2d manifold e.g . 
+m . 
+carmo 's book author carmo manfredo p . 
+titl differenti geometri curv surfac year 1976 publish prentice-hal note 503 page . 
+enjoy ! 

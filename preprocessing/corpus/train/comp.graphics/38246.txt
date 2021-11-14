@@ -1,0 +1,6 @@
+i look algorithm determin given point bound polygon . 
+doe anyon code refer book contain inform subject see articl an effici ray-polygon intersect p . 
+390 graphic gem isbn 0-12-286165-5 . 
+the second step intersect polygon want . 
+there sampl code book . 
+spl 

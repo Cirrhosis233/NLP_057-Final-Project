@@ -1,0 +1,26 @@
+i problem configur mous window use com3 irq5 . 
+i n't believ irq5 problem . 
+i tri mous com3 irq4 usual place still like . 
+simpli window seem support mice com1 com2 . 
+the funni part though microsoft 's mous driver 8.xx quit happi mous sit com3 . 
+whi ca n't window use mous driver least support com3 ? 
+com2irq3 com3irq5 com4irq7 maxcomport4 i ve tri . 
+actual i want abl use second modem com3irq5 window . 
+it still talk modem . 
+i creat two profil amstrad amstrad modem com1irq4 maestro maestro com3irq5 . 
+it talk maestro . 
+15106830617 driver support com3 com4 window . 
+their suggest microsoft ps2 ' set window setup would work . 
+it . 
+nor . 
+window 3.0 . 
+i believ possibl . 
+at worst would need special version ' ' mous driver look com3 com4 instead com1 com2 . 
+i know irq5 irq7 normal printer port irq i i ve seen noth like . 
+i ve experi logitech 's mous driver sucess . 
+printer attach . 
+a side note i would realli like assign com4 higher irq soundblast board use irq7 right i 'm use com4 modem i know allow set irq 2345 7 . 
+if soundblast pro support irq10 well . 
+final board support irq 9 . 
+the one i except ide control . 
+hamish 

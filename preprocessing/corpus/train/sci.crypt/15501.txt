@@ -1,0 +1,9 @@
+secreci clipper chip the serial number clipper chip encrypt system key transmit one part three part messag . 
+presum protocol recov noth els differenti analysi . 
+postul chip logic sit clipper chip communic channel . 
+the purpos chip twofold 1 transmit channel the spoof chip xor 30 bit encrypt serial number secondari key variabl . 
+this render serial number unrecover system key 2 reciev channel the spoof chip xor incom encrypt serial number secondari key variabl assum serial number necessari local oper . 
+this net result hide serial number . 
+this get interest number serial number issu becom larg make difficult distinguish valid serial number spoof serial number . 
+without know system key could lie serial number risk detect lie . 
+if system key encrypt algorithm could success lie lower probabl detect emul format serial number . 

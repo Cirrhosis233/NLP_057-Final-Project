@@ -1,0 +1,476 @@
+archive-nam graphicsresources-listpart3 last-modifi 19930417 comput graphic resourc list 
+week post part 33 last chang 17 april 1993 11 . 
+scene generatorsgeograph datamapsdata file dem digit elev model dem digit elev model well cartograph data huge avail spectrum.xerox.com 192.70.225.78 pubmap . 
+contact lee moor webster research center xerox corp . 
+voic 1 716 422 2496 check also ncgia.ucsb.edu 128.111.254.105 pubdem nfoti mani file also avail cd-rom sell usg 12000000 scale digit line graph dlg data . 
+contain data 50 state . 
+price 28 call visit offic menlo park reston virginia 800-usa-map . 
+the data user servic divis bureau census also data cd-rom tso standard format deriv usg 1100000 map data . 
+call 301 763-4100 info bbs 301 763-1568 . 
+from dr.dobb 198 march 1993 the u. . 
+defens map agenc cooper counterpart agenc canada u.k . 
+australia releas digit chart world dcw . 
+this chart consist 1.5 gigabyt reason qualiti vector data distribut four cd-rom . 
+.... 
+includ coastlin river road railray airportsc town spot elev depth 100000 place name it iso9660 compat 200.00 avail u. . 
+geolog survey p.o . 
+box 25286 denver feder center denver co 80225 digit distribut servic energi mine resourc canada 615 booth street ottawa on k1a 0e9 canada director general militari survey survey 3 elmwood avenu feltham middlesex tw13 7ah unit kingdom director survey australian armi depart defens campbel park offic cp2-4-24 campbel act 2601 australia fractal landscap generat public domain mani peopl written fractal landscap generat . 
+exampl mac generat written mani program avail ftp site mail archiv server . 
+check archi . 
+commerci vista pro 3.0 amiga virtual realiti lab list price 100 . 
+their address vrl 2341 ganador court san lui obispo ca 93401 telephon fax 805 545-8515 sceneri anim also amiga calib vista pro 2 . 
+check natur graphic p.o . 
+box 1963 raklin ca 95677 phone 916 624-1436 do n't forget ask companion program data diskstap . 
+vista pro 3 port pcs . 
+cia world map ii note databas quit date topolog structur . 
+if need standard world cartograph data wait digit chart world . 
+this 11m databas produc defens map agenc 's onc avail togeth search view softwar number cd-rom later summer . 
+check hanauma.stanford.edu ucsd.edu see ftp list the cia databas consist coastlin river polit boundari form line stroke . 
+also hanauma.stanford.edu 720x360 array elev data contain one ieee float point number everi half degre longitud latitud . 
+a program decod databas mfil found machin pi1.arc.umn.edu 137.66.130.11 . 
+there 's anoth program read compress cia data bank file build phig hierach structur . 
+it use phig extens known polylin set perform use regular polylin . 
+ask the raw data stanford requir vplot packag abl view . 
+post comp.sources.unix . 
+to exact ll compil libvplot routin whole packag . 
+ncar data ncar nation center atmospher research mani type terrain data rang elev dataset various resolut inform soil type veget etc . 
+this data free charg 40 90 depend data volum media exabyt tape 3480 cartridg 9-track tape ibm pc floppi ftp transfer avail . 
+their data archiv most research orient hobbyist orient . 
+for inform unc data tape voxel data there 2 public domain tape data comparison test various volum render algorithm main mri ct the data set volum i ii also avail via anonym ftp omicron.cs.unc.edu 128.109.136.159 pubsoftlabchvrtd nasa mani us agenc nasa publish cd-rom mani altimetri data various space mission eg . 
+vike mar magellan venus etc . 
+especi nasa i would suggest call follow address info nation space scienc date center goddard space flight center greenbelt maryland 20771 telephon 301 286-6695 the data catalog data avail onlin . 
+internet user telnet nssdca.gsfc.nasa.gov 128.183.10.4 log nodi ' password . 
+you also dial 301-286-9000 300 1200 2400 baud 8 bit pariti one stop . 
+at enter number prompt enter md carriag return . 
+when system respond call complet enter carriag return get usernam log nodi ' password . 
+nssdca also anonym ftp site comprehens list 's avail present . 
+earth scienc data there 's list anonym ftp site earth scienc data includ imageri . 
+this list call earth scienc resourc internet get via anonym ftp csn.org 128.138.213.21 directori cog name internet.resources.earth.sci some site includ aurelie.soest.hawaii.edu 128.171.151.121 pubavhrrimag avhrr imag ames.arc.nasa.gov 128.102.18.3 pubspacecdrom imag magellan vike mission etc . 
+pubspaceindex contain list file avail whole archiv index 200k . 
+there 's also e-mail server peopl without internet access send letter subject letter bodi use command like send space index send space shuttless01.23.91 capit import ! 
+onli text file handl email server present vab02.larc.nasa.gov 128.155.23.47 pubgifsmisclandsat landsat photo gif jpeg format it shut nfoti anyon copi archiv ? ? 
+other daili valu river discharg streamflow daili weather data avail earthinfo 5541 central ave . 
+boulder co 80301 . 
+these disk expens around 500 quantiti discount . 
+303 938-1788 . 
+check vmd.cso.uiuc.edu 128.174.5.98 wx directori carri data regard surfac analysi weather radar sat view pic gif format updat hour pioneer.unm.edu 129.24.9.217 space planetari imag facil locat univers new mexico campus ftp server . 
+it provid anonym ftp access 150 cd-rom dataimag . 
+a disk earthquak data topographi graviti geopolit info avail ngdc nation geophys data center 325 broadway boulder co 80303 . 
+303 497-6958 . 
+eosat least us sell landsat mss data older two year old 200 per scene talk similar deal landsat tm data . 
+the mss data 4 band 80 meter resolut . 
+check anonym ftp ftp.ncsa.uiuc.edu unixpolyviewalpha-shap tool creat convex hull alpha-shap general convex hull 3d point set . 
+the grip ii gov . 
+raster imag process softwar cd-rom avail cd-rom inc . 
+1-800-821-5245 49 . 
+code view adrg arc digitis raster graphic file avail grip ii cd-rom . 
+the u. . 
+armi engin topograph lab juan perez code also avail via ftp adrg.zip archiv spectrum.xerox.com nrcc rang data rioux m . 
+cournoy l . 
+the nrcc three-dimension imag data file tech . 
+report cnrc 29077 nation research council canada ottawa canada 1988 from i understand data laser rang finder copi research purpos 12 . 
+3d scanner digit 3d data . 
+cyberwar lab monterey ca manufactur 3d color laser digit use model part complet human bodi . 
+they run servic bureau also digit model . 
+address cyberwar lab inc 8 harri ct suit 3d monterey ca 93940 phone 408373-1441 fax 408373-3582 b . 
+polhemus make 6d input devic actual coupl model sens posit 3d orient 3d base electromagnet field interfer . 
+this equip also incorpor vpl dataglov . 
+this hardwar also call isotrack keiser aerospac . 
+ascens technolog make similar 3d input devic . 
+there compani appli scienc ? 
+make 3d input devic posit base speed sound triangul . 
+c . 
+a compani special digit viewpoint . 
+you ask viewpoint 's free 100 page catalog full readi ship dataset categori car anatomi aircraftsport boat train anim other . 
+though object quit expens catalog nevertheless interest pictur avail object wirefram polygon mesh . 
+contact viewpoint 870 west center orem utah 84057 ph 801-224-2222 fax 801-224-2272 1-800-dataset some address compani make digit ascens technolog bird flock bird big bird 6d tracker p.o . 
+box 527 burlington vt 05402 phone 802 655-7879 fax 802 655-5904 polhemus incorpor digit 6d tracker p.o . 
+box 560 hercul dr . 
+colchest vt . 
+05446 tel 802 655-3159 logitech inc . 
+red baron ultrason 6d mous 6506 kaiser dr . 
+freemont ca 94555 tel 415 795-8500w shoot star technolog mechan headtrack 1921 holdom ave . 
+burnabi b.c . 
+canada v5b 3w4 tel 604 298-8574 fax 604 298-8580 spacebal technolog inc . 
+spacebal 6d stationari input devic 600 suffolk street lowel ma 01854 tel 508 970-0330 fax 508 970-0199 tel mountain view 415 966-8123 transfinit system gold brick powerglov macintosh p.o . 
+box n mit branch post offic cambridg ma 02139-0903 tel 617 969-9570 vpl research inc . 
+eyephon head-mount display dataglov glovehand input devic vpl research inc . 
+950 tower lane 14th floor foster citi ca 94404 tel 415 312-0200 fax 415 312-9356 simgraph engin fli mous 6d input devic 1137 huntington rd . 
+suit a-1 south pasadena ca 91030-4563 213 255-0900 13 . 
+background imagerytexturesdatafil first check ftp place mention faq ftp list . 
+24-bit scan get good 24-bit scanner like epson 's . 
+suggest scsi port speed . 
+eric hain suggest rt news volum 4 3 scan textur wallpap floor cover etc . 
+doll hous suppli . 
+so rather cheap way scan pattern n't scale troubl associ real materi scan area . 
+book textur find housesbooksmagazin carri photograph materi . 
+educorp 1-619-536-9999 sell cd-rom various imageri also wide varieti stock art avail . 
+stock art big-nam stock art hous comstock uniphoto metro imag base avail . 
+in itali 's compani call belveder make book purpos clip page inclus graphic work . 
+their address edit belveder co . 
+ltd . 
+00196 rome itali piazzal flaminio 19 tel . 
+06 360-44-88 fax 06 360-29-60 textur librari . 
+mannikin sceptr graphic announc textil set 256x256 24-bit textur . 
+initi shipment 24-bit iff amiga soon 24-bit tiff format . 
+algorithm built tile surfac . 
+srp 40 volum contact mannikin sceptr graphic 1600 indiana ave . 
+winter park fl 32789 phone 407 384-9484 fax 407 647-7242 b . 
+essenc librari 65 sixty-f new algoritm textur imagin impuls inc . 
+these textur fulli compat float point version imagin 2.0 imagin 1.1 even turbo silver . 
+written steve worley . 
+for info contact essenc info apex softwar publish 405 el camino real suit 121 menlo park ca 94025 usa what textur citi ? ? 
+14 . 
+introduct render algorithm . 
+ray-trac i assum general understand comput graphic . 
+no ? 
+then read book faq contain . 
+for ray-trac i would suggest an introduct ray trace andrew glassner ed . 
+academ press 1989 isbn 0-12-286160-4 note i read book i feel ca n't wrong use book . 
+an errata list post comp.graph eric hain there 's concis refer also theoret foundat comput graphic cad ed . 
+r.a.e.earnshaw nato as vol . 
+f-40 . 
+pp . 
+1039-1060 . 
+print springer-verlag 1988 . 
+it contain code small fundament complet ray-trac . 
+b . 
+z-buffer depth-buff a good refer procedur element comput graphic david f . 
+roger mcgraw-hil new york 1985 page 265-272 280-284 . 
+c . 
+other ? ? ? 
+more info need nfoti 15 . 
+where i find geometr data . 
+teapot display display column ieee cga jan 87 whole stori origin martin newel 's teapot . 
+the articl also bezier patch model pascal program display wirefram model teapot . 
+ieee cga sep 87 jim blinn 's column jim blinn 's corner describ anoth way model teapot bezier curv rotat exampl use . 
+the off spd packag object re advis get avoid type data . 
+the off data triangl specif resolut around 8x8x4 triangl mesh per patch . 
+the spd packag provid spline patch descript perform tessel specifi resolut . 
+b . 
+space shuttl datafil . 
+here 's summari from sci.spac list model1 a modifi version newsgroup model model2 406 vertic 296 use i.e . 
+refer polygon descript . 
+389 polygon 233 3-vertex 146 4-vertex 7 5-vertex 3 6-vertex . 
+payload door non-exist . 
+unit unknown . 
+said proprietari inform associ . 
+model2 the newsgroup model off format . 
+you find gondwana.ecr.mu.oz.au file puboffobjectsshuttle.geo hanauma.stanford.edu pubgraphicscomp.graphicsobjectsshuttle.data model3 the triangl ' model . 
+this model store sever file defin portion model . 
+mention restrict model 's distribut . 
+model4 the nasa model . 
+the file start header line contain three real number defin offset use lockhe simul x offset offset z offset from file consist sequenc polygon descript 3473 vertic . 
+2748 polygon 407 3-vertex 2268 4-vertex 33 5-vertex 14 6-vertex 10 7-vertex 8 8-vertex 8 12-vertex 2 13-vertex 2 15-vertex 17 16-vertex 2 17-vertex 2 18-vertex 3 19-vertex 8 24-vertex . 
+payload door close . 
+unit inch . 
+proprietari info unknown model5 the old shuttl model . 
+the file consist sequenc polygon descript . 
+104 vertic . 
+452 polygon 11 3-vertex 41 4-vertex . 
+payload door open . 
+unit meter . 
+we use model star lab stanford univers 16 . 
+imag annot softwar . 
+touchup run sunview pretti good . 
+it read rasterfil even imag n't normal store rasterfil format could use screendump make rasterfil . 
+b . 
+idraw part stanford 's interview distribut handl imag format addit macdraw like tool . 
+i 'm sure exact . 
+you ftp idraw 's binari interviews.stanford.edu . 
+c . 
+tgif anoth macdraw like tool handl x11 bitmap xbm x11 pixmap xpm format . 
+if imag format xbm xpm get pbmplus toolkit convert thing like gif even macintosh format xpm . 
+tgif 's sourc avail pub directori cs.ucla.edu version 2.12 tgif patchlevel 7 plus patch8 patch9 . 
+use editimag facil khoro see . 
+this one util overal system- essenti imag process macdraw-typ graphic use packag . 
+e . 
+you might abl get pbmplus . 
+pbmtext give text output bitmap overlaid top imag . 
+f . 
+ice ' requir sun hardwar run openwindow 3.it 's postscript-bas graphic editorand 's avail anonym ftp internet host eo.soest.hawaii.edu 128.171.151.12 . 
+requir sun c 2.0 two local develop packag lxt librari xlib-bas toolkit small c class librari . 
+all file pubice.tar.z publxt.tar.z publdgoc.tar.z avail compress tar format . 
+pubice.tar.z contain readm give instal instruct well extens man page ice.1 . 
+a statically-link compress execut pubice-sun4.z sparc system also avail ftp . 
+all softwar properti columbia univers may redistribut without permiss . 
+ice mean imag composit environ 's imag tool allow raster imag combin wide varieti postscript annot wysiwyg fashion via x11 imag routin news postscript raster . 
+g . 
+use imagemagick annot imag x server . 
+pick posit text cursor choos font pen color pull-down menu . 
+imagemagick read write mani popular imag format . 
+imagemagick avail export.lcs.mit.edu contribimagemagick.tar.z nearest x11 archiv . 
+17 . 
+scientif visual stuff x data slice xds bundl x11 distribut mit contrib directori . 
+avail ftp.ncsa.uiuc.edu 141.142.20.50 either sourc binari various platform . 
+nation center supercomput applic ncsa tool suit platform unix workstat dec ibm sgi sun appl macintosh cray supercomput avail now avail . 
+sourc code public domain . 
+ftp ftp.ncsa.uiuc.edu . 
+contact nation center supercomput applic comput applic build 605 e . 
+springfield ave . 
+champaign il 61820 cost free zero dollar . 
+the suit includ tool 2d imag 3d scene analysi visual . 
+the code activ maintain updat . 
+spyglass they sell commerci version ncsa tool . 
+exampl spyglass dicer 3d volumetr data analysi packag platform mac spyglass transform 2d data analysi packag platform mac sgi sun dec hp ibm contact spyglass inc . 
+p.o . 
+box 6388 champaign il 61826 217 355-6000 khoro 1.0 patch 5 avail via anonym ftp pprg.eece.unm.edu 129.24.24.10 . 
+cd pubkhoro see avail . 
+it huge 100 mb good . 
+need unix x11r4 . 
+freeli copi not pd complet sourc doc . 
+veri extens heart visual program . 
+khoro compon includ visual program languag code generat extend visual languag ad new applic packag system interact user interfac editor interact imag display packag extens librari imag signal process routin 2d3d plot packag . 
+see comp.soft-sys.khoro usenet relat faq info .... 
+contact the khoro group room 110 eec dept . 
+univers new mexico albuquerqu nm 87131 macphas analysi visual applic macintosh . 
+oper 1d 2d data array . 
+importexport sever differ file format . 
+sever differ plot option gray scale color raster 3d wire frame 3d surfac contour vector line combin . 
+ffts filter math function color look editor array calcul etc . 
+sharewar avail via anonym ftp sumex-aim.stanford.edu info-macapp directori . 
+iri explor it 's applic creation system develop silicon graphic provid visualis analysi function comput scientist engin scientist . 
+the explor gui allow user build custom applic without write minim amount traditon code . 
+also exist code easili integr explor environ . 
+explor current avail sgi cray machin becom avail platform time . 
+bundl everi new sgi machin far i know see comp.graphics.explor comp.sys.sgi discuss packag . 
+there also two ftp server relat stuff modul etc . 
+ftp.epcc.ed.ac.uk 129.215.56.29 swedishchef.lerc.nasa.gov 139.88.54.33 mirror uk site ape back old good day ' could get ape near free . 
+now gone commerci follow vendor suppli taravisu corpor 929 harrison avenu columbus ohio 43215 tel 1-800-458-8731 614 291-2912 fax 614 291-2867 cost 895 plus tax runtim version site-licens singl user time limit number machin cluster . 
+895 includ supportmainten upgrad . 
+sourc code . 
+addit user licens 360 . 
+the name packag becom ape iii tm . 
+khoro similar ape philosophi av explor . 
+av see also comp.graphics.av platform convex cray dec evan sutherland hp ibm kubota set technolog sgi stardent sun wavetrac avail avs4 avail for unix workstat . 
+contact advanc visual system inc . 
+300 fifth ave . 
+waltham ma 02154 617-890-4300 telephon 617-890-8287 fax advanc visual system inc . 
+cray hp ibm sgi stardent sun convex convex advanc visual system inc . 
+cray cray dec dec evan sutherland evan sutherland advanc visual system inc . 
+ibm ibm kubota pacif inc . 
+kubota set technolog set technolog wavetrac wavetrac ftp site modul data set info avs.ncsc.org 128.109.178.23 wit in nutshel 's packag genr avsexploreretc . 
+it seem imag process system generic scivi system imho major element visual program languag automat exploit inher parallel code generat convert graph standalon program iconifi librari present rich set point filter io transform morpholog segment measur oper . 
+a flow librari allow graph employ broadcast merg synchron condit sequenc control strategi . 
+wit deliv object-ori distribut visual program environ allow user rapid design solut imag problem . 
+user consolid softwar hardwar develop within complet cad-lik workspac ad oper c function object data structur server special hardwar . 
+wit run sun hp90007xx sgi support datacub mv-20200 hardwar allow run graph real-tim . 
+us state complet name address voic fax e-mail info . 
+desir platform . 
+price wit sparc one yr . 
+free upgrad 30 day technic support .................... 5000 us academ institut discount avail contact logic vision ltd . 
+suit 108-3700 gilmor way burnabi b.c . 
+canada v5g 4m1 tel 604-435-2587 fax 604-435-8840 vis-5d a system visual explor output 5-d grid data set made weather model . 
+platform sgi iri vgx gtx tg g graphic sgi crimson indigo r4000 elan graphic suggest irix 4.0.x ibm rs6000 gl graphic aix version 3 later stardent gs-1000 gs-2000 truecolor display in case 32 mb ram suggest . 
+you get freeli thank nasa support via anonym ftp ftp iris.ssec.wisc.edu ftp 144.92.108.63 ftp cd pubvis5d ftp ascii ftp get readm ftp bye note you find packag also wuarchive.wustl.edu graphicsgraphicspackag directori . 
+read section 2 readm file full instruct get instal vis-5d . 
+contact dataexplor ibm platform ibm risc system 6000 ibm power visual server simd mesh 32 i860 40 mhz work announc sgi hp sun contact your local ibm rep . 
+for trial packag ask rep contact david kilgor data explor product market yktvmhkilcor 708 981-4510 wavefront data visual person visual advanc visual . 
+platform sgi sun ibm rs6000 hp dec avail avail platform wavefront technolog . 
+educ program site licens avail . 
+contact wavefront technolog inc . 
+530 east montecito street santa barbara ca 93103 805-962-8117 fax 805-963-0410 wavefront europ guldenspoorstraat 21-23 b-9000 gent belgium 32-91-25-45-55 fax 32-91-23-44-56 wavefront technolog japan 17f shinjuku-sumitomo bldg 2-6-1 nishi-shinjuku shunjuku-ku tokyo 168 japan 81-3-3342-7330 fax 81-3-3342-7353 plot3d fast nasa ame these packag distribut cosmic least distribut inform . 
+in general code us citizen xgraph on contrib tape x11r5 . 
+it specialti display 64 data set 2d . 
+ncar nation center atmospher research . 
+one origin graphic packag . 
+run sun rs6000 sgi vax cray y-mp decstat . 
+contact graphic inform ncar scientif comput divis p.o . 
+box 3000 boulder co 80307-3000 303-497-1201 cost .edu 750 unlimit user .gov 750 1 user 1500 5 user 3000 25 user .com user multipli .gov 2.0 idl an environ scientif comput visual . 
+base array orient languag idl includ 2d 3d graphic matrix manupul signal imag process basic statist grid map widget base system build gui idl applic open look motif ms-window . 
+environ dec vms ultrix hp ibm rs6000 sgi sun microsoft window . 
+mac version progress cost 1500 3750 educ quantiti discount avail . 
+see also comp.lang.idl-pvwav idl-pvwav bundl contact research system inc . 
+777 29th street suit 302 boulder co 80303 phone 303-786-9900 fax 303-786-9909 demo avail via ftp . 
+call e-mail detail . 
+idlsip a lot peopl use idl packag call sip . 
+this develop univers colorado boulder peopl work alex goetz . 
+you might tri contact alreadi idl would will buy . 
+it 's thousand dollar american i expect idl free . 
+those general purpos packag i ve heard besid terramar . 
+sip written aviri imageri . 
+i 'm sure general purpos . 
+you would contact goetz one peopl ask . 
+i anoth piec softwar pcw pc walsh transform pseudocolor cluster limit imag modif comput imag use select compon . 
+i ve use 70 megabyt aviri imag without problem best speed need extern dsp card . 
+it work without larg imag take quit 50-70 time long process . 
+that 's freebi want my favorit idl interact data languag research system inc . 
+idl opinion much better infinit easier . 
+it program languag strong easi pascal-lik . 
+it handl number-crunch well also . 
+person i like number-crunch idl vax mathematica igor even excel mac 's hairi bring nih imag imag part . 
+i yet encount situat combin could n't handl speed eas use compar iraf incred . 
+by way 's most astronom imag process i ve . 
+this mean imag enhanc clean bad linespixel tradit imag process routin . 
+then exampl take graph intens versus posit along line i choos mous curv fit line i might like kaleidagraph . 
+for idl call research system pv-wave call precis visual understand get packag program research system though nfoti visual3 contact robert haim mit fieldview an interact program design assist engin investig fluid dynam data set . 
+platform sgi ibm hp sun x-termin avail current avail platform . 
+educ program volum discount avail . 
+contact intellig light p.o . 
+box 65 fair lawn nj 07410 201794-7550 scian scian primarili intend 3-d visual data interact environ abil generat anim use frame-accur video record devic . 
+a user manual on-lin help technic note help use program . 
+cost 0 free sourc code provid via ftp . 
+platform sgi 4d machin ibm rs6000 gl card z-buffer where find ftp.scri.fsu.edu 144.174.128.34 pubscian a mirror monu1.cc.monash.edu.au 130.194.1.101 pubscian scri from readm scri distribut imag handl system pro- vide imag transport compress local wide area network imag view workstat record video equip storag disk . 
+the system distri- bute among workstat supercomput works- tation supercomput workstat video anim control . 
+the system common use produc video base movi display imag result visual time depend data complex 3d data set imag process oper . 
+both client server run varieti system provid unix-lik c run-tim environ 4bsd socket . 
+the sourc avail anonym ftp csam.lbl.gov 128.3.254.6 pubscry.tar.z contact imag technolog group ms 50b2239 lawrenc berkeley laboratori 1 cyclotron road berkeley ca 94720 svlib fvs svlib x-window widget set base osf open softwar foundat motif widget set . 
+svlib widget macro-widget compris lower level motif widget button scrollbar menus draw area . 
+it design address reusabl 2d visual routin widget librari encapsul specif visual techniqu colormap manipul imag display contour plot . 
+it target run unix workstat support osfmotif . 
+current color monitor support . 
+sinc svlib collect widget develop spirit osfmotif user interfac widget set integr seamless motif widget . 
+programm use svlib widget see interfac design motif widget . 
+fvs visual softwar comput fluid dynam cfd simul . 
+fvs design accept data generat simul appli various visual techniqu present data graphic . 
+fvs accept three-dimension multi-block data record ncsa hdf format . 
+iti.gov.sg 192.122.132.130 pubsvlib scientif visual pufv these directori contain demo binari sun4sgi cost us200 academ us300 non-academ institut . 
+for item . 
+you re get sourc licenc . 
+contact miss quek lee hian member technic staff inform technolog institut nation comput board ncb build 71 sicenc park drive singapor 0511 republ singapor tel 657720435 fax 657795966 gvlware distribut bob an interact volum render sgi raz a disk base movi player sgi icol motif color editor the armi high perform comput research center ahpcrc develop set tool work larg time depend 2d 3d data set . 
+in graphic visual lab gvl use tool along side standard packag sgi explor utah raster toolkit render 3d volum creat digit movi . 
+a coupl general purpos program bundl packag call gvlware . 
+gvlware current consist bob raz icol avail via ftp . 
+the interest program probabl bob interact volum render sgi . 
+raz stream raster imag disk sgi screen enabl movi larger memori play . 
+icol color map editor work bob raz . 
+sourc pre-built binari irix 4.0.5 includ . 
+to acquir gvlware anonym ftp machin ftp.arc.umn.edu file pubgvl.tar.z to use gvlware mkdir gvl cd gvl zcat gvl.tar.z tar xvf readm some bob featur motif interfac sgi gl render render 64 cube data set 0.1 1.0 second vgx alpha composit maximum valu render perspect maximum valu render person iri data must brick byte regular space grid anim subvolum subsampl stereo some raz featur motif interfac sgi gl render load file raw disk partit stream screen requir empti disk partit set asid script interfac avail movi sequenc can stream memori like ncsa ximag some icol featur motif interfac easi creat interpol color map key point rgb hsv yuv color space multipl file format communic chang automat bob raz has test sgi sun dec cray system btw bob brick byte icol interpol color raz name pleas send comment this softwar collect support armi research offic contract number daalo3-89-c-0038 univers minnesota armi high perform comput research center . 
+iap imag applic platform commerci packag medic scientif visual . 
+it volum render binari surfac render multiplanar reform imag manipul cine sequenc intermix geometri text imag provid measur coordin transform abil . 
+it provid hardcopi medic film printer imag databas function interconnect medic ctmrietc scanner . 
+it clientserv base provid object orient interfac . 
+it run high perform workstat take full advantag parallel avail . 
+it robust effici submit fda approv use medic applic . 
+cost 20k oem develop 10k educ develop run time start 8900 go base quantiti . 
+the develop packag includ two day train two peopl toronto . 
+avail isg technolog 6509 airport road mississauga ontario canada l4v-1s7 416 672-2100 18 . 
+molecular visual stuff system display molecular dynam md short flex it public domain packag written michael piqu the scripp research institut la jolla ca . 
+flex store compress tar' archiv 3.4mb perutz.scripps.edu 137.131.152.27 pubflex . 
+it display molecular model md trajectori . 
+macmolecul macintosh . 
+i search archi promis place sumex-aim.stanford.edu info-macapp info-macartqt demo md-display xtalview it crystallographi packag visual molecul much . 
+it use xview toolkit . 
+i write visual code right . 
+i look md output specif format easi alter subroutin pc 's . 
+my program hook gks . 
+if friend access phig x pex fortran bind i would happi share evolv code free charg . 
+right display supercel 65 atom easi chang 100 time step draw nearest neighbor bond 2 defin nn radii . 
+it work accept fast 10mhz 286 . 
+i project molecular visual master 's thesi use unixx11motif generat simpl point space-fil model . 
+kgngraf kgngraf part motecc-91 . 
+look malena.crs4.it 156.148.7.12 pubmotecc . 
+motecc.info.txt inform motecc-91 plain ascii format . 
+motecc.info.troff inform motecc-91 troff format . 
+motecc.form.troff motecc-91 order form troff format . 
+motecc.license.troff motecc-91 licens agreement troff format . 
+motecc.info.p inform motecc-91 postscript format . 
+motecc.form.p motecc-91 order form postscript format . 
+motecc.license.p motecc-91 licens agreement postscript format . 
+i 'm work molecular dynam . 
+a friend mine i develop program display md run dynam silicon graphic . 
+we work improv n't work x use graphi . 
+lib . 
+silicon gr . 
+much faster x . 
+when ll end ll post news info get ftp . 
+will free softwar . 
+xball v2.0 xmol an x window system program use osfmotif display analysi molecular model data . 
+data sever common file format read written current format includ alchemi chemlab-ii gaussian molsim mopac pdb msci 's xyz format design simplic translat format . 
+xmol also allow convers sever format . 
+xmol avail ftp.msc.edu . 
+read pubxmolreadm detail . 
+insight ii biosym technolog inc . 
+scarecrow the program publish j . 
+molecular graphic 10 1992 33 . 
+the program analyz display charmm discov yasp mumod trajectori . 
+the program packag contain also softwar generat probe surfac proton affin surfac molecular orbit extend huckel program . 
+it work silicon graphic machin . 
+multi ns.niehs.nih.gov 157.98.8.8 pub multi 3.0 multi-process molecular model suit mindtool it run sunview requir fortran compil sun 's cgi librari . 
+mindtool tool provid interact graphic manipul molecul atom . 
+current 10000 atom may input . 
+avail via anonym ftp rani.chem.yale.edu directori pubmindtool check archi site 's far i would also suggest look least sgi 's applic directori . 
+it contain mani packag nfoti 19 . 
+gis geograph inform system softwar grass geograph resourc analysi support system us armi construct engin research lab cerl . 
+it popular geograph remot sens imag process packag . 
+mani may think grass geograph inform system rather imag process packag although report signific imag process capabl . 
+featur descript i use grass 's public domain obtain internet free . 
+grass run unix written c . 
+the sourc code obtain anonym ftp offic grass integr . 
+you compil sourc code machin use script provid grass . 
+i would recommend grass someon alreadi workstat limit budget . 
+grass user-friend compar macintosh softwar a first review overview document indic look use pixel resampl function packag plus good general purpos imag enhanc routin fft . 
+kelli mauric vexcel corp . 
+boulder co primari user grass this gentleman use grass softwar develop multi-spectr 238 band ? ? 
+volumetr render full color sun stardent . 
+it realli effect interfac . 
+vexcel corp . 
+current contract map part venus convert magellan radar data contour map . 
+you call host configur requir if will run aux could instal grass macintosh signific imag analysi import capabl satellit data . 
+grass public-domain run high-end pc unix . 
+it raster-bas image-process capabl display vector data analysi must done raster environ . 
+i use grass v.3 sun workstat found easi use . 
+it best cours data well repres raster grid-cel form . 
+avail cerl 's offic grass integr ogi maintain ftp server moon.cecer.army.mil 129.229.20.254 . 
+mail regard site address this locat new canon sourc grass softwar well bug fix contribut sourc document file . 
+this ftp server also support dynam compress uncompress tar archiv file . 
+a featur attract server john park ' grass tutori . 
+becaus manual still beta-test stage john request peopl acquir will review mail commentscorrect . 
+the ogi current maintain document correspond support listserv mail list question support concern miscellan question etc send question tip trick techniqu design implement grass applic send subscrib command both list maintain offic grass integr subset armi corp engin construct engin research lab champaign il . 
+the ogi provid list servic communiti ogi cerl employe particip list make claim content verac messag pass list . 
+if question problem comment send microst imag intergraph base huntsvill alabama sell wide rang gis softwarehardwar . 
+microst base graphic packag imag sit top . 
+imag basic imag process packag heavi gisremot sens flavor . 
+featur descript basic geometri manipul flip mirror rotat general affin . 
+rectif affin 2nd 3rd 4th 5th order model well project model warp imag vector map anoth imag . 
+rgb ih ih rgb convers . 
+princip compon analysi . 
+classif k-mean isodata . 
+fourier xform forward filter revers . 
+filter high pass low pass edg enhanc median generic . 
+complex histogramcontrast control . 
+layer control manag 64 imag time user extract singl band 3 band imag creat color imag combin various individu band etc . 
+the packag design remot sens applic handl veri larg imag kind softwar avail gis applic . 
+host configur requir it run intergraph workstat unix machin similar sun though rumor alway rumor softwar would port pc possibl sun environ . 
+pci a compani call pci inc . 
+richmond hill ontario canada make array softwar util process manipul use remot sens data eight ten differ industri standard format lgsowg bsq landsat coupl other whose titl i forget . 
+the softwar avail version ms-dos unix workstat among hp sun ibm vms quit possibl platform . 
+i use vms version . 
+the pci softwar consist sever classesgroupspackag util group function oper common pci databas disk file . 
+the tape io packag set util program read various remote-sens industri tape format into write format from pci databas file packag i use know much . 
+other packag display data pci databas one anoth sever pci-support third-parti color display output numer bitmap represent imag data attach printer e.g . 
+epson-typ dot-matrix graphic printer . 
+you might spe- cific interest mathemat oper packag histo- gram fourier analysi equal user-specifi oper e.g . 
+multipli channel 1 3 add channel 2 store channel 5 god know els 's lot . 
+i n't n't use ca n't say much buy packag particular applicationinterest call . 
+each util control one eight paramet read common paramet file must vms anyway default directori some util share paramet use paramet differ purpos get bit confus set seri oper . 
+the standard pci environ contain script languag similar ibm-pc basic allow autom process set paramet common complic lengthi difficult seri util execut . 
+in vms i also invok util independ dcl command procedur . 
+there 's also option program librari allow write compil languag program interfac read fromwrit pci data structur databas file paramet file . 
+the pci softwar design specif remote-sens imag requir level oper expertis reach level handl r-s imag figur way handl thing well . 
+for instanc tape io packag offer util read headerless multi-band adob photoshop macintosh call raw data tape number differ interleav order . 
+this turn ideal manipul graphic-art industri 's ct2t format would probabl i n't tri handl targa . 
+abov howev have to know what you re do screw nth degre start . 
+it 's worth note pci databas file design contain raster imag data vector overlay map inform enter via digit tabl land-us manner inform i observ remote-sens imag tape often contain manner inform spectral band latitud longitud time date etc . 
+origin satellit pass go pci databas . 
+i believ workstat built-in display use . 
+on vax system other workstat pci support coupl specif third-parti display system name goulddeanza seem come mind . 
+one my person workaround display program would display direct pci databas file peritek vct-q q-bus 24-bit directcolor display subsystem . 
+pci softwar could overkil case seem design high end applicationsus i.e . 
+macpc larg n't suffic although know gap get smaller time . 
+it 's probabl coincid pci locat canada countri lot landresourc manag via remot sens i believ canadian govern use pci softwar work area . 
+spam spectral analysi manag back 1985 jpl develop someth call spam spectral analysi manag got fair amount use time . 
+that design airborn imag spectromet imageri byte data 256 pixel across 512 line 256 band modifi version sinc develop aviri airborn visual infrar imag spectromet use much larger imag . 
+spam none thing rectif classif pc ih transform filter contrast enhanc overlay . 
+actual limit filter contrast enhanc stretch . 
+spam aim spectral identif cluster . 
+the origin spam use x sunview display . 
+the aviri version may requir vicar execut base tae may also requir frame buffer . 
+i refer peopl re interest . 
+pcw requir x display . 
+map ii among mac gis system map ii distribut john wiley . 
+clrview clrview 3-dimension visual program design exploit real-tim capabl silicon graphic iri comput . 
+this program design provid core set tool aid visual inform cad gis sourc . 
+it support integr mani common disper data sourc dxf tin dem lattic arcinfo coverag among other . 
+clrview obtain explorer.dgp.utoronto.ca 128.100.1.129 directori pubsgiclrview . 
+contact rodney hoink head design applic centr landscap research univers toronto tel 416 978-7197 end resourc list 

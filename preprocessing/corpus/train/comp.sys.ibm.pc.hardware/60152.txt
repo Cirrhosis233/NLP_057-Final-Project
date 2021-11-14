@@ -1,0 +1,8 @@
+do realli need switch dx266 instead dx50 ? 
+as i understand dx50 's local bus devic mother-board ? 
+local bus slot . 
+and accord i told mani system go beyond vesa local bus standard order provid dx50 system local bus slot capabl . 
+i definit seen mother board 2 local bus slot claim abl support cpu includ dx266 dx50 . 
+can someon throw inform light issu ? 
+you need check peripher maker see board work 50 mhz . 
+some motherboard . 

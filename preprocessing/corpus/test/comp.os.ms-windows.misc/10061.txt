@@ -1,0 +1,4 @@
+we research support various platform applic use multi-byt charact e.g . 
+japanes kanji . 
+we know unix x window contain support i18n standard depend level platform . 
+what support i18n wide charact exist mac window 3.1 window nt ? 

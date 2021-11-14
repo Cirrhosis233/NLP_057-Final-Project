@@ -1,0 +1,5 @@
+i tri run xwd sun sparcstat ipx suno 4.1.2 openwindow 3.0 . 
+i use motif window manag . 
+i unsuccess use xwd motif . 
+i get follow xwd -out xwd.dmp x error fail request baddraw invalid pixmap window paramet major opcod fail request 73 xgetimag resourc id fail request 0x500043 serial number fail request 213 
+current serial number output stream 213 

@@ -1,0 +1,4 @@
+i use glx widget athena widget mixed-model applic 4dwm dialog get pop text entri field focus . 
+aimilar code work perfect i use pure x mixed-model . 
+here relev portion code . 
+int n arg wargs16 widget button popupshel dialog initi toplevel n 0 xtsetargwargsn xtnlabel foo n button xtcreatemanagedwidgetfoobtn commandwidgetclass toplevel warg n popupshel xtcreatepopupshellpupshel overrideshellwidgetclass button null 0 xtaddcallbackpopupshel xtncallback mypopup xtpointerpopupshel n 0 xtsetargwargsn xtnvalu n dialog xtcreatemanagedwidgetthedialog dialogwidgetclass popupshel warg n void mypopupw popupshel calldata widget w widget popupshel xtpointer calldata xtpopuppopupshel xtgrabexclus a way i found give focus text field move applic window around littl bit place right behind popup . 

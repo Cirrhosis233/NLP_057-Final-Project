@@ -1,0 +1,22 @@
+i understand new gps box option known differenti readi . 
+appar land-bas beacon tranmit gps correct inform gps receiv differenti option instal . 
+how system work ? 
+what frequenc use land-bas beacon ? 
+thank advanc charli thompson here 's rough sketch system work . 
+a refer station exact known posit comput error incom gps signal . 
+these error due sever factor includ atmospher distort sa select avail time dither etc . 
+the refer unit contain complex comput equip back error posit sinc know alreadi . 
+it transmit correct broadcast avail number relat local receiv . 
+if receiv nearbi 300km use satellit refer unit error similar refer unit receiv unit . 
+thus receiv unit may appli correct calcul refer unit . 
+the us coast guard current far i know instal seri coastlin transmitt differenti gps . 
+these station use exist radio tower . 
+i believ frequenc approxim 305 khz . 
+there mani privat corpor offer dgps signal differ frequenc . 
+for exampl pinpoint 310-618-7076 offer correct signal receiv unit use fm broadcast system station across us . 
+the correct code usual transmit use rtcm 104 format . 
+advertis accuraci espous 1 5 meter error . 
+john p . 
+baker my opinion . 
+i n't know john hopkin univers anyon els want anyway . 
+appli physic laboratori 

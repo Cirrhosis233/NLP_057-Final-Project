@@ -1,0 +1,12 @@
+it seem use 16450 uart chip machin . 
+is 16550 uart chip 16-byte buffer ? 
+no 's . 
+accord sale critter i spoke last week though gateway use socket chip . 
+you abl find 16550afn 15 upgrad chip . 
+minor nuisanc . 
+for whatev 's worth gw salesman said 16450 would 14.4kbps solder board . 
+will someon recent gw pls settl inspect ! 
+phil mine 16450 soder right card . 
+whi would need 16550 anyway ? 
+from i ve heard re multitask fifo buffer keep loos data . 
+is right ? 

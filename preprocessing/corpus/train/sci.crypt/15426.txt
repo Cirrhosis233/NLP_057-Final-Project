@@ -1,0 +1,60 @@
+hmm followup post ... 
+well care . 
+first let tri work fact get know clipper-chip hellman den abl tell us the chip confin digit telephoni perform general encrypt symmetr manner . 
+the chip support cfb ofb ecb whatev fourth mode oper des algorithm consist 32 round whatev take 80-bit key . 
+input data seem 64 bit ? 
+yes . 
+so two peopl want secur communic whatev mean clipper involv first agre one secret key . 
+or one key per direct they exchang key via dh-scheme howev . 
+somehow two feed secret key clipper-chip readi work . 
+the clipper chip carri uniqu serial-numb 30 bit 's 160 key-bit . 
+these 160 key-bit seem gain encrypt serial-numb 160 seed-bit . 
+the seed-bit seem store chip at begin communic perhap certain invterv whithin ? ? 
+send fist real 64-bit output first encrypt clipper chip put 's packet i guess 3 repres serial number session key . 
+this might look like x ek chipkeyk1k2 serial number x transform 3 ? 
+packet involv family-key . 
+this familysp ? -key equal all chip . 
+x might simpl xor ? ? ? 
+after digit ? 
+phone-cal done usual everi packet encrypt decrypt clipper . 
+den describ k1 k2 shall generat use seed 160 bit 's . 
+now leav alon polit concern much american citicientm weak point scheme might exploit sever parti . 
+as far i know generat k1k2 s1 s2 look like obvious backdoor . 
+they could use generat chip-key know serial-numb also family-key chip . 
+i realli ca n't imagin seed would need otherwis true random-sourc generat k1k2 bought much money . 
+then escrow . 
+each get 80 bit 160-bit key . 
+secur could littl exist maxim give 160-bit xore togeth give k1k2 . 
+now let 's simpli assum escrow trustworthi ca n't fool crimin law enforchemnt agenc . 
+and quarrel escrow l.e.a would hinder l.e.a duti onc key surrend correspond chip compromis forev . 
+not clever imho how send encrypt session-key phone-cal polic whoever want 's listen ? 
+escrow could simpli decod session-key send back polic . 
+and would natur warrant expir ... 
+this would better technic solut i guess polit work way . 
+appar miss den state one perform actual decod intercept messag shall fbi . 
+great . 
+so local guy inter- cept understand traffic anymor . 
+doe mean fbi monopol right legal wiretap how law i idea allow tap this certain mean watch communi- cation rout automat service-provid compani fbi communicaiton watch one . 
+and mean far i understand family-key known switching- compani provid cellular-phon servi etcetc . 
+so family-key secret thus serial-numb call readabl anybodi care . 
+i like traffic-analysi ! 
+what guess happen use chip ecb mode first packet chip somehow lost garbl ? 
+so session key would actual broadcast line ? 
+hmmm . 
+should n't difficult and last point side . 
+after i read heard clipper program languag dbase seem mani advantag shold overseen ! 
+now afterthought right . 
+pleas note i idea i talk ! ! ! 
+amend 1 congress shall make law respect establish religion prohibit free exercis thereof abridg freedom speech press right peopl peaceabl assembl petit govern redress grievanc . 
+if text actual bill right overrul but freedom speech ' secreci speech ' mayb need extend amend 4 cover inform communic i sure posit govern actual legal tri ban cryptographi arm amend say may condit . 
+hmm tricki situat actual make much sens discuss topic sci.crypt ... 
+discuss technic detail vulnerabilit system high suggest appreci friend greet germano caronni disclaim everyth deriv thing i heard read person everyth could wrong . 
+all opinion thought mine subject chang without notif . 
+no warranti neither implicit explicit etc . 
+etc . 
+etc . 
+ad nauseam . 
+p.s . 
+pleas n't ask polit opinion i might bother re- pli . 
+for inform read last line p . 
+metzger signatur 

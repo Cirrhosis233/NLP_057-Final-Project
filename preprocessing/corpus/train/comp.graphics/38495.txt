@@ -1,0 +1,5 @@
+i would like program tseng et4000 nonstandard 1024x768 mode switch standard 1024x768 mode use bio chang time detail 0x3d4 regist 0x00-0x1f i n't know select 36 mhz pixel clock i need . 
+the bio function select 40 mhz . 
+is anybodi know obtain technic info . 
+i also interest technic inform tseng et4000 trident 8900 9000 chipset . 
+thank much 

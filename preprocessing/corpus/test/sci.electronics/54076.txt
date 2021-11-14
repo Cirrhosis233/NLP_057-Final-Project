@@ -1,0 +1,12 @@
+i need make power suppli take input cigarett lighter car 12v dc drive 7.5 volt 3.0 amp . 
+i know enough know simpl voltag divid two resistor wo n't right . 
+can thing made radio-shack- part without much difficulti ? 
+jps bf p.s . 
+i ve look premad thing like radio shack none seem go higher 800ma . 
+joel skelton north avenu trade school dept . 
+round thing see radio shack nation semiconductor adjust voltag regul nation part number lm350t lm350k . 
+these devic digi-key corp . 
+part well sever use regul . 
+if n't catalog phone number 1-800-344-4539 . 
+i guess may intend recharg 7.5 vdc nicad batteri devic i 'm right may want look hobbiest book get various idea batteri charg circuit first . 
+if get stuck e-mail fax number one i ll send suggest schemat . 

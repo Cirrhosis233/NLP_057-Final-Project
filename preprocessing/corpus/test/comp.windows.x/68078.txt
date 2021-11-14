@@ -1,0 +1,9 @@
+an applic must use requir upper-cas input . 
+i 'd like abl simpli move cursor window applic run text window xterm everyth i type enter all cap . 
+when cursor mani window i want automat return normal function . 
+i point-to-typ set . 
+is way x specif ow 3.0 sparc ? 
+is way mess .xdefault make categori window ? 
+ani hint would appreci . 
+i program c x although i pick somth 's involv . 
+thank kind . 

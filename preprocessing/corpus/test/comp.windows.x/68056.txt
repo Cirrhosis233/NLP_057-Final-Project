@@ -1,0 +1,3 @@
+i plan convert motif 1.2 app pixel font unit would set app 's resourc file instead hard code program . 
+howev word peopl tri alreadi unknown reason xmform offset place resourc file still interpret pixel unit forc peopl code offset font unit program . 
+can somebodi confirm ? 

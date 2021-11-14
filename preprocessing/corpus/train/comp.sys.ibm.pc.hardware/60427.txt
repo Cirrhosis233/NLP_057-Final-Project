@@ -1,0 +1,24 @@
+point view scsi advantag come multi- task ? 
+data data could anywher drive . 
+can scsi find faster ? 
+get drive comput faster ? 
+doe better cach system ? 
+i thought scsi good manag data bus multipl devic attach . 
+if talk singl drive explain scsi inher faster manag data hard drive . 
+the adaptec 1540-seri use bus master . 
+this mean cpu n't sit wait data byte go comput advanc multi-task os . 
+dos sit wait anyway . 
+ide integr devic electron current common standard main use medium size drive . 
+can one hard drive . 
+asynchron transfer 5mbs max . 
+whi n't start spec-sheet isa bus first ? 
+you quot scsi spec till re blue face exceed isa bus capabl 's point ? 
+who say ide limit 5 megssec ? 
+what vlb-ide ? 
+doe anyon know perform ? 
+whi n't start spec-sheet isa bus first ? 
+ide design plug isa virtual unaid essenc ide isa ribbon cabl . 
+therefor 's spec isa 8mhz clock 16 bit width 5mbsec . 
+this i ve conclud ide vl-bus wast fast slot . 
+the card 's job would slow vl-bus transact isa speed . 
+heck 's isa slot i ll use one instead . 

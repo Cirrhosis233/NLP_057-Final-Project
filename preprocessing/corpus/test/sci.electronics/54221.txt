@@ -1,0 +1,28 @@
+where i buy blink led besid radio shack ? 
+doe anyon sell blink led variabl flash rate ? 
+voltag i guess if hertz puls rate adjust set ? 
+i 'd like blink led set approx 5 hz 10 hz 15 hz 20 hz . 
+someth like ... 
+i 'm interest 's flash rate . 
+i like idea led flasher circuit alreadi . 
+i hate solder ic general . 
+guess i n't hell lot patienc . 
+thank dana if want slow led flash rate adjust switch 40664016 digit control switch i suggest look 555 oscil chip . 
+they cost 1 radio shack much cheaper quantiti qualiti place abl find good info simpl circuit 555 oscialltor notebook i think forest mim one radio shack . 
+you ll toy resistorcapacitor valu or use head littl math get right frequenc . 
+ani engin worth salt make 555 oscial ... 
+it 's book left see i hate ascii circuit graphic . 
+the 555 accur go hz 500 khz i think . 
+about tape record gizmo could alter stereo tape deck use one channel data line flash led one audio line voic music . 
+this would elimin lot nois . 
+the data line probabl easili done kind pll bandpass filter use op-amp . 
+the 565 chip good pll hard work . 
+howev noth pll work i suggest n't tri . 
+op-amp inform also found forest mim radio shack info-booklet popular 741 op-amp snap work . 
+set frequenc bandpass filter valu easi i would suggest 555 method firstmost ... 
+i idea go i realli general ... 
+as manufactur techniqu re goof i suggest breadboard thing ... 
+no need solder . 
+wire-wrap would next perman step . 
+and last solderingpcb make . 
+hope clear thing ...... 

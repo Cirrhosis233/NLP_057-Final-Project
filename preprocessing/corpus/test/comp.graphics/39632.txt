@@ -1,0 +1,64 @@
+can someon know re talk add faq entri gamma correct ? 
+thank . 
+i get regular question gamma correct sinc i go great pain deal proper xli imag loader program i maintain . 
+here explan i often use answer question . 
+this might suitabl inclus faq . 
+graem gill . 
+a note gamma correct imag author graem w . 
+gill date 93516 what gamma stuff anyway although would nice think imag imag lot complic . 
+not whole bunch differ imag format gif jpeg tiff etc etc whole lot technic stuff make deal imag bit complic . 
+gamma one thing . 
+if ve ever download imag bbs net ve probabl notic imag view program imag look ok look dark look light . 
+whi may ask . 
+this gamma correct lack . 
+whi need gamma correct gamma correct need natur crts cathod ray tube monitor usual use view imag . 
+if sort real live scene turn comput imag measur amount light come point scene creat linear un-gamma-correct imag . 
+this good thing mani way manipul imag valu imag file light ie . 
+ad multipli work like real light real world . 
+now take imag file turn pixel valu voltag feed crt find crt n't give amount light proport voltag . 
+the amount light come phosphor screen depend voltag someth like lightout voltag crtgamma so dump nice linear imag crt imag look much dark . 
+to fix gamma correct imag first . 
+you need opposit crt imag thing cancel get want . 
+so imag gammacorrectedimag imag 1crtgamma for crts crtgamma somewher 1.0 3.0 . 
+if seem complic the problem display program gamma correct . 
+also sourc imag give linear imag video camera video signal general . 
+becaus lot imag alreadi gamma correct done rare sure much . 
+if tri display one imag program gamma correct imag get correct twice look way light . 
+if display one imag program n't gamma correct look vagu right perfect gamma correct exact right particular crt . 
+whose fault it realli three thing . 
+one display program n't gamma correct proper . 
+anoth imag format n't specifi standard gamma n't way record gamma correct . 
+the third thing mani peopl understand gamma correct creat lot imag vari gamma 's . 
+at least two file format right thing . 
+the utah graphic toolkit .rle format semi-standard way record gamma imag . 
+the jfif file standard use jpeg compress specifi imag encod must gamma 1.0 ie . 
+linear imag everyon obey rule . 
+some imag loader instanc xli x11 imag util allow specifi gamma monitor use individu gamma valu imag tri view . 
+other imag viewer eg . 
+xv anoth x11 imag program util eg . 
+pbm toolkit provid way chang gamma imag figur overal gamma correct allow undo gamma correct imag gamma correct need suit crt monitor . 
+note xv 2.21 n't provid easi way modifi gamma imag . 
+you need adjust r g b curv appropri gamma coledit control . 
+alter intens hsv control n't right thing fail take account effect gamma h s . 
+this tend give tint imag . 
+how i figur viewer gamma screen the simplest way tri load file chkgamma.jpg provid xli distribut jfif jpeg format file contain two grayscal ramp . 
+the ramp chosen look linear human eye one use continu tone use dither . 
+if viewer right thing gamma correct imag two ramp look symmetr point look equal bright almost exact half way top bottom . 
+to find point help move away littl screen de-focus eye bit . 
+if viewer n't gamma correct left hand ramp long dark part short white part point equal bright center . 
+if viewer way set right amount gamma correct display equal bright point center increas gamma decreas center . 
+the valu usual around 2.2 xli instanc adjust display gamma -dispgamma flag ve got right set displaygamma environ variabl .profil how i figur gamma imag this tricki bit . 
+as general rule seem lot true color ie . 
+24 bit .ppm .jpg imag gamma 1.0 linear although mani gamma correct . 
+it seem major pseudo color imag ie . 
+8 bit imag color map .gif etc . 
+gamma correct degre . 
+if viewer gamma correct linear imag look good gamma correct imag look light . 
+if viewer n't gamma correct linear imag look dark gamma correct imag ok . 
+whi linear imag sometim good thing one reason mani high qualiti format video use gamma correct actual make better use storag medium . 
+this human eye logarithm respons light gamma correct similar compress characterist . 
+this mean imag could make better use 8 bit per color instanc use gamma correct . 
+the implic though everi time want imag process convert 8 bit imag 12 linear bit retain accuraci . 
+sinc littl popular softwar none popular imag format agre standard gamma correct factor difficult justifi gamma correct imag popular level . 
+if imag format standard particular gamma imag manipul softwar take care use extra precis deal linear intern data gamma correct distribut imag would good thing . 
+i told kodak photocd format instanc standard gamma correct factor enabl get highest qualiti bit use hold imag . 

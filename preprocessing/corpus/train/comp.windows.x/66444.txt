@@ -1,0 +1,11 @@
+i new x program pleas bear .... 
+i tri dialog box return 's valu upon user enter new valu hit return key . 
+n't want done button . 
+the piec code work i exclud xtnvalu argument work . 
+can someon shed light suggest better way ? 
+ultim i sever area activ time allow user modifi paramet program . 
+thank help karen roger dupont code start void doit 
+printfent doit 
+functionn exit mainargc argv int argc char argv widget toplevel widget outer xtappcontext appcon widget sampl arg args3 static xtactionsrec keyact doit 
+doit 
+toplevel xtvaappinitializeappcon test null 0 argc argv null null outer xtcreatemanagedwidget pane panedwidgetclass toplevel null zero xtappaddactionsappcon keyact xtnumberkeyact xtsetargargs0 xtnlabel enter valu xtsetargargs1 xtnvalu 0 sampl xtcreatemanagedwidgetsampl dialogwidgetclassouterargs2 xtoverridetranslationssampl xtparsetranslationtablekeyreturn doit 

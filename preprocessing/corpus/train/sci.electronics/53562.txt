@@ -1,0 +1,22 @@
+there two simpl procedur alter odomet . 
+1 . 
+mechan driven odomet remov speedo cabl transmiss . 
+attach drill run max speed speedo turn . 
+continu desir mileag reach . 
+2 . 
+electron driven odomet remov sensor wire sensor . 
+attach calibr signal oscop wire . 
+run speedo turn attain desir mileag . 
+dear faster .. 
+i kinda wonder .. 
+ever tri version 2 ? 
+on ? 
+sinc sensor wire bmw feed also comput .. 
+n't know signal voltag expect .. 
+bad thing could happen ... 
+also sinc n't know puls rate may damag analog part speedo yes .. 
+bmw use combin instrument .. 
+speed analog trip total milag digit needl peg 160mph stop .. 
+just thought ... 
+you ve got oscilliscop connect sensor wire measur stuff . 
+that way know expect . 

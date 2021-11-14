@@ -1,0 +1,11 @@
+hi . 
+one cowork odd problem . 
+his mous work fine dos applic load c prompt . 
+under window mous pointer present move . 
+even load dos app window mous n't work . 
+the comput zeo 386sx-20 wdiamond speedstar vga run ms dos 5.0 window 3.1 . 
+mous driver microsoft 's 8.2 . 
+i ve tri switch mous com1 com2 i ve tri differ mous i ve reinstal mouse.drv i ca n't get blame thing work . 
+the differ system mine mous work perfect expans card addit parallel serial port . 
+could caus problem ? 
+thank advanc help . 

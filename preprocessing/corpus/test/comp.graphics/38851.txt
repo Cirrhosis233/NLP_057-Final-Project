@@ -1,0 +1,529 @@
+archive-nam graphicsresources-listpart1 last-modifi 19930427 comput graphic resourc list 
+week post part 13 last chang 27 april 1993 mani faq includ list 
+avail archiv site pit-manager.mit.edu alia rtfm.mit.edu 18.172.1.27 directori pubusenetnews.answ . 
+the name faq archiv appear archive-nam line top articl . 
+this faq archiv graphicsresources-listpart1-3 there 's mail server machin . 
+you send e-mail messag quot ! 
+messag bodi . 
+you see mani place list . 
+see item 0 . 
+place find resourc list 
+inform . 
+item chang re-arrang subject order fir better 63karticl limit . 
+i plan on chang header soon so be care ! 
+onli the resourc list 
+key sure remain subject line ! 
+3 . 
+comput graphic ftp site list eric hain 4 . 
+mail server graphics-ori bbses 9 . 
+plot packag i 'm think make post bi-week . 
+what think ? ? ? 
+line got chang charact front . 
+ad line prepend remov line remov . 
+use diff ' locat chang . 
+this text ccopyright 1992 1993 nikolao c . 
+foti . 
+you copi freeli file provid keep copyright notic intact . 
+pleas contact updatescorrect etc . 
+disclaim i guarante accuraci document . 
+use risk . 
+this main guid comput graphic softwar . 
+i would suggest read comp . 
+graphic faq imag analysi stuff . 
+it 's entitl date comp.graph frequent ask question faq offici comp.graph faq i includ comment within brace `` `` . 
+nikolao foti content resourc list 
+part1 0 . 
+place find resourc list 
+1 . 
+archi 2 . 
+note 3 . 
+comput graphic ftp site list eric hain 4 . 
+mail server graphics-ori bbses 5 . 
+ray-tracinggraphics-rel mail list . 
+6 . 
+3d graphic editor . 
+public domain free sharewar system b . 
+commerci system 7 . 
+scene descript languag 8 . 
+solid descript format part2 9 . 
+plot packag 10 . 
+imag analysi softwar imag process display part3 11 . 
+scene generatorsgeograph datamapsdata file 12 . 
+3d scanner digit 3d data . 
+13 . 
+background imagerytexturesdatafil 14 . 
+introduct render algorithm . 
+ray trace b . 
+z-buffer depth-buff c . 
+other 15 . 
+where i find geometr data . 
+teapot b . 
+space shuttl 16 . 
+imag annot softwar 17 . 
+scientif visual stuff 18 . 
+molecular visual stuff 19 . 
+gis geograph inform system softwar futur addit pleas send updatesinfo ! 
+0 . 
+place find resourc list 
+this file crosspost comp.graph comp.answ news.answ ca n't locat comp.graph re advis search comp.answ news.answ the latter group usual archiv site . 
+contact sysadmin info . 
+these 3 articl post comp.graph 3-4 time month kept mani place see mani faq includ one avail archiv site pit-manager.mit.edu alia rtfm.mit.edu 18.172.1.27 directori pubusenetnews.answ . 
+the name faq archiv appear archive-nam line top articl . 
+this faq archiv graphicsresources-listpart1-3 there 's mail server machin . 
+you send e-mail messag the inria-graphlib mail server mirror post see subject 4 mail server the resourc list 
+acces wai machin enuxva.eas.asu.edu port 8000 name graphics-resources-list . 
+it 's got digest-typ line everi number item purpos index . 
+anoth place monitor list 
+maasinfo file . 
+yet anoth place search faq general switch swiss academ research network system switzerland interact telnet nic.switch.ch 130.59.1.40 login info . 
+move infoserviceusenetperiodic-post directori . 
+search 00index file type word look . 
+you may read faq faq directori decid fetch one follow method . 
+ftp login nic.switch.ch 130.59.1.40 user anonym enter internet-styl address prompt password . 
+cd infoserviceusenetperiodic-post mail send e-mail rfc-822 x.400 sarchive-serverounicoswitchprmdswitchadmdarcomcch enter help ' bodypart receiv instruct . 
+no inform requir subject header line . 
+1 . 
+archi the archi servic system locat ftp place request file . 
+it 's appreci use archi ask help newsgroup . 
+archi server archie.au 139.130.4.6 aussienz archie.funet.fi 128.214.6.100 finlandeur . 
+archie.th-darmstadt.d 130.83.128.111 ger . 
+cs.huji.ac.il 132.65.6.5 israel archie.kuis.kyoto-u.ac.jp 130.54.20.1 japan archie.sogang.ac.kr 163.239.1.11 korea archie.ncu.edu.tw telnet 140.115.19.24 twn archie.doc.ic.ac.uk 146.169.3.7 ukireland archie.sura.net 128.167.254.179 usa md archie.unl.edu password archie1 usa ne archie.ans.net 147.225.1.2 usa ny archie.rutgers.edu 128.6.18.15 usa nj archie.nz 130.195.9.4 new zealand connect archi server telnet type archi usernam . 
+to get help type help ' . 
+you get xarchi ' archi ' client call archi without burden telnet session . 
+xarchi ' x11.r5 contrib tape archi ' comp.sources.misc vol . 
+27 . 
+to get inform use archi via e-mail send mail subject help archi account site . 
+note janetpss user unit kingdom archi site access janet host doc.ic.ac.uk 000005102000 . 
+connect specifi archi host name archi usernam . 
+2 . 
+note excerpt faq articl pleas post mail messag say i ca n't ftp could someon mail ? 
+there number autom mail server send thing like respons messag . 
+there number site archiv usenet sourc newsgroup make avail via email queri system . 
+you send messag autom server say someth like send comp.sources.unixfbm hour day later get file mail . 
+3 . 
+comput graphic ftp site list eric hain comput graphic relat ftp site maintain 220493 ray-trac rayshad great ray tracer workstat also pc mac amiga . 
+pov son successor dkb trace written compuserv . 
+for question call drew well art ray tracer good rang surfac type part vort packag . 
+dkbtrace anoth good ray tracer report pcs mac ii amiga unix vms last two x11 preview etc . 
+rtrace portuges ray tracer bicub patch csg 3d text etc . 
+etc . 
+an ms-dos version use djgpp dos extend go32 exist also mac port . 
+vivid2 a sharewar raytrac pcs binari 286287 . 
+author avail regist user us50 direct author . 
+ray4 steve hollasch 's 4-dimension ray tracer render hyperspher hypertetrahedra hyperplan hyperparallelepip 's separ real-tim wirefram viewer written gl call wire4 mtvqrtdbw yet ray tracer interest featur . 
+distributedparallel raytrac xdart a distribut ray-trac run x11 . 
+there server binari work decstat sparc hp snake 7x0 seri next . 
+the client distribut binari c sourc . 
+inetray a network version rayshad 4.0 . 
+need sun rpc 4.0 newer . 
+prt vmpray parallel ray tracer . 
+volum render vrend cornel 's volum render kartchdevinecaffeywarren fortran . 
+radios diffus light render radianc ray tracer wradios effect greg ward . 
+excel shade model physic base light simul . 
+unixx base though port amiga pc 386 . 
+india an indian radios packag base radianc . 
+sgirad an interact radios packag run sgi machin spacebal . 
+it includ hous databas . 
+rad simpl public-domain radios packag c . 
+the solut run stand-alon unix box walk-through requir sgi 4d . 
+render raytrac graphic librari sipp scan line z-buffer phong shade render . 
+now use shadow buffer algorithm . 
+tcl-sipp tcl command interfac sipp render program . 
+tcl-sipp set tcl command use program sipp without write compil c code . 
+command use specifi surfac object scene render option . 
+it render either ppm format utah raster toolkit rle format photo widget tk-base x11 applic . 
+vogl graphic learn environ devic portabl . 
+vogl sgi gl-like librari base vogl . 
+rend386 a fast polygon render intel 386s . 
+version 2 . 
+it 's photorealist rather real-tim render xsharp21 dr . 
+dobb 's journal pc render sourc code budget textur map . 
+model wirefram viewer vision-3d mac model output radianc rayshad file . 
+irit a csg solid model support freeform surfac . 
+x3d a wirefram viewer x11 . 
+3dv 3-d wirefram graphic toolkit c sourc 3dv object stuff look major pc archiv like wuarchiv . 
+one file 3dkit1.zip pv3d sharewar front end model povray still beta test . 
+french doc price regist 250 french franc . 
+save disabl . 
+some extra util dxf file regist version . 
+geometr viewer salem a gl-base packag dobkin et al . 
+explor mathemat structur . 
+geomview a gl-base packag look interact manipul 3d object geometri center minnesota . 
+xyz geobench -experiment geometri zurich workbench geometr comput macintosh comput . 
+wire4 gl wirefram preview steve hollasch 's ray4 see data format data set ray trace spd set procedur databas test ray tracer . 
+nff simplist file format use spd . 
+off anoth file format . 
+p3d lispi file format . 
+tddd imagin 3d model format convert rayshad nff off etc . 
+also includ nice postscript object display . 
+some great model . 
+ttdddlib convert tofrom tdddttddd off nff rayshad 4.0 imagin vort 3d object . 
+also output framemak mif file isometr view postscript . 
+regist user get tex pk font convert superquadr surfac generat . 
+note ttdddlib also known t3dlib chvrtd chapel hill volum render test dataset includ volum set two head brain knee electron densiti map rna other . 
+written materi render rt news collect articl ray trace . 
+rt bib refer articl ray trace refer format . 
+rad bib refer articl radios global illumin . 
+speer rt bib rick speer 's cross-referenc rt bib postscript . 
+rt abstract collect tom wilson abstract mani rt articl . 
+paper bank project various technic paper electron form . 
+contact onlin bibliographi project the acm siggraph onlin bibliographi project databas 15000 uniqu comput graphic comput geometri refer bibtex format avail comput graphic communiti research educ resourc . 
+the databas locat siggraph.org . 
+user may download bibtex file via ftp perus offlin telnet siggraph.org log biblio interact search databas entri interest keyword . 
+for peopl without internet access 's also e-mail server . 
+send mail subject bodi messag includ messag send follow topic subtop wish . 
+a good place start command send index give up-to-d list avail inform . 
+additionscorrectionssuggest may direct admin imag manipul librari utah raster toolkit nice imag manipul tool . 
+pbmplus great packag imag convers manipul . 
+libtiff librari readingwrit tiff imag . 
+imagemagick x11 packag display interact manipul imag . 
+use format miff includ convert . 
+xv x-base imag display manipul format convert . 
+xloadimag xli display various format x11 screen . 
+khoro huge excel system imag process visual program interfac much much . 
+use x window . 
+fbm anoth set imag manipul tool somewhat old . 
+img imag manipul display x11 screen bit old . 
+xflick play .fli anim x11 xanim play resolut fli along gif'sinclud gif89a anim extens dl 's amiga iff animations35jl iff picturesinclud hamehb color cycl sdsc sdsc imag tool packag san diego supercomput center imag manipul convers clrpaint a 24-bit paint program sgi 24bit workstat 8bit indigo . 
+librari code graphic graphic gem iiiiii code ever use book . 
+spline-patch.tar.z spline patch ray intersect routin sean grave kaleido comput 3d display uniform polyhedra . 
+mirror wuarchiv . 
+this packag comput display metric properti 75 polyhedra . 
+author dr . 
+zvi har'el mean site offici distributor date . 
+north america pleas look thing contin first ... 
+wuarchive.wustl.edu 128.252.135.4 graphicsgraph get content file roadmap . 
+graphicsgraphicsobjectstddd ttddd object convert mirrorsunix-cgraph rayshad ray tracer mtv ray tracer vort ray tracer fbm pbmplus popi utah raster toolkit . 
+mirrorsmsdosgraph dkb ray tracer fli raytrack demo . 
+pubrad.tar.z sgirad graphicsgraphicsradios radianc indian radios packag . 
+msdosddjmagddj9209.zip version 21 xsharp fast textur map . 
+there 's lot includ bib graphic gem i ii code off rtn radianc nff sipp spline patch intersect routin textbook errata sourc code roy hall 's book illumin color comput generat imageri etc graphicsgraphicspackageskaleido kaleido princeton.edu 128.112.128.1 pubgraph note capit g rayshad 4.0 ray tracer separ 387 execut color quantize code spd rt news wilson 's rt abstract rt bib utah raster toolkit newer fbm graphic gem i ii iii code . 
+pubgraph directori salem stuff . 
+replac weedeater.math.yale.edu note capit g pubgraph becaus 's troubl princeton 's incom area upload rayshade-specif stuff weedeater.math.yale.edu 128.36.23.17 alfred.ccs.carleton.ca 134.117.1.1 pubdkbtrac dkb ray tracer pubpov-raypov-ray1.0 pvray compuserv group ray tracer pov . 
+avalon.chinalake.navy.mil 129.131.31.11 3d object multipl format util file format document . 
+this site creat 3d object repositori net . 
+omicron.cs.unc.edu 152.2.128.159 pubsoftlabchvrtd chapel hill volum render test dataset . 
+ftp.mv.com 192.80.84.1 offici ddj ftp repositori . 
+xsharp peipa.essex.ac.uk 155.245.115.161 pilot european imag process archiv directori ipasynth someth like imag synthesi packag . 
+barkley.berkeley.edu 128.32.142.237 tclextensionstsipp3.0b.tar.z tcl-sipp acs.cps.msu.edu 35.8.56.90 pubsass x window font convert rayshad 3.0 polygon rayshad anim tool . 
+hobbes.lbl.gov 128.3.12.38 radianc ray traceradios packag . 
+geom.umn.edu 128.101.25.31 pubgeomview geomview ftp.arc.umn.edu 137.66.130.11 pubgvl.tar.z latest version bob icol raz . 
+sourc manual man page binari irix 4.0.5 includ bob real time volum render pub contain also mani volum dataset . 
+ftp.kpc.com 144.52.120.9 pubgraphicsholl91 steve hollasch 's thesi pubgraphicsray4 ray4 pubgraphicswire4 wire4 . 
+pubmirroravalon mirror avalon 's 3d object repositori . 
+swedishchef.lerc.nasa.gov 139.88.54.33 programshollasch-4d ray4 sgi explor modul postscript manual etc . 
+zamenhof.cs.rice.edu 128.42.1.75 pubgraphics.format various electron document mani object imag format . 
+appar longer maintain see ftp.ncsa.uiuc.edu . 
+rascal.ics.utexas.edu 128.83.144.1 miscmacinqueu vision-3d facet base model output rayshad radianc file . 
+ftp.ncsa.uiuc.edu 141.142.20.50 miscfile.formatsgraphics.format contain various image- object-format descript . 
+mani scivi tool various directori e.g . 
+sgialpha-shapealvis-1.0.tar.z 3d alpha-shap visual sgi machin sgipolyview3.0polyview.z interact visual analysi 3d geometr structur . 
+tucana.noao.edu 140.252.1.1 iraf iraf astronomi packag ftp.ipl.rpi.edu 128.113.14.50 sigmaerich spd imag hain thesi imag . 
+pubimag various 24 8 bit imag still sequenc . 
+ftp.psc.edu 128.182.66.148 pubp3d p3d20.tar p3d lispi scene ftp.ee.lbl.gov 128.3.254.68 pbmplus.tar.z rayshad data file . 
+george.lbl.gov 128.3.196.93 pubccs-libccs.tar.z ccs complex convers system standard softwar interfac imag process hanauma.stanford.edu 36.51.0.16 pubgraphicscomp.graph best comp.graph extens ray-trac dbw mtv qrt . 
+ftp.uu.net 192.48.96.2 graphic irit rt news back issu complet nurb model graphic relat materi . 
+graphicsjpegjpegsrc.v ? .tar.z independ jpeg group packag read write jpeg file . 
+freebie.engin.umich.edu 141.212.68.23 utah raster toolkit export.lcs.mit.edu 18.24.0.12 contrib pbmplus imag magick xloadimag xli xv img lot . 
+pubr5untarredmitdemosgpc ncga graphic perform character gpc suit . 
+life.pawl.rpi.edu 128.113.10.2 pubray kyriazi stochast ray tracer . 
+cs.utah.edu 128.110.4.21 pub utah raster toolkit nurb databas . 
+gatekeeper.dec.com 16.1.0.2 pubdecoff.tar.z off model also gpc benchmark file plan check . 
+hubcap.clemson.edu 130.127.8.1 pubamigaincomingimagin stuff amiga imagin turbo silver ray tracer . 
+pubamigattdddlib ttdddlib pubamigaincomingimagineobject mani object . 
+pprg.eece.unm.edu 129.24.24.10 pubkhoro khoro imag process packag huge great . 
+expo.lcs.mit.edu 18.30.0.212 contrib pbmplus portabl bitmap packag poskbitmaptar bitmap collect ravel img xloadimag . 
+jef venera.isi.edu 128.9.0.32 pubimg.tar.z img.tar.z imag manipul pubimag rgb separ photo . 
+ucsd.edu 128.54.16.1 graphic utah rle toolkit pbmplus fbm databas mtv dbw ray tracer world map stuff . 
+not updat much recent . 
+castlab.engr.wisc.edu 128.104.52.10 pubx3d.2.2.tar.z x3d pubxdart.1.1 . 
+xdart sgi.com 192.48.153.1 graphicstiff tiff 6.0 spec libtiff softwar pic . 
+also much sgi- gl-relat stuff e.g . 
+opengl manual superced okeeffe.berkeley.edu libtiff stuff surya.waterloo.edu 129.97.129.72 graphic fbm ray tracer ftp.sdsc.edu 132.249.20.22 sdscpub sdsc ftp.brl.mil 128.63.16.158 brl-cad inform get brl cad packag ray tracer . 
+imag various test imag . 
+a textur librari also begun . 
+cicero.cs.umass.edu 128.119.40.189 texturetemp 512x512 grayscal brodatz textur karazm.math.uh.edu 129.7.7.6 pubgraphicsrtabs.shar.12.90.z wilson 's rt abstract vmpray . 
+ftp.pitt.edu 130.49.253.1 usersqralstonimag 24 bit imag archiv ftp.tc.cornell.edu 128.84.201.1 pubvi vrend sunee.waterloo.edu 129.97.50.50 pubraytrac vivid rend386 sunee.uwaterloo.ca archive.umich.edu 141.211.164.153 msdosgraph pc graphic stuff . 
+msdosgraphicsraytrac vivid2 . 
+apple.apple.com 130.43.2.2 ? 
+pubarchivevol2prt . 
+research.att.com 192.20.225.2 netlibgraph spd packag polyhedra polyhedra databas . 
+if n't ftp use netlib automat mail replier uucp research ! netlib internet send hain graphic get spd siggraph.org 128.248.245.250 siggraph archiv site . 
+public onlin bibliographi project confer proceed various electron format paper panel siggraph video review inform order form . 
+other stuff various directori . 
+ftp.cs.unc.edu 128.109.136.159 pubreactiondiffus greg turk 's work reaction-diffus textur x window code siggraph 91 avs.ncsc.org 128.109.178.23 ftpvolvis92 volum dataset boston workshop volum visual 92 . 
+this site also intern av center . 
+uvacs.cs.virginia.edu 128.143.8.100 pubsuitdemosparcdecetc suit get detail instruct . 
+nexus.yorku.ca 130.63.9.66 pubreportsradiositycode.tar.z rad pubreportsradiositythesis.ps.z rad msc . 
+thesi this site chang ftp.yorku.ca near futur milton.u.washington.edu 128.95.136.1 ftppublicveo veo virtual realiti distribut applic prototyp environ oldpublicfli fli ! 
+3d visual softwar demo . 
+that packag built fly-through various dataset near real-tim . 
+there binari mani platform . 
+also much virtual realiti stuff . 
+zug.csmil.umich.edu 141.211.184.2 x-xpec 3d file lcd glass shutter amiga comput great vr stuff ! 
+sugrfx.acs.syr.edu 128.230.24.1 various stereo-pair imag . 
+has close sunsite.unc.edu 152.2.22.81 pubacademiccomputer-sciencevirtual-r final copi sugrfx.acs.syr.edu archiv ceas exist . 
+it contain powerglov code vr paper 3d imag irc research materi . 
+archive.cis.ohio-state.edu 128.146.8.52 pubsiggraph92 code siggraph 92 cours 23 procedur model render techniqu lyapunov.ucsd.edu 132.239.86.10 this machin consid repositori preprint program nonlinear dynam signal process relat subject fractal cours ! 
+cod.nosc.mil 128.49.16.5 pubgrid.pstexascii short survey method interpol contour bivari data ics.uci.edu 128.195.1.1 honig various stereo-pair imag movie.c anim movi x display 8-bit mono digit subtract . 
+taurus.cs.nps.navy.mil 131.120.1.13 pubdabrocyberwaredemo.tar.z human head data pioneer.unm.edu 129.24.9.217 pubtexturemap han du buf 's grayscal test textur aerial swatch brodatz textur synthet swatch . 
+space planetari imag repositori . 
+provid access 150 cd-rom dataimag 3 on-lin time . 
+pubinfobeginner-info start brows . 
+cs.brown.edu 128.148.33.66 srgpsphig for info srgpsphig pdb.pdb.bnl.gov 130.199.144.1 data various organ molecul bond differ atom etc . 
+atom coordin load stuff contain .ent file actual atom dimems seem miss . 
+you could convert data pov rayshad etc . 
+biome.bio.ns.ca 142.2.20.2 pubart renoir paint escher 's pictur etc . 
+ic16.ee.umanitoba.ca specmark sampl set imag imag edg ' cd-rom imag atom landscap advanc semiconductor superconductor experiment surfac explorer.dgp.toronto.edu 128.100.1.129 pubsgiclrpaint clrpaint pubsgiclrview . 
+clrview tool aid visual gis dataset may format like dxf dem arcinfo etc . 
+ames.arc.nasa.gov 128.102.18.3 pubspacecdrom imag magellan vike mission etc . 
+get pubspaceindex first . 
+pubspacelink spacelink servic data see ame ! archive-serv subjecthelp send space index without quot ! 
+pubinfo.jpl.nasa.gov 128.149.6.2 imag data etc . 
+jpl mission . 
+modem access 818-354-1333 pariti 8 data bit 1 stop bit . 
+spacelink.msfc.nasa.gov 128.158.13.250 passwdguest space graphic gif imag nasa 's planetari probe hubbl telescop . 
+main function support teacher telnet also site . 
+dial access 205-895-0028 300120024009600v.32 baud 8 bit pariti 1 stop bit . 
+stsci.edu 130.167.1.2 hubbl space telescop stuff imag data . 
+read readm first ! 
+pit-manager.mit.edu 18.172.1.27 pubusenetnews.answ land faq . 
+graphic pictur directori particular interest . 
+messag contain help uucp archiv avatar rt news back issu . 
+for detail write kori hamzeh europ nic.funet.fi 128.214.6.100 pubscipap paper bank project includ pete shirley 's entir thesi pic wilson 's rt abstract pubmiscciaworldmap cia world data bank comp.graphics.research archiv india much much . 
+dasun2.epfl.ch 128.178.62.2 radianc . 
+good european site n't carri add-on avail radianc . 
+isy.liu.s 130.236.1.3 pubsippsipp-3.0.tar.z sipp scan line z-buffer irisa.fr 131.254.2.3 ipsc2vmpray ray tracer spd nff mani non-spd nff format scene rayshad data file . 
+didier badouel phoenix.oulu.fi 130.231.240.17 fli raytrack anim file pc vga also big .flis 640480 rayscen demo american check wuarchiv first . 
+more anim come . 
+jari kahkonen jyu.fi 128.214.7.5 pubgraphicsray-trac mani ray tracer includ vmpray dbw dkb mtv qrt rayshad rt news nff file . 
+jari garbo.uwasa.fi 128.214.87.1 much pc stuff etc . 
+pcsourcecontour.f fortran program contour scatter data use linear triangle-bas interpol asterix.inescn.pt 192.35.246.17 pubrtrac rtrace nffutils.tar.z nff util rtrace medic data cat etc . 
+convert nff autocad nff autolisp code autocad 11 scn rtrace 's languag vega.hut.fi 128.214.3.82 graphic rtn archiv ray tracer mtv qrt other nff model . 
+it shut month ago check nic.funet.fi nfoti sun4nl.nluug.nl 192.16.202.2 pubgraphicsraytrac dbw.microray mtv etc unix.hensa.ac.uk miscunixralcgmralcgm.tar.z cgm viewer convert . 
+messag bodi send miscunixralcgmralcgm.tar.z maeglin.mt.luth.s 130.240.0.25 graphicsraytrac prt other doc wilson 's rt abstract vivid . 
+ftp.fu-berlin.d 130.20.225.2 pubunixgraphicsrayshade4.0input aq.tar.z rayshad aquarium american check princeton.edu first . 
+maggia.ethz.ch 129.132.17.1 pubinetray inetray sun rpc 4.0 code osgiliath.id.dth.dk 129.142.65.24 pubamigagraphicsradi amiga ftp.informatik.uni-oldenburg.d 134.106.1.9 pov raytrac mirror wuarchiv mani good pov . 
+pubdkbtraceincomingpolyray polyray raytrac pubdkbtraceincomingpv3d pv3d ftp.uni-kl.d 131.246.9.95 pubamigaraytracingimagin mirror hubcap imagin file . 
+neptune.inf.ethz.ch 129.132.101.33 xyz xyz geobench iamsun.unibe.ch 130.92.64.10 graphicsgrapht l-system interpret . 
+amiga.physik.unizh.ch 130.60.80.80 amigagfx graphic stuff amiga comput . 
+stesis.hq.eso.org 134.171.8.100 on-lin access huge astronom databas . 
+loginstarcatno passwd decnetstesi it 's space telescop european coordin facil middl east gauss.technion.ac.il 132.68.112.60 kaleida australia gondwana.ecr.mu.oz.au 128.250.70.62 pub vortart ray tracer vogl wilson 's ray trace abstract pubcontribartscen art scene itali pubimageshain hain thesi imag graphic gem code spd nff off databas nff off preview plus 8- 24bit imag lot stuff . 
+pubrad.tar.z sgirad munnari.oz.au 128.250.1.21 pubgraphicsvort.tar.z vort art 2.1 csg algebra surfac ray tracer vogl pub dbw pbmplus . 
+graphic room.tar.z art scene itali . 
+marsh.cs.curtin.edu.au 134.7.1.1 pubgraphicsbibliographyfacialanim pubgraphicsbibliographymorph pubgraphicsbibliographyui stuff facial anim morph user interfac . 
+pubfascia fred park 's fascia program . 
+oceania asia ccu1.auckland.ac.nz 130.216.3.1 ftpmacarchitec vision-3d facet base model output rayshad file . 
+mani neat thing for user outsid nz go wuarchive.wustl.edu directori mirrorsarchitec scslwide.sony.co.jp 133.138.199.1 ftp2sgifacial-anim steve frank site facial anim . 
+4 . 
+mail server graphics-ori bbses pleas check first ftp place archi 's help . 
+do n't overus mail server . 
+there troubl wrong return address . 
+mani mail server command like path avalidreturne-mailaddress get hint send back stuff . 
+dec 's ftpmail line contain word help ' . 
+you get back messag detail relev procedur must follow order get file want . 
+note repli answer command mailer work messag mail receiv ftpmail . 
+to send request ftpmail send origin mail messag repli . 
+address rather postmast sinc decwrl 's postmast respons fix ftpmail problem . 
+bitftp send one-lin help ' messag address info . 
+red red listserv redirector essenti mail server . 
+the server site avail locat earnbitnet internet you urg use one closer locat . 
+send messag one contain bodi help ll get instruct . 
+lightwav 3d mail base file-serv a mail base file server 3d object 24bit jpeg imag gif imag imag map onlin internet mail access . 
+the server offici archiv site lightwav 3d mail-list contain mani pd sharewar graphic util sever comput platform includ amiga atari ibm macintosh . 
+the server resid bbs call the graphic bbs . 
+the bbs oper 24 hour day 7 day week phone number 1 908469-0049 . 
+it upgrad modem hay ultra 144 v.32bisv.42bi speed 300bps 38400bps . 
+if would like submit object scene imag server pleas pack uuencod mail file address for inform obtain file server send mail messag bodi messag help dir and help file describ use server complet directori list sent via mail . 
+now includ cyberwar head shouder ttddd format ! 
+check ca n't use ftp ! 
+nfoti inria-graphlib pierr jancen sabin coquillart launch inria-graphlib mail server month ago . 
+give quick summari inria-graphlib contain brows among file . 
+return extend summari . 
+as exampl return comput graphic resourc list 
+mirror comp.graph . 
+bbses there mani bbses store datafil etc.etc . 
+guid beyond scope list 
+resourc author ! 
+if point internet- mail- access bbses carri interest stuff send info ! 
+studio amiga 3d model ray trace specif bbs 817 467-3658 . 
+24 hour 105 meg onlin . 
+the castl 415355-2396 14.4kv.32bisv.42v.42bismnp in pacifica dang close san francisco california usa the new-us password tao . 
+join base 2 the castl gfx anim video 3d s.i.g . 
+i sig-op lazerus . 
+bob lindaburi oper bbs see entri the graphic bbs you can call me ray ' ray trace relat bbs chicago suburb 708-358-5611 708-358-8721 toronto ontario canada . 
+phone 416 298 1487 storag space 330 meg modem type 14.4k baud16.8k zyxel v32bis v32 mnp 5 access fee none .. 
+free system support dos os2 amiga mac . 
+netmail current echo mail . 
+topic raytrac fractal graphic program cad ani comp . 
+graphic relat amiga graphic bbs 516 473-6351 long island new york run 24 hour 14.4k v.32bis 157 meg line . 
+we also subscrib 9 mail list 5 origin bbs 3 ad soon . 
+these includ lightwav imagin real 3d ray trace databas file includ imagin 3d object 3d render scalabl font music modul sound sampl demo anim util text databas pend lightwav 3d object . 
+the graphic altern the graphic altern el cerrito ca . 
+run 24 hour day 14.4k hstv.32bis 642mb onlin 1300 user base . 
+tga run two node node 1 510 524-2780 public access includ free 90 day trial subscript . 
+tga west coast host pcgnet the profesion cad graphic network support node across continent u. . 
+alaska new zealand australia franc uk . 
+tga 's file databas includ ms-dos execut pov vivid rtrace rayshad polyray other . 
+tga also numer graphic util viewer convers util . 
+regist vivid user also download latest vivid aeta code special vivid confer . 
+the intersect bbs 410-250-7149 . 
+this bbs is dedic support 3d animators.th system provid free of charg not commerci anyway . 
+user given full access first call . 
+featur usenet news internet mail fidonet echo 's netmail 200 meg onlin v.32bisv.42bi modem . 
+platform interest amiga the videotoast macintosh ms-dos unix workstat sun sgi etc atari-st . 
+pi squar bbs 301725-9080 maryland . 
+it support raytrac pov vivid . 
+the bbs run 48633mhz 100meg hard drive cd rom . 
+now run 1200-2400bps chang soon topic graphic program animationraytracingprogram general vertech design 's graphic connect . 
+503 591-8412 portland oregon . 
+v.32v.42bis . 
+the bbs asid carri typic bbs servic like messag base topic specif file cad graphic relat hundr megabyt also offer materi textur file full color seamless tile photo-realist imag . 
+there sampl avail first time caller . 
+the bbs subscript system although caller 2 hour must subscrib sever subscript rate avail . 
+peopl interest materi subscrib librari addit basic subscript rate use purchas time download whichev materi wish . 
+5 . 
+ray-tracinggraphics-rel mail list imagin model anim system amiga dave wickard substitut steve worley mainten mail list pleas note unisys.com address no longer valid ! ! ! 
+lightwav amiga . 
+it 's part newtek 's video toaster bob lindaburi toaster subscrib toaster-list real 3d anoth model anim system amiga to subscrib send mail contain bodi subscrib real3d-l your full name rayshad craig kolb alladin 4d amiga bodi messag write radianc greg ward author send regist via e-mail user digest correspod note fix updat etc . 
+rend386 pov ray dkb raytrac to subscrib send mail contain bodi subscrib dkb-l your full name mail list massiv parallel render 6 . 
+3d graphic editor . 
+public domain free sharewar system vision-3d the program use generat model direct rayshad radianc file format polygon . 
+it 's sharewar list ftp list . 
+brl a solid model system environ includ sgi x11 . 
+it csg nurb plus support non-manifold geometri whatev . 
+you get free via ftp sign return relev licens found ftp.brl.mil . 
+use ray-trac engin analys . 
+contact ms . 
+carla moyer 410-273-7794 tel . 
+410-272-6763 fax snail mail brl-cad distribut surviac aberdeen satellit offic 1003 old philadelphia road suit 103 aberdeen md 21001 usa irit a construct solid geometri csg model program pc x11 . 
+includ freeform surfac support . 
+free see ftp list find . 
+surfmodel a solid model program pc written turbo pascal 6.0 ken van camp . 
+avail simtel pd1msdos.srfmodl directori . 
+noodl it 's base non manifold topolog . 
+ask info i n't know give away . 
+xyz2 xyz2 interact 3-d editorbuild written dale p . 
+stocker creat object surfacemodel automov dkb raytrac packag . 
+xyz2 free found exampl simtel20 msdos.surfmodlxyz21.zip dos ? ? 
+3dmod it 's msdos program . 
+check barnacle.erc.clarkson.edu 128.153.28.12 pubmsdosgraphics3dmod . 
+undocu file format 3dmod c 1991 micah silverman 25 pierrepoint ave . 
+postdam new york 13676 tel . 
+315-265-7140 northcad sharewar msdos.cadncad3d42.zip simtel20 . 
+undocu file format vertex amiga sharewar send 40 us check money order the art machin 4189 nickola sterl height mi 48310 usa in addit standard file format includ lightwav imagin sculpt turbo silver geo wavefront releas offer 3d profession rayshad support . 
+rayshad support primit triangl easili includ output rayshad script the latest demo version 1.62 avail fred fish 727 . 
+for inform contact author alex deburi icoon amiga it 's spline base object model icoon interact coon path editor amiga.physik.unizh.ch gfx3dicoons1.0.lzh . 
+it 's free gnu licenc requir fpu . 
+the program lookfeel cross journeyman imagin generat object ttddd format . 
+it possibl load journeyman object icoon program use convert jman object imagin format . 
+phone 45 36 72 33 00 fax 45 36 72 43 00 it 's also fred fish disk seri n.775 nfoti protocad 3d ver 1.1 trius sharewar ? 
+it 's wsmr-simtel20.army.mil oak.oakland.edu pcad3d.zip pcs it menu layout file file handl load save import xport ... 
+draw draw 2d object line circl box ... 
+3d draw 3d object mesh sphere block ... 
+edit edit featur copi move ... 
+surfac modifi object revolv xtrude sweep ... 
+imag imag zoom featur updat window half ... 
+option global default grid toggl axi ... 
+plot print drawingpictur go imag ... 
+render shade object frame light tune ... 
+layer layer option select activ layer set color ... 
+sculptura run window 3.1 output pov file . 
+a demo found wuarchive.wustl.edu mirrorswin3demodemo3d.zip b . 
+commerci system alpha1 a spline-bas model program written univers utah . 
+featur spline trim nurb support boolean oper sweep bend warp flatten etc . 
+group object transform extens object type . 
+applic includ nc machin anim util dimens fem analysi etc . 
+render subsystem support anim . 
+support follow platform hp 300 800 's x11r4 hp-ux 6.5 sgi 4d pi machin x11r4 gl irix 3.3.1 sun sparcstat x11r4 suno 4.1.1 . 
+licens distribut handl eg glenn mcminn presid engin geometri system 275 east south templ suit 305 salt lake citi ut 84111 801 575-6021 educ price the charg 675 per platform . 
+you may run system mani differ workstat type wish . 
+for platform also 250 licens fee portabl standard lisp psl bundl system . 
+you need obtain addit licens univers utah psl follow address professor robert kessler comput scienc depart univers utah salt lake citi utah 84112 eg handl licens psl u. . 
+institut 300 usd nomin fee nfoti vertigo they educ institut program . 
+the packag use industri design architectur scientif visual educ broadcast imag post product field . 
+they ll quot letter sent nfoti donat fulli configur vertigo 3d graphic softwar worth 29000usd per packag qualifi educ institut licenc number silicon graphic person iri power seri workstat . 
+if use iri indigo station also licenc vertigo revolut softwar worth 12000usd . 
+if interest particip program pleas send letter mail fax 604684-2108 institut 's letterhead briefli outlin potenti use vertigo togeth follow inform 1 . 
+unix version 2 . 
+model number sgi system 3 . 
+peripher devic 4 . 
+third parti softwar . 
+particip ask contribut 750usd per institut cover cost manual administr ship . 
+we recommend vertigo user subscrib technic support servic . 
+for annual fee receiv technic assist support hotlin bug fix softwar upgrad manual updat . 
+for educ institut waiv 750 administr fee support purchas . 
+the annual support fee 2500 plus follow cost addit machin number machin 2-20 20 addit cost per machin 700 600 there 's also 5-day train program nfoti contact vertigo technolog inc suit 1010 1030 west georgia st . 
+vancouv bc canada v6e 2y3 phone 604684-2113 fax 604684-2108 doe anyon know offer tdi alia softimag wavefront etc. ? ? ? 
+would veri interest part ! ! 
+nfoti padl-2 basic 's solid model kernel top build applic avail licens cornel programm autom cornel univers 106 engin theori center ithaca ny 14853 licens fee low educ institut gov't agenc . 
+intern commerci licens re-dissemin licens avail . 
+for inform packet write address send aci from spatial technolog . 
+it 's solid model kernel callabl c . 
+heard mani univers got free copi compani . 
+the person contact regard aci academ institut and address spatial technolog inc . 
+2425 55th st . 
+bldg . 
+a boulder co 80301-5704 phone 303 449-0649 fax 303 449-0926 movie-byu cquel.byu basic understand fem pre- post-proccessor system . 
+it 's fair old today still serv peopl mech . 
+eng . 
+dept . 
+now 's supersed cquel.byu pronounc sequel . 
+that 's complet model anim visual packag . 
+run usual workstat environ sun dec hp sgi ibm rs6000 other you get demo version 30-day trial period either send 20 usd address blank tape . 
+it cost 1500 full run-tim licenc . 
+contact engin comput graphic lab 368 clyde build brigham young univ . 
+provo ut 84602 phone 801-378-2812 twixt soon add stuff ... 
+if i get repli fax voxblast it 's volum render market vaytek inc . 
+fairfield iowa phone 515-472-2227 run pcs 386fpu least . 
+call vaytek info . 
+voxelbox a 3d volum render window . 
+featur includ direct ray-trac volum render color alpha map gradient light anim reflect shadow . 
+run pc386 higher least 8 bit video cardsvga fine window 3.x . 
+it cost 495 . 
+contact jaguar softwar inc . 
+573 main st . 
+suit 9b winchest ma 01890 617 729-3659 7 . 
+scene descript languag nff neutral file format eric hain . 
+veri simpl procedur databas generat spd packag mani object float various ftp site . 
+there 's also preview written hp starbas e.hain . 
+also 's one written vogl use devic vogl output . 
+check site carri vogl like gondwana.ecr.mu.oz.au off the object archiv server seem mothbal . 
+in futur version i ll remov ref . 
+nfoti avail also mail server . 
+to obtain help use servic send messag subject line contain word for ftp place get see relev place . 
+there 's off preview sgi 4d machin call off-preview godzilla.cgl.rmit.oz.au there preview xview sunview also gondwana . 
+tddd it 's librari 3d object translat tofrom off nff rayshad imagin vort object . 
+edit copi announc follow raytrac news v43 new librari 3d object avail via ftp steve worley i assembl set 150 3d object binari format call tddd . 
+these object rang human figur airplan semi-truck lamppost . 
+these object freeli distribut readm describ . 
+in order convert object human-read format file specif tddd includ directori object . 
+there also sharewar system call ttdddlib offici hubcap.clemson.edu convert ala pbm tofrom various object format imagin ttddd extens tddd ? 
+off nff rayshad 4.0 vort . 
+sourc includ amigaunix execut amiga . 
+also output framemak mif file isometr view postscript . 
+p3d from pittsburgh supercomput center . 
+the p3d use lisp slight extens store three-dimension model . 
+a simpl lisp interpret includ p3d releas need access vendor 's lisp run softwar . 
+the mouse-driven user interfac motif open look silicon graphic gl drawp3d subroutin librari generat p3d without ever look under lisp . 
+the p3d softwar current support nine render . 
+they painter painter 's algorithm dore silicon graphic inc . 
+gl languag generic phig sun phig dec phig rayshad art ray tracer vort packag pixar renderman . 
+the code avail via anonym ftp machin ftp.psc.edu directori pubp3d nic.funet.fi directori pubgraphicsprogramsp3d . 
+renderman pixar 's renderman free call pixar detail . 
+8 . 
+solid descript format . 
+eec 's esprit project 322 cadi cad interfac develop neutral file format transfer cad data curv surfac solid model cad system cad caa comput aid analysi cam comput aid manufactur b . 
+ige v . 
+5.1 tri defin standard tranfer solid model brep csg . 
+the current standard number ansi y14.26m-1987 for document might want contact nanci flower ncga technic servic standard 1-800-225-6242 ext . 
+325 cost 100 . 
+this standard avail electron format . 
+c . 
+pdesstep this slowli emerg standard tri encompass geometr inform also thing like fem etc . 
+the main bodi besid standard nist darpa . 
+you get put line send index bodi not subject area messag . 
+the peopl rutherford appleton lab . 
+also work step tool express compil exchang file parser avail sourc form free research purpos . 
+soon also express-bas databas system . 
+for tool contact mike mead phone 44 0235 44 6710 fax x 5893 end part 1 resourc list 

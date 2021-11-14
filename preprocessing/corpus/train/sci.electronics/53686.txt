@@ -1,0 +1,56 @@
+ok 's quick rundown 7400 seri variat ? 
+we re repair someth 74act00 question aris well realli need act part ? 
+flip digi-key i see al as c hc ac acq act hct acht hctls ... 
+here 's someth i post year ago . 
+it 's fulli date new variat differ manufactur 's synonym in practic term ignor technolog detail view famili nb i giant corpor influenc view thing like avail backward compat 74 the origin . 
+speed good power consumpt fair . 
+effect obsolet use 74ls later except oddbal function like 7407 hard find newer famili . 
+74h modif 74 higher speed cost higher power consumpt . 
+veri obsolet use 74f . 
+74l modif 74 lower power cost lower speed . 
+veri obsolet use cmos . 
+74s later modif 74 even higher speed cost power consumpt . 
+effect obsolet use 74f . 
+74ls combin 74l 74s speed compar 74 lower power consumpt . 
+best all-round ttl widest varieti devic . 
+74f fast blaze power bad . 
+the clear choic high speed ttl . 
+avail price general good . 
+74as fail competitor 74f although 74as part thing hard find 74f thus still use . 
+74al possibl replac 74ls . 
+general soup . 
+still fair new avail price possibl problem . 
+74c fair old famili cmos devic ttl pinout . 
+compet 4000 seri success . 
+obsolet use 4000 newer cmos 74 famili . 
+4000 thrown major non-74 non-ecl logic famili . 
+the old cmos famili still viabl wide rang devic low power consumpt wide rang suppli voltag . 
+not fast . 
+veri forgiv easi work bewar static electr comment appli mani modern logic famili . 
+there neat devic famili exist . 
+the clear choic speed import . 
+74hc a new attempt 74-pinout cmos . 
+fast compar old cmos power consumpt often lower ttl . 
+possibl good choic general-purpos logic assum avail afford . 
+cmos logic level ttl one . 
+bewar limit rang suppli voltag compar older cmos also major rise power consumpt faster speed . 
+74hct 74hc ttl logic level . 
+much comment 74hc . 
+read fine print thing like power consumpt ttl compat cmos involv compromis . 
+10k thrown speed freak . 
+the low end ecl . 
+various sourc claim easier work super-fast ttl serious high-spe work . 
+less forgiv though read follow rule wo n't work . 
+avail hobbyist limit expens . 
+100k for real speed freak . 
+hot ecl . 
+harder handl 10k inconveni packag . 
+much use datasheet howev . 
+as compat famili 74 famili except 74c 74hc less logic-level compat mani 74x devic drive one 74i output vari enorm x y . 
+you read spec arithmet . 
+74c 74hc compat other bit hassl . 
+4000 compat bit hassl lot hassl depend suppli voltag 4000 use . 
+10k 100k anyth els consider hassl . 
+me ? 
+i use 4000 74ls sprinkl 74f . 
+74hct 10k interest i n't use either signific yet . 

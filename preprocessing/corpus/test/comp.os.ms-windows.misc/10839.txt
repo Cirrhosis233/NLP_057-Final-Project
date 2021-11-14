@@ -1,0 +1,12 @@
+macsee.zip ftp.cica.indiana.edu suppos read write mac disk . 
+i ve never tri though . 
+good luck i tri i ca n't say work caus n't read 800k disk read 1.44mb . 
+if program read 800k disk pleas let know . 
+well ca n't say n't work . 
+the inabl read 800k mac disk sw problem . 
+rather 's hardwar limmit pcs . 
+i seen post program abl read non-1.44mb mac disk come watchamacalit memori 's fale card drop com port someth . 
+do n't rememb specif tho . 
+peac mickey on 1.44mb drive mac pc disk spin constant rpm . 
+on 800k mac disk drive spin rate disk vari track pass head constant speed slower rotat outer track faster rotat inner track . 
+a pc need special control hardwar make happen . 

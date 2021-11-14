@@ -1,0 +1,24 @@
+hi i ve built valv preamp use diodecapacitor voltag multipli step 12vac suppli voltag approx 260vdv . 
+as load resist increas rc constant decreas henc output voltag drop . 
+i need high output voltag possibl . 
+260v . 
+the circuit consist seven voltag multipli stage ie 14 diod 14 capacitor capacitor develop 38v across i take output across seven capacitors260v . 
+each capacitor 100mfd 68v . 
+if i increas capacitor rate 220-470mfd increas rc constant henc allevi problem . 
+these capacitor go littl expens i need 14 so 1 . 
+what would happen i connect 470mfd 400v capacitor parallel output henc parallel seven 100mfd capacitor ? 
+will i assum increas c circuit henc increas rc time constant ? 
+if output voltag becom stabl i kill two bird one stone ... 
+i experienc 50hz rippl henc amp hum new capacitor smooth ' . 
+2 . 
+can anyon recomend suitabl valu inductor choke place output line power suppli filter 50hz main hum . 
+lowest resist possibl i ve got preamp moment too much distract .... 
+i 'm univers i ve got get dissert finish two week ! ! ! ! ! ! ! 
+henc i 'm mail play soldero iron ll cheaper long run ... 
+especi 14 new larg capacitor n't work plan ! 
+email pleas .... 
+ca n't alway read net ..... 
+thank advanc .. 
+chris name mr chris smith twang ole guitar uni liverpool univers quest to build hardwar dgree comput scienc what ever sun may certain ball flame gas ! 
+d.h . 
+lawrenc . 

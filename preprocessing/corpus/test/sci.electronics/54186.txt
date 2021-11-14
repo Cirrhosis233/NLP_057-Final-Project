@@ -1,0 +1,12 @@
+would better use circuit base volum beep cassett better led respond tone certain frequenc ? 
+is easi way either ? 
+i 'm look simplest circuit possibl . 
+i guess i 'm ask sort color organ quit . 
+let trt explain ... 
+look inform 567 tone decod chip . 
+it easi use chip detect sound certain frequenc . 
+you need one 567 componet led want control . 
+the chip take voltag level casett give . 
+radio shack archer semiconductor refer guid give good inform use chip . 
+it simplest way go . 
+the chip cost someth like 1-2 

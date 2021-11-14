@@ -1,0 +1,12 @@
+partit take disk space 3 4 partit cost somewher 4-8 meg hard disk space afoord luxuri power choic . 
+where disk space go ? 
+the dos partit tabl fix length everi hard disk carri one . 
+what use lost 4-8mb ? 
+if i rememb right partit tabl alloc entir cylind . 
+to find much take need calcul head sector 512 also creat extend partit second partit ' logic drive . 
+i think origin respond guy dawson ? 
+refer someth much elementari . 
+everi partit whether entir disk two fat initi directori . 
+if small disk 50 meg less i would recommend remain singl partit . 
+unless consider . 
+if larg disk greater 200 meg multipl partit make sens . 

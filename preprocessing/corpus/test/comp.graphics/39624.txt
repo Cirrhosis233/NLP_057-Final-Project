@@ -1,0 +1,11 @@
+in attempt anim pov i creat two littl program . 
+one c program perform morph two point given amount frame morph . 
+and write point function translat rotat etc . 
+file . 
+then i perl script read list function insert .pov file given line . 
+i hope would let simpl anim . 
+howev i discov simpli perform increment rotat object spin stationari object actual rotat object axi . 
+now i know easi way around would first translat object origin perform rotat move back i know must anoth way around . 
+i thought perhap i creat object origin translat new point done rotat could caus behavior . 
+howev occur object translat . 
+ani help appreci . 

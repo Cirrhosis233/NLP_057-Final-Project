@@ -1,0 +1,11 @@
+hi i 'm tri get program monitor resizeposit event program exit i save last known geometri sort prefer ' file . 
+i ad event handler structurenotifi toplevelshel xtaddeventhandlertoplevelstructurenotifymaskfalseconfigurecbmydata this work fine callback call whenev window resiz reposit use window manag mwm . 
+howev i 'm resiz window use resiz handl window manag resiz decor x set zero xevent pass event handler callback . 
+i 'm access xconfigur structur like x11 manual say . 
+xev-xconfigure.x xev-xconfigure.i . 
+the width height memeb correct . 
+when i reposit window use window manag xevent 's xconfigur structur contain correct x width height member set . 
+q1 anybodi know resiz x set zero ? 
+q2 ani way handl detect save geometri chang ? 
+i ve tri use xtgetvalu toplevel widget exit applic destroy widget i get garbag valu x width height resourc . 
+thank 

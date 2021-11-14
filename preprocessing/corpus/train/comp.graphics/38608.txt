@@ -1,0 +1,5 @@
+doe anyon know convert targa similar 24 bit pictur list r g b valu convert back targa oper p ixel r g b code . 
+ex . 
+targa 000100255pixel 1 001200201pixel 2etc .... 
+if one help could someon explain 24 bit data st ore targa file also store 8 bit targa . 
+thank 

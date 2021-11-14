@@ -1,0 +1,6 @@
+i notic framemak 3.1x sgi sun platform certain dialog column layout .. 
+exampl respond keyboard travers even though pointer not dialog window even though window manag keyboard focus polici pointer . 
+how done ? 
+i would like emul behavior applic . 
+it seem reason behavior sinc dialog pop keyboard action dialog guarante pointer user reach mous move focus . 
+altern i 'm open suggest right way insur popup get focus appear particular invok keyboard one 's keyboard focus polici pointer . 

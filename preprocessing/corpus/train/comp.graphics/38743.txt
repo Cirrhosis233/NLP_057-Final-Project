@@ -1,0 +1,17 @@
+could someon explain differ tom gaskin ' two book pexlib program manual phig program manual whi would i want buy one book vs book ? 
+i 80386 run sco unix x11r4 desktop sun iv360 lab access varieti system alliant fx2800 cray ymp network . 
+most would like 3d modelingvisu rat rabbit monkey human brain structur . 
+rather decid book want buy need decid program interfac want use buy appropri book . 
+i wrote articl x resourc discuss differ phig pexlib appear issu 6 pretti soon . 
+but 's brief summari ... 
+phig graphic api design portabl mani devic . 
+most implement support x window system take advantag 3d extens x call pex . 
+pexlib slight lower level api design effici support pex extens x . 
+some advantag use pexlib ... 
+integr xlibxtmotifetc . 
+better phig provid immedi mode capabl is free polici pex support phig current extend support featur found phig like textur map anti-alias . 
+pexlib give access featur . 
+some advantag use phig ... 
+support multipl devic x base one support archiv metafil hardcopi output phig predefin input devic make input easier phig handl exposur event resiz phig help colormap selectioncr . 
+if re work strict x n't care thing like archiv i would go pexlib . 
+either way find api 's lot common . 

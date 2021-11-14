@@ -1,0 +1,21 @@
+the serial number 64 bit block 34 bit filler . 
+doe n't take lot check see correct . 
+depend whether filler constant make check easi suscept replay variabl e.g . 
+timer counter random make replay harder also make easier inquisitor know ve miss messag gotten sequenc interest thing sort person might care . 
+i 'd use secret nope obscur cryptograph encod expand 30 bit serial number 64 bit block . 
+the redund herebi introduc use detect tamper clipper signal public enemi replac l.e . 
+block random data . 
+and cours l.e . 
+block would use initialis encrypt user data receiv end correct l.e . 
+block must process order chanc get plaintext back . 
+for might want mangl l.e . 
+block e.g . 
+xor- constant pattern transmiss line restor feed receiv crippler chip i would add encrypt copi block perhap creat repeat applic encrypt algorithm regular interv transmiss . 
+if receiv chip detect mismatch must assum line bad ceas work interest protect get faulti plaintext know 's like checksum safeti - . 
+the monitor agenc ' wo n't famous black box need actual decrypt kept fbi noth prevent use special box redund check serial number block consist check embed l.e . 
+block within transmiss . 
+these box turn red light soon detect bitstream violat correct protocol . 
+so n't anyon think use chip fool l.e . 
+tap key i bet developp provid much better check suggest . 
+of cours 's absolut crucial algorithm protocol remain secret . 
+person i doubt . 

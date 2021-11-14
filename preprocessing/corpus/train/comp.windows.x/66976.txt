@@ -1,0 +1,13 @@
+the subject describ problem i well . 
+pleas read ... 
+i tri write function creat xtappcontext widget display widget destroy everyth return . 
+the problem multipl call function caus varieti problem includ depend call i make get rid thing core dump badpixmap x error widget unmap here simpl c program i wrote show problem includ x11xlib.h includ xmxm.h includ xmpushb.h void bla xtappcontext app display dis xopendisplay int junk 0 widget topxtappiniti app test null 0 junk null null null 0 widget box xtvacreatemanagedwidgetblaaa xmpushbuttonwidgetclass top xmnheight 50 xmnwidth 50 null xtrealizewidgettop same xtappmainloop 10 xevent int i0i10i xevent event xtappnexteventapp event xtdispatcheventev what should i put here ? ? ? 
+xtunrealizewidgettop xtdestroywidgettop xtdestroyapplicationcontextapp xclosedisplaydi ? ? ? 
+main int i0i20i bla note i rewrot xtappmainloop given time exampl 10 xevent function exit return main program . 
+with exampl i get follow error not consist 5th call bla x error fail request badpixmap invalid pixmap paramet major opcod fail request 55 xcreategc resourc id fail request 0xe0000d serial number fail request 71 current serial number output stream 86 if i take xtunrealizewidgettop line dump core second call . 
+furthermor everi time i call xtappiniti 1st time i get warn initi resourc list twice warn initi translat manag twice . 
+so final question what need done order abl call function creat xtappcontext widget multipl time ? 
+ani help would great appreci . 
+pleas respond via email i dont usual time read group . 
+thank much . 
+-davewood 

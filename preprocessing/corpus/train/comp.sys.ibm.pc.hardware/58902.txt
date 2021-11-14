@@ -1,0 +1,6 @@
+help .... 
+i need implement com3 com4 board i 'm design i 'm find dificult track definit hardwar com3 com4 . 
+i io adress fact com3 share irq4 com1 com4 share irq3 com2 except exact irq share done clear especi exist com12 allow irq share . 
+doe standard ? ? ? 
+allow differ irq use . 
+pleas answer email thank advanc 

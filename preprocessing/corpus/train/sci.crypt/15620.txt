@@ -1,0 +1,18 @@
+prof . 
+den 's descript skipjack most omit chip structur the clipper chip contain classifi 64-bit block encrypt algorithm call skipjack the algorithm use 80 bit key compar 56 des 32 round scrambl compar 16 des . 
+it support 4 des mode oper . 
+throughput 16 mbit second . 
+... 
+f 80-bit famili key common chip n 30-bit serial number u 80-bit secret key unlock messag encrypt chip the key k messag stream m i.e . 
+digit voic fed clipper chip produc two valu em k encrypt messag stream eek u n f law enforc block . 
+three question 1 it look like 64 bit input give 464 bit output emk 64 bit eku e 80 bit 128 bit e eku n f e 128 30 bit 192 bit do realli need transmit 256 bit time transmit 192 bit wiretap block begin ? 
+all 256 would realli obnoxi bandwidth-limit applic like cellular phone even regular phone 2 4 des mode interact two-part output ? 
+do various feedback mode appli messag block also wiretap block ? 
+or wiretap block transmit begin get incorpor everyth feedback mode ecb mode ? 
+3 doe clipper chip check wiretap block ? 
+doe block present ? 
+sinc receiv chip n't know transmitt 's u presum ca n't check valid eku 's limit check form wiretap block mayb check serial number reason unless 's sort back-door structur let recogn valid eku . 
+in case replac wiretap block differ wiretap block presum old valid one avoid attract attent ? 
+the chip wo n't postprocess output . 
+regular peopl one serial number dummi key paranoid peopl use someon els 's serial number . 
+on hand i could think solut easili presum nsa could done someth block like use messag encrypt 's realli em kun thank ! 

@@ -1,0 +1,16 @@
+i need probabl write one new motif widget hp-ux platform . 
+do i need motif privat header file sourc i make public header provid ? 
+motif includ xt context . 
+yes . 
+you ll find almost imposs without sourc point . 
+it depend ambiti concern complianc general interfac item like travers . 
+one widget multi-column list lot peopl alreadi written i sure would therefor probabl subclass list rather someth simpl like xt class . 
+is difficult principl line code ? 
+i 'm sure re ask . 
+you could creat someth much like true multi-column list place sever list within geometri manag put manag within automat scroll window . 
+this would n't good larg list might consid altern . 
+altern anyon multi-column list widget could sell might save write one ! 
+doe chanc exist motif 1.2 alreadi i yet spec ? 
+motif 1.2 multi-column list . 
+have look commerci set ? 
+there also pd widget set one might multi-column list could port . 

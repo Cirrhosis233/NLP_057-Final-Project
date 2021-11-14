@@ -1,0 +1,6 @@
+i need get appl 40sc tape backup unit work sys 7.0.x driverssoftwar access devic . 
+retrospect dantz work nice combin . 
+i also use retrospect i notic central point softwar 's mactool backup also support appl tape drive 7.x . 
+the appl tape drive quit slow advantag retrospect relat simpler mactool backup less signific might case someon back larg server dat drive . 
+use appl tape drive go 100 might make less econom sens pay extra 140 retrospect mactool cheaper includ worthwhil util . 
+retrospect nice though i 'm probabl go upgrad 2.0 . 

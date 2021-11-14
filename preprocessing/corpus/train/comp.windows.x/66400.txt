@@ -1,0 +1,6 @@
+hi i 'm tri write motif program interact unix machin i 'm observ strang behavior program attempt expos drawingarea . 
+name xlib oper work . 
+in particular expos consist two xfillrectangl call follow xdrawpoint call reason unknown point call fail whenev pulldown popup menu click move rightward direct draw area move still part draw area . 
+this also happen less consist pulldownpopup move leftward direct . 
+assum code anyth incred odd server bug ? 
+thank 

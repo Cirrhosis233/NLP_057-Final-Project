@@ -1,0 +1,6 @@
+i ve pursu research question last month i requir ...... long short window mous driver n't accept mice com1 com2 use irq4 irq3 unless buy special driver someon ..... i ve talk mous system say driver n't support com1 com2 claim releas one soon ! ? ? . 
+the altern seem possibl one case prohibit expens i.e . 
+4 port card 600 ? ? ? ? ? ? ! ! 
+author powerbb window claim 4 port serial card buffer 16550 uart driver window match i.e . 
+com3 irq5 120 ...... 
+the second paragraph hearsay i n't check yet ..... intend soon i free 120 g 

@@ -1,0 +1,30 @@
+i write i recent got zyxel u-1496 modem . 
+it 's great i 'm still problem figur string use applic . 
+i basic need string z-term firstclass client telefind client . 
+i ve abl get firstclass z-term work use anoth modem 's set firstclass copi z-term . 
+howev still problem z-term exampl list error ' first time i tri dial start problem . 
+if i cancel tri work fine . 
+telefind even wors i ca n't get even wake modem . 
+so anyon use zyxel program i 'd great appreci send setup string use thank advanc ! 
+for zterm i initi follow atz4 atd0 atw0 then i set init string atz0 . 
+that 's ! 
+i ca n't help firstclass telefind i ve use zterm zyxel close two week . 
+here 's i onc zterm set hardwar handshak bps rate 57600 . 
+you ve probabl alreadi done . 
+then i type atd0 atw the first line set modem ignor dtr line necessari hardwar handshak though mac hardwar handshak cabl . 
+the second store set non-volatil memori modem 's default modem start . 
+in modem prefer dialog i modem initi string set atz0m insur store set use use start zterm use someth like fax softwar macwoof chang set way . 
+altern could leav factori default way set zterm initi string atd0m would accomplish thing if modem alway start zterm if program n't modifi set . 
+or atz0d0m would work even program modifi modem 's set . 
+i way i i sometim forget turn modem launch zterm way i 'm assur correct dtr handl modem 's power . 
+after compar string at command refer guid i came atz0l2n2x5d0s1150m this enter initi ' box modem prefer ' zterm . 
+quick summari commmand z0 reset modem user profil 0 . 
+l2 speaker volum 2 fair quiet n2 ring volum 2 fair quiet x5 display connect info accord set 5 see manual d0 assum dtr comput alway s1150 dial speed 50 fast zyxel handl in firstclass i use string addit s00 right s11 command setup box . 
+this disabl auto-answ function modem firstclass . 
+i base modem set supra 14.4fax chang mention string . 
+in telefind i base set zoom v42 hh set . 
+i chang modem initi ' string one i use firstclass everyth seem work fine . 
+sorri took long get summari . 
+if someon want forward info-macreport directori sumex-aim might save newbi zyxel user like troubl set string also save net redund messag . 
+if anyon els someth add feel free . 
+marcus 

@@ -1,0 +1,5 @@
+hello can anybodi help convers pic format file hpgl file . 
+the question follow is possibl convert file generat pic preprocessor format hpgl format suitabl send plotter . 
+the hardwar involv ibm risc6000 run aix 3.2.3 . 
+how done softwar involv avail cost problem ? 
+regard dani cimad consult antwerp belgium 

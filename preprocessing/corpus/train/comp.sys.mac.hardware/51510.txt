@@ -1,0 +1,19 @@
+i also believ 950 fix bug cpu screw float point calcul . 
+robert d . 
+klapper washington univers st . 
+loui lubarski 's law cybernet entomolog there 's alway one bug . 
+doe someon definit inform . 
+this first i ve heard . 
+how cpu get fix hardwar upgrad ? 
+this n't make much sens . 
+let 's see ... 
+the differ 950 900 basic 1 . 
+run 33mhz 25mhz 2 . 
+has 25mhz io bus 16mhz 3 . 
+upgrad graphic control 4 . 
+3 result q950 requir 80ns vram 100ns 5 . 
+rom fix . 
+round error float point calcul 15th digit so patch rom latest os version . 
+i n't see problem . 
+b . 
+ethernet problem 16 buffer so doubt person refer 5a hard screw though 

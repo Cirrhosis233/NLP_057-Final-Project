@@ -1,0 +1,9 @@
+as subject say can i use 4052 digit signal ? 
+i n't see could n't handl digit signal i could wrong . 
+anyon advic ? 
+thank . 
+the switch non-neglig resist 1k ohm power 5 volt maximum current maximum static voltag across switch . 
+not good bet ttl . 
+should work cmos slow thing bit . 
+there 74hc version better spec . 
+lower max voltag . 

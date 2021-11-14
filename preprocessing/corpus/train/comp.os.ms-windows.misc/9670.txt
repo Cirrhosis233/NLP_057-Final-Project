@@ -1,0 +1,4 @@
+i nead util updat delet ad chang .ini file window . 
+do i find ftp host ? 
+svein unless i complet misunderstand tri use either notepad sysedit.ex found system subdirectori edit .ini file . 
+the sysedit.ex program cool automat open win.ini system.ini autoexec.bat config.si file edit . 

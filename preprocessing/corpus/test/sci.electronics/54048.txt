@@ -1,0 +1,11 @@
+actual detect break done watch charact contain zero bit frame error result receipt . 
+this true enough ... 
+mean line stay zero bit state even past stop bit time slot basic indic break . 
+there special way detect break i found 's magic signal generat uart etc . 
+zilog scc rr07 break detect this popular part number quirk especi hdlc mode . 
+signet 68562 duscc rsr2 break start detect rsr3 break end detect two bit receiv status regist . 
+you enabl interrupt either bit go high . 
+also one null put fifo per break detect . 
+this simpli best serial chip i ve ever work . 
+mani less quirk scc imho second-best . 
+death 8250 devic ! 

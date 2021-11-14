@@ -1,0 +1,30 @@
+i 'm work upon game use isometr perspect similar use popul . 
+basic look room look similar follow xxxx xxxxx xxxx xxxx x xxxx xxxx x xxxx xxxx 2 xxxx 1 xxxx x xxxx xxxx x x xxxx xxxx x x xxxx xxxx x xxxx 3 xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx the good thing perspect look move around three dimens still maintain peripher vision . 
+sinc viewpoint alway routin hard-cod particular vantag . 
+in case wall two 's rise edg slope 14 . 
+i 'm also use mode x 320x240 . 
+i ve run two problem i 'm sure reader tri perhap formul opinion 1 the routin draw wall 1 2 trivial i ran packed-planar imag i dismay jaggi i 'm consid anti-alias routin speed realli necessari . 
+is worth effort artist draw wall alreadi skew thus assur nice imag much burden ? 
+2 wall 3 present problem algorithm i use tend over distort origin . 
+i tri decid paper pixel go fail . 
+has anyon come method map planar crosswis shear shape ? 
+current i take 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 produc 1 2 3 4 33 34 35 36 17 18 19 20 5 6 7 8 49 50 51 52 37 38 39 40 21 22 23 24 9 10 11 12 53 54 55 56 41 42 43 44 25 26 27 28 13 14 15 16 57 58 59 60 45 46 47 48 29 30 31 32 61 62 63 64 line 1 follow slope . 
+line 2 direct line 1 . 
+line 3 move line left 4 pixel . 
+line 4 line 3 . 
+this fill shape exact without unfil pixel . 
+but caus distort . 
+has anyon come better way ? 
+perhap necessari simpli draw origin bitmap alreadi skew ? 
+are particular sticki problem perspect ? 
+i plan hidden plane remov use z-buffer . 
+locat store xyz form . 
+for notic top line wall 2 wall 1 parallel bottom line . 
+this appear optic illus ie . 
+appear either insid outsid cube depend mood . 
+there vanish point . 
+this simplifi draw code object n't chang size move room . 
+i ve decid approxim alright sinc small displac larg enough distanc caus littl chang appar size object real perspect draw . 
+hope context pictur ie . 
+chair floor torch hang wall dispel visual ambigu . 
+thank advanc help . 

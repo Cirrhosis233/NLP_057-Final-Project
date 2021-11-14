@@ -1,0 +1,10 @@
+there widget alreadi defin gl . 
+it glxmdraw motif glxdraw athena widget . 
+it similar xmdrawingarea except allow use gl call render window . 
+look glxlink glxunlink glxgetconfig glxwinset man page . 
+where i get hold widget ? 
+du pont pixel system ltd . 
+they come everi iri . 
+nth also ship latest version nth portabl gl . 
+i got updat coupl week ago . 
+i would assum silicon graphic would licens sourc includ compani 's gl offer . 

@@ -1,0 +1,5 @@
+mani high-end graphic card come c sourc code basic graphic sort thing chang color draw pointslinespolygonsfil etc .. 
+doe librari exist generic vga graphic cardschip hope public domain ? 
+this would purpos compil non-do oper system run standard pc . 
+check server code x11r5 . 
+xfree86 

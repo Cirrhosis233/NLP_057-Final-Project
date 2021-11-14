@@ -1,0 +1,12 @@
+thought i 'd post well e-mail case anyon els interest info ..... 
+hello question could someon e-mail name manufactur 16550 predecsor uart . 
+i seen refer number howev would like find technic manual ic . 
+find technic spec uart would appreci prefer 16450 well 16550 howev one . 
+i suggest go direct origin prefer ... best qualiti sourc would least chip nation semiconductor . 
+reach 1-800-272-9959 . 
+longer packag data sheet book i got mine get individu set data sheet . 
+want minimum follow 2 set data sheet ns16450ins8250ans16c450ins82c50a ns16550af 2 applic note yes get these ! 
+an-491 the ns16550a uart design applic consider an-493 a comparison ins8250 ns16450 ns16550af seri uart applic note i list proven at least valuabl data sheet actual . 
+an-491 particular except well-written applic note goe detail 16550 best take advantag . 
+btw send free long n't abus . 
+later jim includ stddisclaimer.h 73 de n5ial 4 

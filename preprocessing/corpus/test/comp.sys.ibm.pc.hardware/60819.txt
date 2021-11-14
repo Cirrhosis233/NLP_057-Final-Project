@@ -1,0 +1,10 @@
+i need duplic bunch floppi disk 3.5 ideal would like abl keep 2 4 floppi busi simultan singl pc . 
+yes i know servic exist . 
+i know standard isa bus floppi control one drive activ time . 
+i know control avail handl 4 floppi serial access . 
+i know microchannel machin keep one floppi activ simultan . 
+but anyon control isa bus pc simultan keep 2 4 floppi go ? 
+how eisa machin ? 
+if limit softwar limit i work around use os2 1.3 pc-286 . 
+new use i 'm interest . 
+orvill 

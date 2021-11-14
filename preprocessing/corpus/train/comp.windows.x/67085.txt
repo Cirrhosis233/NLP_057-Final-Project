@@ -1,0 +1,22 @@
+hi pleas repli direct i member list . 
+i new x pleas excus lax read probabl incorrect terminolog ! 
+environ sun sparc 10 suno 4.1.3 . 
+x11r5 path level 23 . 
+my x process start xdm . 
+i want setup backgroud root window ? 
+tvtwm display display escherknot etc grey bore colour work ! 
+the setup follow libx11xdmxsetup0 xsetroot -bitmap ... 
+etc user.xsess xsetroot .... 
+etc tvtwm there also .tvtwmrc .xdefault file user home directori . 
+the xsetroot xsetup0 display appropri bitmap xdm login window expect nice ! 
+unfortun user session start background tvtwm window revert grey . 
+if i manual type xsetroot ... 
+xterm window session start background chang expect . 
+the question how i retain background login window andor specifi new background per-us basi part user session startup ? 
+ii when i open xterm sparc 10 key recognis key keyboard send correct charact . 
+ie real key key shown screen hash back slash tild pipe doubl quot symbol pound hash cursor key recognis this annoy ! 
+is x fault machin setup ? 
+i instal xterm driver came x11r5 terminfo termcap seem uptod . 
+type set xterm window show termin type xterm expect ! 
+ani help correct either problem much appreci ! 
+thank dave . 

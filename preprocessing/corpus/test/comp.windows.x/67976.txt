@@ -1,0 +1,6 @@
+i gotten x11r5 pl 23 compil aix 3.2.2 use cc . 
+server run . 
+simpli start coupl second later exit . 
+error display . 
+defin compil -dsysv -daixv3 -dsysvwait -dmalloc0returnsnul could somewher share light mayb ibm.cf file . 
+thank . 

@@ -1,0 +1,12 @@
+can someon tell hardwar compress need run digit speech 14.4k ? 
+i think i ve heard 's . 
+let say 8 bit sampl . 
+would raw data correspond sampl rate usabl ? 
+if fanci compress need ? 
+it 's easi dsp . 
+the olivetti quaderno exampl great 1kg subnotebookpalmtop pc sorri plug folk olivetti n't seem good job market includ sound digitis hardwar provid vocod dsp produc varous bit-rat . 
+there 's one give pretti accept voic qualiti 13kbitsec right v.32bis modem . 
+their dsp play record time would n't need play two-way-radio . 
+you also download code dsp subunit though 'd need softwar develop kit dsp question dunno ... 
+want produc vocod say v.32 speed . 
+paul 

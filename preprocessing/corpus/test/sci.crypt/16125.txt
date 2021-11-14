@@ -1,0 +1,17 @@
+at risk get lost clipper chip discuss i give summari recent question the recent discuss news group suggest key search attack des quit feasibl . 
+but normal des appli cbc cfb mode one choos random init vector 8 byte . 
+question make sens handl init vector addit key ? 
+then 56 64 120 bit key . 
+if yes is anyth known secur key scheme ? 
+can break faster exhaust search 120 bit key space ? 
+unfortun answer conceal initialis vector essenti n't give addit secur . 
+i got 3 answer open eye . 
+it 's pretti simpl say e encrypt d decrypt key k 64-bit block . 
+let c0 initialis vector m1 m2 ... 
+messag block c1 c2 ... 
+cipher text block . 
+then encrypt cipher block chain cbc mode work formula ci emi xor ci-1 decrypt mi ci-1 xor dci . 
+so attack n't c0 affect first messag block m1 . 
+but key search attack m2 m3 ... 
+the situat cipher feedback cfb mode bit complic similar left exercis reader final modifi output feedback mode ofb des whatev block cipher use simpli act random generat si esi-1 initialis vector seed s0 encrypt given ci mi xor si . 
+here usual known plaintext ' attack xor-bitstream cipher reduc crack key search k . 

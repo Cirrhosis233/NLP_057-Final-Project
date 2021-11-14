@@ -1,0 +1,10 @@
+i ve run bit snag tri get mac x run would appreci respons anyon may seen problem . 
+on local network i number mac sun sgi machin . 
+i instal macxmactcp macintosh run xclient sgi machin live-long day . 
+the problem i tri run xclient sun i setup command macx execut . 
+noth happen i n't even get command output . 
+now i thought might rout issu i run remot xclient sun sgi machin well vice-versa . 
+i also run remot xclient sgi machin not local net problem hold true non-loc sun well . 
+reject here extract readm file come macx user remot command sun machin may find remot command appear noth output sun machin . 
+this due featur sun rexecd network daemon quiet disconnect request machin known sun network address etchost nis host databas . 
+to success use remot command sunos-bas machin must entri network address databas macintosh run macx . 

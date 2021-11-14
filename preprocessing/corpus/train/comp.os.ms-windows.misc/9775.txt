@@ -1,0 +1,10 @@
+greet ! 
+i ve bunch problem 24x . 
+open dos window desktop occasion result window blow set horizont line hash entir desktop . 
+noth recov except complet exit window . 
+the irrit problem window scroll often overwrit line rather actual scroll cr print without lf . 
+this seem onli happen communic program i ca n't nail . 
+note though comm program n't communic . 
+even scroll back captur buffer display disk file program caus problem . 
+prior latest rev word perfect window wpwin would sometim blow error messag would cite video driver sourc problem . 
+i ve still seen twice wpwin 5.2 . 

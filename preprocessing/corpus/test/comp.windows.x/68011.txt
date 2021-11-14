@@ -1,0 +1,20 @@
+ever sinc i start use xwindow say recent i ve accumul question x-applic . 
+three exampl follow 1 it recent mention comp.os.linux exist post- script viewer . 
+i interest x-editor improv xedit i find annoy . 
+tri get axe it 's wonder x base editor much simpler use emac overkil . 
+of cours emac editor religion . 
+2 at one point i proud owner amiga sinc upgrad 386-33 . 
+workbench point-and click interfac use .info file store data icon associ applic given volum . 
+i notic architectur anywher linux xwindow associ icon applic ? 
+can one edit icon generat new one applic somehow ? 
+if make differ i 'm run twm ' . 
+1 do n't call go amiga ibm upgrad ' 2 the amiga workbench job desktop manag realli amaz good x desktop manag public domain . 
+i 'm current write one ... 
+'s earli stage 3 xdtm may medium good replac . 
+4 x associ icon noth . 
+a number x window manag associ icon window way eas window manag . 
+but noth icon desktop manag applic . 
+5 the tool bitmap simpl icon draw . 
+3 i ve notic peopl somehow discov way display .gif kind pictur file background either replac overlap usual grey background employ xwindow . 
+i heard done use applic i n't recal . 
+xv -root -max -quit whatever-image-fil 

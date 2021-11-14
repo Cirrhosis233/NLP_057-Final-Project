@@ -1,0 +1,5 @@
+i write x-base dosemu requir xkeyreleasedev . 
+i found keycod xkeyreleasedev wrong . 
+if i run program linux hostxfree1.2 display set local linux sun host x11r5 two keycod two xserver differ . 
+of cours keycod xkeypressedev o.k . 
+can anybodi verifi did i anyth wrong thank . 

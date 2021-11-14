@@ -1,0 +1,247 @@
+archive-nam typing-injury-faqkeyboard version revis 5.11 date 19930413 012043 answer to frequent ask question keyboard altern the altern keyboard faq the opinion unless otherwis mention repres opinion organ vendor . 
+current distribut sci.med.occup sci.m comp.human-factor chang sinc previous distribut version mark chang bar right text paragraph . 
+inform faq piec togeth phone convers e-mail product literatur . 
+while i hope 's use inform neither comprehens error free . 
+if find someth wrong miss pleas mail i ll updat list . 
+thank . 
+all phone number unless otherwis mention u.s.a . 
+phone number . 
+all monetari figur unless otherwis mention u.s.a . 
+dollar . 
+product cover faq use pc 's keyboard workstat compat issu appl comput inc . 
+key tronic flexpro dragon system the bat datahand comfort keyboard system kinesi ergonom keyboard maltron the toni ! 
+ergonom keysystem the vertic the mikey the wave the minim motion comput access system twiddler half-qwerti microwrit braill 'n speak octima accukey gif pictur mani product avail via anonym ftp soda.berkeley.edupubtyping-injuri . 
+128.32.149.19 i high recommend get pictur . 
+they tell much i fit file . 
+if ca n't ftp send mail i ll uuencod mail re pretti big ... 
+use pc 's keyboard workstat compat issu mini outlin 1 . 
+spoof keyboard serial port 2 . 
+x termin 3 . 
+next 4 . 
+silicon graphic 5 . 
+ibm rs6000 6 . 
+other stuff 1 . 
+spoof keyboard serial port if ve got proprietari comput use keyboard sun hp dec etc . 
+re go hard time find vendor sell compat keyboard . 
+if workstat run x window system re luck . 
+you buy cheap use pc hook expens keyboard run serial cabl workstat . 
+then run program workstat read serial port generat fake x keyboard event . 
+the two main program i ve found kt a2x . 
+a2x sophist program capabl control mous even move among widget screen . 
+it requir server extens xtest dec-xtrap xtestextension1 . 
+to find server run xdpyinfo ' see string appear extens list . 
+if server n't may want investig compil x11r5 patchlevel 18 later bug vendor . 
+kt simpler program work unextend x server . 
+anoth program call xsendev also exist i n't seen . 
+both a2x kt avail via anonym ftp soda.berkeley.edu . 
+2 . 
+x termin also number x termin ncd tektron name use pc-compat keyboard . 
+if x termin may set . 
+tri normal pc keyboard go troubl buy altern keyboard . 
+also x termin add extra button may need keep origin keyboard around once-in-a-blue-moon hit setup key . 
+3 . 
+next next announc new next machin use appl desktop bus mean mac keyboard work . 
+then announc cancel hardwar product . 
+if want kind upgrad older next ! 
+4 . 
+silicon graphic silicon graphic announc newer machin indigo2 beyond use standard pc-compat keyboard mice . 
+i n't believ also appli power seri machin . 
+it 's possibl upgrad older sgi use pc keyboard except upgrad entir machin . 
+contact sgi sale rep detail . 
+5 . 
+ibm rs6000 ibm rs6000 keyboard actual similar normal pc keyboard . 
+unfortun ca n't plug one . 
+you need two thing cabl convert go larg pc keyboard connector smaller ps2 style din-6 new devic driver aix . 
+believ ibm wrote devic driver recent i use work . 
+howev n't want redistribut . 
+i ve told judi hume 512 823-6337 potenti contact . 
+if learn anyth new pleas send e-mail . 
+6 . 
+other stuff some vendor notabl health care keyboard co . 
+accucorp support odd keyboard type may respons queri regard support weird comput . 
+if get suffici document keyboard work either vendor storag oscilloscop may luck . 
+contact compani detail . 
+appl adjust keyboard appl comput inc . 
+sale offic place . 
+avail februari 1993 price 219 support mac appl recent announc new split-design keyboard . 
+the keyboard one section hand section rotat backward hing . 
+the section tilt upward . 
+the key arrang normal qwerti fashion . 
+the main foldabl keyboard resembl normal appl keyboard . 
+a separ keypad contain extend key function . 
+the keyboard also come match wrist rest direct attach keyboard . 
+as soon soda come back i ll detail blurb tidbit avail . 
+flexpro keyboard key tronic phone 800-262-6006 possibl contact denis razzeto 509-927-5299 sold mani clone vendor pc shop avail spring 1993 price 489 support pc high like keytron appar show prototyp keyboard comdex . 
+it 's anoth split-design . 
+one thumb-wheel control tilt left right-hand side main alphanumer section . 
+the arrow key keypad resembl normal 101-key pc keyboard . 
+keytron make standard pc keyboard also product probabl sold standard distribut channel . 
+dragondictate-30k numer dragon product dragon system inc . 
+320 nevada street newton ma 02160 phone 800-talk-typ 617-965-5200 fax 617-527-0372 ship now . 
+price dragondictate-30k 4995 end user system dragonwrit 1000 1595 2495 end userdevelop system various price servic contract site licens etc . 
+compat 386 higher pc 3rd parti support mac free softwar support x window also avail pc dragon hardwar talk workstat serial cabl network . 
+the program call a2x avail via anonym ftp soda.berkeley.edupubtyping-injurya2x.tar.z export.lcs.mit.educontriba2x.tar.z current if want use dragon product x window may want ask peter cohen salesman dragon know sort thing . 
+dragon system sell number voic recognit product . 
+most seem run pc 's compat includ ps2 's microchannel box . 
+they sell hardwar board softwar sit front number popular word processor spreadsheet . 
+each user train ' system voic provis correct system make mistak fli . 
+multipl peopl use load differ person file person . 
+you still get use normal keyboard . 
+on dragondictate-30k need paus 110th sec word . 
+dragon claim typic input speed 30-40 word per minut . 
+i n't spec dragonwrit 1000 . 
+the dragondictate-30k recogn 30000 word time . 
+the dragonwrit 1000 recogn guess 1000 word time . 
+dragon 's technolog also part follow product i info microsoft window sound system voic pilot ibm voicetyp voic navig ii articul system macintosh emstat lanier voic product emerg medic workstat the bat old phone number 504-336-0033 current phone number 504-766-8082 infogrip inc . 
+812 north blvd . 
+baton roug louisiana 70802 u.s.a . 
+ward bond main contact david vicknair unix softwar 504-766-1029 ship now . 
+support mac ibm pc serial port nativ keyboard port version come soon .... 
+no workstat support serial support unix x window written . 
+pc mac get real attent compani . 
+a chord system . 
+one hand suffici type everyth . 
+the second hand redund increas speed . 
+price 495 dual set one complet keyboard 295 singl cheaper price offer macworld expo show-speci . 
+datahand 602-860-8584 industri innov inc . 
+10789 north 90th street scottsdal arizona 85260-6727 u.s.a . 
+mark roggenbuck contact support pc mac ship in beta . 
+big backlog could take 3 month . 
+price 2000unit 1 unit 2 pod . 
+new price ! 
+each hand pod . 
+each four main finger five switch forward back left right . 
+the thumb number switch . 
+despit appear key layout resembl qwerti report big deal adapt . 
+the idea hand never move use keyboard . 
+the whole pod tilt base act mous . 
+avail via anonym ftp soda.berkeley.edu comfort keyboard system 414-253-4131 fax 414-253-4177 health care keyboard compani n82 w15340 appleton ave menomone fall wisconsin 53051 u.s.a . 
+jeffrey szmanda vice presid contact ship now . 
+support pc mac ? ? ? 
+plan futur support ibm 122-key layout 3270-style i believ sun sparc decis data unisi uts-40 silicon graphic other support later . 
+the hardwar design relat easi compani re-configur . 
+price 690 includ one system person modul . 
+the idea one keyboard work everyth . 
+you purchas compat modul new cord possibl new keycap move one keyboard around among differ machin . 
+it 's three-piec fold keyboard . 
+the layout resembl standard 101-key keyboard except slice three section . 
+each section custom telescop univers mount each section independ adjust infinit number posit allow individu type natur postur . 
+you rearrang three section keypad middl want . 
+each section otherwis normal-shap i.e . 
+put three section flat look like normal 101-key keyboard . 
+kinesi ergonom keyboard 206-455-9220 206-455-9233 fax kinesi corpor 15245 pacif highway south seattl washington 98188 u.s.a . 
+shirley lund vp market contact ship now . 
+support pc . 
+mac sun sparc work . 
+price 690 . 
+volum discount avail . 
+the 690 includ one foot pedal one set adhes wrist pad typingtutor program . 
+an addit foot pedal accessori extra . 
+the layout larg blank space middl even though keyboard size normal pc keyboard slight smaller . 
+each hand set key laid minim finger travel . 
+thumb button handl mani major function enter backspac etc .. 
+you remap keyboard firmwar nice softwar wo n't allow reconfig . 
+foot pedal also avail map key keyboard shift control whatev . 
+maltron 44 081 398 3265 unit kingdom p.c.d . 
+maltron limit 15 orchard lane east molesey surrey kt8 obn england pamela stephen hobday contact u. . 
+distributor jim barrett appli learn corp . 
+1376 glen hardi road wayn pa 19087 phone 215-688-6866 support pc 's amstrad 15121640 bbc b bbc master mac appar also avail price 375 pound 735 ship u.s.a . 
+basic convert price ship the cost less bbc comput number accessori includ carri case switch box use normal keyboard maltron articul arm clamp tabl train cours ' help learn type maltron . 
+you also rent keyboard 10 poundsweek tax . 
+u. . 
+price 120month 60 purchas want . 
+ship now choic color black grey maltron four main product two-hand keyboard two one-hand keyboard keyboard design handicap peopl control mouth-stick . 
+the layout alloc button thumb curv bring key closer finger . 
+a separ keypad middl . 
+accukey accucorp inc . 
+p.o . 
+box 66 christiansburg va 24073 u.s.a . 
+703-961-3576 pete rosenquist sale 703-961-2001 larri langley presid ship now . 
+support pc mac ibm 3270 sun sparc televideo 935 955 . 
+cost 495 ship . 
+doe n't use convent push-key . 
+soft rubber key rock forward backward key three state make chord type key . 
+learn time estim 2-3 hour get start mayb two week get use . 
+current thumb n't anyth although thumb-trackbal work . 
+the compani claim take week work support new comput . 
+they happi adapt keyboard comput possibl . 
+twiddler 516-474-4405 800-638-2352 handykey 141 mt . 
+sinai ave . 
+mt . 
+sinai ny 11766 chris georg presid ship . 
+price 199 . 
+support pc . 
+mac x window work . 
+the twiddler keyboard mous fit one hand . 
+you type via finger chord . 
+shift control etc . 
+thumb button . 
+when mous mode tilt twiddler move mous mous button finger . 
+the cabl leav normal keyboard avail also . 
+most applic work window work fine . 
+desqview troubl . 
+geowork also troubl mous work keyboard n't . 
+braill 'n speak 301-879-4944 blazi engin 3660 mill green rd . 
+street md 21154 u.s.a . 
+the braill n speak use sever braill code enter inform grade i grade ii comput braill . 
+basic letter a-j combin dot 1 2 4 5 . 
+letter k-t combin a-j dot 3 ad . 
+letter u v x z like a-e dot 3 6 ad . 
+w uniqu loui braill n't w french alphabet . 
+the toni ! 
+ergonom keysystem 415-969-8669 toni hodg the toni ! 
+corpor 2332 thompson court mountain view ca 94043 u.s.a . 
+support mac pc ibm 3270 sun dec . 
+ship ? ? ? 
+price 625 commit re line buy keyboard . 
+when ship 's cheaper pay cheaper price . 
+if 's expens still pay 625 the toni ! 
+allow separ posit everi key allow keyboard person custom . 
+a thumb-oper mous also avail . 
+the vertic contact jeffrey spencer stephen albert 619-454-0000 p.o . 
+box 2636 la jolla ca 92038 u.s.a . 
+support info avail probabl pc 's avail summer 1993 price 249 the vertic keyboard split two halv point straight . 
+the user adjust width devic tilt section . 
+side-view mirror instal allow user see finger key . 
+the mikey 301-933-1111 dr . 
+alan grant 3208 woodhollow drive chevi chase maryland 20815 u.s.a . 
+ship as juli 1992 should avail one year support pc mac mayb price 200 estim the keyboard fix angl incorpor built-in mous oper thumb . 
+function key arrang circl keyboard 's left . 
+the wave 213- 310-644-6100 fax 310-644-6068 iocomm intern technolog 12700 yukon avenu hawthorn california 90250 u.s.a . 
+robin hunter contact sale cost 99.95 15 set cabl support pc . 
+ship . 
+iocomm also manufactur ordinari 101-key keyboard pcat 84-key keyboard pcxt make sure get right one . 
+the one-piec keyboard built-in wrist-rest . 
+it look exact like normal 101-key pc keyboard two inch built-in wrist rest . 
+the key switch feel report great improv . 
+the minim motion comput access system 508-263-6437 508-263-6537 fax equal access comput technolog dr . 
+michael weinreigh 39 oneida rd . 
+acton ma 01720 u.s.a . 
+price infogrip-compat hundr dollar one-hand bat for system 300 dos softwar hundr dollar ship custom-mad occup therapist would make mouldsdo whatev make . 
+you buy one . 
+support pc although infogrip-compat version might work mac . 
+in one-hand version exact one button per finger . 
+in two-hand version get four button per finger thumb n't anyth . 
+you also get one-hand version three thumb button compat infogrip bat . 
+basic get way want . 
+they also softwar tutori help learn chord . 
+work pc dos window . 
+plan macintosh pcwindow support . 
+no work done unix version yet . 
+half-qwerti canada 416-749-3124 the matia corpor 178 thistledown boulevard rexdal ontario canada m9v 1k1 support mac pc window demo anonym ftp explorer.dgp.toronto.edupubhalf-qwerti price 129.95 higher canada quantiti discount avail ship now . 
+this thing pure softwar . 
+no hardwar . 
+the softwar mirror keyboard hold space bar allow type one-hand . 
+octima israel 972-4-5322844 fax 972 3 5322970 ergopl keyboard ltd . 
+p.o . 
+box 31 kiryat ono 55100 israel a one-hand keyboard . 
+microwrit agenda u.k . 
+44 276 692 084 fax 44 276 691 826 microwrit system plc m.s.a . 
+hous 2 albani court albani park frimley surrey gu15 2xa unit kingdom the agenda person desktop assist pda style machin . 
+you carri along . 
+it chord input . 
+you also hook pc even program . 
+it cost 200 pound 128k memori . 
+basi inform . 
+thank numer contributor everybodi els i ve probabl manag forget . 
+the opinion unless otherwis mention repres opinion organ vendor . 

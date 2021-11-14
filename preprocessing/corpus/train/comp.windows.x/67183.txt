@@ -1,0 +1,15 @@
+nick kisseberth look interest i need someon point document . 
+is method like give better result server- resid pixmap ? 
+i 'd also interest look xview code mention ... 
+there 's document use share memori extens x11r5 distribut . 
+actual i finish write motif anim program ... 
+take-lots-of-image-data-and-display-it-pretty-darn-fast . 
+when use on-serv pixmap share memori i insert delay loop keep 
+go quick test method side side equal . 
+the advantag shm x server n't grow ridicul size pixmap work network remov applic die one tend use ipcrm manual quit bit debug shm app . 
+share memori also problem oper system e.g . 
+ultrix seem allow small number segment 6 attach process consequ redraw becom xshmattachxshmputimagexshmdetach dec system . 
+and dec 's 24 bit display like one i tend use often n't seem support extens mayb someon compil wrong ? 
+use pixmap caus x server crash fail malloc one use local unix domain socket realli n't bad one copi info three time per redraw instead one . 
+in short allow three form display within program good thing minus shm run network let user pick whatev feel fastest . 
+i use ximagehandl class forget 

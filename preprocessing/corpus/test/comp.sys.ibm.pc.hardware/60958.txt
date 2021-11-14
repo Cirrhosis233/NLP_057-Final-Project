@@ -1,0 +1,11 @@
+hi can somebodi tell step step add 40mb ide kalok ? 
+hd exist 120mb ide maxtor hd stacker 3.0 dos 5 ? 
+i know set jumper 40m slave set head wpcom sector etc . 
+i also know i cmos set fdisk . 
+the problem letter cmos give new drive ? 
+if 's d happen stacker creat d swap ? 
+can i tell cmos make e ? 
+so i stack i c d e f ? 
+i know could faq readm somewher i want hear somebodi ve actual done . 
+thank ! 
+romi 

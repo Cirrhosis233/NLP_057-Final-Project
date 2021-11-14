@@ -1,0 +1,9 @@
+hi all i heard somewher exist programm keyboard eg . 
+one program display key show specif charact et.c . 
+doe mean way transmit non-trivi data kb oppos standard numlock ... 
+on-off typeamat spec . 
+insid pc softwar ? 
+i found correspond refer spec 8042 pc-kb interfac . 
+anyon idea ? 
+except may encod data sequenc standard command mention would n't look neat besid would one xt ? 
+great thank advanc 

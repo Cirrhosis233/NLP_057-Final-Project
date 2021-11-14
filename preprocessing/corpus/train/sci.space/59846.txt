@@ -1,0 +1,20 @@
+archive-nam spaceconst last-modifi date 930401 143904 constant and equat for calcul this list origin compil dale greer . 
+addit would appreci . 
+number parenthes approxim serv blue-ski purpos . 
+unix system provid unit ' program use convert differ system metricenglish etc . 
+number 7726 ms 8000 earth orbit veloc 300 km altitud 3075 ms 3000 earth orbit veloc 35786 km geosync 6371 km 6400 mean radius earth 6378 km 6400 equatori radius earth 1738 km 1700 mean radius moon 5.974e24 kg 6e24 mass earth 7.348e22 kg 7e22 mass moon 1.989e30 kg 2e30 mass sun 3.986e14 m3s2 4e14 gravit constant time mass earth 4.903e12 m3s2 5e12 gravit constant time mass moon 1.327e20 m3s2 13e19 gravit constant time mass sun 384401 km 4e5 mean earth-moon distanc 1.496e11 15e10 mean earth-sun distanc astronom unit 1 megaton mt tnt 4.2e15 j energi equival .05 kg 50 gm matter . 
+ref j.r william the energi level thing air forc special weapon center ardc kirtland air forc base new mexico 1963 . 
+also see the effect nuclear weapon compil s . 
+glasston p.j . 
+dolan publish us depart defens obtain gpo . 
+equat where distanc v veloc acceler time . 
+addit special equat avail ames.arc.nasa.govpubspacefaqmoreequ for constant acceler d0 vt .5at2 v v0 v2 2ad acceler cylind space coloni etc . 
+radius r rotat period 4 pi2 r t2 for circular keplerian orbit vc veloc circular orbit vesc escap veloc m total mass orbit orbit bodi g gravit constant defin u g m measur much accur g m k -g m 2 r radius orbit measur center mass system v orbit veloc p orbit period semimajor axi orbit vc sqrtm g r vesc sqrt2 m g r sqrt2 vc v2 ua p 2 pisqrtua3 k 12 v2 g m r conserv energi the period eccentr orbit period circular orbit semi-major axi . 
+chang veloc requir plane chang angl phi circular orbit delta v 2 sqrtgmr sin phi2 energi put mass circular orbit ignor rotat veloc reduc energi bit . 
+gmm 1re 12rcirc re radius earth rcirc radius circular orbit . 
+classic rocket equat dv chang veloc isp specif impuls engin ve exhaust veloc x reaction mass m1 rocket mass exclud reaction mass g 9.80665 s2 ve isp g dv ve lnm1 x m1 ve lnfinal mass initi mass relativist rocket equat constant acceler unacceler ca sinhatc c2a coshatc 1 v c tanhatc relativist rocket exhaust veloc ve mass ratio mr atc vec lnmr unacceler ca sinhvec lnmr c2a coshvec lnmr 1 v c tanhvec lnmr convert parallax distanc parsec 1 p arc second astronom unit 206265 p miscellan fma forc mass time acceler wfd work energi forc time distanc atmospher densiti vari exp-mgzkt z altitud molecular weight kg air g local acceler graviti t temperatur k bolztmann 's constant . 
+on earth 100 km d0exp-z1.42e-4 densiti d0 densiti 0km approxim true atmospher scale height dri laps rate km emiss level kkm earth 7.5 9.8 mar 11 4.4 venus 4.9 10.5 titan 18 1.3 jupit 19 2.0 saturn 37 0.7 uranus 24 0.7 neptun 21 0.8 triton 8 1 titius-bod law approxim planetari distanc rn 0.4 0.3 2n astronom unit n -infin mercuri 0 venus 1 earth etc . 
+this fit fair well except neptun . 
+constant 6.62618e-34 j-s 7e-34 planck 's constant h 1.054589e-34 j-s 1e-34 planck 's constant 2 pi h bar 1.3807e-23 jk 1.4e-23 boltzmann 's constant k 5.6697e-8 wm2k 6e-8 stephan-boltzmann constant sigma 6.673e-11 n m2kg2 7e-11 newton 's gravit constant g 0.0029 k 3e-3 wien 's constant sigmaw 3.827e26 w 4e26 luminos sun 1370 w m2 1400 solar constant intens 1 au 6.96e8 7e8 radius sun 1738 km 2e3 radius moon 299792458 ms 3e8 speed light vacuum c 9.46053e15 1e16 light year 206264.806 au 2e5 3.2616 light year 3 parsec 3.0856e16 3e16 black hole radius also call schwarzschild radius 2gmc2 g newton 's grav constant m mass bh c speed light thing add somebodi look ! 
+basic rocketri number equat aerodynam stuff energi put pound orbit acceler interstellar veloc . 
+non-circular case ? 

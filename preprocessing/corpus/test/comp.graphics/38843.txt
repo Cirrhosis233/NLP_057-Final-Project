@@ -1,0 +1,8 @@
+hello i ve raytrac render differ i ve found raytrac take hell lot longer . 
+am i miss someth ? 
+yes . 
+there mani method render raytrac one . 
+you n't say mean render i wo n't guess . 
+method render includ pencil graph paper math hand wirefram render 2d project hidden line render scanlin render use painter 's algorithm . 
+bsp tree . 
+z buffer other raytrac radios holograph project film combin 

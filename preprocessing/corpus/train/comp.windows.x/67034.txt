@@ -1,0 +1,16 @@
+actual i must also ask faq 's 1 popular reason graphic n't show wait expos event draw rectangl ? 
+suppos idl app realiz map window contain xlib graphic . 
+a button widget press caus new item drawn window . 
+this action clear call xcopyarea equiv direct instead regist exist new item memori structur let expos event handler take care render imag time guarante window map . 
+the problem cours expos event generat window visibl map . 
+do know best way tickl window expos event handler invok draw new item ? 
+what origin question ? ? ? 
+i previous state i xcopyarea depth-8 pixmap screen make sure imag data . 
+this not problem expos event xcopyplan work ! ! ! 
+doe anyon code fragment could send demonstr xcopyplan work ? ? ? 
+this would help ! 
+thank ! 
+ensco inc . 
+mail 445 pineda ct . 
+melbourn fl . 
+32940 407254-4122 fax 407254-3293 

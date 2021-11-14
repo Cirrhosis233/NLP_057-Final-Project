@@ -1,0 +1,17 @@
+ow 3.0 . 
+but definit broken relat . 
+pageview requir dsc compliant postscript file order stop page break . 
+i n't consid broken . 
+i say program put postscript file n't dsc compliant broken . 
+well may true . 
+howev man page pageview ow 2.0 mention dsc complianc . 
+in event point tri display ps file use pageview find 's practic tool . 
+it true man page pageview say file need dsc compliant . 
+that fault left hand know right hand sun . 
+i inform sun employe pageview program requir dsc compliant postscript . 
+there possibl go chang file n't dsc compliant would stop showpag . 
+i believ method would preclud abl go backward forward file i.e . 
+could go forward next showpag . 
+this n't ow3.0 pageview mayb solari 2.x version ow ow 3.1 ? . 
+in event i find pageview extrem use . 
+sinc postscript i produc is dsc compliant i n't problem . 

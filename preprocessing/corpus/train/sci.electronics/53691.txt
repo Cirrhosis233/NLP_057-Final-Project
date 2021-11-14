@@ -1,0 +1,4 @@
+im design circuit silicon diod . 
+i dont need modifi paramet . 
+but problem accept follow statement .model diod d the pspice book i terribl . 
+i would appreci help . 

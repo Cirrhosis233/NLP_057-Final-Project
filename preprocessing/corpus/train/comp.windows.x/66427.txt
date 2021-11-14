@@ -1,0 +1,14 @@
+i write program need draw colour xpm pixmap file onto background without border show . 
+i xor colour stuff . 
+i use xcopyplan singl plane . 
+i want abl specifi colour pixmap use opaqu colour . 
+is possibl . 
+game xjewel problem . 
+how mous pointer ? 
+ani help would help ? 
+you wan na mask . 
+build bitmap pixmap depth one pixel name opaqu 1 get copi other 0 . 
+use bitmap clipmask gc use xcopyarea rememb adjust cliporigin coordin xcopyarea blit origin . 
+the mous pointer besid driven use ramdac analog map hardwar use mask . 
+but warn blit mask especi move around mask annoy slow xserver ... 
+flicker even 40 mip ... 

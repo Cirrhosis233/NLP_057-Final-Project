@@ -1,0 +1,13 @@
+i went bought pas16 yesterday instal gateway dx2-66v . 
+i follow instruct set sb side dma 1 irq5 default pas side dma 5 irq 10 . 
+my question i configur mpu-401 compat . 
+the manual instal program recommend irq2 machin configur cascad irq8-15 . 
+so i still use irq2 i choos differ one ? 
+right i mpu-401 emul mode turn . 
+actual cascad irq8-15 busi ? 
+a relat question gw vl-bus machin owner i told dma 5 6 7 16 bit dmas 0-4 8 bit dmas . 
+now 32-bit vl-bus master dmas ? ? 
+which dma channel use vl-bus extens 32-bit dma ? 
+yet anoth question instal pas16 link golf game hang machin i select sb mode run work adlib mode ? ? 
+civil howev work fine least far . 
+ani bodi know i might done wrong ? 

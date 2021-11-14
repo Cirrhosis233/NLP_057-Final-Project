@@ -1,0 +1,175 @@
+ny ranger 3 1 
+04 washington 0 0 00 first period 1 
+ny ranger grave 33 turcott low 913 . 
+2 ny ranger gartner 44 messier 1121 . 
+3 ny ranger olczyk 21 messier amont 1457 . 
+second period 4 ny ranger beukeboom 2 unassist 330 . 
+third period no score . 
+ny ranger 4 power play 4-0 scorer g a pts amont 0 1 
+1 
+beukeboom 1 
+0 1 
+gartner 1 
+0 1 
+grave 1 
+0 1 
+low 0 1 
+1 
+messier 0 2 2 olczyk 1 
+0 1 
+turcott 0 1 
+1 
+washington 0 power play 3-0 no score boston 0 2 13 buffalo 0 0 00 first period no score . 
+second period 1 
+boston leach 24 wesley oat pp 103 . 
+2 boston oat 44 douri poulin 900 . 
+third period 3 boston douri 4 bourqu sh 055 . 
+boston 3 power play 5-1 special goal pp 1 
+sh 1 
+total 2 scorer g a pts bourqu 0 1 
+1 
+douri 1 
+1 
+2 leach 1 
+0 1 
+oat 1 
+1 
+2 poulin 0 1 
+1 
+wesley 0 1 
+1 
+buffalo 0 power play 6-0 no score pittsburgh 1 
+3 15 new jersey 0 1 
+12 first period 1 
+pittsburgh franci 23 lemieux tocchet pp 1325 . 
+second period 2 pittsburgh murphi 21 franci mullen sh 038 . 
+3 pittsburgh franci 24 tocchet lemieux pp 714 . 
+4 pittsburgh jagr 33 tocchet franci pp 1522 . 
+5 new jersey zelepukin 17 driver lemieux pp 1907 . 
+third period 6 new jersey maclean 23 nichol steven 645 . 
+7 pittsburgh lemieux 62 jagr en 1951 . 
+pittsburgh 5 power play 9-3 special goal pp 3 sh 1 
+en 1 
+total 5 scorer g a pts franci 2 2 4 jagr 1 
+1 
+2 lemieux 1 
+2 3 mullen 0 1 
+1 
+murphi 1 
+0 1 
+tocchet 0 3 3 new jersey 2 power play 9-1 scorer g a pts driver 0 1 
+1 
+lemieux 0 1 
+1 
+maclean 1 
+0 1 
+nichol 0 1 
+1 
+steven 0 1 
+1 
+zelepukin 1 
+0 1 
+toronto 0 0 00 philadelphia 2 1 
+14 first period 1 
+philadelphia dineen 31 beranek hawgood 810 . 
+2 philadelphia mcgill 3 lindro recchi 1955 . 
+second period 3 philadelphia lindro 38 recchi galley 755 . 
+third period 4 philadelphia dineen 32 hawgood galley pp 1839 . 
+philadelphia 4 power play 4-1 scorer g a pts beranek 0 1 
+1 
+dineen 2 0 2 galley 0 2 2 hawgood 0 2 2 lindro 1 
+1 
+2 mcgill 1 
+0 1 
+recchi 0 2 2 toronto 0 power play 6-0 no score vancouv 0 2 13 ottawa 0 0 00 first period no score . 
+second period 1 
+vancouv plavsic 6 craven 1305 . 
+2 vancouv momesso 17 nedv plavsic pp 1552 . 
+third period 3 vancouv bure 57 unassist 1327 . 
+vancouv 3 power play 4-1 scorer g a pts bure 1 
+0 1 
+craven 0 1 
+1 
+momesso 1 
+0 1 
+nedv 0 1 
+1 
+plavsic 1 
+1 
+2 ottawa 0 power play 5-0 no score st . 
+loui 2 0 24 chicago 4 0 15 first period 1 
+chicago sutter 18 murphi chelio pp 108 . 
+2 st . 
+loui janney 20 shanahan j.brown pp 649 . 
+3 chicago roenick 44 chelio smith pp 820 . 
+4 chicago roenick 45 sutter chelio pp 1314 . 
+5 chicago graham 19 gilbert ruuttu 1342 . 
+6 st . 
+loui janney 21 shanahan crossman 1938 . 
+second period no score . 
+third period 7 chicago murphi 5 chelio belfour 020 . 
+8 st . 
+loui miller 21 hull janney pp 704 . 
+9 st . 
+loui janney 22 miller shanahan 1932 . 
+chicago 5 power play 8-3 scorer g a pts belfour 0 1 
+1 
+chelio 0 4 4 gilbert 0 1 
+1 
+graham 1 
+0 1 
+murphi 1 
+1 
+2 roenick 2 0 2 ruuttu 0 1 
+1 
+smith 0 1 
+1 
+sutter 1 
+1 
+2 st . 
+loui 4 power play 4-2 scorer g a pts brown j 0 1 
+1 
+crossman 0 1 
+1 
+hull 0 1 
+1 
+janney 3 1 
+4 miller 1 
+1 
+2 shanahan 0 3 3 calgari 1 
+2 14 san jose 1 
+0 23 first period 1 
+calgari otto 19 yawney ashton pp 529 . 
+2 san jose odger 10 pederson wilkinson 1833 . 
+second period 3 calgari nieuwendyk 34 johansson rees 203 . 
+4 calgari reichel 35 skrudland berub 1222 . 
+third period 5 calgari ashton 7 otto fleuri 130 . 
+6 san jose pederson 9 odger evason 224 . 
+7 san jose odger 11 gaudreau evason pp 1930 . 
+calgari 4 power play 5-1 scorer g a pts ashton 1 
+1 
+2 berub 0 1 
+1 
+fleuri 0 1 
+1 
+johansson 0 1 
+1 
+nieuwendyk 1 
+0 1 
+otto 1 
+1 
+2 rees 0 1 
+1 
+reichel 1 
+0 1 
+skrudland 0 1 
+1 
+yawney 0 1 
+1 
+san jose 3 power play 5-1 scorer g a pts evason 0 2 2 gaudreau 0 1 
+1 
+odger 2 1 
+3 pederson 1 
+1 
+2 wilkinson 0 1 
+1 

@@ -1,0 +1,12 @@
+i purchas the norton desktop window i also norton util . 
+when i instal ndw want rem line instal ep ep on command invok imag util . 
+it replac imag command new imag command invok version imag came ndw . 
+this make sens presum imag version ndw newer one nu . 
+it howev instal smartcan autoexec . 
+now two question 1 will nu use imag data save newer version imag invok . 
+i.e . 
+are two version imag compat ? 
+2 will eras protect use info smartcan vice versa ? 
+i use dos window i want make sure i eras file either environ go protect . 
+from experi i run the two program eras protect smart eras n't use other info . 
+i current ep smartcan load within autoexec i n't see conflict fyi norton desktop window version 2.2 norton util 's version 6 

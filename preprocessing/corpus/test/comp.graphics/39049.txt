@@ -1,0 +1,5 @@
+doe anyon know i find code would take concav polygon break set convex polygon ? 
+o i also would like code algorithm . 
+in fact i interest sourc code andor algorithm convert 2d graphic object 2d graphic object render imag . 
+i.e . 
+bezier curv b spline spline circular arc segment b spline polgon etc ... 

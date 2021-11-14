@@ -1,0 +1,7 @@
+i look small util convert microsoft video avi file autodesk anim pro flc file . 
+sinc avi also contain sound would nice util also store sound track wav voc file . 
+current i 'm accomplish save avi multipl dib use video window convert dib gif load gif anim . 
+for sound i load origin avi wavedit save seper wav file . 
+this requir mani step product . 
+ani help great appreci . 
+thank don 

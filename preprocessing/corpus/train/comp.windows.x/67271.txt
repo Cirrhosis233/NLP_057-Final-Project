@@ -1,0 +1,7 @@
+now avail xvertext 4.0 summari xvertext provid four function draw string angl x window previous version limit vertic text . 
+rotat still achiev use ximag notion rotat whole font first drop . 
+what 's new ? 
+i ve ad cach keep copi previous rotat string thus speed redraw . 
+where i get ? 
+comp.sources.x soon ... 
+export.lcs.mit.edu contribxvertext.4.0.shar.z 

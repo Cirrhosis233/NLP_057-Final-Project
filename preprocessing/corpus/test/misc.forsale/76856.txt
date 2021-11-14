@@ -1,0 +1,13 @@
+to all gvc technolog v.32 9600bps modem 9600480024001200300 bps oper automat speed select . 
+ccitt v.32v.22bisv.22v.21 full-duplex oper . 
+asynchron oper . 
+auto-answ auto-di automat switch data voic transmiss . 
+support com port 1-4 irq 2-5 analogdigitalremot digit loopback test mode . 
+communic crosstalk softwar manual includ . 
+modem manual warranti registr card includ . 
+option ccitt v.42bisv.42mnp 2-5 modul provid error correct data compress increas throughput 38400 bps avail direct manufactur . 
+mint condit . 
+125 . 
+sent address . 
+instead pleas repli via sinc home bbs handl person messag e-mail time repli also arriv via e-mail instead way regular newsgroup . 
+dino fiaban 150 weston drive cherri hill nj 08003-2132 phone 609 424-3836 

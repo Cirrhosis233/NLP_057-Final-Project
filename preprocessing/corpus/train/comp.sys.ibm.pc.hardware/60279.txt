@@ -1,0 +1,33 @@
+hi netter ! 
+i 'm look purchas sort backup solut . 
+after read situat i 'd like opinion . 
+here 's scenario 1 . 
+there two comput hous . 
+one small 286 40mb ide drive . 
+the 386dx 213 scsi drive w adaptec 1522 control . 
+both system pc tool use central point backup backup restor program . 
+both system 3.5 5.25 floppi . 
+2 . 
+the comput network anytim soon . 
+from i seen far appear least 4 possibl solut i 'm sure other i n't thought . 
+for option i would appreci hear anyon tri see flaw drive type x wo n't coexist devic y etc . 
+think i n't know much beast 1 . 
+put 2.88mb floppi drive combin drive system . 
+can someon suppli cost brand inform ? 
+what 's good brand ? 
+what floppi cost ? 
+2 . 
+put intern tape backup unit 386 use scsi adapt continu back 286 floppi . 
+again someon recommend manufactur ? 
+the brand i rememb colorado memori . 
+ani happi unhappi user i know compress controversi ? 
+3 . 
+connect extern tape backup unit 386 use scsi adapt mayb ? 
+connect 286 somehow suggest ? 
+4 . 
+instal floptic drive machin . 
+again gotcha 's recommend manufactur ? 
+i appreci help . 
+you may either post send e-mail . 
+i summar respons net . 
+thank 

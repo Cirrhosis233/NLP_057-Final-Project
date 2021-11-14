@@ -1,0 +1,4 @@
+i run twm would like execut program leav twm . 
+in word i would like run program i f.quit . 
+is possibl make menu section would contain two part ? 
+in menu definit put quit twm f.function execut quit then defin function execut quit ! someprogram f.quit barri margolin system manag think machin corp . 

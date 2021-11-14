@@ -1,0 +1,4 @@
+the 486 clock not fast 040 clock speed . 
+the 040 also much better float point unit . 
+now dx2-66 faster 040 33mhz . 
+but refer 486 33 mhz get 14mip 040 33mhz get 20mip . 

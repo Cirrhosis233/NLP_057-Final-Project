@@ -1,0 +1,15 @@
+i problem mani might run . 
+we use lot ascii termin use max . 
+mean lot attribut line this mean need attribut work includ bold line draw . 
+the font seem meet criteria pair font one bold normal linedraw fix space sever size . 
+the standard font work font like 9x15 9x15b misc . 
+they work great except i need font one size larger 10x20 . 
+now 10x20 work well bold counterpart ! 
+you n't need bold ' counterpart . 
+from man xterm -fb font this option specifi font use dis- play bold text . 
+this font must height width normal font . 
+if one normal bold font specifi use normal font bold font produc overstrik font . 
+the default overstrik normal font . 
+i tri one font xterm terminfostermcap set not remap bold default revers noth happen bold display . 
+it would appear least x11r4 display bold xterm without specifi two font normal bold . 
+i wish someon would prove incorrect . 

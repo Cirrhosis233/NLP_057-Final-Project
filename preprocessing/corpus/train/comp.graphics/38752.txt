@@ -1,0 +1,7 @@
+hello i ve recent povray draw 10 sampl file . 
+the problem i accid eras command povray.def made imag targa file . 
+so file dump format . 
+how i fix file re-trac ? 
+by fix i mean turn targa . 
+thank advanc . 
+-jerri 

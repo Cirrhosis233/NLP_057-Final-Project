@@ -1,0 +1,10 @@
+excerpt netnews.comp.windows.x 15-may-93 re color x window the problem need solut applic . 
+and although i would love thing mention somebodi write . 
+what i 'd like see scenario each widget view whatev describ 's color via palett . 
+palett share contain descript inform . 
+they direct tie object use . 
+palett held server . 
+a palett accomad number hardwar color cell color descriptor . 
+when input focus particular widget widget access color describ associ palett . 
+all other widget transient get the closest approxim that can be generat by a union of the color from the current palett and ani free color that are left over . 
+a widget specifi color imag provid index pixel associ palett . 

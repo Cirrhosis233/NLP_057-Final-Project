@@ -1,0 +1,8 @@
+i use x11r5patch23 r5-sunos5 patch post export . 
+i option appli patch.olit . 
+libxmu compil fine .. 
+i tri use client i.e . 
+bmtoa twm i get error ... 
+i figur wrong gcc -fpcc-struct-return -o twm gram.o lex.o deftwmrc.o addwindow.o gc.o list.o twm.o parse.o menus.o events.o resize.o util.o version.o iconmgr.o cursor.o icons.o -o2 -rusrwgepx11r5.sos5libldrunpathldrunpath -l ..... libxmu -lxmu -l . 
+.... libxt -l ..... extensionslib -l ..... libx -l ..... extensionslib -lxext -l ..... extensionslib -lxext -l ..... libx -lx11 -lusrwgepx11r5.sos5lib -lsocket -lnsl ld warn file ..... extensionsliblibxext.so attempt multipl inclus file libxext.so undefin first referenc symbol file xtwindowofobject ..... libxmulibxmu.so ld fatal symbol referenc error . 
+no output written twm error code 1 the problem sunpost411ld defin . 

@@ -1,0 +1,24 @@
+hi i enquiri pc 's compat general .. 
+some softwar other hardwar orient .. 
+probabl wrong newsgroup .... 
+everyon claim .. 
+anyway .. 
+1 doe one happen board jumper detail trident 8900 svga graphic card 1mb even dip switch end .. 
+mine alreadi work fine albeit slow blown monitor i found switch control interlacenon interlac facil .. 
+but i 'm curious 8 dip switch card appar littl use .. 
+2 second anyon know commodor craze design pc-40 motherboard respect ram .. 
+ie 512 512 640 0k ? ? 
+3 can anyon suppli pin detail expans port pc 8 16 bit .. 
+even sampl circuit caus irq button press ... 
+yeah i know piec cake .. 
+i 'm lazi 8 4 softwar wise .. 
+anyon care divulg tip access expand ram pc program written turbo c .... 
+for instanc use farcoreleft coreleft return memori avail base 640k regardless combin emm386 etc etc ... 
+what i want abl use ram beyond 1mb boundari ... 
+i 'm certain whether farmalloc new actual use anyway i ll suspect .. 
+5 also .. 
+half brain wit creat dos re-entr ? ? ? ? ? ? 
+as follow anyon comment use dos call 0 0c within dos interrupt ? 
+ie chang stack size entri use .. 
+two articl i ve read subject given conflict view ... 
+doe anyon view write direct screen memori term portabl ? 

@@ -1,0 +1,27 @@
+contentsproblem tabl widget r5 the follow part program user interfac simul system work r4 refus r5 . 
+of caus r4-version know xptablewidgetclass use tablewidgetclass instead caught net time r3 xptablechildposit former xttblposit . 
+sinc compil r5 program caus zero width height error sparc-stat . 
+the trouble-shoot recomput modelinitt tabl widget though child label asciitext widget exist xtquerygeometri return prefer width height zero . 
+thus follow asign perform anyth els set width height newli creat widget zero . 
+no wonder xtpopup xtmanage- child creat zero width height error depend whether width height shell widget set resourc file . 
+question doe anyon know xtquerygeometri return low prefer valu work tabl widget perhap ? 
+i ll happi someon abl help . 
+german request answer german . 
+siegfri kaiser the part interest graphisch neuaufbau des model-init-formular store old width height viewport- widget parent troubl tabl widget viewport widget destroy the destroy widget resiz relict r3-age modelinitpoppedup xtunmapwidgetmodelinitformview xtdestroywidgetmodelinitformview creat subtre within shell root viewport widget n 0 xtsetargargsnxtnfromvertmodelinittitl n xtsetargargsnxtnfromhorizmodelinitbuttonview n xtsetargargsnxtnallowverttru n xtsetargargsnxtnforcebarstru n modelinitformview xtcreatewidgetformviewviewportwidgetclass modelinitformargsn n 0 modelinitt xtcreatewidgettablexptablewidgetclass modelinitformviewargsn createformwidget 
+creat posit tabl widget 's child . 
+to posit use xptable- childposit r5 xttblposit r4 createformwidgetptrmodelinitobjmodelinitt the crucial function call intend return maximum height possibl n't suffici space show whole tabl widget viewport shall grow larg possibl beyond border screen . 
+if enough space window intend shrienk smallest possibl height . 
+xtquerygeometrymodelinittablenullpref accord algorithm idea new valu viewport widget 's height select . 
+unfortun pref.height 0 lead newheight 0 . 
+formviewheight pref.height newheight pref.height els newheight formviewheight set new valu viewport widget ancestor w xtnametowidgetmodelinitformformview xtresizewidgetwwidthnewheightpref.borderwidth xtresizewidgetmodelinitformviewwidthnewheight pref.borderwidth modelinitpoppedup in case shell contain modelinitform- view modelinitt allreadi exist resiz . 
+n 0 xtsetargargsnxtnwidthshellwidth n xtsetargargsnxtnheightshellheight n xtsetargargsnxtnborderwidthshellbw n xtgetvaluesmodelinitshellargsn xtresizewidgetmodelinitshellshellwidth shellheight height newheightshellbw end n 0 xtsetargargsnxtnwidthwidth n xtsetargargsnxtnborderwidthbw n xtgetvaluesmodelinitbuttonviewargsn xtresizewidgetmodelinitbuttonviewwidthnewheightbw xtresizewidgetvertbarsbarwidth1sbarbw resizeinit if shell 's height set within resourc file program termin within first xtmanagechild second pass observ function . 
+the first pass succeed . 
+xtmanagechildmodelinitformview xtmanagechildmodelinitt ! modelinitpoppedup in case shell n't pop done . 
+if valu set shell 's height within resourc file program termin . 
+xtpopupmodelinitshellxtgrabnon modelinitpopflag true setmodelinitattribut end getactualinitptractu loadformptractu if someon suspect creation tabl widget 's content caus troubl sourc createform createformwidgetptrt tobj ptr widget tabl ptr linear list contain attribut para- meter model addit correspon- ding widget arg args10 int n row col tobj ptrobj tident ptrident initi local variabl ptrobj ptr col 0 row 0 schleif ueber die objekt bzw . 
+das pseudo-objekt fuer die paramet loop list object pseudo-object everi object occur model zero attribut paramet share sever object . 
+becaus local attribut one object list second linear list type tident wherea paramet belong ob- ject put togeth pseudo-object thus program loop list object pseudo-object object list attribut resp . 
+paramet . 
+ptrobj tobjnul each object pseudo-object repres label widget n 0 xtsetargargsnxtnlabelptrobj-nam n ptrobj-labelw xtcreatemanagedwidgetobjectlabelwidgetclass tableargsn xptablechildpositionptrobj-labelwcolrow col row ptrident ptrobj-id schleif ueber die objekt-attribut bzw . 
+paramet ptrident tidentnul each attribut paramet repres label correspond asciitext widget initi . 
+n 0 xtsetargargsnxtnlabelptrident-nam n ptrident-labelw xtcreatemanagedwidgetidentlabelwidgetclass tableargsn xptablechildpositionptrident-labelwcolrow col n 0 xtsetargargsnxtnlengthrowlength n xtsetargargsnxtnstringptrident-text n xtsetargargsnxtnedittypexawtextedit n xtsetargargsnxtnwrapxawtextwrapword n xtsetargargsnxtnresizexawtextresizeheight n xtsetargargsnxtnusestringinplacetru n ptrident-textw xtcreatemanagedwidgettext asciitextwidgetclass tableargsn xptablechildpositionptrident-textwcolrow col row getnextidentptrid end col getnextobjptrobj end end createformwidget 

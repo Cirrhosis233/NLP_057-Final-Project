@@ -1,0 +1,13 @@
+dear friend the risc mean reduc instruct set comput . 
+the risc usual small instruct set reduc circuit complex increas clock rate high perform . 
+you read book comput architectur inform risc . 
+hmm ... 
+i author risc i clear rememb read instruct set risc cpus rather larg . 
+the differ address mode risc instruct set orthogon cisc . 
+the origin risc small instruct set simpl one . 
+the idea everi instruct complet singl clock cycl b microcod c extens pipelin . 
+a comparison patterson reduc instruct set comput . 
+cacm v28 . 
+1 1985 cpu year instruct microcod ibm 370168 1973 208 420kb dec vax 11780 1978 303 480kb ibm 801 1980 120 0 ucb risc 1 1982 39 0 stanford mip 1983 55 0 while research vlsi vax dec discov 60 vax microcod support 20 instruct set account mere 0.2 instruct execut . 
+the uvax 32 subset architectur onto singl chip use softwar emul complex instruct full vlsi uvax includ entir instruct set 5-10 time copmlex ranm 20 faster . 
+cpu chip microcod transistor uvax 32 2 64k 101k vlsi uvax 9 480k 1250k 

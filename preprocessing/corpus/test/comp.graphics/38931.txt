@@ -1,0 +1,11 @@
+i interest hear use implement 3-d interact applic type 3-d widget would like applic . 
+a 3-d widget usual locat scene 3-d object applic . 
+it may let manipul applic data camera 3-d object scene view status applic 3-d object via widget 's shape color posit orient whatev i miss think possibl . 
+for exampl manipul widget virtual trackbal shown partial transpar sphere super-impos object rotat . 
+a feedback widget ruler end anchor 2 object . 
+the length ruler chang object move numer valu shown ruler indic distanc . 
+a widget provid manipul feedback . 
+for exampl ruler use chang distanc object along axi . 
+pleas e-mail post opinion 3-d interact . 
+the inform i gather help design 3-d ui construct tool . 
+your help much appreci . 

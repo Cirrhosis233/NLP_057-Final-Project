@@ -1,0 +1,14 @@
+i ve use final coda time sudden stop use font . 
+i 386 pc lot disk space memori postscript laser win3.1 final 2.0.1 i recent instal atm 2.0 . 
+i ve fiddl around window setup time i need work final thing n't print proper . 
+it might might anyth instal atm 1.someth 2.0 i n't old atm lie around anomor . 
+the annoy problem petrucci font n't print rather import font i manag get direct print work i includ ownps0 final section win.ini compil postscript list still n't work 's .ep file i need . 
+when i look .ep file generat font appear courier . 
+i found i manual chang courier 24-point petrucci 24-point .ep file everyth work ok i 'd rather avoid sinc i lot song work . 
+and yes specialfontfont name dialog box font i need list correct map final screen printer font . 
+final obvious awar font sinc direct print score work well i includ ownps0 window applic print petrucci font well . 
+has anyon encount problem like ? 
+what current version final coda music softwar ? 
+i 2.0.1 are peopl coda avail internet x.400 ? 
+i 'd grate hint help . 
+-mat 

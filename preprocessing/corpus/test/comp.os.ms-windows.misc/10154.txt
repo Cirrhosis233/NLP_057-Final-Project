@@ -1,0 +1,4 @@
+i 'm use bc 's objectwindow 3.1 tri resond left button doubl click messag wmlbuttondblclk combo box . 
+my code look like class mycombobox public tcombobox public mycomboboxptwindowsobject apar int resourceid word atextlen tcomboboxapar resourceid atextlen virtual void wmlbuttondblclkrtmessag msg wmfirst wmlbuttondblclk void mycomboboxwmlbuttondblclkrtmessag msg ... 
+respond messag select item list box anyth wrong program ? 
+ani help would appreci . 

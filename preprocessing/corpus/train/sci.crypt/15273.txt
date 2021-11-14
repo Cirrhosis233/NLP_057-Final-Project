@@ -1,0 +1,14 @@
+i heard solut sound good . 
+then i heard folk experienc time 30-60 second run reasonably-configur workstat . 
+i 'm will add much delay someon 's login process . 
+my approach etherfindcompress skip 10k take second two run . 
+i 'm consid write be-al end-al solut launch md5 simultan tri suck bit net net sit so idl ca n't get 10k compress md5 finish use md5 . 
+this way i could guarante good bit determinist upper bound login time still common case login take coupl extra second . 
+53 second hash 20m core i bet i know sourc inform ! . 
+no 's accept 's part login process . 
+but go use network traffic sourc pseudo-random inform right thing pass cryptograph hash function compressor . 
+asid fact run faster give better result think cryptograph hash function distil random . 
+someth along line etherfind -t -x -n dd bs1k count10 2devnul md5 trick . 
+-t give timestamp lack -u make sure dd get ten line oppos ten k . 
+the take coupl second lightly-load ethernet . 
+-bennett 

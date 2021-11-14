@@ -1,0 +1,9 @@
+hello i test port x11r5 coher unix clone os intel architectur machin . 
+i see strang problem text client like xvt simpl termin emul program . 
+the problem manifest self shell echo type charact back server display one time . 
+the charact appear close space result 2nd charact echo destroy rightmost edg first charact 3rd charact destroy rightmost edg second charact . 
+it look like invis boundari around charact obscur portion previous charact . 
+there problem charact shell return complet line text ... 
+output seri individu charact . 
+if anyon idea problem might i look find would much appreci . 
+regard thank jon dhuse . 

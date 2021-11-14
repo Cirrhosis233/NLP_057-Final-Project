@@ -1,0 +1,4 @@
+i use owl want display output stream popup window . 
+is way perhap redirect cout window ? 
+or altern set separ stream support output abl display stream output tedit control ? 
+anyon ever done someth like ? 

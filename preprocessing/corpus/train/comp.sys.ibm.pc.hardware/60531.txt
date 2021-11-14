@@ -1,0 +1,16 @@
+i tri help friend mine get second serial port dtk io plus ii card work want cooper . 
+the document help . 
+as exampl say the serial port chang com2 com1 move jumper . ' say jumper move ! ! 
+there 2 bank jumper . 
+the first one label follow c1 c2 s2 p2 p1 g the second bank label irq follow label 5c 5s 4 3 3s 2c 2s i determin c1 c2 jumper tell address first serial port com1 com2 . 
+the p1p2 jumper tell use printer port lpt1 lpt2 . 
+i guess g enabl game port s2 should enabl second serial port i ca n't get work . 
+i tri numer set irq bank without success . 
+i assum bank must tell card irq 's use port i dont know . 
+ani suggest would great appreci ! ! 
+ebd elliot dierksen is real poncho ... 
+i mean mexican poncho sear poncho ? 
+hmmm ... 
+foolin ' .. 
+f . 
+zappa 

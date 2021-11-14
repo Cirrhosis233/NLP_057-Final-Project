@@ -1,0 +1,4 @@
+i question regard send null charact across ethernet connect . 
+the actual problem emac unix editior need null charact set mark unfortun n't know sent ibm pcs across ethernet . 
+i wonder anyboy know keyboard combin send null charact . 
+thank 

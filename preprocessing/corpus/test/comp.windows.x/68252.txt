@@ -1,0 +1,7 @@
+i look graph program fit data straight line . 
+ani program estim closest fit curv give statist would help . 
+mani spreadsheet regress analysi . 
+the topic also well cover undergradu statist book . 
+cubic spline usual well cover undergradu comput scienc numer analysi text . 
+i sure gemm well stock librari . 
+i never use mathematica i would surpris could spline . 

@@ -1,0 +1,10 @@
+i 'm wonder 's possibl use radio wave measur distanc transmitt receiv ? 
+yes . 
+it 's call radar . 
+seem abl measur signal strength determin distanc . 
+this would short distanc 2000 ft i would need accuraci 6 inch . 
+depend environ static environ waveguid yes dynam environ object move multipath kill concept . 
+how measur vertic distanc well chanc i get ridicul ? 
+what differ vertic horizont ? 
+what frequenc would best ? 
+or matter ? 

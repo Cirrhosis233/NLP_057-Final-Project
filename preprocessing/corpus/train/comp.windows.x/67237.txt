@@ -1,0 +1,5 @@
+hi folk thank one repli howev problem turn simpl . 
+in .xresourc i space xtermfont 10x20 . 
+remov xrdb fix problem . 
+also symptom user proper capit xtermfont . 
+thank 

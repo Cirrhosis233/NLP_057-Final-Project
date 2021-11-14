@@ -1,0 +1,5 @@
+i post friend i 'm work applic creat dither pattern render window appli stippl pattern gc . 
+the follow code segment almost work window width even multipl 8 . 
+if even multipl skew pattern toward right . 
+anoth problem whether even multipl 8 seri vertic line space 8 pixel apart . 
+extern display dpi extern window xid extern gc gc extern int maxx maxi set resiz handler ditherpixel char pixel dither pattern data char bm bitmap data char bmp long i arraymax arraymax maxxmaxi bm char mallocarraymax bmp bm ij0 iarraymax i pixelsi ditherbit bmp 2j pixel els bmp 2j pixel j 7 bmp j 0 stippl xcreatebitmapfromdatadpi xid bm maxx maxi freebm xclearwindowdpi xid xsetstippledpi gc stippl xsetfillstyledpi gc fillstippl xfillrectangledpi xid gc 0 0 maxx maxi xsetfillstyledpi gc fillsolid i suspect answer pad data . 

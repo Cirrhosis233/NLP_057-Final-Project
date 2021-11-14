@@ -1,0 +1,9 @@
+i need know pin connect make loopback connector serial port i build one . 
+the loopback connector use test serial port . 
+thank help . 
+from recent byte magazin got follow question part answer delet if handi solder iron loopback plug easi make . 
+on serial rs-232 nine-pin port use femal db-9 connector connect pin 1 7 8 2 3 4 6 9 . 
+for serial rs-232 25-pin port ll need femal db-25 connector pin 1 7 2 3 4 5 8 6 11 20 22 15 17 23 18 25 connect . 
+to test centron 25-pin parallel port ll need connect pin 1 13 2 15 10 16 11 17 12 14 male db-25 connector . 
+-stan wszola i n't tri . 
+use risk . 

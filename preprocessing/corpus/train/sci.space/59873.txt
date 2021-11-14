@@ -1,0 +1,123 @@
+archive-nam spacedata last-modifi date 930401 143907 onlin and other sourc of imag data etc . 
+introduct a wide varieti imag data catalog inform releas materi deal space astronomi may found net . 
+a site offer direct dialup access remot login access remaind support form file transfer . 
+mani site list provid anonym ftp ' . 
+this refer file transfer protocol internet . 
+site connect internet use ftp direct autom ftp server oper via make request . 
+the sourc broadest select materi nasa ame space archiv nation space scienc data center . 
+do n't even ask imag post net . 
+the data volum huge nobodi want spend time . 
+view imag the possibl combin imag format machin forebod larg i wo n't attempt cover common format gif etc . 
+. 
+to read pds vicar mani format unix system run x use xv 2.11 avail anonym ftp export.lcs.mit.edu 18.24.0.12 contribxv-2.11.tar.z standard x11 ftp site . 
+the faq usenet group alt.binaries.pictur discuss imag format get imag view softwar . 
+a copi document avail anonym ftp usenet faq archiv pit-manager.mit.edu 18.72.1.58 directori pubusenetalt.binaries.pictur . 
+onlin archiv nasa ame extens archiv maintain nasa ame avail via anonym ftp email server . 
+these archiv includ mani imag wide varieti document includ faq list nasa press releas shuttl launch advisori mission status report . 
+pleas note not maintain offici basi . 
+ftp user connect ames.arc.nasa.gov 128.102.18.3 look pubspac . 
+pubspaceindex contain list file avail archiv index 200k . 
+to access archiv email send letter subject letter bodi use command like send space index send space shuttless01.23.91 . 
+the capit subdirectori name import . 
+all cap . 
+onli text file handl email server present use one ftp email server describ introduct section imag program . 
+the magellan venus voyag jupit saturn uranus cd-rom imag disk put onlin cdrom cdrom2 directori . 
+the disk rotat week basi . 
+thousand imag avail collect . 
+the gif directori contain imag gif format . 
+the vicar directori contain magellan imag vicar format also avail gif directori . 
+a pc program capabl display file found imdisp directori see item view imag . 
+the nasa media guid describ various nasa center contact public affair offic may use pursu specif inform . 
+it 's miscmedia.guid . 
+ani problem archiv server report peter yee nasa astrophys data system the ad distribut data retriev system easi use provid uniform access ground-bas space-bas astronomi data nasa data center across countri . 
+it current 140 data catalog radio infrar optic uv x-ray data queri posit paramet catalog . 
+the ad also provid tool manipul plot tabular result . 
+in addit ad beta version abstract servic allow user queri 125000 abstract astronomi paper sinc 1975 author keyword titl word abstract text word . 
+ad use requir direct internet access . 
+for info sign quickstart guid avail anonym ftp sao-ftp.harvard.edu directori pubadsadsuserguid postscript file . 
+nasa jet propuls lab mission inform and imag pubinfo.jpl.nasa.gov 128.149.6.2 anonym ftp site oper jpl public inform offic contain news releas status report fact sheet imag data jpl mission . 
+it may also reach modem 818-354-1333 pariti 8 data bit 1 stop bit . 
+nasa langley technic report techreports.larc.nasa.gov anonym ftp site offer technic report . 
+to get start cd directori pubtechreportslarc92 retriev file readm abstracts.92 . 
+most file compress postscript . 
+the report also wai databas follow descript sourc version 3 ip-nam techreports.larc.nasa.gov tcp-port 210 database-nam nasa-larc-ab cost 0.00 cost-unit free descript nasa langley research center technic report nasa spacelink spacelink onlin servic locat marshal space flight center huntsvill alabama . 
+the system specif design teacher . 
+the data base arrang provid easi access current histor inform nasa aeronaut space research technolog transfer inform . 
+also includ suggest classroom activ incorpor inform nasa project teach number scientif principl . 
+unlik bulletin board system nasa spacelink provid interact caller . 
+howev allow teacher caller leav question comment nasa may answer regular mail . 
+messag answer electron even acknowledg request fulfil mail . 
+messag general handl next work day except mission turnaround time increas . 
+the mail system closed-loop user nasa . 
+spacelink also offer download sharewar public domain program use scienc educ well space graphic gif imag nasa 's planetari probe hubbl telescop . 
+you dial 205-895-0028 300120024009600v.32 baud 8 bit pariti 1 stop bit telnet spacelink.msfc.nasa.gov 128.158.13.250 also known xsl.msfc.nasa.gov re internet . 
+anonym ftp capabl password guest avail . 
+most inform also avail ame server directori spacelink . 
+nation space scienc data center nssdc the nation space scienc data center offici clearinghous nasa data . 
+the data catalog data avail onlin . 
+internet user telnet nssdca.gsfc.nasa.gov 128.183.36.23 log nodi ' password . 
+you also get catalog send you also dial 301-286-9000 300 1200 2400 baud 8 bit pariti one stop . 
+at enter number prompt enter md carriag return . 
+when system respond call complet enter carriag return get usernam log nodi ' password . 
+the system menu-driven topic avail 393 1 master directori nasa global chang 2 personnel inform manag system 3 nimbus-7 grid tom data 4 interplanetari medium data omni 5 request data andor inform nssdc 6 geophys model 7 canopus newslett 8 intern ultraviolet explor data request 9 czcs brows order util 10 astronom data center adc 11 step bulletin board servic 12 standard technolog inform system 13 planetari scienc magellan project inform 14 other onlin data servic nssdc 15 cd-rom avail nssdc for user internet access dataset made avail via anonym ftp select desir dataset onlin catalog . 
+for user data may order cd-rom format . 
+among mani type data avail voyag magellan planetari imag earth observ data star catalog . 
+viewer macintosh ibm system also avail . 
+as exampl cost 8 cd set voyag imag 75 . 
+data may order onlin email physic mail . 
+the postal address nation space scienc data center request coordin offic goddard space flight center code 633 greenbelt md 20771 telephon 301 286-6695 space telescop scienc institut electron inform servic stsci.edu 130.167.1.2 larg amount inform hubbl space telescop avail anonym ftp status report newslett addit materi orient toward hst observ propos . 
+get top level readm file begin . 
+starcat the space telescop european coordin facil esogarch provid on-lin access huge astronom databas featur observ log file sever satellitestelescop iueirashstntt .... 
+spectra imag iue hst . 
+most astronom catalogu sao hr ngc ppm ira veron gsc mani other 50 conveni way give centerradiuskind object get correspond file ! . 
+log starcat '' password node stesis.hq.eso.org 134.171.8.100 stesi decnet . 
+the file creat 89 320 06 433 st-ecf astronom databas the full sao stellar databas not avail onlin probabl due 40 mb size . 
+it may order magnet tape nssdc . 
+a subset contain posit magnitud avail ftp see astronomi program . 
+nic.funet.fi 128.214.6.100 larg collect astronom program mani type comput databas star deep sky object general astronomi inform directori pubastro . 
+this site main european user oversea connect possibl . 
+the ame archiv contain databas 8436 galaxi includ name ra declin magnitud radial veloc miscgalaxy.dat . 
+iris1.ucis.dal.ca 129.173.18.107 number gif voyag hubbl sourc avail anonym ftp pubgif data also spacegif ame server . 
+pleas restrict access 5pm 8am atlant time . 
+pomona.claremont.edu yale bright star catalog anonym ftp directori .yalebsc . 
+contact jame dishaw the hubbl guid star catalog avail cd-rom mac pc 49.95 us catalog st101 . 
+astronom societi pacif 390 ashton ave . 
+san francisco ca 94112 phone 415 337-2624 9 am 3 pm pacif time fax 415 337-5205 for german possibl european reader jost jahn servic distribut astronom data interest amateur cost . 
+about 30-40 catalog avail dm 6 .. 8disk . 
+sever floppi disk format avail . 
+becaus expens receiv email system ask contact physic mail jost jahn neustaedt strass 11 w-3123 bodenteich germani phone frg-5824-3197 astronomi program various astronomy-rel program databas post net past archiv anonym ftp multipl site includ ftp.uu.net 137.39.1.9 . 
+also see astro-ftp list post sci.astro month complet list . 
+astonomicalspace-rel sourc interest comp.sources.unix volum 8 phoon moon phase date routin volum 1213 starchart starchart program yale star data volum 15 moontool show moon phase pictur sun volum 16 sao reduc sao catalog astonomicalspace-rel sourc interest comp.sources.misc volum 8 moon anoth moon phase program volum 11 starchart starchart program version 3.2 volum 11 n3emo-orbit orbit track earth satellit volum 12 starchart2 starchart program updat version 3.2.1 volum 13 jupmoon plotter jupit 's major moon perl volum 13 lunisolar lunisolar sure volum 14 ephem-4.21 astronom ephemeri v4.21 volum 14 n3emo-orbit patch orbit 3.7 volum 18 planet planet generat simul ephem offer mail copi peopl ca n't find one archiv . 
+xsat x window system base satellit track program avail anonym ftp export.lcs.mit.edu 18.24.0.12 inform . 
+xski computer sky atlas x window system avail anonym ftp arizona.edu directori .software.unix.xski inform . 
+the variabl star analysi softwar archiv avail via anonym ftp kauri.vuw.ac.nz 130.195.11.3 directori pubastrophi . 
+this intend specialist field would appreci peopl outsid new zealand confin ftp access astrophi directori pay signific amount internet access . 
+content relat spars present due youth archiv contribut encourag . 
+contact archiv inform . 
+the idl astronomi user librari avail anonym ftp idlastro.gsfc.nasa.gov 128.183.57.82 . 
+this central repositori general purpos astronomi procedur written idl commerci imag process plot program languag . 
+contact wayn landsman orbit element set the recent orbit element nasa predict bulletin carri celesti bbs 513-427-0674 . 
+document track softwar also avail system . 
+the celesti bbs may access 24 hoursday 300 1200 2400 baud use 8 data bit 1 stop bit pariti . 
+orbit element set avail via anonym ftp follow site archive.afit.af.mil 129.92.1.66 nasatvroshuttl directori pubspac ftp.funet.fi 128.214.6.100 nasatvromolczancelbb directori pubastropcsatel shuttl kilroy.jpl.nasa.gov 128.149.1.165 nasamolczan directori pubspac space digest archiv copi back issu space digest archiv get index file send messag get filenam filetyp get particular file . 
+landsat and nasa photo you get black-and-whit 11m print negat posit 10 18 12 respect landsat data 2 year old edc ero earth resourc orbit satellit data center . 
+call 605-594-6511 . 
+you get 80 meter resolut mss scanner 135x180 kilomet pictur 135x180 mm size . 
+i think select one band green red near ir second near ir i 'm sure . 
+digiti data also avail higher price . 
+transpar nasa photo avail public borrow nasa photo archiv copi print made . 
+nasa audio-visu facil 918 north rengstorff ave mountain view ca 94043 415-604-6270 planetari map the usg address map planet u. . 
+geolog survey distribut branch box 25286 feder center bldg . 
+41 denver co 80225 map cost 2.40 3.10 per sheet come set 2 3 sheet . 
+the best global map mar base vike imag 115000000 scale 3 sheet . 
+these map i-1535 2 sheet relief albedo name i-1535 i-1618 3 sheet relief name i-2030 3 sheet relief topograph contour i-1802-abc 3 sheet geolog there mani map well 30 sheet 15000000 scale relief albedo geolog photomosa form 30 sheet avail format 140 sheet 12000000 scale photomosa whole planet 100 sheet interest site 1500000 scale photomosa format lot special sheet . 
+then map mercuri venus moon four galilean satellit six moon saturn five uranus . 
+phil stook respond email request inform topic relat lunar planetari map . 
+cometari orbit data the central bureau astronom telegram minor planet center announc sixth edit catalogu cometari orbit iau circular 4935 . 
+the catalogu contain 1292 entri repres known comet novemb 1989 96 page long . 
+non-subscrib circular may purchas catalogu 15.00 cost subscrib 7.50 . 
+the basic catalogu ascii along program extract specif orbit calcul ephemerid avail ms-dos 5.25-inch 2s2d diskett cost 75.00 program requir 8087 math coprocessor . 
+the catalogu alon also avail e-mail 37.50 magnet tape 300.00 . 
+except print version catalogu various magnet media e-mail form catalogu specif meantion non-subscrib . 
+it possibl form catalogu may avail non-subscrib price may expens given . 
+mail request specif inform order central bureau astronom telegram smithsonian astrophys observatori cambridg ma 02138 usa 

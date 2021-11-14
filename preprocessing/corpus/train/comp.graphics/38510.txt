@@ -1,0 +1,17 @@
+there new version rtrace ray-trac packag 8.2.0 asterix.inescn.pt 192.35.246.17 directori pubrtrac . 
+check readm file . 
+rtrace use suit toolkit nice user interfac . 
+compil -dsuit modifi makefil . 
+i binari rtrace suit sun sparc sgi indigo dosgo32 . 
+pleas contact interest . 
+the mac rtrace 1.0 port directori pubrtracemacintosh small chang done sinc version 8.1.0 main 1 . 
+now possibl discard backfac polygon triangl fast preview ... 
+2 . 
+the support program scn2sff rework use temp file . 
+here goe short descript current convert cadmolecularchemistri packag scn format . 
+the packag program relat mark modifi irit2scn irit nff nffclean nffp2pp sol2scn acad11 nff2sff mol2scn v scn2sff v rtrace alchemi scn sff pic ppm cpp pdb2scn picmix pdb picblend ppmmix chem2scn ppmblend chemic 3ds2scn 3d studio iv2scn iri inventor the dos port rtrace pubrtracepc-386 rtrac820.arj utils820.arj image820.arj . 
+see readm file . 
+requir djgpp go32 dos extend version 1.09 includ found directori pubpcdjgpp mani site around netland . 
+there also demo scene manual sourc code ... 
+pleas feel free get use . 
+hope like . 

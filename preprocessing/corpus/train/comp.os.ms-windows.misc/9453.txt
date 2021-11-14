@@ -1,0 +1,18 @@
+i use name rosevc.rose-hulman.edu initi nameserv queri rosevc ' nameserv queri time i use ip number local host gateway respond i know nameserv correct router correct . 
+they work fine use ncsa telnetftp . 
+they work ok definit qvtnet.ini qvthost.rc incorrect see . 
+the doc said run concurr packet softwar need load pktmux ? ? ? 
+doe appli ? ? ? 
+no i n't think . 
+you use qvtnet novel concurr n't ? 
+they use differ packet type qvtnet tcpip novel ipxspx abl coexist fine . 
+pktmux requir use differ tcpip-packag concurr . 
+this qvthost.rc file . 
+137.112.5.2 137.112.199.50 there first problem you n't specifi hostnam ip-address . 
+your file look like 137.112.5.2 name nameserv 137.112.199.50 name router this begin winqvt.ini file . 
+net nameswartzjh.test.rose-hulman.edu here specifi hostnam without domain part . 
+router137.112.199.50 instead use routernam router specifi qvthost.rc i know releas note 3.31 say ip address work also appar n't . 
+nameserver137.112.5.2 here use hostnam nameserv instead ip address . 
+it work fine way although i could specifi one nameserv . 
+the relnot say possibl specifi three nameserv separ comma n't work . 
+hope help richard 

@@ -1,0 +1,14 @@
+hi fellow netter i question ... 
+i gon na buy 486dx2-66 mhz vesa local-bus . 
+is speed benefit great would wise spend local-bus system hd control graphic card normal use i mean i wo n't use server ! ! 
+also i read articl someon sorri i ca n't rememb name said even though local-bus hard-disk control perform wo n't much greater disk 's throughtput ! ! ! 
+so use fast bus peripher ca n't cope ? ? ? 
+someth bear mind v vlb stand ! 
+v video origion intent bus speed bus larg memori memori transfer would faster . 
+this espic use transfer data main memori video memori . 
+sinc usual 3 vlb slot card maker make card fit two . 
+how vlb ethernet card ? 
+move data card 130 odd mbs wait tickl onto net 1mbs . 
+do howev free local bus card some time need fast buss sometim n't ! 
+thank ... 
+guy 

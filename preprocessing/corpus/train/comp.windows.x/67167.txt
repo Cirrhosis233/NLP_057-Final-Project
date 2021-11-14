@@ -1,0 +1,6 @@
+i 'm run x openwindow 3 . 
+normal x program font specifi alway show font i chang fontpath restart window new default font use next chang . 
+i ca n't seem figur choos . 
+is way set ? 
+possibl someth .xdefault ? ? ? 
+pleas repli direct email i summar . 

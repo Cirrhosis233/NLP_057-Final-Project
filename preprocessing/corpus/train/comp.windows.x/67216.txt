@@ -1,0 +1,10 @@
+i process instal x11r5 sun sparcstat 2 run problem . 
+i imagin someth miss screen driver someth along line figur someon internet land might abl help . 
+i instal machin alreadi openlook instal would like instal concurr . 
+thus i set compil usrx11r5 directori . 
+i work kink get compil gcc compil without warn . 
+i need instal pex-si i set appropri flag . 
+when i run howev i get messag along line get interfac configur oper support socket sunopenframebuff inappropri ioctl devic fatal server error screen found ani idea i fix ? 
+pleas respond e-mail address . 
+thank advanc . 
+-dan i want immort work i want immort die -woodi allen 

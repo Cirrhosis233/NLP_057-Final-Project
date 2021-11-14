@@ -1,0 +1,6 @@
+i 'm write driver need remap io port . 
+this mean virtual mode . 
+unfortun virtual mode mean wo n't get along expand memori manag i need make emm driver . 
+doe anyon emm code . 
+can point emm code sourc ? 
+-thank morgan 

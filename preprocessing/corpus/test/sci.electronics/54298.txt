@@ -1,0 +1,4 @@
+can anybodi send pinout real time clock ic oki semiconductor 58321 . 
+i wish know rtc ic oki inbuilt crystal rather extern 32.768khz crystal . 
+thank advanc . 
+nilesh parikh 

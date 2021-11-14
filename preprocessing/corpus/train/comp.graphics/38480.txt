@@ -1,0 +1,7 @@
+i 'm look inform detect andor calcul doubl point andor cusp bezier curv . 
+an algorithm literatur refer mail appreci there use articl one 1989 issu transact on graphic . 
+i believ maureen stone one author . 
+sorri specif . 
+i n't refer . 
+the articl actual general give way decid whether given cubic bezier curv contain cusp intersect point whatev wierd . 
+the treatment also avail siggraph 89 cours note cours call math siggraph someth like . 

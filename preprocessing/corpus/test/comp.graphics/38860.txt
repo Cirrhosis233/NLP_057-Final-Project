@@ -1,0 +1,11 @@
+hello i problem convert tga filegener povray rle file . 
+when i convert i get warn messag . 
+but i use xloadimagegetx11 someth wrong . 
+edit i know i need instal ppmtorl tgatoppm i spend time instal . 
+even i want generat .rgb povray convert rle possibl .. rgb rle work mess directori mani file need 2 step final convert rle file . 
+say cat rawtorl rleflip doe bodi experienceproblem well starter use rle file ? 
+you might specif program need ok i tend convert straight jpeg format thus 2.4meg 24bit targa file becom 80k less 24bit jpeg . 
+the latest version xv 2.2.1 xloadimag 3.03 handl jpeg file . 
+and best way convert jpeg cdjpeg suit . 
+even 90 qualiti ca n't see differ jpeg way smaller anyth els even 8bit gif ! 
+later'ish craig 

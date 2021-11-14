@@ -1,0 +1,5 @@
+the motif applic consist multipl transient shell children singl toplevel shell appshel toplevelshel transientshel transientshel while transient shell popped-up applic modifi sensit button toplevel shell hidden transient shell window . 
+when transient shell popped-down button sensit correct button text remain unchang i.e . 
+solidshad . 
+subsequ select button caus text revert correct visual state . 
+when trace event messag sent applic mani event seen mwm present openwindow . 

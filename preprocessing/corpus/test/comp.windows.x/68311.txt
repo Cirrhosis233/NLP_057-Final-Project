@@ -1,0 +1,4 @@
+sco odt allow adapt x-server non-standard at keyboard use xkeyboard configur compil xsconfig . 
+sco provid configur file usrlibx11xsconfig.kbd e.g . 
+siemen wx200 . 
+question is anywher configur file hp46021a keyboard avail i especi interest use hp specif key insertlin menu . 

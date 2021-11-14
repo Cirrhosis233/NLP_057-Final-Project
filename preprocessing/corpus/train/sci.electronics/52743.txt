@@ -1,0 +1,22 @@
+i project droop lap somewhat pain design . 
+what i look stabl ultra-long solid state timer . 
+what want place thing antart ice shelf measur amount snow fall period six week . 
+everi two week want trip selonoid discharg differ color pellet gas pressur across snow . 
+then dig snow snow fall amount measur come differ color pellet . 
+the problem tri build timer would stand cold -40 degre power sourc would n't drain . 
+i look xr-2204 timer standard ne556 dual timer thier temp spec wo n't go low . 
+also two week equat 1209600 second per fire mean one big time cap i found 2.2 farad yes farad cap work voltag 5 volt small size . 
+but time discharg -40 lower degre n't linear . 
+i think use sever timer chain togeth fire selonid end time period blast cold drain batteri six week pain . 
+one possibl would use solar panel six month twilight . 
+anyon good idea thank advanc ... 
+-- wes -- first i would never consid tri make one-shot timer . 
+your 2f2 cap design ram batteri substitut rather use applic wish drain cap constant current . 
+their perform respect akin batteri normal cap . 
+the point big electro 's usual rate -520 toler calcul exact capacit particular consid cold . 
+you look design micropow oscil divid chain roll zero maximum count vice-versa everi 1209600 second . 
+if use someth like 110hz clock would need divid chain 227 give error less one percent fire time six week period . 
+of cours could trim 110hz oscil give exact time likelyhood oscil remain exact constant -40 low anyway . 
+i would suspect would far battrey drain fire solenoid would timer circuit . 
+caveat i 'm experienc low temperatur electron i ca n't guarante approach best inhospit condit . 
+johnh electron depart school mpce -- macquari univers sydney australia 2109 

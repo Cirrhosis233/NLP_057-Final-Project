@@ -1,0 +1,6 @@
+i want creat single-lin text widget enter small amount text . 
+i want fix width horizont scrollbar scroll automat user type order keep insert point visibl . 
+in tri i two problem the addit horizont scrollbar make text widget taller instead seem cover part text . 
+the scrollbar scroll automat user type text order keep insert point visibl . 
+ani help appreci . 
+mike 

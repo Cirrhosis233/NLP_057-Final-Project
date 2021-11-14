@@ -1,0 +1,14 @@
+i tri get system work tandberg 3600 futur domain tmc-1660 seagat st-21m mfm control . 
+the system boot tandberg disconnect system cours scsi devic found i scsi devic . 
+the system boot seagat mfm control remov system . 
+the futur domain card report find tandberg 3660 scsi bus . 
+the system cours stop boot mfm hard disk ca n't found . 
+the system hang three tandberg futur domain tmc-1660 seagat mfm control system . 
+look like conflict seagat futur domain card . 
+but funni thing hang tandberg connect . 
+i check conflict bio address irq io port . 
+have i miss anyth ? 
+i lost . 
+ani suggest welcom . 
+thank advanc . 
+delman . 

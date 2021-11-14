@@ -1,0 +1,9 @@
+we design rf link distanc 250 . 
+we re use standard rs232 wave squar puls modul wave carrier wave sinusoid . 
+the link bidirect . 
+we would appreci advic type modul techniqu antenna use . 
+what frequenc carrier ? 
+have consid use two tone one 1 anoth 0 ? 
+how high rs-232 data rate ? 
+can use one carrier freq ? 
+have consid hire rf data transmiss consult ? 

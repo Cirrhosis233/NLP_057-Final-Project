@@ -1,0 +1,3 @@
+hi i 'm look program abl display 24 bit imag . 
+we use sun sparc equip parallax graphic board run x11 . 
+xli xloadimag imagemagick export.lcs.mit.edu 18.24.0.12 contrib 

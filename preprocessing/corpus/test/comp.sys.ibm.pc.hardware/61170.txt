@@ -1,0 +1,12 @@
+i intern modem i configur com4 irq 3 i insert card dos 5.02 pc show com3 irq3 com4 's address 2e8 ! 
+when i get debug dump data 400 show address 2e8 belong com3 even though modem com4 . 
+... 
+this common misconcept share mani manufactur programm user alik . 
+com3 exampl simpli third equip comm port necessarili one io address 3e8 . 
+the bio search sequenti set potenti comm port address . 
+the first equip port find becom com1 etc . 
+if re play rule ca n't com4 unless com3 equip . 
+the set standard whatev mean port address mere reflect order bio search io address space search serial port . 
+so inde com3 non-standard address 2e8 . 
+were address 4th tabl slot instead program queri bio determin number instal comm port would find field bio data area contain number would indic 3 comm port instal . 
+frank i n't know simgl program would actual problem . 

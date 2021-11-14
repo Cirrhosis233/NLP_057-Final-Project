@@ -1,0 +1,9 @@
+hi i use xview 3.0 sparc ipx openwindow along xvideo board parallax enabl use 24 bit color . 
+i problem util 24 bit color would great appreci help matter . 
+i use xview creat frame creat canva pane insid i use display live video . 
+my video input 24 bit color . 
+the problem top level frame creat frame frame xvcreatenullframenul seem depth 8 propag canva . 
+i would like know i set depth frame 24 bit . 
+i tri use follow xlib code xvisualinfo visualinfo int depth 24 colormap colormap xsetwindowattribut attrib unsign long valuemask 0 window win xvopaqu frame win xvgetframexvxid xmatchvisualinfodisplayscreendepthtruecolorvisualinfo so far good colormap xcreatecolormapdisplaywinvisualinfoallocnon it die badmatch error attribs.colormap colormap valuemask cwcolormap xchangewindowattributesdisplaywvaluemaskattrib xsetwindowcolormapdisplaywincolormap am i use complet wrong approach is possibl set depth colormap window creat xview what i wrong thank advanc help i get . 
+i would prefer respons via email although post newsgroup also okay . 
+thank alok . 

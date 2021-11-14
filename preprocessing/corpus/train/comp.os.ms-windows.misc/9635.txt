@@ -1,0 +1,21 @@
+... stuff delet 1 . 
+doe window nt run sun sparc server 490 ? 
+2 . 
+if answer question 1 yes run unix applic sas unix . 
+3 . 
+is window nt multius os ? 
+4 . 
+when window nt releas ? 
+5 . 
+is telephon number i call get info win nt ? 
+thank . 
+minghua shan as far i read win nt support intel dec alpha mip r4000 seri processor . 
+i rememb though read rumour sparc support sometim futur . 
+i sure mean run unix applic . 
+you would sas win nt mayb sas win16 etc . 
+i read ms anounc avala win nt end may 93 comdex spring . 
+hope help . 
+rajiev gupta rajiev gupta eurocontrol cfmu disclaim tel 32 2 729 33 12 b-1040 bruxell compani . 
+fax 32 2 729 32 16 belgium accord april issu pc magazin pg . 
+139 i quot eventu window nt like port everi success risc architectur . 
+powerpc hp 's pa-risc two like candid sparc somewhat less like sun 's relat strong unix softwar base 

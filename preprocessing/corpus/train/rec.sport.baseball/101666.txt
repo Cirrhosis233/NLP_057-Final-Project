@@ -1,0 +1,97 @@
+i ve read followup i thought i 'd go back origin articl make specif comment method he obtain play play record comput readabl form everi major leagu basebal game past sever year . 
+he devis algorithm i call sum-over-situ wrote comput program calcul everi major leagu player contribut use . 
+it work like look everi situat everi game basebal season . 
+a situat determin inning score baserunn mani out . 
+for situat count mani time team eventu game situat occur divid number time situat came come valu situat . 
+this first done georg lindsey late 50sear 60s report articl an investig strategi basebal author georg r . 
+lindsey journal oper research issu volum 11 4 july-august 1963 pp . 
+477-501 later pete palmer thing use simul season generat larger set data avoid kind small-sampl anomali peopl worri . 
+he report thehiddengameofbasebal john thorn . 
+gari skoog modifi method bit work call valu ad measur base situat valu . 
+his base direct margin run though win probabl . 
+these result appli 198 ? 
+season report one bill jame basebal abstract book 1987 ? 
+help somebodi ... 
+for exampl situat might inning 3 score 2-0 runner second out . 
+there 4212 regular season major leagu game last year . 
+with rocki marlin year . 
+say situat came 100 team ahead 75 . 
+then valu situat 0.75 . 
+descript method look chang win probabl base bat plus baserun creditdebit player amount time get plate appear . 
+now player sum at-bat base-run valu season obtain overal valu player . 
+obvious sum player ' valu game season whole 0 . 
+that 's alway credit x batter -x pitcher 's valid involv . 
+ok 's big problem nobodi yet comment re ad probabl probabl n't add . 
+run add total team run break mani run joe contribut plus mani run fred contribut etc . 
+but probabl n't work way . 
+if bob increas team 's chanc win 1 400 pas mean bob increas team 's chanc win 400 . 
+in fact n't mean anyth unit screwi . 
+i agre disagre . 
+john say batter effort result 4 win loss . 
+while probabl correct 400 mean 4 win loss mean someth . 
+i would rather player increas team chanc win 1 400 pas i would player increas chanc win .5 400 pas . 
+thus appear obvious posit associ john 's statist win game . 
+thus disregard stat appear studi must go sort relationship . 
+consid exampl bob hit 2-out solo hr bottom first .12 scale . 
+he thing fourth score tie anoth .14 . 
+and seventh score tie anoth .22 . 
+and final ninth win game score 7-6 valu 0.5 . 
+bob hit 4 solo hr 4 plate appear credit method .12 .14 .22 .5 .98 . 
+but mean ? 
+was bob 98 respons win ? 
+certain defens alway 50 respons includ pitch bob n't pitch . 
+in fact bob 47 offens lot even close 100 . 
+furthermor 3 team run ? 
+say came solo hr fred fred hit hr tie game valuabl hr take lead see lindsey fred accru good .4 rate . 
+so fred bob combin amass 138 win in one game . 
+there 's clear problem . 
+the problem insist number mean exact mani win team . 
+first use averag mani season appli one game . 
+second rememb player perform take away chanc win . 
+that player get get negat probabl case . 
+thus i 'm sure given game add number team add 1 game . 
+sometim add one sometim less one . 
+also pitcher ' bad perform give 6 run may given larg negat percentag game . 
+also batter pull 0-4 night would give larg negat . 
+greg think right thing intuit mark . 
+closer enorm import . 
+the total number run valu outweigh come prevent com . 
+the doubl greg allow enough . 
+in anoth articl i propos test . 
+we predict team 's wonlost record quit accur look mani run total score allow without regard run score game . 
+if late run realli import earli run look late run lead better predictor right ? 
+no realli smaller sampl size . 
+i would think howev number run score first inning would good predict mani run score last inning . 
+and realiz someth els closer usual come close situat blow . 
+it hard argu run closer give game equal import given first inning . 
+look closer give run often mean team lose mani game . 
+on hand starter give run often still leav team chanc win . 
+the offenc mani out someth . 
+but i say late inning situat equal import either . 
+if i 8 run ninth realli matter mani run pitcher give ninth . 
+here 's anoth thought experi appli method basketbal . 
+what find point score first half game almost exact valu lead safe entir half yet play . 
+furthermor sub bench sink win free throw time clock get 1.0 game star forward score 27 point first half sprain ankl get zero . 
+doe make sens ? 
+no would assum team probabl win would 0 posses free throw made . 
+look 1 point 5 second left fair high probabl win game posses ball . 
+and forget somebodi els miss shot turnov foul bad defens etc . 
+caus negat chanc team would win . 
+from read discuss statist i feel critis certain extent agenda . 
+at first look statist valad clutch . 
+but realli . 
+cluth revolv around idea certain player crucial situat elev perform other perform goe . 
+i ve never seen convinc proof realli happen . 
+so assum clutch mean except lot noic statist posit associ player perform . 
+there way get rid noic believ clutch . 
+certain could find averag valu home run exampl . 
+we may find instanc home run increas chanc win 15 averag strikeout decreas chanc win 5 . 
+i bet done would find statist good statist predict win loss . 
+how evalu relief pitcher ? 
+say john sam exact pitch statist run earn run k 's bb 's etc . 
+both except number . 
+john howev pitch closer situat sam mop man . 
+who valubl team ? 
+probabl john . 
+who better pitcher ? 
+they probabl . 

@@ -1,0 +1,11 @@
+hi netter we problem makedepend ' n't know correct process claus c preprocessor statement . 
+it evalu everyth true matter condit . 
+for exampl makedepend choke one x11 includ file distribut sun name xos.h ! definedsunos41 definedstdc includ string.h defin index strchr defin rindex strrchr els bsd ! stdc includ strings.h endif ! sunos41 stdc here makedepend ' evalu correspond els statement true ' tri open file strings.h n't exist solaris2 . 
+we also lot statement legaci code . 
+we got built makedepend ' net n't fix problem . 
+in fair note makdepend ' man-pag sun 's distribut mention problem bug if sourc cpp berkeley c preprocessor makedepend compil way direct evalu true regardless actual valu . 
+this may caus wrong includ direct evalu . 
+makedepend simpli parser written express . 
+has anybodi come solutionfix makdepend ' writeyourownpars ... 
+will share us ? 
+sinc often experi delay newsfe pleas repli direct e-mail address i ll post summari . 

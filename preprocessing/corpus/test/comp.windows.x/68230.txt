@@ -1,0 +1,8 @@
+back day x11.1 i analys xterm code . 
+the cursor implement draw rectangl around charact . 
+i n't seem chang til . 
+but sourc could add blink cursor via xtappaddtimeout similar - . 
+the server overhead mild ridicul though see also desqviewx dos window . 
+do realli want xterm wake everi half second whack server bitblt ? 
+most dos x server terribl slow use experi i guess perform would pretti bad . 
+i believ discuss valid x server decent workstat . 

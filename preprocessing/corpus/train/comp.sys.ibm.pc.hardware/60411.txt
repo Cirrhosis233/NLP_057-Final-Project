@@ -1,0 +1,7 @@
+can anybodi pleas help inform use bi-direct printer port . 
+i success use one toshiba laptop enabl bit 0 port 0x37f control bit 7 port 0x37a direct data flow ie 0 output 1 input . 
+the code work desktop machin . 
+i heard might use bit 5 port 0x37a howev also work . 
+for parallel port use one ide super io card run tape backup unit via parallel scsi convert pretti sure printer port bi-direct . 
+ani inform would great appreasi . 
+pleas post repli email thank richard muratti . 

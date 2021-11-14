@@ -1,0 +1,5 @@
+when construct activ filter odd valu resistor often requir i.e . 
+someth like 3.14 k ohm resistor.it seem best choos common capacitor valu cope strang resist demand . 
+is pd program work best make resist given fix resistor standard 12 valu per decad ? .1 1.21.51.82.23.3 etc it common enough problem yet i cant recal se program tell rxryrz give rq start q find prefer valu xy z . 
+cheer ian h when tri choos resistor toler better 1 need trimmer screen devic ca n't made ad 2 resitor 1 valu parallel sinc smaller devic error 1 cope . 
+you 3 choic live error 1 toler devic low q circuit low sensit design b buy resistor better 1 toler vishaydal c use trimmer sot 's select-on-test 

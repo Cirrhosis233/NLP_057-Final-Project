@@ -1,0 +1,15 @@
+hi ! 
+i wonder anyon could help . 
+i error messag goe what mean ? 
+i run ms window 3.1 . 
+ummm .. 
+i think left messag ... 
+i get protect fault time machin work 486 33mhz 4mb ram window 3.1 dos 5.0 . 
+at home 386 40mhz 8mb ram window 3.1 dos 5.0 i never get . 
+ani idea could wrong ? 
+someon alreadi suggest i check tmp file windowstemp directori none . 
+the messag i get this applic violat system integr due invalid general protect fault termin . 
+i problem applic run dos box without .pif file setup . 
+ani hintshelp great appreci . 
+pleas post sinc least one person also gpf problem . 
+thank gordon 

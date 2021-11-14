@@ -1,0 +1,30 @@
+note the followup set comp.os.os2.misc . 
+dmqs file describ monitor valid mode use xga-2 window os2 . 
+these file are unsupport ! 
+ibm noth file post . 
+it 's person time everi time i post see signatur . 
+due demand request addit dmqs file i ve collect xga-2 . 
+these file function latest revis driver xga-2 . 
+not file work window driver avail general public time . 
+all file function recent os2 2.1 beta i ve tri work os2 2.0sp . 
+not file fulli test . 
+these file are unsupport ! 
+they repres person collect anyth resembl offici support set . 
+as standard disclaim i would like point follow fact 1 some file may run adapt spec . 
+do stress ic card may result incorrect oper shorter life short depend much spec boom ! 
+- . 
+2 some file may run adapt region spec monitor result damag monitor . 
+3 you knowledg monitor adapt 's abil use mode select . 
+use file repres hack true sens practic safe comput n't play around much n't like risk n't knowledg re . 
+4 if feel uncomfort warn use dmqs file wait ibm releas offici test dmqs file . 
+although awar warn 2 even ibm file . 
+these file are unsupport ! 
+by use may invalid warrenti . 
+not fulli test i n't mani monitor . 
+instal unpack dmqspath environ variabl usual cxgadmq . 
+then use method describ xga-2 instal diskett chang adapt set . 
+pack file pack latest infozip util . 
+you need pkzip 2.x n't infozip util . 
+submit feel free send uuencod version favorit dmqs file favorit monitor . 
+i 'm alway interest collect . 
+archiv file upload ftp-os2.nmsu.edu pubuploadsxga2dmqs.zip . 

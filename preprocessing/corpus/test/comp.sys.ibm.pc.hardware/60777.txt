@@ -1,0 +1,9 @@
+i 48650mhz isa board 256kbyte cach 16 meg ram . 
+i bought new soundblast 16 tri instal card . 
+the sb16 use 16bit dma channel.i could select channel 5 7 . 
+it first card i ever instal use 16bit dma transfer . 
+after i test card first time comput crash i got pariti error-system halt . 
+this happen either dos also window . 
+so seem 16 bit dma channel work proper testsb16.ex recocn test ok first access . 
+well anybodi know solut problem special test program dma problem ? 
+i elimin problem temporali use 8 bit dma channel make system slow ! 

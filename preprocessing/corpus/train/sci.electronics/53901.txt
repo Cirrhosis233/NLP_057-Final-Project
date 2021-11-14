@@ -1,0 +1,11 @@
+i would like abl detect angular posit low accuraci ir emit sourc distanc 100 meter better daylight . 
+the ir sourc could emit signatur i 'm lean toward 30 khz squar wave 50 duti cycl . 
+i consid use quadrant detector centron inc . 
+give inform pantilt head point sensor thus determin angl . 
+for sourc i consid waze heck ir led possibl optek op290 motorola mled81 . 
+waze would mean least 1 amp current puls . 
+at current duti cycl led drop 10 i would need cycl five turn get 50 requir . 
+has anyon done someth like ? 
+whi n't run one led 60 khz use flip flop receiv end divid 2 give good squar 30khz signal . 
+just thought . 
+lori 403 544-4737 dre suffield box 4000 medicin hat ab canada t1a 8k6 

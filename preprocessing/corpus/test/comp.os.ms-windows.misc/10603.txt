@@ -1,0 +1,137 @@
+announc cosypak a symbol control system analysi packag version 0.9 no user fee releas mathematica version 2.0 higher introduct cosypak set packag notebook classic control modern state space control analysi design method . 
+the notebook cosypak follow typic control engin i ' cours taught mani univers around world juniorsenior level undergradu . 
+there no fee use cosypak certain respons expect user see copyright notic readm file includ . 
+for starter e-mail fax mail post registr form includ readm file . 
+cosypak avail via anonym ftp ' mishna.esys.cwru.edu internet no 129.22.40.23 pub directori . 
+p.s . 
+a typic ftp session unix given readm file . 
+futur releas if would like receiv updat newer version cosypak pleas send e-mailfaxmail address . 
+in addit comment suggest appreci invalu us . 
+we best fix report bug . 
+howev fix bug report us know . 
+we would much appreci take minut communic us via e-mail us mail telephon fax . 
+this help us releas bug-fre version futur . 
+comment welcom . 
+n . 
+sreenath system engin depart case school engin case western reserv univers u. . 
+mail prof . 
+n . 
+sreenath tel . 
+216 368-6219 system engg . 
+crawford hall fax 216 368-3123 case western reserv univ . 
+cleveland oh 44106-7070 begin readm file no user fee releas cosypak a symbol control system analysi packag version 0.9 mathematica version 2.0 higher c.k.chen n . 
+sreenath system engin case school engin case western reserv univers cleveland oh 44106-7070 copyright copyright copyright 1992 c . 
+k . 
+chen n . 
+sreenath case western reserv univers . 
+permiss use copi modifi distribut softwar document purpos without fee herebi grant provid copyright notic appear support document name case western reserv univers case school engin use advertis public pertain distribut softwar without specif without prior permiss . 
+case western reserv univers make represent suitabl softwar purpos . 
+it provid express impli warranti . 
+acknowledg support cwru inform network servic dr . 
+ray neff case alumni associ the lilli foundat system engin depart case western reserv univers grate acknowledg . 
+special thank brian evan georgia tech help . 
+ftp cosypak avail anonym ftp ' mishna.esys.cwru.edu internet no . 
+129.22.40.23 . 
+a sampl ftp session given end file . 
+chang version 0.9 updat v0.81 v0.9 in version revis cosypak take advantag robust signal process function avail mathematica v2.1 . 
+sinc mathematica 2.1 provid better work laplacetransform inverselaplacetransform function mathematica v2.0 adopt . 
+this made cosypak smaller . 
+thus brian evan ' signal process packag support laplacetransform inverselaplacetransform function cosypak v0.81 longer need direct cosypak v0.9 . 
+for power user use signal process still recommend use fine brian evan packag signal process avail anonym ftp site gauss.eedsp.gatech.edu ip 130.207.226.24 . 
+on downsid disadvantag updat mathematica 2.1 requir runtim resourc previous version . 
+for mathematica 2.0 user we includ laplacetransform packag mathematica 2.1 directori for2.0 ' . 
+pleas move file directori for2.0 calculus directori mathematica packag directori . 
+introduct this unsupport releas cosypak control system analysi packag symbol control system analysi use mathematica 2.1 . 
+classic control system analysi design method modern control system method implement packag . 
+this packag attend notebook develop next tm comput unix base workstat . 
+they use supplementari teach aid along standard control engin text ogata 1991 phillip harbor 1991 undergradu cours control engin i ' taught system engin depart cwru . 
+in addit next also test success appl macintosh comput tm ibm pc 's tm run ms windowstm . 
+we would much interest hear anybodi know use softwar platform mention . 
+ibm user howev evalu notebook first visual graphic . 
+onc instal see instruct collect mathematica packag load user . 
+bundl packag mani notebook cosynot demonstr function packag . 
+the notebook follow plan mani fine standard undergradu control engin text book list refer . 
+exampl use notebook collect various refer given end file . 
+the content notebook cosynot directori given . 
+begin cosynot content notebook file name 01introduction.ma chapter 1 introduct control system section analyt pole zero signal forward laplac transform invers laplac transform differenti equat with zero-valu initi condit differenti equat with initi condit notebook file name 02mathmodels.ma chapter 2 mathemat model dynam system section ode state space linear nonlinear system equat state space transfer function notebook file name 03transientresponse.ma chapter 3 transient-respons analysi chapter split three sub notebook file size notebook file name 031transientresponse.ma section time respons analysi first order system second order system third order higher order system notebook file name 032transientresponse.ma section first order system step respons vs . 
+time const notebook file name 033transientresponse.ma section second order system step respons vs . 
+damp ratio notebook file name 04steadystateresponse.ma chapter 4 steady-st respons section routh 's stabil steady-st error analysi notebook file name 05rootlocus.ma chapter 5 root-locus analysi notebook file name 06freqresponse.ma chapter 6 frequency-respons analysi section bode plot analysi magnitud vs . 
+phase plot nichol plot polar plot nyquist plot combin exampl notebook file name 07statespace.ma chapter 7 state space method section introduct state transit matrix control observ output control pole placement design observ design time respons use state space method end notebook content compress file the file contain complet set cosypak v0.9 packag notebook mathematica cosypak09.tar.z compress tar file unix system cosypak09.sit.hqx compress sit file macintosh system encod binhex 4.0 format requir sharewar stuffit file v 1.5.1 higher . 
+cosypakibm09.zip zip file ibm pc run ms-dos onc expand mathematica file also use macintosh ibm pc unix system also . 
+instal cosypak in unix command line type follow command zcat cosypak09.tar.z tar xvf in macintosh open .sit.hqx file use sharewar stuffit v 1.5.1 higher . 
+in ibm command line type follow command pkunzip -o -d cosypakibm09.zip note this .zip file zip zip util v2.0 . 
+you must use pkunzip version 2.0 higher unzip . 
+ibm pc 's may limit directori name charact eight . 
+in event type pkunzip -o -d cosypak.zip . 
+you also unzip cosypakibm09.zip file unix machin unzip util . 
+uncompress untar cosypak09.tar.z unzip cosypakibm09.zip creat directori call cosypak . 
+onc file expand see singl directori cosypak contain follow three file four sub-directori content sub-directori cosypak cosypak contain control tool box packag manual cosypak manual .ps .rtf .txt .wn format . 
+cosynot contain notebook for2.0 contain laplac transform packag mathematica 2.1 for mathematica 2.0 user . 
+file directori cosypak chap1.m chap2.m chap3.m chap4.m chap5.m chap6.m chap7.m file directori cosynot 01introduction.ma 02mathmodel.ma 031transientresponse.ma 032transientresponse.ma 033transientresponse.ma 04steadystateresponse.ma 05rootlocus.ma 06freqresponse.ma 07statespace.ma file directori for2.0 laplacetransform.m diracdelta.m sub-directori cosypak common file directori common support.m import the notebook exampl files.ma file cosynot directori . 
+to use notebook move directori cosypak ' directori mathematica recogn locallibrarymathematicapackag unix machin myharddiskmathematicapackag appl macintosh cwinmathpackag ibm pc . 
+at begin initi cell notebook cosynot directori list exampl make mathematica identifi directori initi path exampl for unix machin default pathjoinpath locallibrarymathematicapackag exampl for appl macintosh pathjoinpath myharddiskmathematicapackag exampl for ibm pc pathjoinpath cwinmathpackag chang pathnam accord machin remov mathematica comment sign path ' set . 
+this command make mathematica recogn directori locallibrarymathematicapackag unix machin myharddiskmathematicapackag appl macintosh cwinmathpackag ibm pc mathematica 2.0 user we includ laplacetransform packag mathematica 2.1 directori for2.0 . 
+pleas move file directori for2.0 calculus directori mathematica packag directori . 
+get start after instal start mathematica open notebook cosynot directori . 
+all notebook load packag . 
+navig notebook enjoy . 
+ibm user howev evalu notebook visual graphic . 
+user respons we request take minut fill inform mail us e-mail fax u. . 
+mail . 
+this help us keep abreast improv releas new version cosypak . 
+suggest improv welcom . 
+-cut here- your name organ titl e-mail postal address comment suggest -cut here- mail inform e-mail fax u. . 
+mail u. . 
+mail prof . 
+n . 
+sreenath tel . 
+216 368-6219 system engg . 
+crawford hall fax 216 368-3123 case western reserv univ . 
+cleveland oh 44106-7070 report bug pleas report bug leav comment address . 
+ani suggest improv critic welcom . 
+we best fix report bug . 
+howev fix bug report us know . 
+we would much appreci take minut communic us via e-mail us mail telephon fax . 
+this help us releas bug-fre version futur . 
+disclaim futur releas this softwar properti case western reserv univers . 
+use softwar risk . 
+we make express impli warranti . 
+the packag notebook also made run mathematica version 2.0 lower modif . 
+we guarante outcom . 
+document cosypak function index file manual ' directori accord chapter . 
+usag illustr notebook resid cosynot ' directori . 
+if comput support notebook find macintosh comput acquir mathread public domain notebook reader . 
+mathread least allow perus notebook abl evalu code fragment . 
+refer dorf r . 
+c . 
+modern control system sixth edit addison wesley new york 1992 . 
+fortmann t . 
+e . 
+hitz k . 
+l . 
+an introduct linear control system marcel dekker 1977 . 
+franklin g . 
+f . 
+powel d . 
+j . 
+emami-naeini a . 
+feedback control dynam system second edit addison wesley new york 1991 . 
+kuo b . 
+c . 
+automat control system sixth edit prentic hall new jersey 1990 . 
+ogata k . 
+modern control engin second edit prentic hall new jersey 1991 . 
+phillip c . 
+l . 
+harbor r . 
+d . 
+feedback control system second edit prentic hall new jersey 1991 . 
+end readm file typic ftp ' session ftp mishna.esys.cwru.edu connect mishna . 
+220 mishna ftp server version 5.20 next 1.0 sun nov 11 1990 readi . 
+name mishna.esys.cwru.edusre anonym password ftp cd pub ftp binari ftp ls 200 port command success . 
+150 open ascii mode data connect file list . 
+cosypak09.tar.z cosypakibm09.zip index readm places.wmd cosypakuntar 226 transfer complet . 
+78 byte receiv 0 second 15.35 kbytess ftp get cosypak09.tar.z 200 port command success . 
+150 open binari mode data connect cosypak09.tar.z 460822 byte . 
+226 transfer complet . 
+local cosypak09.tar.z remot cosypak09.tar.z 460822 byte receiv 1.33 second 3.38e02 kbytess ftp quit 221 goodby . 

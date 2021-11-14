@@ -1,0 +1,9 @@
+a soundblat sb card suppos share irq 7 lpt1 parallel printer interfac 1 general scheme work well . 
+howev sometim conflict seem depend softwar anyth els . 
+origin game especi bitchi whole interrupt ... 
+my solut switch interrupt irq 5 unreserv contemporari comput use irq 5 drive went xt architechtur do n't put sb irq 5 xt get new comput instead . 
+this irq complet stabl i use sb play .mod .wav linux free unx 386 better pc-architectur machin problem well game dos ... 
+i also use irq 5 . 
+but one disadvantag . 
+some game assum board use irq 7 way adjust set . 
+i troubl luca film game . 

@@ -1,0 +1,8 @@
+is tn3270 program support xterm ? 
+i n't like x3270 . 
+you ca n't copi window . 
+thank . 
+the x3270 export.lcs.mit.edu suppos . 
+i use anoth x3270 color support clean lot bug well cutpast . 
+i put export.lcs.mit.edu x3270v2.65beta.tar.z . 
+dave 

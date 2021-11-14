@@ -1,0 +1,13 @@
+after set window use cirrus logic 5426 vlb graphicscard it move normal window one place anoth ... 
+... what i wonder use bitblt engin suupos chip . 
+how experi .. 
+have i done someth wrong the 5426 set driver . 
+you may use driver intend 5420 5422 mistak . 
+be sure 5426 driver version 1.2 i instal mswin 3.1 multiresolut driver suppli card ? ! 
+do n't quot one i 'd steer clear multi resolut driver allow chang resolut without exit window . 
+i think 's buggi . 
+also newhop faster drriver around i would love get hold ftp whatsoev version 1.3 driver due releas cirrus soon . 
+unfortun avail via ftp dial bbs usa . 
+i nz use 14.4k modem cut phone bill . 
+it took around 7 minut download v1.2 driver . 
+good luck 

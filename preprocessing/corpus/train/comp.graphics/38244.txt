@@ -1,0 +1,20 @@
+graem yes 's known bresenham run length slice algorithm graem increment line . 
+see fundament algorithm comput graphic graem springer-verlag berlin heidelberg 1985 . 
+i tri extrapol circl i ca n't figur determin length slice . 
+ani idea ? 
+graem hmm . 
+i n't think i help might graem take look follow graem double-step increment generat line circl graem x . 
+wu j . 
+g . 
+rokn comput graphic imag process graem vol 37 no . 
+4 mar . 
+1987 pp . 
+331-334 graem double-step generat ellips x . 
+wu j . 
+g . 
+rokn graem ieee comput graphic applic may 1989 pp . 
+56-69 anoth paper might want consid titlea run-length slice line draw algorithm without divis oper authorkhun yee 
+fung tina m . 
+nichol a . 
+k . 
+dewdney journalcomput graphic forum year1992 volume11 number3 pagesc-267c-277 khun yee 

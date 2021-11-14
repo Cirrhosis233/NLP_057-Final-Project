@@ -1,0 +1,84 @@
+program eurocrypt'93 may 23-27 lofthus norway general chair kaar presttun program chair tor helleseth depart informat univers bergen n-5020 bergen norway monday may 24 session 1 authent chair j . 
+seberri 9.00- 9.30 welcom open remark 9.30-10.00 on relat between a-cod code correct independ error t . 
+johansson b . 
+smeet lund univers sweden g . 
+kabatianskii institut problem inform transmiss russia 10.00-10.20 optim authent system r . 
+safavi-naini l . 
+tombak univers wollongong australia 10.20-10.50 coffe tea session 2 public key chair a . 
+odlyzko 10.50-11.10 factor integ use simd siev b . 
+dixon princeton univers usa a.k . 
+lenstra bellcor usa 11.10-11.30 a new ellipt curv base analogu rsa n . 
+demytko telecom research laboratori australia 11.30-11.50 weak public-key cryptosystem base factor finit group j . 
+stern en franc 11.50-14.00 lunch session 3 block cipher chair a . 
+de santi 14.00-14.20 differenti uniform map cryptographi k . 
+nyberg technic univers vienna austria 14.20-14.40 on permut against differenti cryptanalysi t . 
+beth c . 
+ding eiss univers karlsruh germani 14.40-15.10 two new class bent function c . 
+carlet inria franc 15.10-15.30 boolean function satisfi higher order strict avalanch condit t.w . 
+cusick suni buffalo usa 15.30-16.00 coffe tea session 4 secret share chair y . 
+desmedt 16.00-16.30 size share probabl cheat threshold scheme m . 
+carpentieri a . 
+de santi u . 
+vaccaro univers salerno itali 16.30-17.00 nonperfect secret share scheme matroid k . 
+kurosawa k . 
+okada k . 
+sakano w . 
+ogata s . 
+tsujii tokyo institut technolog japan tuesday may 25 session 5 streamciph i chair t . 
+helleseth 9.00-10.00 from memoar norwegian cryptolog e . 
+selmer univers bergen norway invit talk 10.00-10.20 on linear complex product shift-regist sequenc r . 
+gottfert h . 
+niderreit austrian academi scienc vienna austria 10.20-10.50 coffe tea session 6 streamciph ii chair d . 
+gollman 10.50-11.20 resynchronis weak synchron stream cipher j . 
+daemen r . 
+govaert j . 
+vandewall esat ku leuven belgium 11.20-11.40 blind synchron m-sequenc even span r . 
+game j.j . 
+rushanan mitr usa 11.40-12.10 on construct nonlinear correl immun function j . 
+seberri x . 
+zhang y . 
+zheng univers wollongong australia 12.10-14.00 lunch session 7 digit signatur chair c . 
+schnorr 14.00-14.30 practic provabl secur releas secret exchang signatur i.b . 
+damgard aarhus univers denmark 14.30-14.50 sublimin communic easi use dsa g.j . 
+simmon 14.50-15.10 can oss repair d . 
+naccach gemplus franc 15.10-15.40 coffe tea session 8 protocol i chair k . 
+kurosawa 15.40-16.00 limit logic analysi cryptograph protocol c . 
+boyd w . 
+mao univers manchest unit kingdom 16.00-16.30 practic anonym secur vote scheme k . 
+itoh c . 
+park k . 
+kurosawa tokyo institut technolog japan 16.30-16.50 untransfer right client-independ server environ j . 
+domingo-ferr univers barcelona spain 16.50-17.20 interact hash simplifi zero-knowledg protocol design r . 
+ostrovski uc berkeley usa r . 
+venkatesan bellcor usa m . 
+yung ibm t . 
+watson usa rump session chair i . 
+ingemarsson 20.00-24.00 accept paper secur digit mobil communic system c . 
+park k . 
+kurosawa t . 
+okamoto s . 
+tsujii tokyo institut technolog japan wednesday may 26 session 9 hash function chair b . 
+preneel 9.00- 9.20 one-way accumul a decentr altern digit signatur j . 
+benaloh m . 
+de mare clarkson univers usa 9.20- 9.40 some attack arl hash function i.b . 
+damgard l.r . 
+knudsen aarhus univers denmark 9.40-10.10 collis compress function md5 b . 
+den boer a . 
+bossela esat ku leuven belgium 10.10-10.30 how find avoid collis knapsack hash function j . 
+patarin bull cp8 franc 10.30-11.00 coffe tea session 10 payment system chair i.b . 
+damgard 11.00-11.20 singl term off-lin coin n.t . 
+ferguson cwi amsterdam the netherland 11.20-11.40 improv privaci wallet observ r.j.f . 
+cramer cwi amsterdam the netherland t.p . 
+pedersen aarhus univers denmark 11.40-12.10 how prevent mafia fraud use distance-bound protocol s . 
+brand d . 
+chaum cwi amsterdam the netherland 12.10-14.00 lunch session 11 cryptanalysi chair g.j . 
+simmon 14.00-14.20 on distribut characterist biject map l . 
+o'connor univers waterloo canada 14.20-14.40 on secur idea block cipher w . 
+meier htl switzerland 14.40-15.10 linear cryptanalysi method des cipher m . 
+matsui mitsubishi japan 15.10-15.40 new type cryptanalyt attack use relat key e . 
+biham technion israel 15.40-16.10 coffe tea session 12 protocol ii chair p . 
+landrock 16.10-16.40 reconcili secret key through public discuss g . 
+brassard l . 
+salvail univers montreal canada 16.40-17.10 global unpredict bit generat without broadcast d . 
+beaver n . 
+so penn state univers usa 17.10-17.40 iacr busi meet 

@@ -1,0 +1,9 @@
+hi i studi wmdeletewindow atom open look . 
+i studi book unix desktop guid open look i run exampl chapter 8 it result describ book 's figur 8.1 . 
+dose anyon read book ? 
+or run exampl winprop.c ? 
+what problem ? 
+i curious wmdeletewindow program ... 
+anyon help ? 
+thank advanc help ! ! ! 
+iop 

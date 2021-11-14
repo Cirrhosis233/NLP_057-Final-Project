@@ -1,0 +1,7 @@
+no r5 xlib thread-saf . 
+but work . 
+see articl the x resourc issu 5 . 
+consortium member multi-thread version soon part r6 . 
+there multi thread xlib version written . 
+do archi search mt-xlib host export.lcs.mit.edu locat contrib directori drwxr-xr-x 512 jul 30 1992 mt-xlib locat contribmt-xlib-1.1 file -rw-rr 106235 jan 21 1402 mt-xlib-xhib92.ps.z file -rw-rr 1658123 jan 21 1403 mt-xlib.tar.z 
+locat contribmt-xlib file -rw-rr 106235 jul 30 1992 mt-xlib-xhib92.ps.z file -rw-rr 1925529 jul 30 1992 mt-xlib.tar.z 

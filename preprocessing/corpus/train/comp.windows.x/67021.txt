@@ -1,0 +1,4 @@
+hi anybodi implement rpc server hp xwindow ? 
+in sun xview notifyenablerpcsvc call automat execut rpc process detect incom request . 
+i wonder similar function hp xmotif perform function . 
+help appreci . 

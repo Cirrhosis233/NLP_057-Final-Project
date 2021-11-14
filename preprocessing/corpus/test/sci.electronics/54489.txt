@@ -1,0 +1,11 @@
+i 'm tri build mixer friend mine run sever thing singl boom box . 
+i circuit use op-amp power either coupl 9v batteri use kind power suppli . 
+but catalog i look recent passiv mixer guitar advertis taht n't appear use power . 
+doe anyon know circuit would i could adapt rca jack save friend i alot mess batteri plug . 
+thank . 
+well fastest crudest mixer asid physic connect input togeth direct run signal resistor common output . 
+the resistor give isol signal sourc n't drive direct . 
+take wild seat-of-the-p guess i 'd say mix high-imped sourc like dynam mike electr guitar pickup etc . 
+resistor ought mayb 5k 10k . 
+if mix line-level stuff output walkman i 'd go 1k . 
+input 1 -- output input 2 input 3 

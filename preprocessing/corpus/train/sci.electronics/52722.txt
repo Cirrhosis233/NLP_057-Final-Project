@@ -1,0 +1,7 @@
+to srgxnbs cc subj re i2c bus long haul serial also axlo receiv sun.com grv.grace.cri.nz mx v3.1c smtp tue 06 apr 1993 064829 1300 receiv corp.sun.com lemay.corp.sun.com sun.com 4.1smi-4.1 id aa24280 mon 5 apr 93 114808 pdt receiv grendal.corp.sun.com corp.sun.com 4.1elliemay corpmail1 inbound id aa25933 mon 5 apr 93 114807 pdt receiv grendal.corp.sun.com 4.1smi-4.1 id aa05710 mon 5 apr 93 114728 pdt date mon 5 apr 93 114728 pdt subject re i2c bus long haul serial also axlo content-length 693 what requir get onto access bus ? 
+the nice thing i2c io requir one 8 ... 
+16 pin dil chip ie cheap easi . 
+anyon design bus troubl buse requir host interfac chip often on-board intellig . 
+bruce for latest inform access.bus call access.bus industri group 408 991-3517 . 
+also sun host next meet group april 19th mountain view . 
+for reason i abl post newsgroup today pleas feel free pass inform see fit . 

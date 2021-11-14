@@ -1,0 +1,13 @@
+i ve found problem use xlib function regard re-entr . 
+i decid implement anim cursor use 6 creat cursor call xdefinecursor sigalrm signal handler . 
+this use indic wait oper request complet . 
+product control system . 
+i redraw screen underneath anim cursor restor standard cursor complet . 
+i found dump core upon analysi sigalrm handler call xdrawstr call . 
+xdrawstr bcopi presum intern structur xdefinecursor call . 
+presum intern structur xdrawstr manipul stabl state sent xdefinecursor n't . 
+has anyon els experienc ? 
+is offici document say ensur n't happen ? 
+or bcopi atom . 
+we run sgi irix 4.0.1 x11r4 . 
+regard martin 

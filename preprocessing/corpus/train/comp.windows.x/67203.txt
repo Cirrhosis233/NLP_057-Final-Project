@@ -1,0 +1,10 @@
+let 's say i two rectangl canvasse one intersect ... 
+now i would like delet one rectangl . 
+the way i creat anoth gc wherein i use gxxor logic function simpli redraw rectangl use newli creat graphic context thus delet appar purpos . 
+a problem approach point intersect pixel locat belong rectangl also becom white someth avoid . 
+you could set bitmap mask . 
+clear bitmap draw rectangl delet gxor . 
+draw one stay gxclear . 
+then gxxor entir pixmap screen . 
+note pretti effect way anim ever need replac gxclear gxxor . 
+joe hildebrand softwar engin fuentez system concept 703273-1447 

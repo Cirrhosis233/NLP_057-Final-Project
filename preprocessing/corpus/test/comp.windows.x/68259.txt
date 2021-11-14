@@ -1,0 +1,7 @@
+as soon i log linux i type xinit set tcp soling protocol avail siocgifconf xfree86 version 1.2x window system protocol version 11 revis 0 vendor releas 5000 configur driver vga256256 colout svga et4000 et 3000 pvga1 gvga ati tvga8900c tgva9000 use vt number 7 mous type mous system devic devmous baudrate1200 font path set usrlibx11fontstype1 usrlibx11fonts75 dpi usrlibx11fontsspeedo usrlibx11fontsbitstream1 usrlibx11fontsmisc . 
+vga 256 et4000 mem ok numclock 16 vga 256 clock 25.2 28.3 47.8 41.2 25.4 0.0 47.6 0.0 vga 256 clock 0.0 0.0 0.0 0.0 0.0 0.0 0.0 41.3 vga 256 too littl memori virtual resolut 1024 1204 a configur devic found display mode could resolv . 
+fatal server error screen found give . 
+xinit interrupt system callerrno 4 unabl connect x server xinit no processerrno 3 server error . 
+whi i get messag i type xinit ? 
+is configur file x-windowslik config.si msdos ? 
+how i start x session shell 

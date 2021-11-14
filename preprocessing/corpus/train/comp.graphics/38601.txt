@@ -1,0 +1,3 @@
+i work program display 3d wirefram model user abl arbitrarili chang view paramet . 
+also wirefram object also go dynam attribut move around user explor wirefram world . 
+whi n't consid phig x pex lib ? 

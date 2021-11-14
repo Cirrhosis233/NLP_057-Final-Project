@@ -1,0 +1,15 @@
+dear friend the risc mean reduc instruct set comput . 
+the risc usual small instruct set reduc circuit complex increas clock rate high perform . 
+you read book comput architectur inform risc . 
+hmm ... 
+i author risc i clear rememb read instruct set risc cpus rather larg . 
+the differ address mode risc instruct set orthogon cisc . 
+i hope clear taken one lectur note ... 
+the altern approach cisc adopt mani recent year come known risc reduc instruct set comput . 
+this characteris simpli simpler faster simplifi design e.g . 
+reduc varieti instruct address mode hardwar design run faster . 
+even cost need instruct task done quick simpler faster design . 
+a typic risc processor provid larg number regist e.g . 
+32 perform data oper regist provid address mode e.g . 
+immedi regist offset ' allow load store oper access memori use instruct format support data type e.g . 
+integ unsign float . 

@@ -1,0 +1,25 @@
+i ve seen lot differ term seem mean thing . 
+who give exact definit term mean multi-screen multi-head multi-display x-server zaphod mode is limit mani screensdisplay singl server handl articel read someth upper limit 12 how capabl call i want move cursor one screendisplay anoth . 
+as mani client may display server i believ limit would much memori avail server alloc server . 
+this sound suspici like compani might someth . 
+background first megatek seri framebuff design x acceler . 
+for part design sun sbus sun vendor 's vme system . 
+that said megatek product support multi-screen andor multi-display sigl workstat . 
+most card keyboardmous port use provid addit display . 
+for exampl say hade sparcstat sbus expans chassi . 
+you could put six frambuff allow total six screen system . 
+you could attach 1 6 keyboardmic allow mix match combin screen display . 
+you could 1 6-screen display 3 2-screen display 6 1-screen display 1 2-screen display 1 4-screen display . 
+basic combin . 
+becaus megatek tri care use word multi-screen multi-display . 
+they quit differ mean least x exact definit . 
+the reason i rambl like mention upper limit 12 screen display . 
+as happen 's defin server determin screen support serverincludemisc.h maxscreen . 
+as releas mit 3 . 
+as releas megatek 12 . 
+as screen support singl megatek display i.e . 
+x server 12 . 
+if someon constru limit x i 'm sorri clear point well mr . 
+neto case . 
+we nobodi ever ask us . 
+of cours i could say buy want ll support 

@@ -1,0 +1,12 @@
+whi win 3.1 sometim finicki ? 
+i new dell 486dx266mhz 8 meg ram . 
+window work great . 
+i bus mous mother board problem . 
+dell replac mous gave newer mous driver window replac motherboard . 
+just prior problem window would load everi time . 
+i would get logo either would go window lock up . 
+this consist everi other time . 
+much delet ani thought or comment sound like memori conflict problem caus truli weird symptom like . 
+call dell tech support better post cserv account get memori rang use video ram machin . 
+the block window use rang emmexclud statement 386enh section system.ini . 
+you probabl includ statement exclud rang emm386 whatev memori manag use config.si . 

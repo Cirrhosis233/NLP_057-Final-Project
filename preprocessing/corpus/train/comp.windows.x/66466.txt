@@ -1,0 +1,7 @@
+hi i compil x11r5 distribut sun3sunos4.1.1 . 
+i also compil public domain xview3 olwm distribut . 
+i old 3rd-parti applic binari sunview program . 
+how i get work xview3 olwm ? 
+i tri use openwindow version 2 svenv program work . 
+i news access .... 's i mail direct . 
+also email alia question get comp.windows.x thank shash 

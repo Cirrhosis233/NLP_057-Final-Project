@@ -1,0 +1,22 @@
+i want achiev overal throughput rate around 5 megabyt sec larg data transfer . 
+around 5 mb . 
+i quadra 950 . 
+i nubus network card pump data mac memori 8.5 mbs . 
+use block-mod transfer i high-spe disk array asynchron pb call achiev 6.8 mbs . 
+let 's say transfer go disk buffer network card . 
+it enough first transfer data disk buffer transfer data buffer card . 
+6.8 mbs 8.5 mbs result overal 3.8 mbs . 
+too slow ! 
+so i tri follow scheme for n-megabyt transfer step 1 load 1st mb disk buffer . 
+step 2 asynch send 1st mb card load 2nd mb disk buffer . 
+step 3 asynch send 2nd mb card load 3rd mb disk buffer . 
+... 
+step n asynch send n-1 mb card load nth mb disk buffer . 
+step n1 send nth mb card . 
+even though code appar execut card transfer asynchron card use mac cpu it use buffer tho ' step 2 n take long two transfer execut one anoth . 
+so improv rate . 
+whi ? 
+is mac ram dual-port ? 
+so nubus card disk driver access data time . 
+is problem two devic card disk driver use bus mac ram ? 
+is anyth i ? 

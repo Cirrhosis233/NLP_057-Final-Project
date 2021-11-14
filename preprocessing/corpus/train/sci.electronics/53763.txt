@@ -1,0 +1,9 @@
+i mosfet pull trygon power suppli i manual . 
+it 's motorola part 1972 date code number 285-4 motorola folk assur hous number ca n't help . 
+ani suggest folk ? 
+i ca n't put curv tracer tri get equival sinc 's complet shot . 
+scott sinc mosfet 1972 vintag 's probabl good one today 's standard . 
+if idea voltag current anyth better spec . 
+earli mosfet gate-sourc voltag rate approxim 20 vdcmax would usual turn complet on 10vdc . 
+otherwis mosfet realli mysteri re less voltag control current sourc . 
+if mosfet circuit use open-loop voltag control current sourc may experi various gain-alt techniqu . 

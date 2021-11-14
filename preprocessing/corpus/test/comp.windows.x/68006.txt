@@ -1,0 +1,6 @@
+hi i 'm tri build x11r5 mit core distribut sparcstat run suno 4.1.1 . 
+the thing i chang projectroot site.def . 
+when make world process goe cc -o xdm .. 
+i get follow error ld undefin symbol c0095a2a error code 2 and process continu finish . 
+doe anybodi know 's wrong ? 
+thanx info . 

@@ -1,0 +1,8 @@
+greet ! 
+i 2 set plug oscilloscop function hook . 
+i also 2 set probe . 
+they multipli x1 x10 . 
+there also ref switch . 
+all probe plug excel condit . 
+if interest pleas make offer . 
+i respond repli wed . 

@@ -1,0 +1,23 @@
+call for paper the internet societi symposium network distribut system secur 3-4 februari 1994 catamaran hotel san diego california the symposium bring togeth peopl build softwar hardwar provid network distribut system secur servic . 
+the symposium intend interest practic aspect network distribut system secur rather theori . 
+symposium proceed publish internet societi . 
+topic symposium includ limit follow design implement servicesaccess control authent avail confidenti integr non-repudi includ criteria place servic particular protocol layer . 
+design implement secur mechan support servicesencipher key manag system author audit system intrus detect system . 
+requir architectur distribut applic network functionsmessag handl file transport remot file access directori time synchron interact session remot data base manag access rout voic video multicast conferenc news group network manag boot servic mobil comput remot io . 
+special issu problem secur architectur larg system like intern internet high-spe system like gigabit testb built . 
+interplay secur goal goalseffici reliabl interoper resourc share low cost . 
+general chair dan nessett lawrenc livermor nation laboratori program chair russ housley xerox special inform system rob shirey the mitr corpor program committe dave balenson trust inform system tom berson anagram laboratori matt bishop dartmouth colleg ed cain u. . 
+defens inform system agenc jim elli cert coordin center steve kent bolt beranek newman john linn independ consult clifford neuman inform scienc institut michael roe cambridg univers rob rosenth u. . 
+nation institut standard technolog jeff schiller massachusett institut technolog ravi sandhu georg mason univers peter yee u. . 
+nation aeronaut space administr submiss the committe seek origin technic paper propos panel discuss technic topic general interest . 
+technic paper 10-20 page length . 
+panel includ three four speaker . 
+a panel propos must name panel chair includ one-pag topic introduct author chair also includ one-pag posit summari author speaker both technic paper panel paper appear proceed . 
+submiss must made 16 august 1993 . 
+submiss made via electron mail submiss may either two format ascii postscript . 
+if committe unabl read postscript submiss return ascii request . 
+therefor postscript submiss arriv well 16 august . 
+if electron submiss absolut imposs submiss sent via postal mail robert w . 
+shirey mail stop z202 the mitr corpor mclean virginia 22102-3481 usa all submiss must includ internet electron mail address postal address . 
+each submiss acknowledg medium receiv . 
+if acknowledg receiv within mitr mclean 703-883-5397 . 

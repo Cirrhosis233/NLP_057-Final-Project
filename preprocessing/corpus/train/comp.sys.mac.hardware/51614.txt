@@ -1,0 +1,14 @@
+attent mac quadra owner mani storag industri expert conclud mac quadra suffer time irregular deviat standard scsi specif . 
+this result silent corrupt data use devic includ ultra-modern devic . 
+although i name devic sinc fault exampl would soni 3.5 inch mo without special mac-compat firmwar instal . 
+one solut sometim disabl blind write this n't sound right . 
+do n't quadra use 53c96 ? 
+if mac noth scsi time . 
+that 's handl chip . 
+about time could wrong appl program clock regist wrong 96 . 
+that howev realli hurt synchron transfer use mac scsi manag . 
+furthermor disabl blind write meaningless quadra . 
+on mac use 5380 much lower level scsi chip mac respons handshak byte transfer . 
+blind mode affect mac handl handshak . 
+on 5396 handshak entir handl chip . 
+the doc say 's scsi manag bug chang thing ... 

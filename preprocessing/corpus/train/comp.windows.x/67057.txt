@@ -1,0 +1,8 @@
+the applic creat window button quit press . 
+the button press pop dialog box . 
+the strang featur program alway pop dialog box much faster first time . 
+if i tri pop 2nd time 3rd 4th .... 
+time much slower . 
+the shell wait window-manag respond posit request . 
+the window-manag respond think window alreadi right place . 
+exact two compon get sulk unclear inform great receiv . 

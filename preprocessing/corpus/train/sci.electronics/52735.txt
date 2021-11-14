@@ -1,0 +1,19 @@
+thank respos good idea i look use coupl idea . 
+i reciev mail today spec sheet mil . 
+spec version exar 's xr-2240 timercount chip . 
+it stabl -50 c suck littl power . 
+they show applic ultra-long time delay sever year depend rc time constant . 
+in applic two cascad togeth . 
+the reset trigger pin chip tie togeth timebas second chip disabl . 
+in configur output high system reset . 
+when trigger output goe low stay way total 65536 x time cycl first chip . 
+the total time cycl two chip program to 256 x r x c 65536 x r x c 256 step select combin counter output timer output . 
+the beauti timebas chip would 100uf time cap 391k resistor 39.1 second per time cycl . 
+so i get maximum 2562457.6 second time cycl 39.1 x 65536 29 day of cours 's much i need 14 day . 
+but counter allow 256 binari step select output pellet puker ' . 
+after first 14 day trip would reset self next 14 day time cycl forth . 
+power still problem though . 
+a idea suggest buri electron hole dug snow insul put pellet puker tower estim snow fall solar panel keep charg lithium batteri pack . 
+i like idea this thing work least six week three sampl gas valv 12 volt spit pellet onto snow . 
+anyway i order xr-2240 's see i . 
+should interest long i 'm one go dig pellet middl antartica freez bun thank everyon ... 

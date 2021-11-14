@@ -1,0 +1,11 @@
+help ! 
+i 'm tri program vga ! 
+i ve got work pascal follow routin mode 13h 320200256 . 
+i ve got vesa compat trident 8900c w1meg need program 1024768 mode . 
+i n't care mani color . 
+could someon take code help write 2 new procedur replac ll work 102476816 1024768256 ? 
+that 'd great ! 
+thank ... 
+here code i current 320200256 mode procedur graphmod begin videomod asm mov ah00 mov al13h int 10h end 
+end 
+videomod procedur plotpoint x c integ begin mema000xy320c end 

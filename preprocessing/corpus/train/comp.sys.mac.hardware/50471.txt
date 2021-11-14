@@ -1,0 +1,12 @@
+doe anyon know make cabl adapt wire accord appl 's spec forc extern output lc 's powerbook 's 160180 duo 230 true vga style output signal ? 
+the nec adapt sinc monitor multisync rout signal correct pinout switch mac output vga mode . 
+do i make one someon alreadi one made-up ? ? 
+the follow appl spec lc cpu vga cabl adapt . 
+i 'm assum powerbooksduo work adapt ? 
+macintosh lc vga the macintosh lc suppli 640 x 480 vga time signal use vga monitor use adapt cabl . 
+the standard macintosh lc support vga 16 color option 512k vram simm vga monitor support 256 color . 
+note the macintosh lc suppli signal capabl drive ttl level input . 
+howev low imped input vga monitor work macintosh lc . 
+to connect macintosh lc vga monitor need make adapt cabl macintosh lc video connector vga monitor . 
+follow pinout descript adapt cabl macintosh lc vga video connector pin signal name 1 6 red ground 2 1 red video signal 5 2 green video signal 6 7 green ground 9 3 blue video signal 13 8 blue ground 15 13 hsync 12 14 vsync 14 10 hsync ground 710 nc sense1 sense2 tie togeth vga monitor identifi short pin 7 pin 10 macintosh lc video connector . 
+the macintosh lc ground pin 7 video connector result pull pin 10 give correct monitor id vga monitor . 

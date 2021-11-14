@@ -1,0 +1,5 @@
+current i use 8051 microcontrol extern eprom .. 
+in order drive dc motor direct i use puls width modult thru softwar controlassembl languag program . 
+howev i afraid overhead thus alter puls time . 
+my question softwar pwm control reliabl ? . 
+i understand port 0 latch i vari duti cycl set high first desir 

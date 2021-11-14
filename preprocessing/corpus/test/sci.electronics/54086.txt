@@ -1,0 +1,5 @@
+i question access certain address chip particulari 27c512 eprom . 
+although i n't know much i understand 's pin chip voltag appli kick address . 
+the question determin mani byte address increment ? ? 
+for exampl i code i want access 2000 also say 4000 i move address pointer posit ? ? 
+thank info ... 

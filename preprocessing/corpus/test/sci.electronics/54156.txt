@@ -1,0 +1,10 @@
+i tri build synchron demodul i ve hit snag . 
+in applic i want abl chang gain op amp amplifi 1 -1 control via digit input . 
+the obvious way i ve come use analog switch adjust gain op amp . 
+the analog switch i experi 4066 . 
+unfortun i want switch ac signal goe -5v 5v 4066 posit signal . 
+i recent use 4066 switch bipolar signal . 
+i simpli ran 4066 bipolar suppli 8v case . 
+as long analog input signal stay suppli rail 4066 work fine . 
+of cours control logic input must use -8v logic low 8v logic high refer either 1 drive logic must 4000 cmos bipolar suppli 2 must provid kind voltag level shift circuit 4066 control logic . 
+in case i abl use bipolar suppli way . 

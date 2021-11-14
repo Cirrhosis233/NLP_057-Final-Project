@@ -1,0 +1,7 @@
+on ad board i ve got i 'm use ad line . 
+it measur voltag proper ie 7v power suppli reg 's 7v 5v reg 's 5v . 
+problem i ve got input voltag i wish lower via resistor . 
+the sensit board great i triger hold 57v wire one hand touch probe regist full input voltag . 
+a 1m resistor lower voltag .1v feesabl . 
+what could problem els could i use lower input voltag ? 
+btw i ve got ground correct inspir seek baden de bari unknown . 

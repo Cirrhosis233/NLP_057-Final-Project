@@ -1,0 +1,21 @@
+i written server program make socket connect mani node collect data node period . 
+i need display data x applic . 
+i tri invok server use xtaddapptimeout work ok . 
+but problem time delay collect data . 
+so i n't return eventloop time applic remain busi it n't respond user input . 
+i button press event queu exect server finish task . 
+now i go tri appaddinput call . 
+so it read pipe someth read pipe . 
+i think creat one pipe server write client x applic read . 
+now i doubt may abl clarifi . 
+1 when i fork process . 
+it creat copi process . 
+right ! ! 
+now two copi mean ? 
+two shell . 
+where i fork applic . 
+what respons process . 
+how i call process . ? 
+2 can i fork one process . 
+so i read one server input . 
+thank samir patel 

@@ -1,0 +1,4 @@
+i ve play program call piclab modifi .gif file . 
+the problem keep display 50 imag . 
+start top displays20 leav 20 blank anoth 20 etc . 
+anyon know i 'm wrong anoth piec softwar i use instead ? 

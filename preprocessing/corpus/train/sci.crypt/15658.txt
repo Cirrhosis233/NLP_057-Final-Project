@@ -1,0 +1,16 @@
+have read various clipper announc net last day lot uninform specul chip use govern plot etc i follow question . 
+1 what clipper chip actual implement ? 
+just skipjack cryptograph algorithm ? 
+or also implement chip chip communic protocol ? 
+if implement communic protocol use crypt chip also . 
+2 where chip specif spec sheet obtain ? 
+3 who may purchas condit ? 
+4 are restrict chip may use system ? 
+5 the secur algorithm encrypt communic appear requir famili key secret . 
+whi secret ? 
+what happen famili key becom well known ? 
+if 's secret make traffic analysi difficult law enforc messag contain random inform ? 
+how much random ? 
+6 can chip program reveal unit key ? 
+the chip serial number ? 
+ani program paramet ? 

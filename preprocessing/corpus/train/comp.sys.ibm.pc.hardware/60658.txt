@@ -1,0 +1,6 @@
+i 38640 motherboard ami bio . 
+.. 
+after multipl reboot give 10 beep sit ? 
+refer manual motherboard ami-bio 10 beep cmos shutdown regist readwrit error ' system stop beep . 
+if system continu keyboard error ' . 
+michael 

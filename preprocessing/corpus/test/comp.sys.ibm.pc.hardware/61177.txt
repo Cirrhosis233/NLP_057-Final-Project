@@ -1,0 +1,10 @@
+i 286 western digit wd-93044a hard drive . 
+this drive 782 cylind 4 read write head physic logic 977 cylind 5 read write head ? ? ! ! . 
+in cmos set i instruct set type 17 ibm 977 cyl . 
+5 readwrit head the problem i sent western digit ispfmt low level program manufactur instruct run hard drive cmos set set type 17 . 
+this work o.k i verifi disk use program . 
+i reload dos high level format error bad sector etc . 
+but .... 
+i run norton speedisk 6.01 disk optim verifi option set on i get error verifi sector nnnn nnnn number time . 
+ani idea as to what is go on here would be appreci ! 
+thank ! 

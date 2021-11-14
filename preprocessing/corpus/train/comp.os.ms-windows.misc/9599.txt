@@ -1,0 +1,28 @@
+anybodi seen mous cursor distort run diamond 1024x768x256 driver ? 
+sorri n't know version driver indic menus 's recent deliv gateway system . 
+am go tri latest driver diamond bbs wonder anyon els seen . 
+as followup co-work 's machin . 
+he latest 2.03 driver . 
+it happen use 1024x768x256 driver . 
+sometim take minut cursor wig eventu mode . 
+i susect someth step memori video card want . 
+i exclud a000-c7ff emm386 line system.ini the problem persist . 
+perhap someth specif gateway machin 's compon . 
+it 66mhz dx2 eisa bus ultrastor 24xx ? 
+control . 
+ah well i hope kind known problem ' somebodi seen . 
+perhap call gateway order i find folk usual far know . 
+i sever problem card . 
+applic crash move mous vga mode . 
+fix remov line stacks00 config.si . 
+the default valu stacks9256 fine . 
+random white pixel screen move mous 256 color graphic mode hardwar cursor mode . 
+fix turn hardwar scroll 24xmode scrolloff enter graphic mode . 
+this also fix problem window dos box window . 
+with hardwar scroll enabl applic write garbag outsid window . 
+the screensav remov cursor 256 color mode hardwar cursor . 
+i n't know window problem driver problem . 
+clear two type cursor remov function remove- for-draw ignor hardwar cursor remove- uncondit . 
+do card hardwar cursor problem ? 
+the vesa driver support 640x480x16m truecolor mode . 
+univers vesa driver run . 

@@ -1,0 +1,24 @@
+clip clip interest . 
+would care explain soundblast pro card printer card share irq 7 success ? 
+i assur set irq 7 i problem . 
+my comput dtk 286-12 ibm clone . 
+run ms-dos deriv os obvious . 
+pleas take note follow exact happen slight simplifi explan . 
+technic irq line mean devic printer adapt soundblast modem hard disk ... 
+signal cpu someth 's happen pleas take note how cpu program handl signal usual oper system . 
+in ms-dos interrupt vector use store address function handl interrupt . 
+now basic dos n't care whether printer report 's readi print stuff simpli ignor interrupt . 
+when dos print look lpt buffer . 
+if 's charact wait check . 
+if 's copi new charact lpt port . 
+sinc irq 7 ignor printer interrupt 's free use adapt case sb . 
+with multitask otherwis advanc os kind print approach n't work precis wast lot cpu cycl . 
+henc ca n't share irq 7 lpt1 sb re run unix os2 whatnot . 
+anoth issu sb digit sound use interrupt . 
+when sb play plain music cpu simpli tell play told otherwis . 
+with digit sound interrupt requir notifi cpu output end new data need . 
+you howev hook two com port one interrupt use one time . 
+this interrupt handl routin port see port data came . 
+this cours appli devic like lpt well . 
+rememb great simplifi part i think give general pictur correct enough . 
+cheer 

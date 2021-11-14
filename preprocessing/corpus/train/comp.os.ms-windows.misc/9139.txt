@@ -1,0 +1,11 @@
+there 's one thing window realli frost . 
+i 20mb ram instal system . 
+i use 5mb 2.5mb window disk-cach 4mb perman swap file . 
+while i never fill memori i still problem sometim i run gdi resourc . 
+what give ? 
+i think window could manag resourc littl better . 
+are use window 3.0 3.1 ? 
+if re still 3.0 3.1 devot twice much memori run much less frequent . 
+if 3.1 might use one resourc monitor one come window 3.1 resourc kit one mani sharewar one avail see program hog resourc everi icon intern graphic brush etc . 
+everi program run use certain amount limit memori area . 
+also n't give back re finish . 

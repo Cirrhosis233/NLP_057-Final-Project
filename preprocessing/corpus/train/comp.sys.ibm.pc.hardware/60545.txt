@@ -1,0 +1,6 @@
+i read articl benefit vlb motherboard . 
+it said true vlb board support bus master otherwis good isa motherboard . 
+doe n't vlb motherboard support bus master ? 
+i bought 486-33 vlb tech manual explicit state word local bus master said support bus master slave mode . 
+are term synonym ? 
+thank . 

@@ -1,0 +1,4 @@
+how get pixel valu drawabl without copi client ximag use xgetpixel ? ? 
+i want select pixel anim window server without copi whole lot back client . 
+x11r5 . 
+ani pointer appreci gordon . 

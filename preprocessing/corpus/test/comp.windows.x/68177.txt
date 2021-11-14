@@ -1,0 +1,12 @@
+i 'm quit familiar varieti window titl set method . 
+my question ... 
+is way via resourc etc stop applic 's abil re-nam 's name iconnam properti ? 
+sorri 's featur . 
+the icccm specifi app set titl wm oblig . 
+if bother complain app writer . 
+... care 's nice ' applic i want control ! 
+write wm n't support icccm . 
+or write program give window id titl . 
+the program set window titl app app chang program switch back . 
+-mike climat global dynam disclaim i repres ncar po box 3000 boulder co 80307 ... so i ve got go which nice . 
+think clear . 

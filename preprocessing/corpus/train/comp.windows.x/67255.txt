@@ -1,0 +1,20 @@
+has anyon found fix follow problem ? 
+client softwar suno 4.1.1 x11r5 server hardwar sun ipc server softwar suno 4.1.1 open window 3.0 w patch 100444-37 a motif 1.2.2 applic period hang run openwindow 3.0 server xnew . 
+the pulldown display button action effect . 
+sometim press return unstick applic usual . 
+it look like pulldown grab focus never let go . 
+other window display continu get updat server n't hang . 
+if i log anoth termin kill motif applic everyth get back normal . 
+the applic run x server includ mit x11r5 xsun decwindow tektronix x termin problem . 
+this obvious openwindow problem i need work-around sinc custom openwindow user . 
+i tri follow thing 1 . 
+instal latest version openwindow server patch 100444-37 . 
+2 . 
+use mwm version 1.2.2 instead olwm . 
+3 . 
+appli patch specifi motif faq question 110 . 
+this effect disabl point-and-click method menu interact oppos click-and-drag method screw menu mnemon key . 
+it seem help i still abl get applic hang . 
+repeat by this intermitt problem ll tri sever time . 
+click releas menu head pulldown menu pop click releas menu item repeat applic hang ani help would appreci . 
+thank advanc . 

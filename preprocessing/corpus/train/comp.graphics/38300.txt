@@ -1,0 +1,4 @@
+i look program capabl display graph node link possibl edit interact graph add one node chang one link etc ... 
+actual simpl x11 program would ok i need put box i.e . 
+node pane abl manipul mous move add delet box . 
+doe anyon know program avail thank help ! ! 

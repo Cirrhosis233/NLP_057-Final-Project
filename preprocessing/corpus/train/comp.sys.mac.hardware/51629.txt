@@ -1,0 +1,18 @@
+i speak dale . 
+but i quit sure macintosh use full 16-bit 32-bit data path full advantag . 
+that run fast two four 30-pin simm would one 72-pin simm . 
+now may longword access assum 32-bit data path get first byte first simm second byte second . 
+this would mean longword memori actual split among four simm one byte . 
+on hand could simm interleav word longword byte could success memori memori control deal eight-bit data path one . 
+i suspect though interleav extent 32 bit read written . 
+this would indic byte-level interleav . 
+i not confus new machin ' longword interleav two 72-pin simm sort although seem sort idea . 
+there get essenti 64-bit data path ro excus ram instead 32-bit one . 
+yes cpu ca n't handl write success address speed someth . 
+so dale i right ? 
+30-pin simm interleav byte allow full data bus ? 
+or common usenet particular i clueless everyon els ? 
+what conclus drawn ? 
+i 'm tri figur kind memori configur lc iii 32-bit datapath would fastest . 
+ani idea ? 
+thank jason macdonald 

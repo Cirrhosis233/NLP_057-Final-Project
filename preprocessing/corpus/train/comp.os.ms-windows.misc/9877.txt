@@ -1,0 +1,5 @@
+i move borland c 3.0 visual c today . 
+when i tri compil c program complain function prototyp problem . 
+it turn typedef word ms c byte unsign int . 
+could anyon shine light subject whi word byte -ming t . 
+lin 

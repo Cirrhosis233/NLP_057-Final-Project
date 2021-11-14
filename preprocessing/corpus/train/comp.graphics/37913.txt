@@ -1,0 +1,5 @@
+gnuplot etc . 
+make easi plot real valu function 2 variabl i want plot function whose valu 2-vector . 
+i plot array arrow complet arrowhead go i thought i would ask whether someon alreadi done work . 
+ani pointer ? ? 
+thanx advanc 

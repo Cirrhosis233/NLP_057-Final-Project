@@ -1,0 +1,49 @@
+archive-nam cryptography-faqpart06 last-modifi 1993415 faq sci.crypt part 6 public-key cryptographi this sixth ten part sci.crypt faq . 
+the part most independ read first part rest . 
+we n't time send miss part mail n't ask . 
+note kah67 '' refer refer list last part . 
+the section faq avail via anonym ftp rtfm.mit.edu pubusenetnews.answerscryptography-faqpartxx . 
+the cryptographi faq post newsgroup sci.crypt sci.answ news.answ everi 21 day . 
+content what public-key cryptographi ? 
+what 's rsa ? 
+is rsa secur ? 
+how fast peopl factor number ? 
+what public-key cryptosystem ? 
+what public-key cryptographi ? 
+in classic cryptosystem encrypt function ek decrypt function dk dkekp p plaintext p . 
+in public-key cryptosystem ek easili comput public key '' x turn comput k . 
+x publish anyon encrypt messag . 
+if dk easili comput x person generat k decrypt messag . 
+that 's essenc public-key cryptographi publish diffi hellman 1976 . 
+in classic cryptosystem want friend abl send secret messag make sure nobodi see key k . 
+in public-key cryptosystem publish x n't worri spi . 
+this begin public-key cryptographi . 
+there extens literatur secur model public-key cryptographi applic public-key cryptographi applic mathemat technolog behind public-key cryptographi . 
+what 's rsa ? 
+rsa public-key cryptosystem defin rivest shamir adleman . 
+for full detail faq avail ftp rsa.com . 
+here 's small exampl . 
+plaintext posit integ 2512 . 
+key quadrupl pqed p 256-bit prime number q 258-bit prime number e larg number de 1 divis p-1q-1 . 
+we defin ekp pe mod pq dkc cd mod pq . 
+now ek easili comput pair pqe-but far anyon know easi way comput dk pair pqe . 
+so whoever generat k publish pqe . 
+anyon send secret messag one read messag . 
+is rsa secur ? 
+nobodi know . 
+an obvious attack rsa factor pq p q . 
+see comment fast state-of-the-art factor algorithm run . 
+unfortun nobodi slightest idea prove factorization-or realist problem matter-i inher slow . 
+it easi formal mean rsa isi n't strong '' hendrik w . 
+lenstra jr . 
+say exact definit appear necessari one wish prove algorithm certain properti exist theoret comput scienc notori lack negat result . '' how fast peopl factor number ? 
+it depend size number . 
+in octob 1992 arjen lenstra dan bernstein factor 2523 1 prime use three week maspar time . 
+the maspar 16384-processor simd machin processor add 200000 integ per second . 
+the algorithm call number field siev '' quit bit faster special number like 2523 1 general number n take time expolog13 n log23 log n case . 
+an older popular method smaller number multipl polynomi quadrat siev '' take time expolog12 n log12 log n-faster number field siev small n slower larg n . 
+the breakeven point somewher 100 150 digit depend implement . 
+factor fast-mov field-th state art year ago nowher near good . 
+if new method develop 2048-bit rsa key alway safe factor one ca n't predict futur . 
+befor number field siev found mani peopl conjectur quadrat siev asymptot fast factor method could . 
+what public-key cryptosystem ? 

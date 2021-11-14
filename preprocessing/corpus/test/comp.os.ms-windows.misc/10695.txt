@@ -1,0 +1,8 @@
+i would like prevent window user use ctl-alt-del within window . 
+i know must way . 
+could anyon point right direct ? 
+thank advanc mike glynn are sure want ? 
+if win app lock reason ctrl-alt-del may way kill app get back window . 
+grant n't work often come handi occas . 
+i consid pretti care i disabl keystrok . 
+just thought . 

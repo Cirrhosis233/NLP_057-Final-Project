@@ -1,0 +1,23 @@
+yes . 
+i 'm sure xpost comp.speech made i ve found low sampl rate 3300 samplessec 8 bit per sampl plus pd shorten ' lossless sound compress code actual get speech 14.4k simdgen left . 
+this definit worth work folk . 
+and shorten work well real-tim . 
+i n't think work context cryptographi . 
+that 's sure pose sort problem sort peopl . 
+what 's need someon develop portabl telephon qualiti speech-rs232 convert . 
+imagin littl box take data serial port put sound take sound code signal serial port . 
+full duplex . 
+now devic cryptograph devic . 
+it 's portabl poor man 's sound blaster whatev want call . 
+it 's got load perfect legitim applic speech synthesi nifti librari sampl b speech record electron messag c build voicemail system internet talk radio e internet relay chat of cours electron messag item b might encrypt possibl realtim 's user 's decis . 
+one would need 2 talki box pair modem kind cutout switch code say 486 laptop . 
+i 'd realli like see thing develop interact internet talk radio could done . 
+ideal though general purpos devic . 
+it general purpos enough devic nobodi abl balk widespread use . 
+obvious make easi homebrew use pretti common hardwar . 
+it 's interest note i 'd alreadi talk coupl folk build thing whole clipper thing start . 
+i even went far track coupl folk abl make sampl unit given incent time . 
+i 'd envis find coupl folk interest project help fund develop public domain board layout part set could publish form cad draw coupl major cad packag postscript . 
+anyon interest ? 
+i ll start provision mail list . 
+let know want . 

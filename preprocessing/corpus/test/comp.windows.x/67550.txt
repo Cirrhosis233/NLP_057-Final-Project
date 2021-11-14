@@ -1,0 +1,5 @@
+i 'm tri compil xftp use xw widget set i 'm problem . 
+we re use motif x11r5 seem version xw stuff port r3 . 
+are patch port r5 newer port altogeth ? ? 
+or perhap newer port xftp use r5 ? ? 
+thank advanc . 

@@ -1,0 +1,11 @@
+hi ! 
+i recent switch 3.5 drive a . 
+the problem i read write new a b correct i ca n't boot floppi a . 
+i ve check cmos set set floppi seek boot boot order ac . 
+onc i floppi system file a . 
+i got messag tell put disk system disk drive . 
+it n't work . 
+when i system disk a drive happen 1 power-on memori test 2 a light come 3 b light come follow short beep 4 hd light come instant 5 b light come noth happen the light goe disk activ kind screen blank . 
+i ca n't even use ctrl-alt-del . 
+ani suggest . 
+thank advanc . 

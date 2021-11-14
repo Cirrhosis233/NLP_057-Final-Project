@@ -1,0 +1,10 @@
+radios sourc want ! ! ! 
+when i read comp.graph group i never found someth radios . 
+is anybodi interest ? 
+i would glad hear somebodi . 
+i look source-cod radiosity-method . 
+i alreadi read common literatur e . 
+g.foley ... 
+i think littl exampl could help understand radios work . 
+common languag c c pascal prefer . 
+i hope help ! 

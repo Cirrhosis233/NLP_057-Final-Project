@@ -1,0 +1,3 @@
+i need spec various eprom data format intel hex motorola s jedec etc . 
+can anyon provid info pointer ? 
+the one i want intel hex . 

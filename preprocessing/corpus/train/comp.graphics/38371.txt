@@ -1,0 +1,17 @@
+can pleas offer recommend ? 
+it 's realli hard . 
+there book explain everyth basic 3d function translat rotat shade hidden line remov pretti easi . 
+i wrote program week witht help book would happi give sourc . 
+i think want avoid reinvent wheel . 
+i would suggest take code submit comp.sys.mac.binari distribut includ ftp site . 
+mani folk includ would enjoy extra code . 
+also quickdraw lot 3d function built think pascal access i would expect think c could well . 
+if find use quickdraw graphic librari would excel choic sinc lot stuff built mac fast . 
+just clarifi 3d routin mention various place mac libray rom mac . 
+a year ago i knew anyth implement graphic i came across demo appl grafsys3d librari actual lot . 
+howev quit limit sens 's low-level 3d librari code still plot individu point draw line etc ad nauseum . 
+it noth gl exampl handl object . 
+other thing consid talk appl 's old 3d grafsi librari unsupport never plan exist futur undocu unless call header file document ... 
+if one know someth graphic could probabl figur i 'd assum 's better softwar avail give better output time programmat nicer i.e . 
+easier program . 
+just 2 tax 

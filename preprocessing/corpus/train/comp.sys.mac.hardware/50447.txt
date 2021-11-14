@@ -1,0 +1,14 @@
+well result mathematica test i post newsgroup . 
+the test follow command plot3d-2900023.1416x-50002y-80002 810000001.5-3900023.1416x-100002 y-10002810000001.54200023.1416 x-70002y-10000240000001.5 x-550019500y-550019500plotpoints-50 i curious fast plot command would execut various macintosh machin well person comput workstat . 
+the result post machin system math ver . 
+trial time min pb 170 7.0.0 2.1 2 208 tuneup8mb ram5mb mathematica dec 5000 ultrix v4.2a 2.1 1 025 dec risc 25mhz5mb ram 3mb math . 
+w 68882 c650 7.18mb ram 2 032 4mb math . 
+sparc sunos4.1.3 014 station 40mb ram sgi iris4d r3000 risc 001 processor version sparc sunos4.1.2 2.1 026 station2 iisi 7.1 315 next nextstep 2.1 1.2 238 cube 68030 base w coprocessor next nextstep 3.0 1.2 5ave 052 cube 6804025mhz 20 mb ram iisi 17mb8mb 2.102 enha 315 math . 
+w 68882 next 16mb ram 1 037 25 mhz 040 workspac manag 2.1 funni iisi run 25 mhz slower equival machin lot slower fact . 
+perhap version mathematica make differ fact much ram alloc . 
+anoth interest thing fast sgi . 
+wow . 
+basic though i would n't draw conclus data . 
+it seem mathematica 's speed depend lot variabl . 
+i curious differ machin would measur . 
+well question i forgot someth drop chad 

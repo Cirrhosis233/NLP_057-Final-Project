@@ -1,0 +1,4 @@
+we tri compil old x11r4motif program x115 newer version motif . 
+but newer succeed . 
+ani idea ? 
+cc -o xtrack.new main.o libxtrack.a .. xutilslibxutils.a .. pmshortlibpmshort.a .. matrixlibmatrix.a ottelibotte.a verblibverb.a toolsnewmotifliblibmrm.a toolsnewmotifliblibxm.a -ltoolsx11r5lib -lxaw -lxmu -lxt -lx11 -ll -lm -lxext cxm.a -lxaw -lxmu -lxt -lx11 -ll -lm -lxext -lusrccsun4 -lc ld toolsx11r5liblibxaw.sa.5.0sharedlib.o vendorshellwidgetclass multipli defin error code 2 make fatal error command fail target xtrack ' thank fvd . 

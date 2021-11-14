@@ -1,0 +1,8 @@
+i watch iisi speedup report plan upgrad next week . 
+the plan i build small board differ crystal abl switch differ speed use front pannel switch . 
+this way i get speed i want i also run slower stock speed i experi compat problem applic . 
+i n't expect abl switch clock speed system run i switch without lock-up problem i could switch 33mhz need put back idl 20 mhz neede . 
+this would reduc wear-and-tear cpu even heat sink . 
+of cours i would want run differ clock signal switch use chip two board select frequenc desir rout direct mother board . 
+i n't start probe around insid si yet . 
+doe anyon know voltag level power crystal oscil ? 

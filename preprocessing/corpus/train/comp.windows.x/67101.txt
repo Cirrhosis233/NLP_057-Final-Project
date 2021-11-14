@@ -1,0 +1,7 @@
+some one ask recent use xquerybestcursor see could creat given size seem impli could server creat cursor size . 
+investig show x server happili return size size root window other return fix limit reason size . 
+the interest thing server binari act differ differ hardwar sun4 cg2 claim cursor root window size ok sun4 cg6 stop 32x32 . 
+so far i ve also seen behavior ncd phase-x x termin told also occur hps . 
+actual ncd even liber size much larger root winodw glad return ok . 
+is xquerybestcursor semi-broken behavior correct ? 
+i 'd realli like see 2000x2000 cursor ! 

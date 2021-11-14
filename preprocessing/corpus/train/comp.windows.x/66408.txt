@@ -1,0 +1,314 @@
+we receiv number request repost intern obfusc c code contest rule guidelin . 
+also peopl request rule post wider set group . 
+sorri cross post . 
+some technic clarif made rule guidelin see diff mark right hand edg . 
+the rule guidelin year remain peopl alreadi process submit entri 1993 ioccc need worri chang . 
+! binsh this shell archiv shar 3.32 sourc directori tmp exist file will overwritten this shar contain length mode name 8971 -rrr rule 25592 -rrr guidelin 34482 -rrr mkentry.c 6418 -rrr obfuscate.info rule echo x extract rule text sed sx ' shareof ' rule x10th intern obfusc c code contest rule x xcopyright c landon curt noll larri bassel 1993 . 
+xall right reserv . 
+permiss person educ non-profit use xgrant provid copyright notic includ entireti xand remain unalt . 
+all use must receiv prior permiss write xfrom landon curt noll larri bassel . 
+x x obfusc tr.v . 
+-cate -cate -cate . 
+1 . 
+. 
+to render obscur . 
+x b . 
+to darken . 
+2 . 
+to confus emot obfusc x judgment . 
+llat . 
+obfuscar darken obintens x lat . 
+fuscar darken fuscus dark . 
+-obfusc n . 
+x obfuscatori adj . 
+x x xgoal of the contest x x to write obscureobfusc c program rule . 
+x to show import program style iron way . 
+x to stress c compil unusu code . 
+x to illustr subtleti c languag . 
+x to provid safe forum poor c code . 
+x x xnote chang 1993 draft note chang bar . 
+x x xrule x x to help us volum entri ask follow rule x x 1 your entri must complet program . 
+x x 2 your entri must 3217 byte length . 
+the number charact x exclud whitespac tab space newlin exclud x follow either whitespac end file must 1536 . 
+x x 3 your entri must submit follow format x x-entry- xrule 1993 xfix n n new entri replac older entri xtitl titl entri see comment xentri entri number 0 
+7 inclus 1st entri 0 
+xdate datetim submiss utc see comment xhost machin oss entri test x use tab indent line need x-remark- x place remark entri section . 
+it would help x indent remark 4 space though x requir . 
+also possibl tri avoid go beyond 79th x column . 
+blank line permit . 
+x-author- xname name xorg schoolcompanyorgan xaddr postal address x use tab indent line continu x n't forget includ countri xemail email address well known site regist domain . 
+x if give sever form list separ tab indent line . 
+xanon n remain anonym n ok publish info x-info- xif program need info file place uuencod copi xthis section . 
+in case multipl info file use multipl info xsection . 
+if entri need info file skip section . 
+x-build- xplace uuencod copi command use compilebuild program xin section . 
+it must uudecod file name build ' . 
+the result xfile must 255 byte less . 
+x-program- xplace uuencod copi program section . 
+it must uudecod xinto file name prog.c ' . 
+the result file must follow rule 2 . 
+x-end- x x regard format x x the titl must match express a-za-z0-9a-za-z0-9- x must 1 12 charact length . 
+x x it suggest requir titl x incorpor usernam case multipl author x consid use part usernam author . 
+x x the date -entry- section given respect x utc . 
+the format date return asctim x use c local . 
+see guidelin info x x you may correctrevis previous submit entri send x contest email address . 
+be sure set fix ' x -entry- section 'n ' . 
+the correct entri must use x titl entri number submitt correct . 
+be x sure note resubmitt -remark- well . 
+x x with except header text outsid x format may ignor judg . 
+if need tell judg x someth put -remark- section send separ x email messag judg . 
+x x inform -author- section publish unless x ' ' given respect author 's anon ' line . 
+x x to credit multipl author includ -author- section x author . 
+each start -author- line x found -entry- -build- section . 
+x x the entri 's remark includ x program x run program sampl arg input x special compil execut instruct x special filenam requir see rule 4 5 x inform -data- file x think program obfusc x note entri re-submiss previous entri . 
+x remark humor otherwis x x do rot13 entri 's remark . 
+you may suggest certain x portion remark rot13 entri win award . 
+x x info file use supplement entri . 
+they x requir exist . 
+x x if entri need info file skip -info- x section . 
+if entri need multipl info file use multipl x -info- section one per info file . 
+you describ x info file -remark- section . 
+x x 4 if entri select winner modifi follow x x build ' incorpor makefil build ' remov x prog.c ' renam entri 's titl follow option x digit follow .c ' x entri compil file name entri 's x titl possibl follow digit x x if entri requir build file exist state x entri 's remark section . 
+the makefil arrang execut x build shell script contain build ' inform . 
+the name x build shell script entri 's titl possibl follow x digit follow .sh ' . 
+x x if need entri 's remark indic entri must x chang order deal new filenam . 
+x x 5 the build file sourc result execut x treat read-on file . 
+if entri need modifi file x make modifi copi appropri file . 
+if x occur state entri 's remark . 
+x x 6 entri compil ansi c compil reject . 
+x use common c kr extens permit long x caus compil error ansi c compil . 
+x x 7 the program must origin work . 
+all program must x public domain . 
+all copyright program reject . 
+x x 8 entri must receiv prior 07-may-93 000 utc . 
+utc x essenti equival greenwich mean time email entri x x ... ! applepyramidsunuunet ! hoptoad ! obfusc x x we request messag use subject ioccc entri ' . 
+x x if possibl request hold email entri x 1-mar-93 000 utc . 
+earli entri accept howev . 
+x we attempt email confirm first author x entri receiv 1-mar-93 000 utc . 
+x x 9 each person may submit 8 entri per contest year . 
+each entri x must sent separ email letter . 
+x x 10 entri requir human interact built allow . 
+x compil entri produc file file may execut . 
+x x 11 program requir special privileg setuid setgid super-us x special owner group allow . 
+x x xfor more inform x x the judg done landon noll larri bassel . 
+pleas send x question comment contest x x ... ! applepyramidsunuunet ! hoptoad ! judg address x x the rule guidelin may often chang year x year . 
+you sure current rule guidelin x prior submit entri . 
+to obtain send email address x use subject send rule ' . 
+x x one may obtain winner previous contest 1984 date via ftp x x host ftp.uu.net 192.48.96.9 x user anonym x dir pubioccc x x as last resort previous winner may obtain send email x address . 
+pleas use subject send year winner ' x year singl 4 digit year year rang all ' . 
+x x shareof chmod 0444 rule echo restor rule fail set wc -c ruleswcc1 test wcc 8971 echo origin size 8971 current size wcc fi guidelin echo x extract guidelin text sed sx ' shareof ' guidelin x10th intern obfusc c code contest guidelin hint comment x xcopyright c landon curt noll larri bassel 1993 . 
+xall right reserv . 
+permiss person educ non-profit use xgrant provid copyright notic includ entireti xand remain unalt . 
+all use must receiv prior permiss write xfrom landon curt noll larri bassel . 
+x xabout this file x x this file intend help peopl wish submit entri x intern obfusc c code contest ioccc short . 
+x x this ioccc rule though contain comment x . 
+the guidelin view hint suggest . 
+x entri violat guidelin remain within rule x allow . 
+even safer remain within guidelin . 
+x x you read current ioccc rule prior submit entri . 
+x the rule typic sent guidelin . 
+x x chang 1993 draft note chang bar . 
+x x xwhat is new in 1993 x x the entri format better us anyway . 
+the program mkentry.c x updat . 
+see entri format . 
+x x we reject entri compil use ansi c x compil . 
+certain old obfusc hack caus ansi c compil x fit longer permit . 
+some new issu deal x non-integr array type variabl number argument c preprocessor x direct exit function . 
+see our like and dislik . 
+x x xhint and suggest x x you encourag examin winner previous contest . 
+see x for more inform detail get previous winner . 
+x x keep mind rule chang year year win entri x may valid entri year . 
+what uniqu novel one year x might old ' next year . 
+x x an entri usual examin number way . 
+we typic appli x number test entri x x look origin sourc x convert ansi tri-graph ascii x c pre-process sourc ignor includ ' line x c pre-process sourc ignor defin ' includ ' line x run c beautifi x examin algorithm x lint x compil x execut x x you consid entri look test . 
+x you ask entri remain obscur x clean ' c pre-processor c beautifi . 
+x x your entri need well test . 
+in certain x case test import . 
+entri compet x strangestmost creativ sourc layout ' need well x other term algorithm . 
+on hand given x two entri inclin pick entri x someth interest run . 
+x x we tri avoid limit creativ rule . 
+as leav x contest open creativ rule interpret . 
+as real life x program interpret requir document custom request x import . 
+for reason often award worst abus x rule ' entri illustr point iron way . 
+x x if plan abus rule suggest let us know x remark section . 
+pleas note invit abus x invit break . 
+we strict come x 3217 byte size limit . 
+also abus entri format tend x annoy amus . 
+x x we realiz hole rule invit entri x attempt exploit . 
+we award worst abus rule ' x plug hole next year . 
+even attempt use x smallest plug need smaller . 
+x x check program sure work . 
+we sometim make x effort debug entri slight problem particular x near final round . 
+on hand seen x best entri fall n't work . 
+x x we tend look prime number printer claim x 16 prime number . 
+if bug better x document . 
+note entri sometim print 4th power x prime mistak would save entri . 
+and sometim x strang bugfeatur even help entri ! 
+of cours correct x work entri best . 
+x x xour like and dislik x x do mass defin obscur sourc becom old ' . 
+we x tend see thru ' mass defin due pre-processor test x appli . 
+simpli abus defin -dfoobar wo n't go far x program well round confus . 
+x x mani ansi c compil dislik follow code x x defin defin x foo n't expect turn defin foo x x int x j n't use implicit type declar x int k x x we suggest compil entri ansi c compil . 
+if x must use non-ansi c kr c must avoid area result x compilelink error ansi c compil . 
+x x unfortun ansi c compil requir array index x integr type . 
+thus follow classic obfusc hack x use 1993 . 
+this rule may relax futur contest . 
+x x int x char c x ic use ci instead x i3str use stringi3 instead x x if entri use function variabl number x argument care . 
+system implement valist wide varieti x way . 
+becaus number oper use valist x portabl must use x x assign non-valist variabl tofrom valist variabl x cast non-valist variabl intofrom valist variabl x pass valist variabl function expect non-valist arg x pass non-valist variabl function expect valist arg x perform arithmet valist variabl x use valist structur union x x in particular treat valist variabl char 's . 
+x x avoid use varargs.h use stdarg.h instead . 
+x x if use c preprocessor direct defin ifdef ... 
+x lead `` must first charact line . 
+while x c preprocessor allow whitespac lead `` mani . 
+x x becaus exit function return void system entri x must assum return int . 
+x x small program best short obscur concis . 
+x while program complex winner x serv use purpos . 
+they often program peopl x attempt complet understand . 
+for reason look x program compact instruct . 
+x x one line program short one line program say around 80 x byte long . 
+get close 160 byte bit long opinion . 
+x x we tend dislik program x x hardwar specif x os unx version specif x indexstrchr differ ok socketstream specif x code like x dump core compil warn x ok warn us remark ' header item x wo n't compil bsd sys v unx x abus build file get around size limit x obfusc excess use ansi tri-graph x longer need x similar previous winner x ident previous loser x x unless cramp space unless enter x best one liner ' categori suggest format program x creativ way simpli form excess long line . 
+x x the build file use tri get around size x limit . 
+it one thing make use sever -d 's help x quit anoth use 200 byte -d 's order x tri squeez sourc size limit . 
+you feel x free make use build file space better x show amount restraint . 
+x x we allow whitespac certain case impact x program size certain point want get x away sourc simpli compact blob charact . 
+x x given two version program one compact blob x code format like typic c x program tend favor second version . 
+of cours third x version program format interest x andor obfusc way would definit win first two ! 
+x x we suggest avoid tri smallest self-repl ' x program . 
+we amaz mani differ size claim x smallest . 
+there noth wrong self-repl x program . 
+in fact number winner self-repl . 
+x you might want avoid claim smallest ' lest other x know smaller one ! 
+x x x client entri portabl possibl . 
+entri x adapt wide collect environ favor . 
+do n't x depend particular type display . 
+for exampl n't depend x color given size . 
+do n't requir back store . 
+x x x client entri avoid use x relat librari x softwar wide spread use . 
+we ask x client x entri restrict low level xlib x athena widget set libx11.a libxaw.a libxmu.a libxt.a . 
+x do n't use mtif xvew openlok toolkit sinc everyon x . 
+avoid depend particular window manag . 
+not x everyon x11r5 peopl stuck back x11r4 x earlier tri target x11r5 without requir x11r5 . 
+better x yet tri make entri run version 11 x window system . 
+x x x client entri depend particular item x .xdefault . 
+if must sure note requir line x -remark- section . 
+x x we like program x x concis small need x someth least quasi-interest x pass lint without complaint requir nice x portabl x uniqu novel obfusc style x make use of a number of differ type of obfusc x make us laugh andor throw x x some type program ca n't excel area . 
+of cours x program n't excel area well sever x area realli help . 
+x x we freeli admit interest creativ humor comment x -remark- section help chanc win . 
+if x read mani twist entri would enjoy good laugh two . 
+x we think reader contest winner well . 
+x x be creativ ! 
+x x xentri format x x in order help us process mani entri must request x assist format entri certain way . 
+this format x addit allow us quick separ inform x author program . 
+see judg process x x we provid program mkentri exampl x format entri . 
+you awar follow warn x found mkentry.c x x this program attempt implement ioccc rule . 
+everi x attempt made make sure program produc x entri conform contest rule . 
+in case x program differ contest rule x contest rule use . 
+be sure check x contest rule submit entri . 
+x x you requir use mkentri . 
+it conveni howev x attempt uuencod need file attempt check x entri size rule . 
+x x if suggest comment fix complaint x mkentry.c program pleas send email judg . 
+see x x the follow sampl entri x x-entry- xrule 1993 xfix n xtitl chonglab xentri 0 
+xdate mon mar 1 084520 1993 xhost unx v6 pdp1145 x 2.9bsd pdp1170 x-remark- x this non-obfusc obfusc c program . 
+x x it like win prize . 
+but expect x short exampl ! 
+x-author- xname landon curt noll xorg ioccc judg group xaddr toad hall x po box 170608 x san francisco california x 94117-0608 x usa xanon n x-author- xname larri bassel xorg ioccc judg group xaddr toad hall x po box 170608 x san francisco california x 94117-0608 x usa xemail hoptoad ! sun ! lab xanon n x-info- xbegin 444 info.fil xmeob ! ob ! nvxm'o9fet'5s92 ! ipigfn5d ' ! rw9i95d'1h x xend x-build- xbegin 444 build x xend x-program- xbegin 444 prog.c x xend x-end- x x typic build file assum sourc prog.c x compil prog . 
+if entri win renam x sourc binari avoid filenam collis . 
+by tradit x use name entri 's titl follow option x digit case name conflict . 
+x x if entri somehow least like win ' award x would use chonglab.c chonglab . 
+x x if entri depend requir build sourc x andor binari file particular name pleas say x -remark- section . 
+if case appli would help x one follow x x tell us chang filenam entri . 
+x x have build file make copi file . 
+for exampl x x cc prog.c -o specialnam need special binari x x rm -f specialsrc.c need special sourc x cp prog.c specialsrc.c x cc specialsrc.c -o specialnam x x rm -f specialbuild need special build x tail 4 build specialbuild x sh specialbuild x x assum use entri titl . 
+send us version x buildprogram file use name convent . 
+you x uuencod file -data- section . 
+x x if entri need modifi sourc info binari file x pleas say -remark- section . 
+you tri avoid x touch origin build sourc binari file . 
+you x arrang make copi file intend modifi . 
+this x allow peopl re-gener entri scratch . 
+x x rememb entri may built without build file . 
+we x typic incorpor build line makefil . 
+if x build file must exist say -remark- section . 
+x x if entri need special info file uuencod x -info- section . 
+in case multipl info file x use multipl -info- section . 
+if info file need x skip -info- section . 
+x x info file intend input detail inform x fit well -remark- section . 
+for exampl x entri implement compil might want provid sampl x program user compil . 
+an entri might want includ x lengthi design document might appropri x hint ' file . 
+x x info file use supplement entri . 
+for x exampl info file may provid sampl input detail x inform entri . 
+becaus supplement x entri requir exist . 
+x x in case info file might renam avoid name x conflict . 
+if info file renam reason x say -remark- section . 
+x x info file must uudecod current directori . 
+if x absolut must renam move sub-directori say x -remark- section . 
+x x when submit multipl entri sure entri x uniqu entri number 0 
+7 . 
+your first entri x entri number 0 . 
+x x with except header text outsid entri x format may ignor . 
+that n't place text outsid x entri expect judg see . 
+our decod tool n't x ai prog ! 
+if need tell someth put x -remark- section send email judg x x ... ! applepyramidsunuunet ! hoptoad ! judg address x x the date given respect utc . 
+some system refer x gmt gmt0 the format date x return asctim c local . 
+an exampl string x x thr apr 01 004700 1993 x x this format similar output date1 command . 
+the x string includ timezon name year . 
+on mani x system one follow command produc similar string x x date -u h t 19i x date -u sed -e 's ... 
+190-90-91 ' x sh -c tzutc date sed -e ... 
+190-90-91 ' x sh -c tzgmt date sed -e ... 
+190-90-91 ' x sh -c tzgmt0 date sed -e ... 
+190-90-91 ' x x you allow updatefixrevis entri . 
+to set x fix ' line -entry- section ' ' instead 'n ' . 
+x be sure resubmitt use titl entri number x well use determin entri x replac . 
+x x xjudg process x x entri judg larri bassel landon curt noll . 
+x x entri unpack individu directori . 
+the email messag x unpack individu file contain x x -entry- section x -author- section x -info- section x -build- section x -program- section x text includ email messag header x x prior judg ani text ' file scan sure x contain use inform case entri x malform unpack correct . 
+inform x -author- section read judg process x complet entri award . 
+x x the process help keep us bias foragainst one particular x individu . 
+we usual kept dark much x final award given . 
+we like surpris find x end . 
+x x we attempt keep entri anonym unless win award . 
+x becaus main prize ' win announc make x attempt send non-winn oblivion . 
+we remov non-win x file shred relat paper . 
+by tradit even x reveal number entri receiv . 
+curious x indic volum paper consum present ioccc x winner talk x x after usenix announc attempt send email x author win entri . 
+one reason give x author chanc comment way present x entri . 
+they given chanc correct mistak typo . 
+we x often accept suggestionscom remark well . 
+x this done prior post winner wide world . 
+x x judg consist number elimin round . 
+dure round x collect entri divid two rough equal pile x pile advanc next round pile x . 
+we also re-examin entri elimin x previous round . 
+thus entri get least two read . 
+x x a read consist number action x x read -entry- section x read uudecod -build- section x read uudecod -program- section x read uudecod -info- section x pass sourc thru c pre-processor x ship includ file x perform number c beautifycleanup edit sourc x pass beautifi sourc thru c pre-processor x ship includ file x x in later round action perform x x lint sourc x compilingbuild sourc x run program x perform misc test sourc binari x x until reduc stack entri 25 entri entri x judg individu basi . 
+an entri set asid x opinion meet standard establish round . 
+x when number entri thin 25 entri begin form x award categori . 
+entri begin compet award . 
+x an entri often compet sever categori . 
+x x the actual award categori list vari depend type entri x receiv . 
+a typic categori list might x x best small one line program x best small program x strangestmost creativ sourc layout x use obfusc program x best game obfusc x creativ obfusc program x decept c code x best x client see our like and dislik x best abus ansi c x worst abus rule x anyth els strang deserv award x x we limit list . 
+for exampl entri x goodbad declar winner start final round . 
+x we invent award categori necessari . 
+x x in final round process perform difficult task x reduc remain entri typic 25 8 10 x winner . 
+often confid entri make x final round definit better one x make . 
+the select winner final round x less clear cut . 
+x x sometim final round entri good enough win beat x similar slight better entri . 
+for reason x sometim worthwhil re-ent improv version entri x fail win previous year . 
+this assum cours x entri worth improv first place ! 
+x x more often select small entri usual one line x strangecr layout entri entri abus contest x rule way . 
+x x in end tradit pick one entri best ' . 
+sometim x entri simpli far exceed entri . 
+more often x best ' pick well number categori . 
+x x xannounc of winner x x the first announc occur summer usenix confer . 
+by tradit x done latter part uunetioccc bof prior x berkeley bsd bsdi bof . 
+x x win entri post late june follow group x x comp.lang.c comp.unix.wizard alt.sourc x x in addit pointer post post follow x x comp.sources.d alt.sources.d misc.misc x comp.sources.misc comp.windows.x x x win entri deposit uunet archiv . 
+see x detail . 
+x x often win entri publish select magazin . 
+winner x appear book the new hacker dictionari t-shirt . 
+x x last least winner receiv intern fame flame ! 
+x x xfor more inform x x you may contact judg send email follow address x x ... ! applepyramidsunuunet ! hoptoad ! judg address x x question comment contest welcom . 
+x x the rule guidelin may often chang year x year . 
+you sure current rule guidelin x prior submit entri . 
+to obtain send email address x use subject send rule ' . 
+x x one may obtain winner previous contest 1984 date via ftp x x host ftp.uu.net 192.48.96.9 x user anonym x dir pubioccc x x as last resort previous winner may obtain send email x address . 
+pleas use subject send year winner ' x year singl 4 digit year year rang all ' . 
+x x shareof chmod 0444 guidelin echo restor guidelin fail set wc -c guidelineswcc1 test wcc 25592 echo origin size 25592 current size wcc fi echo end part 1 continu part 2 exit 0 

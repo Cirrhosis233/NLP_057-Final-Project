@@ -1,0 +1,152 @@
+sorri delay respond due confer paper deadlin panic . 
+alarm amount agreement delet i made statement ockum razor experi physic . 
+thank info baysian statist interest i n't know . 
+i follow proof i one question . 
+we two hypothes h hg latter complic definit mean ph phg . 
+that complic n't fact ph phg come 's way around . 
+it 's ph phg phg ' g ' complement g axiom panyth 0 phg ' 0 ph phg . 
+in sens hg necessarili complic h h g i may split hair i 'm tri say irrespect subject impress complic someth ph phg hold equal phg ' 0 . 
+as point 's simpl matter show px h px hg ph x phg x thus h preferd hg . 
+now say h consist data hg say px h px hg . 
+can elabor . 
+well px a px b mean x like observ a oper b oper . 
+this impli observ x provid use inform might allow us discrimin respect possibl a b oper differ reduc differ unknown unhelp prior probabl pa pb px a px b pa x k pa pb x k pb k px a px px b px . 
+so a b equal consist data observ x n't give pointer a b oper . 
+in particular case a h b hg howev know prior probabl order ph phg although n't know actual valu 's allow us deploy razor throw hg . 
+also real world n't clear cut dri seem . 
+we ca n't alway determin whether equal px h px hg true . 
+that 's certain true particular point whether divin compon ' actual under preval religion addit memet transmiss compon even religi implicit acknowledg oper talk spread word ' . 
+now seem i ve said observ varianc religi belief well account memet transmiss model rather less well one propos divin compon ' addit sinc i would expect latter conspir wide varianc even mutual exclus among belief . 
+thus person feel px hg n't even equal px h case smaller h memet transmiss g divin compon ' x varianc among belief . 
+but i happili acknowledg subject impress . 
+btw beef baysian argument mathemat one i check work n't find error seem care probabl n't math mistak . 
+i think mistak philosoph . 
+but make sure i understand pleas rephras non-techn term ? 
+i think reason request i alway tri look way explain physic non-physicist . 
+i 'm baysian statistician type statistician would help . 
+not i 'm statistician either the idea theism atheism compat read ' observ date . 
+howev theism type i concern also suggest instanc prayer may answer peopl may miracul heal principl amen statist verif god may general interven measur way . 
+this mean region space possibl observ i loos term appear god nonzero probabl theistic hypothesi zero atheist . 
+sinc much probabl avail hypothesi scatter around observ space probabl theism expend make appear god possibl must come somewher els i.e . 
+possibl observ . 
+all els equal mean observ n't appear god must slight higher probabl atheism theism . 
+the bayesian stuff impli observ must caus run estim probabl atheist hypothesi increas correspond decreas run estim probabl theistic hypothesi . 
+sorri 's still bit jargonesqu 's rather difficult put way sinc depend intim properti condit probabl densiti particular total area alway uniti . 
+an analog may may help . 
+say hypothesi a coin fair b coin unfair two-head . 
+i ve use a b avoid confus hhead ttail . 
+then ph a 0.5 total 1 pt a 0.5 ph b 1 total 1 pt b 0 the observ string head tail . 
+this compat fair coin a two-head coin b . 
+howev probabl expend a make possibl appear tail even though n't actual appear must come somewher els sinc total must uniti come case probabl appear head . 
+say run estim time n-1 en-1a en-1b . 
+the observ xn time n anoth head xn h . 
+the estim modifi accord ph a ena en-1a en-1a ph ph b enb en-1b en-1b 2m ph now n't know ph actual prior probabl head multipli ea half eb . 
+this true everi time coin toss head observ . 
+thus whatev initi valu estim n head n ena e0a n enb 2m e0b sinc eka ekb 1 time k show 0.5 1 thus 1 2m 2 . 
+henc estim fair-coin hypothesi a must decreas trial two-head coin hypothesi b must increas even though hypothes compat string head . 
+the loos analog unfair coin atheism fair coin theism observ consist . 
+a tail would falsifi unfair coin analog appear god would falsifi atheism . 
+i claim analog extend numer valu various probabl principl . 
+constant observ evid god evid possibl respect theism constant increas notion estim probabl n't exist it 's import draw distinct theism could support support evid theism ca n't . 
+given theism evid principl possibl n't make sens say lack evid support contrari view . 
+quit type theism i might call g hg term ockham 's razor discuss i 'd bin ground . 
+so depend upon concept god . 
+if 's concept like zeus happen come earth play quit frequent i agre lack evid concept god evid exist . 
+but concept god one make falsifi predict see falsifi predict i disagre lack evid support disbelief . 
+the hypothes n't falsifi inde model ' theism n't falsifi . 
+... 
+i use phrase should obvers . 
+given specif ' x ' theism make predict px ht 0 . 
+that 's i use word theism make predict specif event . 
+i say i believ god happen i believ god . 
+but given ' x ' i never priori say px ht 0 . 
+i even say set ' x ' ' x ' . 
+this n't like use probabl . 
+we also way assign probabl i hold scienc positivist criteria someon tell measur even principl px h probabl applic hypothesi h . 
+such case h ht theistic ha atheist . 
+for exampl px ha px hapha . 
+what pha ? ! ? 
+how i measur ? 
+you n't . 
+we n't need analog know prior probabl deduc updat multipli fair-coin hypothesi less uniti correspond multipli two-head coin hypothesi greater uniti . 
+you n't need know initi valu run estim either . 
+it 's clear larg number observ pfair-coin approach zero ptwo-headed-coin approach uniti . 
+all need know whether px ha larger px ht observ x follow assumpt certain event render possibl necessari ht possibl ha els equal . 
+baysian statist reli upon seri observ . 
+but hypothesi n't amen observ ? 
+and even statement amen observ observ relev sequenc observ must chosen care . 
+i 'm curious know type observ x1x2 ... 
+mind concern theism atheism . 
+ani observ like realli n't matter affect reason provid possibl observ would count appear god . 
+exampl might demonstr efficaci prayer verac revel . 
+but statement px h general x still count predict h . 
+if theism question ht say prayer may answer miracl may happen see interpret quot god exist ' mean predict px ht 0 x . 
+it 's distinguish atheist hypothesi ha predict stuff happen px ha 0 x . 
+theism make claim px ht 0 x . 
+or i say theism n't . 
+mayb i quick say common languag . 
+you said exist god mean notion deiti describ bibl christian interact univers claim agent . 
+i agre . 
+howev i must care . 
+i believ i 'm make claim . 
+mayb i chang import shift emphasi . 
+but way sinc i belief i conclud px ht 0 x . 
+ok ll downgrad interact may interact would actual better sinc interact impli falsifi agre misplac . 
+i n't think theism make predict . 
+mayb i 'm understand mean predict could explain mean word ? 
+i ll explain bear mind n't central i requir theism make predict appear god never happen atheism . 
+befor somebodi point quantum mechan n't make predict either differ qm atheism form partit . 
+predict includ statement prayer efficaci impli if stat find prayer efficaci prayer efficaci verili i say unto this generat shall pass till thing fulfil i n't think problem misunderstand . 
+persist observ stuff happen consist ht though may consist ha explain bayesian stat post . 
+even ht god exist unfalsifi 's problem argument let number observ go infin falsifi asymptot . 
+btw i consid argument requir infinit number observ valid rather part argument valid . 
+we exist human never make infinit number measur conclus reili i n't accept valid . 
+that 's fine i n't claim theism fals mere finit number observ avail far suggest i continu observ suggest look better better . 
+renorm stuff delet in bayesian stat post i assum theism inde unfalsifi finit number observ . 
+here 's relev quot the import assumpt observ compat theist hypothesi atheist hypothesi thus would falsifi atheism i call appear god ' need taken liter . 
+ani observ requir explan one god exist count . 
+all observ assum compat hypothes . 
+this leav theism unfalsifi atheism falsifi singl observ appear god ' . 
+here problem . 
+for someth falsifi must make predict ' x ' seen . 
+if ' x ' seen hypothesi falsifi . 
+now atheism word oposit someth theism . 
+a theism asert belief atheism asert disbelief . 
+so certain atheism certain falsifi certain theism falsif e.g . 
+theism assert world 6000 year old god deciev falsifi . 
+howev atheism oposit unfalsifi theism also unfalsifi . 
+i could wrong statment ... contd i think appear god suffici falsifi atheism wherea general correspond theism unfalsifi . 
+i ll think . 
+until general question . 
+supps x unfalsifi . 
+is notx also unfalsifi ? 
+no way counterexampl let x coin fair accur notx make sens two side coin differ . 
+this unfalsifi toss coin even string head consist fair coin go infinit number toss falsifi x limit . 
+it convers falsifi falsifi least one head least one tail appear . 
+this part 's wrong baysian argument requir observ x1 ... 
+xn made . 
+there simpli observ truth valu relat statement god exist . 
+now use symmetri argument i understand someon would say sinc statement god exist ' make predict i choos believ but none less would found type faith n't like word faith insert belief falsifi evid instead . 
+i ll assum meant god exist ' highlight . 
+but agre definit exist statement make predict i said although n't falsifi finit number observ . 
+actual i mean god exist ' make predict . 
+oop . 
+sorri . 
+mea culpa . 
+the truth statment actual depend upon god refer . 
+but i think concept god true . 
+but i 'm open posibl i could wrong . 
+so give exampl predict statment god exist . 
+here one i think . 
+if true would heal miricl . 
+but principl never determin one way . 
+there case peopl seem recov heal without help doctor known reason . 
+these situat fact happen . 
+they consist theistic hypothesi in no way support hypothesi . 
+we agre . 
+they inconsist atheist hypothesi . 
+i ca n't think one predict god exist ' n't type . 
+but i might miss someth . 
+the raptur happen octob 28 1992 said raptur would falsifi atheism satisfact happen although failur happen cours falsifi theism specif predict . 
+no phenomenon requir exist one god explan ever observ that sum whole thing . 
+bob singleton cheer simon 

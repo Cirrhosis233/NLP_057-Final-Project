@@ -1,0 +1,9 @@
+this may sound like simple-mind question first time i ve ever need i ve design relat simpl chip circuit base thing like photoresistor know light photoresistor emit logic high etc .. 
+anyway i ve got servo lie around i want thing use digit logic . 
+i know puls signal everyth i one problem i 'm assum i need negat yes negat logic high get thing turn direct opposit direct would turn normal logic high . 
+is negat logic high i ve seen schemat thing activ low ? 
+i 'm use bi-polar power sourc would i get negat logic high thing ? 
+i need three signal avail logic high logic low negat logic high . 
+ani help would great appreci . 
+also pleas repli via email i never seem time read group late . 
+thank much -mark 

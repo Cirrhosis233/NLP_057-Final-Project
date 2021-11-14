@@ -1,0 +1,9 @@
+i post friend whose news servic fubar usual . 
+i forward repli want tri repli direct tri return-path uunet ! sunfse.ese.lmsc.lockheed.com ! mcfar pr i event handler work buttonpressmask like xtaddeventhandl plotdata-display buttonpressmask fals showmouseposit plotdata i would like abl two type action one occur left mous right perhap one middl . 
+so event handler would look like xtaddeventhandl plotdata-display left-buttonpressmask fals showleftmouseposit plotdata xtaddeventhandl plotdata-display right-buttonpressmask fals showrightmouseposit plotdata howev i n't know make left-buttonpressmask . 
+there n't seem one event mask list i hand although button1motionmask look promis . 
+my refer also mention use two mask event . 
+can use two mask ? 
+would i want case ? 
+ani help would appreci . 
+thank 

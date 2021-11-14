@@ -1,0 +1,18 @@
+the main thing i n't get whether chip implement symmetr asymmetr cryptograph techniqu . 
+anybodi know ? 
+i n't know i 'm will specul anyon . 
+sever peopl suggest chip use public-key cryptographi . 
+anoth possibl use diffie-hellman key exchang algorithm similar effect . 
+dh allow end agre session key use symmetr cryptographi someth like des encrypt . 
+how could back door key work system ? 
+i see possibl . 
+one dh-like algorithm properti session key deduc eavesdropp know back door key one possibl communic . 
+perhap random number use dh seed back door key . 
+anoth possibl suggest earlier chip simpli broadcast session key encrypt chip 's intern secret key . 
+in system back door key secret key usabl decrypt session key broadcast . 
+actual chip 's secret key n't need public key usag ident secret back-door key . 
+this propos seem straightforward . 
+still anoth possibl encrypt algorithm use messag dual key properti possess either two key use decrypt . 
+one key would session key dh exchang would back door key chip . 
+it 's worth note one propos dorothi den rais amaz prescient on-lin discuss last novemb decemb variat diffie-hellman third parti would particip deriv session key . 
+this n't quit fit know clipper work hint earli knowledg clipper whose think somehow synchron clipper design may diffie-hellman mind . 

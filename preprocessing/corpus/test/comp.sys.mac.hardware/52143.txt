@@ -1,0 +1,11 @@
+what real stori ? 
+can i hook pc svga montitor centri intern video ? 
+do i need make cabl n't come one ? 
+has appl releas tech note pinout ? 
+the reasoj i ask seem price svga lower mac counterpart ... 
+mike discuss essenti adnausium answer yes . 
+least 600x400 configur . 
+get adaptor call mac vga -q jame engin 510 525 7350 let display 600x400 800x600 monitor capabl . 
+i think 800x600 requir 56khz horizont sync . 
+i use soni 1604 . 
+give slight wider screen 832x624 adaptor . 

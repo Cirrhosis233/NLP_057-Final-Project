@@ -1,0 +1,3 @@
+hi i heard linear mode et4000 1mb video memori linear acces instead usual 64k page . 
+doe anyon know how i enabl 
+address video memori map 

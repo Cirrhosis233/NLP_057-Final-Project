@@ -1,0 +1,14 @@
+doe anyon know problem 's possibl ad third hard drivescsi dos pc . 
+i current 386 pc futur domain scsi board 2 maxtor scsi drive instal . 
+they work great i n't problem ! 
+well i want disk space went got anoth larger scsi hard disk think i add chain50pin ribbon 3 connector run fdisk program formatiniti disk . 
+that n't happen . 
+when pc boot scsi prom shoot back devic attach boardtarget 0target1target2 . 
+all three disk seen . 
+when i run dos fdisk program format disk i choos select anoth diskopt 5dos6 voila 's . 
+the first two disk show problem third disk no-wher found .... 
+argh ! 
+idea anyon ? ? ? ? ? 
+thank advanc ! 
+i got adaptec scsi card come version fdisk . 
+the problem dos see two hard disk need done devic driver . 

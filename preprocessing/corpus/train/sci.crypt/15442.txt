@@ -1,0 +1,16 @@
+in previous post hellman bellovin etal report big brother clipper chip encrypt plaintext 64 bit block done des . 
+the user key k deriv rsa diffy-hellman etc . 
+use encrypt plaintext m use form three part messag . 
+this three part messag consist em k k encrypt key chip serial number . 
+this three part messag encrypt still anoth key . 
+my question what messag ? 
+for exampl say deal encrypt digit voic applic . 
+the speech waveform sampl digit number sampl group 64 bit block . 
+this block encrypt transmit non-secur communic link . 
+where three part messag ? 
+is someth append 64 bit block ? 
+is header sent begin session ? 
+if header sent begin session insur equip manufactur use chip ? 
+can anyon manufactur product use chip ? 
+is facil clearanc requir manufactur ? 
+ani idea ? 

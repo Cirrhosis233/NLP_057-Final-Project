@@ -1,0 +1,13 @@
+hey . 
+first sorri post dos question window group i 'm kinda hurri i ca n't scrambl find dos group ' name . 
+anyway anyon know i ccan find exit code dos command ? 
+there 3 altern 1 . 
+you tri write small c program someth like int myintvar myintvar systemcommand display myintvar valu exit code command . 
+2 . 
+or use 4dos.com instead command.com built move command also get program exist code use exec function 4dos display exit code command . 
+3 . 
+get dos 6 worth buy alreadi qemmpctoolsnorton need move util . 
+manual n't seem . 
+i 'm particular look copi order make move batch file file n't coppi proper wo n't delet . 
+thank i.a mickey ace ... ! uunet ! seas.gwu.edu ! louray make ms-window .grp file reflect hd directori ? ? 
+well i ai n't alway right i ve never wrong.gd 

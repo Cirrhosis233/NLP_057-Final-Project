@@ -1,0 +1,68 @@
+this poll conduct help user decid whether alter iisi clock oscil . 
+i attempt gather mani case histori possibl find estim success risk . 
+the number repli probabl show rare modif give impress success rate may higher previous 80 estim . 
+24 24 machin abl run 25 mhz add board present . 
+this scientif survey best work . 
+thank contribut poll . 
+issu speed 25 mhz 27.5 mhz appear norm machin without add card . 
+all report machin abl use 25 mhz long add card present . 
+sever appl nubus card use . 
+no machin nubus adapt abl go faster 25 mhz . 
+one n't even abl achiev 25 mhz nubus adapt place at speed 32 33 mhz startup sound distort hi densiti floppi disk problem report . 
+note unless specif list machin test higher speed clock failur . 
+henc 25 mhz oper machin may well work higher speed . 
+damag one user report pull plate one pad . 
+this repair machin oper . 
+one report pull pin origin clock oscil desold . 
+there one second hand report user put gash motherboard slip solder iron . 
+no report static discharg damag . 
+no report high speed oper caus damag . 
+then i also n't report user defect parachut . 
+add board compat appear problem appl nubus adapt . 
+sever add board use success . 
+see case histori heat sink virtual modifi machin heat sink instal . 
+these often to-220 style power transistor type . 
+some use epoxi . 
+some use dab heat sink compound dab cyanoacryl glue . 
+there also use clamp bolt hole motherboard . 
+case histori all speed effect cpu 
+speed 12 clock oscil . 
+all report cpu 
+version 20 mhz . 
+1 27.5 mhz oper . 
+ran 10 minut 31 mhz crash . 
+no fpu add card heatsink cpu 
+on 24 hoursday no damag instal 2 27.5 mhz oper without appl nubus adapt . 
+25 mhz top speed appl nubus card instal heatsink cpu 
+on 24 hoursday no floppi problem no damag instal 3 27.5 mhz oper . 
+unabl boot 31 mhz heatsink cpu 
+no floppi problem no damag instal 4 25 mhz oper work follow two configur realtech fpu adaptor card realtech cach card supermac 824 pdqsi b supermac fpu adaptor card supermac video spigot supermac 824 pdqsi 5 33 mhz oper fuzzi startup sound problem hi densiti disk 6 33 mhz oper fuzzi startup sound heat sink cpu 
+chip right cpu 
+7 25 mhz oper . 
+occasion crash 33 mhz 8 25 mhz oper . 
+use fpu rate 16 mhz without difficulti 9 25 mhz oper . 
+pds adapt spectrum 24pdqsi graphic card videospigot 20mhz fpu heat sink cpu 
+10 25 mhz oper . 
+33 mhz fail sever hour . 
+11 25 mhz oper 580quicksilverfpuon upgrad 12 25 mhz oper . 
+tri 33 mhz system wo n't start . 
+heat sink cpu 
+configur realtech fpuadapt card supermac 824 pdqsi realtech cach . 
+cpu 
+continu problem . 
+13 25 mhz oper heat sink cpu 
+14 25 mhz oper heat sink cpu 
+15 25 mhz oper heat sink cpu 
+16 25 mhz oper heat sink cpu 
+17 25 mhz oper heat sink cpu 
+on 17-19 hour per day 18 25 mhz oper heat sink cpu 
+cool fan no floppi problem 25 mhz 19 20 mhz oper . 
+bomb soon startup 25 mhz nubus adapt 20 mhz rate cpu 
+ram 70 ns slot 80 motherboard 20 25 mhz oper heat sink ad cpu 
+later . 
+no damag unheatsink . 
+appl nubus adapt fpu instal . 
+21 25 mhz oper heat sink cpu 
+22 25 mhz oper heat sink cpu 
+23 25 mhz oper heat sink cpu 
+24 25 mhz oper heat sink cpu 

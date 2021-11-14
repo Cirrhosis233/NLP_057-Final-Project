@@ -1,0 +1,10 @@
+about two month ago i purchas adaptec asw-410 driver use cd-rom drive . 
+at time seem thing document i adaptec scsi control said driver use cd-rom drive . 
+sinc i learn driver date major way adaptec upgrad deal go next driver i think 's call ezi-scsi someth . 
+i n't fuss i upgrad cd-rom drive soni cdu-541 soni cdu-641 . 
+i find audio-mod work . 
+i assum handl correct asw-410 driver . 
+so i chase adaptec upgrad ? 
+if anyon know fax number ? 
+ani assist appreci . 
+regard btw everyth els work fine certain seem soni caught rest 641 . 

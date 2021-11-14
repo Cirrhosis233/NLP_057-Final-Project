@@ -1,0 +1,13 @@
+could someon explain make sens drag coeffici i.e cd mention magazin . 
+i understand lower number signifi better aerodynam mean real world . 
+is way calcul new top speedsassum car rev limit top speed mileag benefit ident car cd reduc .34 .33 . 
+it 's pretti complex cd n't whole stori either . 
+cd car usual calcul base frontal area car . 
+so larg car good cd could get drag forc smaller car poorer cd . 
+to calcul drag use formula d 12 rho v2 cd s where d drag forc lbs rho local air densiti slugsft3 v veloc fts s frontal area ft2 . 
+note piec call 12 rho v2 sometim call qbar dynam pressur fanci aero term air pressur forc . 
+note power p f v where p power lbf-fts f forc drag case lbf v veloc fts . 
+note put whole equat one substitut d forc get veloc cube term . 
+that 's huge increas power result littl increas speed . 
+ditto decreas cd . 
+so 100 mph car reduc cd .34 .33 new top speed sound trumpet fanfar 101 mph sorri dissappoint . 

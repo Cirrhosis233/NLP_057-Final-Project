@@ -1,0 +1,13 @@
+i instal new truetyp font ms-window 3.1 though applic display font correct screen quit fail print document correct laserjet 4 non-postscript printer . 
+when i use font coreldraw document print correct i assum coreldraw know font download printer . 
+but i use window accessori write printer print squar box place charact new font . 
+yet write display font correct screen . 
+i look window laserjet manual got nowher . 
+all make statement truetyp font print exact see screen-so i assum window know font download automatically-but make ? ? ? ? 
+appreci help .... 
+i assum re use driver avail cica hp4-v108.zip . 
+bring setup screen printer control panel . 
+click option button bring anoth screen choic . 
+chang graphic mode hp-gl2 raster check box print truetyp graphic avail choos raster . 
+now abl print truetyp font correct . 
+good luck . 

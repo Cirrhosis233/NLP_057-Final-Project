@@ -1,0 +1,5 @@
+hello 2 month i ve unsuccess attempt get either 3rd 4th serial port work system . 
+various system diagnost e.g . 
+msd norton tell 's anyth i hook ca n't use i two serial port motherboard i set intern faxmodem com4 util program report com3 i ve check make sure irq address correct list manual set i miss someth basic ? 
+i go ? 
+help even point right direct would appreci . 

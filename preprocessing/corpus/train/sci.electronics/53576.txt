@@ -1,0 +1,9 @@
+hi ! ! ! 
+is somebodi use 56001 dsp motorola ? ? ? 
+i search programm concern audio effect . 
+i built 4 channel mixer 4adc 1dsp audio signal . 
+i built digit filter echo want includ effect like harmon equal chorus . 
+the problem 
+i dont know effect work i cant write programm . 
+so someon programm know effect work pleas contact newsgroup via e-mail . 
+also book problem 

@@ -1,0 +1,9 @@
+i look way access floppi drive io level lower bio . 
+given port assign control chipspec sheet i need info ? 
+my floppi 1.44m i would also like abl write code work 360k disk well . 
+also method access possibl actual read individu byte track stream control ? 
+i 'm afraid sector handl done pure hardwar . 
+if chanc i get basic access anyth point right direct would help lot . 
+file look archi call theref22.zip ' lot info various pc thing amongst also detail descript floppi control command i think hard drive control command . 
+possibl read entir track includ gap sector header etc . 
+set sector size someth larg like 8k . 

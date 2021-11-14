@@ -1,0 +1,21 @@
+moscow scientif inductri associ spectrum offer videoscan vision system pcatwich includ softwar set control . 
+softwar for support videoscan famili program kit develop . 
+kit includ 200 differ function imag process . 
+kit work interact regim includ help non profession user . 
+there next possibl input frame board videoscan famili read white imag disk print imag printer make arithmet 2 frame filter imag work gistogramm edit imag . 
+includ user exe modul . 
+control vs9 the function vs-9 control load tv-imag pcat . 
+vs-9 control allow one load fragment tv-frame field 724x600 pixel . 
+the clock rate 147 mhz load imag 512 pixel line 74 mhz load 256 pixel imag . 
+this provid equal pixel size input imag horizont vertic direct . 
+the number gray level input mode 256 . 
+video signal captur time 2.5s . 
+control vs52 the purpos control enter tv imag ibm pc at machin type . 
+the control creat base modern element includ user programm gate array . 
+the control allow digit input signal differ resolut . 
+it flexibl architectur make possibl chang technic paramet . 
+instead tv signal one process analog signal includ signal slow-spe scan devic . 
+the control follow technic characterist memori volum 256 k 2 mb resolut work standard video signal 64x64 1024x512 pixel resolut work slow input regim 2048x1024 pixel video signal captur time 40 ms . 
+maximum size screen memori volum 2mb 2048x1024 pixel number gray level 256 clock rate input 30 mhz 4 input video multiplex inputoutput lookup tabl lut possibl realiz scroll zoom 8 line extern synchron input use extern control signal electron adjust black white refer analog digit convert possibl output imag color rgb monitor . 
+one chang list function paramet control reprogram . 
+imag processor vs100 

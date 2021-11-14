@@ -1,0 +1,14 @@
+i run window 3.1 386 enhanc mode . 
+the sound card i ati stereo fx-cd sound card claim adlib soundblast compat . 
+use window mediaplay i play midi file came sound card . 
+howev i ca n't play midi file belong winjamm midi editor i ftp 'd cica . 
+i also ca n't play midi file i generat muzika also cica . 
+when i tri play file dialog box pop say music may play right checkbox ask wish disabl messag futur . 
+is normal i someth set wrong ? 
+i would realli like abl write music muzika comput play . 
+i also ftp 'd game dare2dream window cica music wo n't play either i get dialog box . 
+the midi mapper i ati ext midi ati opl3 midi vanilla . 
+i tri use three . 
+ani help suggest shoulder cri etc . 
+would appreci much . 
+john p . 

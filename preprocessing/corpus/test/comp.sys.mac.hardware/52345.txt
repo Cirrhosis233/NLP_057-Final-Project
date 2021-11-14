@@ -1,0 +1,9 @@
+hello i recent acceler mac plus micromac 25mhz acceler i ca n't get mac boot hard disk . 
+it boot fine floppi i mount hard disk use scsi probe i get boot hard drive . 
+i instal new driver i n't think problem . 
+this pose rather larg problem . 
+i 4 meg ram i need run mathematica requir 5 meg . 
+i hope use system 7 virtual memori i could run mathematica . 
+howev i ca n't run system 7 floppi i ca n't get enough ram . 
+ani suggest ? 
+thank time 

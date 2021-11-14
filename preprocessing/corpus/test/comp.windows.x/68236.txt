@@ -1,0 +1,7 @@
+we sun run suno 4.1.3 openwindow 3.0 x11r4 . 
+we use xvision pc setup broadcast queri unix xdm server allow user choos unix client login xdm manag display . 
+i would like thing xfree86 run linux i n't know . 
+i n't want hardwir unix xdm manag pc display pc 's alway run linux let alon xfree86 . 
+i would like setup provid xvision . 
+can anybodi help ? 
+thank 

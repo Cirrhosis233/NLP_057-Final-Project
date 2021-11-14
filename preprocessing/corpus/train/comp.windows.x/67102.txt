@@ -1,0 +1,19 @@
+doe xdm work decnet ? 
+i ultrix machin run tcpip decnet . 
+i number x-termin hang ultrix host also run tcpip decnet . 
+present i use xdm login procedur x-termin use tcpip . 
+sinc xdm basic x-window client n't i abl run xdm decnet protocol tower well ? 
+xdm x window client . 
+xdm protocol xdmcp oper ucp port 177 . 
+it provid login window x window client . 
+as use decnet protocol . 
+look sourc xdm x11r5 i seem bare bone code complet . 
+my first inclin xdm typic x client . 
+it make tcpip specif socket call . 
+in case answer would run xdm decnet . 
+is right ? 
+ani feedback appreci . 
+thank . 
+from look sourc seem run decnet ship x11r5 . 
+patrick l . 
+mahan 

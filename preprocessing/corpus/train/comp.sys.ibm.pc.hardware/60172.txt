@@ -1,0 +1,63 @@
+attent voter i problem mailbox first day vote . 
+pleas check vote acknowleg ack end cfv . 
+if nameaddress pleas send vote . 
+actual check even vote first day introduct this third final call for vote cfv creation four os2 newsgroup renam one creat comp.os.os2.programmer.port unmoder b renam comp.os.os2.programm comp.os.os2.programmer.misc unmoder c comp.os.os2.setup unmoder comp.os.os2.multimedia unmoder e comp.os.os2.bug unmoder this second attempt creat comp.os.os2.programmer.port comp.os.os2.setup renam comp.os.os2.programm comp.os.os2.programmer.misc . 
+the first attempt fail summer 1992 vote deadlin august 31 1992 . 
+the vote rule state anoth attempt creat newsgroup start six month wait period case march 1 1993 . 
+this first attempt creat comp.os.os2.multimedia comp.os.os2.bug . 
+this document contain background show need propos propos charter propos vote instruct vote ballot exampl ballot vote rule vote schedul mass acknowledg background the creation two free 32-bit compil os2 2.x gcc2 emxgcc read comp.os.os2.programm detail spur continu delug softwar port unix platform emac less awk grep sed xscheme ispel flex yacc much . 
+borland releas cc compil os2 2.x allow easier port dos window softwar . 
+much pc hardwar driver written dos later window . 
+as peopl discov os2 2.x number peopl ask question os2 's compat hardwar increas question avail driver hardwar instal procedur etc . 
+multimedia becom popular . 
+os2 2.0 support window multimedia extens use win-os2 3.0 . 
+furthermor ibm includ direct multimedia support os2 start version 2.1 addit use win-os2 3.1 . 
+ani non-trivi softwar bug os2 exempt especi sinc ibm constant ad new featur os2 . 
+so far ibm issu system patch correct servic disk e.g . 
+servic pak free free bbss ftp site free plus small media charg diskett read comp.os.os2.misc detail . 
+propos charter creat comp.os.os2.programmer.port unmoder it provid forum develop port softwar coordin effort avoid duplic effort spur addit develop . 
+the group also cover topic port platform dos window unix etc toolkit aid program portabl includ port tool mirror forth . 
+b renam comp.os.os2.programmer.misc unmoder to keep structur os2 newsgroup heirarchi orthogon comp.os.os2.programm renam comp.os.os2.programmer.misc . 
+comp.os.os2.programmer.misc still newsgroup os2 programm discuss program issu technic aspect os2 unmoder set . 
+c creat comp.os.os2.setup unmoder it devot os2 system setup topic includ avail devic driver compat inform instal procedur system requir overal perform optim . 
+creat comp.os.os2.multimedia unmoder it provid forum discuss multi-media issu . 
+e creat comp.os.os2.bug unmoder it provid forum os2 system bug report bug diagnosi work around avail system patch correct servic disk forth . 
+note discuss bug applic belong newsgroup discuss bug os2 beta belong comp.os.os2.beta how vote to cast vote fill ballot e-mail . 
+mani newsread allow e-mail sent repli post . 
+be sure send ballot edit rest post . 
+1 type vote propos if favor charter propos put yes name . 
+if oppos charter propos put name . 
+to abstain leav blank name . 
+2 type last name i.e . 
+famili name comma first name i.e . 
+person name . 
+3 cut ballot pleas delet line ballot . 
+central time april 24 1993 . 
+ballot cut herecut herecut comp.os.os2.programmer.port b comp.os.os2.programmer.misc c comp.os.os2.setup comp.os.os2.multimedia e comp.os.os2.bug f voter 's last first name cut herecut herecut exampl ballot 1 comp.os.os2.programmer.port yes b comp.os.os2.programmer.misc yes c comp.os.os2.setup comp.os.os2.multimedia e comp.os.os2.bug f voter 's last first name smith john in exampl john smith favor comp.os.os2.programmer.port creat comp.os.os2.programm renam comp.os.os2.programmer.misc . 
+he also oppos creation comp.os.os2.setup comp.os.os2.bug . 
+he view creation comp.os.os2.multimedia . 
+exampl ballot 2 comp.os.os2.programmer.port yes b comp.os.os2.programmer.misc yes c comp.os.os2.setup yes comp.os.os2.multimedia yes e comp.os.os2.bug yes f voter 's last first name doe jane in exampl jane doe favor creation renam propos . 
+vote rule one vote per person . 
+if vote recent vote count . 
+vote must mail person vote . 
+proxi vote forward post vote newsgroup etc . 
+count . 
+do ask vote go . 
+the status vote reveal poll close . 
+i acknowledg vote mass acknowledg ack . 
+i post ack twice see schedul . 
+if need help use editor use e-mail vote work general etc . 
+ask expert site . 
+also see how to creat new newsgroup '' articl post news.answ regular basi . 
+if need clarif vote procedur when vote period see schedul propos pass follow formula true 1 number yes vote exceed number no vote least 100 i.e . 
+yes no 100 yes no 100 . 
+2 number yes vote exceed least twice number no vote i.e . 
+yes 2 no yes no no . 
+in word propos pass yes no max 100 no max return highest number given . 
+schedul the vote period start march 29 first cfv post david lawrenc news.announce.newgroup moder . 
+this third cfv repeat first cfv also mass acknowledg ack name e-mail address alreadi vote re-send vote . 
+if vote yet vote ! 
+the vote period end 115959 pm central time april 24 1993 . 
+vote receiv time count . 
+the vote result talli post short date . 
+mass acknowledg here list peopl alreadi sent ballot 1201 central time april 15 1993 benningfield robert concert.net ! aurs01 ! aurw7a ! benningf provens jerom uunet.uu.net ! iac ! jerom weyrich orvill uunet.uu.net ! weyrich ! orvill wybl richard transfer.stratus.com ! schunix ! rwybl 

@@ -1,0 +1,5 @@
+i also believ 950 fix bug cpu screw float point calcul . 
+doe anyon detail ? 
+what sort fp error q900 sensit ? 
+my q900 strang problem fp intens program get lot ds15 segment loader error . 
+thinkc5.0.4 system 7.0.1 

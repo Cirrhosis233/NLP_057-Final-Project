@@ -1,0 +1,5 @@
+ahhhuuurrrrgggghhhh ! ! ! ! ! 
+spinrit say 80 sector mark bad fat initi 79 return activ use 80 new sector mark bad follow success run spinrit . 
+i think i need new esdi hdd control . 
+i know two work dtc 6280 adaptec 2322b other might work dtc 6282 ultra store 12 wd 1007v if one sell cheapli i ll buy . 
+thank -greg bishop 

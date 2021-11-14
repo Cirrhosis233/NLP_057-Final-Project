@@ -1,0 +1,16 @@
+i understood two method connect applic code widget callback action the problem i face i quit long piec applic code perform lot draw window . 
+i want connect widget . 
+no problem far . 
+i could use callback function action process event afterward . 
+but draw take i want applic code sequenc abl interrupt event . 
+then i want handl event resum process applic code point interrupt . 
+it seem n't possibl i give user impress input immedi process use workproc . 
+see xtappaddworkproc3xt . 
+you split draw routni small chunk hard part . 
+then callback start draw call xtappaddworkproc call workproc first time . 
+your workproc function return boolean ... 
+true finish fals want keep process . 
+if return fals workproc automat re-instal . 
+note method better use time-out loop sinc event get process precedence-ori manner . 
+if use ada bind i howev hose look xtappaddtimeout3xt . 
+joe hildebrand softwar engin fuentez system concept 703273-1447 

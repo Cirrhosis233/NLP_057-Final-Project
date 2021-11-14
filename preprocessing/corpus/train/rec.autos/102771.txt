@@ -1,0 +1,24 @@
+archive-nam rec-autospart6 new articl 4 februari 1993 rpw mani peopl want set mail list favorit automot topic rather fewer know . 
+this articl provid essenti inform standard unix system . 
+a shell script exampl alia file setup includ present run sparc 2 balltown.cma.com number mail list . 
+note set automot mail list pleas let know -request address i list mont rec.auto post . 
+also inform keeper usenet list-of-list check news.answ month post . 
+first get anywher need either 1 sysadmin 2 measur assist sysadmin . 
+it also import reason good network connect seem like get everyth sever day anyon els troubl get email network connect probabl good enough . 
+listserv there handi autom mail list packag name listserv avail sever ftp server network . 
+detail instal oper listserv beyond scope articl anyon consid run larg mail list probabl look listserv care . 
+the alia file on typic unix system file name usrlibalias whichev file server mail host contain line foo bar baz bletch mean email sent name foo ' host redistribut user bar baz bletch . 
+thus simplest possibl email list my-favorite-car member1 member2 member3 my-address my-favorite-car-request my-address coupl problem notic one superus edit alia file . 
+howev follow conniv sysadmin my-favorite-car includehomemydirmiscautosmy-favorite-car-list my-favorite-car-request my-address where file specifi list comma newlin separ address . 
+this file list admin 's home directori own list admin . 
+bounc mail still problem bounc mail usual get distribut member list general consid somewhat irrit . 
+therefor way drive school mail list set instruct thank harpal chohan bmw list setup way . 
+i 'm sure got . 
+school-request welti school-rebroadcast includehomenewweltymiscautosschoollist school usrlocaladmbinexplscript school owner-school school-request owner-school-out school-request 's go owner- -request address intend trap bounc mail come network . 
+-request address also serv point contact administr duti . 
+school peopl send mail instead point address point shell script rewrit header resend email . 
+school-broadcast nobodi except know name name chang protect saniti point actual list member . 
+shell script use follow ! binsh cd tmp sed -e reply-tod ' -e senderd ' -e from ' cat -f the 1 mail list 1-rebroadcast exit 0 note script know name list name pass outsid script may use multipl list run sever site . 
+script excis reply-to sender from line incom messag substitut sender reply-to add errors-to 99.9 email bounc messag end sent -request owner- address header rewrit done . 
+for digest list digestif softwar around . 
+hope i ll abl provid inform futur version post . 

@@ -1,0 +1,17 @@
+someon group post littl back get orchid v9000 card card arriv ? 
+what benchmark look like ? 
+the one i got 4kbs text 320x200 vgamcga mode almost ident w5186 base card ati 68800 6kbs . 
+this weird sinc orchid suppos much faster i told someon almost 16 kbs sinc vga chip cover orchid label i ca n't realli tell sure use 5286 chip spec . 
+sheet come board doc ! 
+say 1 meg dram use 5286 chip . 
+winmark 3.11 4 mil . 
+slower viper 34 vs 38 use standard palett . 
+btw anyon insterest i 'm tri sell diamond viper 2 meg vram friend 300 email interest i 'm broke take . 
+also ami p9000-base card real ? 
+what use vga ? 
+speed ? 
+i think 's avail limit quantit . 
+no idea vga chip use though . 
+be care oem p9000 board though orchid i got exampl readm file disk serv document conflict hell vlb 
+control card mayb 's motherboard a.i.r . 
+486 vlb 

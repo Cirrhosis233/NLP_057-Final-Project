@@ -1,0 +1,16 @@
+i still want know intrins better ide isa bus come multi-task os 's manag data singl scsi hard drive . 
+a scsi control transfer data dma allow cpu request data hard drive continu work control get data move memori . 
+ide also use dma techniqu . 
+i believ floppi control also use dma ad board also use dma . 
+dma big deal noth direct scsi . 
+for exampl rewind format tape command issu control bus releas allow access devic bus . 
+this great increas product least someth els back hard drive - . 
+which happen i read group . 
+you thank softwar . 
+if dos brain could format floppi etc . 
+someth els . 
+the hardwar support dos least wo n't . 
+again noth scsi . 
+it long stori i still use ide 486 except cdrom thank scsi i move machin . 
+if scsi better standard support ibm-clon machin i plan complet get rid ide . 
+and stick dos ll wonder ca n't multitask . 

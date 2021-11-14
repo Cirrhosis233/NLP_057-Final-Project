@@ -1,0 +1,27 @@
+a kind soul mail repli bug cview . 
+sinc n't posit post ask post leav name . 
+so come cview quit number bug . 
+the one mention perhap annoy danger . 
+as far i determin temp file cview creat . 
+cview give user control place temp file place current directori . 
+the problem mention occur far i tell run disk space temp file . 
+it seem cview n't check proper situat . 
+as cview decod jpeg seem write temp file pixel data 24 bit colour inform . 
+then 8 bit display dither write anoth file 8 bit colour inform . 
+while write second file also write data colour card . 
+then last chunk 8 bit data recopi data 8 bit file screen . 
+it last recopi oper fit screen featur even featur enabl . 
+the result process follow 1 if run disk space write first 24 bit file ever see much data room last bit data simpli repeat cview never realiz disk fill disk writesread n't perform . 
+2 if enough room 24 bit data run room 8 bit data see almost pictur dither write screen card . 
+howev finish dither recopi data 8 bit file screen whatev reason one get repetit last chunk data room disk . 
+this guess probabl fair accur . 
+at least general idea track i think although i probabl made error detail file io etc . 
+the way around cours clear suffici disk space . 
+the temp file larg jpeg 's 1200x900 bigger larg 3 meg 1 meg on largest i need excess 6 meg free disk space . 
+cview much serious bug tri display file floppi chang floppi cview temp file open floppi cview certain circumst write directori fat tabl ? 
+i ca n't rememb remov floppi onto newli insert floppi thus corruptimg new floppi serious possibl unrevcover way . 
+so be care ! 
+it incred poor program program . 
+on hand choos file open file menu cview insist disk read everi time one move hi-light squar . 
+incred annoy could get directori info . 
+and realli much effort take sort directori list ? 

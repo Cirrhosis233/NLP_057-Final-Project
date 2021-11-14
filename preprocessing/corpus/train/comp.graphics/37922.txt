@@ -1,0 +1,22 @@
+i think re propos would work get extra one mayb two extra bit color resolut . 
+howev display chould zero full intens primari i n't think 'd get great equival 24-bit photograph . 
+i suggest i wrote problem problem clear visibl 7 bit bw imag mention 24 bit imag . 
+descript experi delet if 1 bit imag view quick sync screen 100 intens could better i dunno . 
+delet in case get black color slow machin problem . 
+i could tri 8 bit screen i n't know render pixel x constant time . 
+i recal doubl buffer imag color one bw n't help either . 
+mayb i dump photo screen low level code ? 
+a year ago friend i took 256 grey-level photo 1 bit mac plus screen use method . 
+display 256 level synchron 60hz display took 10 second . 
+after experi differ apertur set screen bright found rang work well give respect contrast . 
+the qualiti imag pretti good . 
+there visibl contrast band . 
+to minim exposur time display program built 255 differ 1 bit frame . 
+the first contain dot pixel valu 255 second pixel valu 254 etc . 
+these frame store use spars data structur fast or ' onto screen sequenc . 
+creat frame sometim took 5-10 minut old mac camera shutter close time anyway . 
+and yes wrote direct screen memori . 
+mea culpa . 
+our biggest problem small imag display top left corner screen instead center . 
+it took extra week film develop print processor took troubl manual move imag center print . 
+who 'd guess ? 

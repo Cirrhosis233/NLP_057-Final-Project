@@ -1,0 +1,5 @@
+i look window util would give list file directori also display descript file . 
+this util would allow enter edit file descript hope length mayb small window scroll bar ? . 
+i would abl brows directori abl see file without open execut . 
+ani beast ? 
+if anyon want write one ? 

@@ -1,0 +1,8 @@
+i 'm tri get mh compil xmh i 'm problem . 
+i ve got mh-6.8 use gcc sco 3.2.4 . 
+my mh file list . 
+doe anyon suggest i add get compil ? ? 
+bin usrlocalbin .. 
+cc gcc ccoption -o -ansi -dstdc0 -dsysv -dsysv386 -dsco -dsvid i think -tradit option gcc would help . 
+person i use -tradit -o2 -funroll-loop compil sun4.1.1 . 
+hope help ... 

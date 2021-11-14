@@ -1,0 +1,26 @@
+i troubl scsi mac iifx . 
+the machin 3 year old i use hard drive intern maxtor lxt-200s two half year . 
+the disk recent crash . 
+i reformat silverlin 5.42 reformat i receiv random write error test . 
+the error messag report like sector 0 write error detect test good sector map . 
+this occur random hard disk make suspect diagnost 's refer sector 0 ? ? ? 
+on third reformat reinstal scsi readwrit loop i abl get pass 23 4 error . 
+pass 1 reason report lot error still map sector . 
+i decid go ahead tri resinstal system 7 reload data backup . 
+this proced normal howev i sub-optim perform . 
+symptom includ frequent crash instanc extrem sluggish disk access requir reboot correct . 
+instanc find disk scsi chain reboot . 
+if i boot norton utl . 
+occur find disk either . 
+the thing fix recycl power . 
+it sometim requir sever attempt . 
+question 1 has anyon type problem ? 
+2 is problem fx motherboard and non-standard scsi implement maxtor disk ? 
+is diagnost softwar would help make determin ? 
+3 is termin problem ? 
+i current extern syquest extern datafram xp60 chain . 
+the xp60 end intern termin i use iifx termin . 
+i scsi filter instal intern drive . 
+i run exact steup 2 12 year one previous disk crash requir reformat year ago . 
+i also symptom i disconnect extern devic i n't see scsi termin would issu . 
+of cours know help would much appreci . 

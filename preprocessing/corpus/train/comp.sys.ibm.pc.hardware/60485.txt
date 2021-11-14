@@ -1,0 +1,5 @@
+i wangtek tape control card revis e use syto backup system take backup friend 's system . 
+that system crash i 'm attempt restor . 
+unfortun document ancient card lost mist time i need know dma irq address card . 
+can anyon suggest i could determin thing ? 
+there bank dip switch card set 1 2 3 4 5 6 7 8 9 10 upupup upupup upup upup open thank time . 

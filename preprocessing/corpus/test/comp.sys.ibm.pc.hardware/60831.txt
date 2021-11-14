@@ -1,0 +1,16 @@
+i also problem com4 g2k system . 
+i gateway 2k 486dx33 system ati ultrapro video card ident system mention origin post except 33mhz instead 66 . 
+for reason system refus recogn com4 . 
+for exampl i configur on-board motherboard com port com1com2 everyth fine i configur com3com4 com3 work ok com4 recozn . 
+the diagnost ship system msd util window act port n't . 
+it 's irq conflict i swap irq com3 com4 com3 still work com4 still n't . 
+i actual notic problem tri instal 2 addit port boca high speed 2s1p card . 
+the behavior boca card exact e.g . 
+would work com1 com2 com3 com4 . 
+this smell io port conflict i ca n't imagin . 
+there expans card instal machin video card gateway would pretti stupid on-board com4 conflict someth els motherboard ! 
+has anybodi els problem ? 
+i ran six month ago . 
+my system gw2000 486dx66v 8 meg ram 1meg ati gup vlb . 
+it seem problem ati graphic ultra pro card consum com4 port reason com1-3 avail . 
+i believ document somewher system manual i ca n't recal . 

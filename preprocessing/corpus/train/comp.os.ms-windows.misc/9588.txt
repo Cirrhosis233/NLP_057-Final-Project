@@ -1,0 +1,16 @@
+hi i 'm bizarr video problem within window 3.1 . 
+i 286 gvga-16 video board . 
+i ve use standard window vga driver similar configur comput . 
+i think problem way window refresh 's screen . 
+the problem window envok color start chang . 
+at first i thought hardwar open full screen dos program within window session n't problem get back window howev initi return window origin color get refresh proper . 
+also uniform color chang solitair design back card maintain 's origin color scheme white front card turn grey blue etc . 
+the color chang keep get darker final everyth dark purple-ish black . 
+if pop dos exit back window screen get refresh . 
+if i n't log window dos thing novel network everyth fine . 
+i origin load softwar bounc net machin i finish configur net machin . 
+when i ran problem i delet everyth machin net tri bounc . 
+when n't work i tri reload window avail . 
+ani thought thing check ? 
+i total baffl ! 
+thank advanc assist instruct ! 

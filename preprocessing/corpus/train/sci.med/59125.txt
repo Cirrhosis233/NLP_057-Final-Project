@@ -1,0 +1,294 @@
+cut volum 6 number 10 april 20 1993 health info-com network medic newslett editor david dodel d.m.d . 
+10250 north 92nd street suit 210 scottsdal arizona 85258-4599 usa telephon 1 
+602 860-1121 fax 1 
+602 451-1165 compil copyright 1993 david dodel d.m.d . 
+all right reserv . 
+licens herebi grant republish electron media fee charg long text copyright notic licens attach intact republish portion portion . 
+the health info-com network newslett distribut biweek . 
+articl medic natur welcom . 
+if articl pleas contact editor inform submit . 
+if interest join autom distribut system pleas contact editor . 
+e-mail address editor fidonet 111415 anonym ftp vm1.nodak.edu fax deliveri contact editor inform t a b l e o f c o n t e n t s 1 . 
+comment news editor ocr scanner news ................................................... 
+1 
+2 . 
+center diseas control prevent mmwr 16 april 1993 emerg infecti diseas ......................... 
+3 outbreak e . 
+coli infect hamburg ....................... 
+5 use smokeless tobacoo among adult ................................ 
+10 gonorrhea ............................................................ 
+14 impact adult safety-belt use children less 11 year age ... 
+17 public cdc surveil summari ............................ 
+21 3 . 
+clinic research news high tech assist reproduct technolog ......................... 
+24 4 . 
+articl low level airborn particl link serious asthma attack ....... 
+29 nih consensus develop confer melanoma ..................... 
+31 nation cancer insitut design cancer center ................... 
+32 5 . 
+general announc uci medic educ softwar repositori ............................ 
+40 6 . 
+aid news summari aid daili summari april 12 april 15 1993 ........................ 
+41 7 . 
+aidshiv articl first hiv vaccin trial begin hiv-infect children .............. 
+47 new evid hiv can caus diseas independ ............ 
+50 clinic consult telephon servic aid ..................... 
+52 hicnet medic newslett page volum 6 number 10 april 20 1993 comment news editor i would like continu thank everyon sent donat mednew ocrscann fund . 
+we reach goal ! 
+a hewlett packard scanjet iip purchas week . 
+thank follow individu whose contribut i receiv john sorenson carol sigelman carla moor barbara moos judith schrier again thank gave ! 
+i use wordscan plus past coupl week would like review product . 
+wordscan plus product calera recognit system . 
+it run window 3.1 support accufont technolog hewlett packard scanner . 
+when initi bring softwar let select sever option 1 
+text graphic 2 input sourc ie scanner fax file disk file 3 automat versus manual decomposit scan imag . 
+i like manual decomposit sinc softwar let select part document i would like scan order . 
+onc imag scan bring pop-up imag verif . 
+the softwar give two error point . 
+blue word convert reliabl match anyth built-in dictionari . 
+yellow shade word wordscan plus n't think convert correct . 
+i found softwar give credit . 
+it usual correct instead wrong . 
+if word shade blue add person dictionari . 
+the problem person dictionari handl 200 word . 
+i find limit consid mani medic term normal dictionari . 
+after document convert save multitud word processor format . 
+also imag captur store seper tiff pcx file format . 
+i extrem impress percent accuraci fax file . 
+i use hicnet medic newslett page 1 
+volum 6 number 10 april 20 1993 intel satisfaxt card store incom fax pcxdcx format . 
+while fax receiv standard mode 200x100 dpi accuraci wordscan plus excel . 
+overal impress product . 
+the fault i could find limit size user dictionari . 
+200 special word small . 
+if anyon specif question pleas hesit send email . 
+hicnet medic newslett page 2 volum 6 number 10 april 20 1993 center diseas control prevent mmwr emerg infecti diseas sourc mmwr 4214 date apr 16 1993 introduct despit predict earlier centuri infecti diseas would soon elimin public health problem 1 
+infecti diseas remain major caus death worldwid lead caus ill death unit state . 
+sinc earli 1970s u. . 
+public health system challeng myriad newli identifi pathogen syndrom e.g . 
+escherichia coli o157h7 hepat c virus human immunodefici virus legionnair diseas lyme diseas toxic shock syndrom . 
+the incid mani diseas wide presum control cholera malaria tuberculosi tb increas mani area . 
+furthermor control prevent infecti diseas undermin drug resist condit gonorrhea malaria pneumococc diseas salmonellosi shigellosi tb staphylococc infect 2 . 
+emerg infect place disproportion burden immunocompromis person institut set e.g . 
+hospit child day care center minor underserv popul . 
+the substanti econom burden emerg infect u. . 
+health-car system could reduc effect surveil system target control prevent program 3 . 
+this issu mmwr introduc new seri emerg infecti diseas futur articl address diseas well surveil control prevent effort health-car provid public health offici . 
+this first articl updat ongo investig outbreak e . 
+coli o157h7 western unit state 4 . 
+refer 1 . 
+burnet m . 
+natur histori infecti diseas . 
+cambridg england cambridg univers press 1963 . 
+2 . 
+kunin cm . 
+resist antimicrobi drug worldwid calam . 
+ann intern med 1993118557-61 . 
+3 . 
+lederberg j shope re oak sc jr ed . 
+emerg infect microbi threat health unit state . 
+washington dc nation academi press 1992 . 
+hicnet medic newslett page 3 volum 6 number 10 april 20 1993 4 . 
+cdc . 
+preliminari report foodborn outbreak escherichia coli o157h7 infect hamburg western unit state 1993 . 
+mmwr 19934285-6 . 
+hicnet medic newslett page 4 volum 6 number 10 april 20 1993 updat multist outbreak escherichia coli o157h7 infect hamburg western unit state 1992-1993 sourc mmwr 4214 date apr 16 1993 from novemb 15 1992 februari 28 1993 500 laboratory-confirm infect e . 
+coli o157h7 four associ death occur four state washington idaho california nevada . 
+this report summar find ongo investig 1 
+identifi multist outbreak result consumpt hamburg one restaur chain . 
+washington on januari 13 1993 physician report washington depart health cluster children hemolyt urem syndrom hus increas emerg room visit bloodi diarrhea . 
+dure januari 16-17 case-control studi compar 16 first case bloodi diarrhea postdiarrh hus identifi age- neighborhood-match control implic eat chain a restaur week symptom onset match odd ratio orundefin lower confid limit3.5 . 
+on januari 18 multist recal unus hamburg patti chain a restaur initi . 
+as result public case-find effort january- februari 1993 602 patient bloodi diarrhea hus report state health depart . 
+a total 477 person ill meet case definit culture-confirm e . 
+coli o157h7 infect postdiarrh hus figur 1 . 
+of 477 person 52 11 close contact person confirm e . 
+coli o157h7 infect week preced onset symptom . 
+of remain 425 person 372 88 report eat chain a restaur 9 day preced onset symptom . 
+of 338 patient recal ate chain a restaur 312 92 report eat regular-s hamburg patti . 
+onset ill peak januari 17 januari 20 . 
+of 477 casepati 144 30 hospit 30 develop hus three die . 
+the median age patient 7.5 year rang 0-74 year . 
+idaho follow outbreak report washington divis health idaho depart health welfar identifi 14 person culture- confirm e . 
+coli o157h7 infect ill onset date decemb 11 1992 februari 16 1993 figur 2a . 
+four person hospit one develop hus . 
+dure week preced ill onset 13 93 eaten chain a restaur . 
+california in late decemb san diego counti depart health servic notifi child e . 
+coli o157h7 infect subsequ die . 
+activ surveil record review identifi eight person e . 
+coli o157h7 infect hus mid-novemb mid-januari 1993 . 
+four nine report recent eaten chain a restaur hicnet medic newslett page 5 volum 6 number 10 april 20 1993 four chain b restaur san diego . 
+after washington outbreak report review medic record five hospit reveal overal 27 increas visit admiss diarrhea decemb 1992 januari 1993 compar period 1 
+year earlier . 
+a case defin postdiarrh hus bloodi diarrhea cultur negat cultur diarrheal ill stool cultur yield e . 
+coli o157h7 onset novemb 15 1992 januari 31 1993 . 
+ill 34 patient met case definit figur 2b . 
+the outbreak strain identifi stool specimen six patient . 
+fourteen person hospit seven develop hus one child die . 
+the median age case-pati 10 year rang 1-58 year . 
+a case-control studi first 25 case-pati identifi age- sex-match communiti control implic eat chain a restaur san diego match or13 95 confid interv ci1.7-99 . 
+a studi compar case-pati ate chain a restaur well meal companion implic regular- size hamburg patti match orundefin lower confid limit1.3 . 
+chain b statist associ ill . 
+nevada on januari 22 receiv report child hus eaten local chain a restaur clark counti las vega health district issu press releas request person recent bloodi diarrhea contact health depart . 
+a case defin postdiarrh hus bloodi diarrhea cultur negat cultur diarrheal ill stool cultur yield washington strain e . 
+coli o157h7 onset decemb 1 
+1992 februari 7 1993 . 
+becaus local laboratori use sorbitol macconkey smac medium screen stool e . 
+coli o157h7 organ identifi patient . 
+after smac medium distribut outbreak strain detect stool one patient 38 day ill onset . 
+of 58 person whose ill met case definit figur 2c nine hospit three develop hus . 
+the median age 30.5 year rang 0-83 year . 
+analysi first 21 patient identifi age- sex- match communiti control implic eat chain a restaur week preced ill onset match orundefin lower confid limit4.9 . 
+a case-control studi use well meal companion case-pati also implic eat hamburg chain a match or6.0 95 ci0.7- 49.8 . 
+other investig find dure outbreak chain a restaur washington link case primarili serv regular-s hamburg patti produc novemb 19 1992 meat use jumbo patti produc novemb 20 1992 . 
+the outbreak strain e . 
+coli o157h7 isol 11 lot patti produc two date lot distribut restaur state ill occur . 
+approxim 272672 20 implic patti recov recal . 
+a meat traceback cdc team identifi five slaughter plant unit state one canada like sourc carcass use hicnet medic newslett page 6 volum 6 number 10 april 20 1993 contamin lot meat identifi potenti control point reduc likelihood contamin . 
+the anim slaughter domest slaughter plant trace farm auction six western state . 
+no one slaughter plant farm identifi sourc . 
+further investig case relat secondari transmiss famili child day care set ongo . 
+report m davi dvm c osaki msph seattle-k counti dept public health d gordon ms mw hind md snohomish health district everett k mottram c winegar mph tacoma-pierc counti health dept ed avner md pi tarr md dept pediatr d jardin md dept anesthesiolog pediatr univ washington school medicin children 's hospit medic center seattl m goldoft md b bartleson mph j lewi jm kobayashi md state epidemiologist washington dept health . 
+g billman md j bradley md children 's hospit san diego s hunt p tanner res m ginsberg md san diego counti dept health svcs l barrett dvm sb werner md gw rutherford iii md state epidemiologist california dept health svcs . 
+rw jue central district health dept bois h root southwest district health dept caldwel d brother ma rl chehey ms rh hudson phd div health idaho state public health laboratori fr dixon md state epidemiologist div health idaho dept health welfar . 
+dj maxson environment epidemiolog program l empey pa o ravenholt md vh ueckart dvm clark counti health district las vega a disalvo md nevada state public health laboratori ds kwalick md r salcido mph d brus dvm state epidemiologist div health nevada state dept human resourc . 
+center food safeti appli nutrit food drug administr . 
+food safeti inspect svc anim plant health inspect svc us dept agricultur . 
+div field epidemiolog epidemiolog program offic enter diseas br div bacteri mycot diseas nation center infecti diseas cdc . 
+editori note e . 
+coli o157h7 pathogen gram-neg bacterium first identifi caus ill 1982 outbreak sever bloodi diarrhea trace contamin hamburg 2 . 
+this pathogen sinc emerg import caus bloodi diarrhea hus common caus acut renal failur children . 
+outbreak investig link case consumpt undercook ground beef although food vehicl includ roast beef raw milk appl cider also implic 3 . 
+preliminari data cdc 2-year nationwid multicent studi reveal stool routin cultur e . 
+coli o157h7 organ isol frequent shigella four 10 particip hospit isol 7.8 bloodi stool higher rate pathogen . 
+infect e . 
+coli o157h7 often recogn clinic laboratori routin cultur stool organ hicnet medic newslett page 7 volum 6 number 10 april 20 1993 smac medium mani clinician unawar spectrum ill associ infect 4 . 
+the usual clinic manifest diarrhea often bloodi abdomin cramp fever infrequ . 
+younger age group elder highest risk clinic manifest complic . 
+ill usual resolv 6-8 day 2-7 patient develop hus character hemolyt anemia thrombocytopenia renal failur death rate 3-5 . 
+this report illustr difficulti recogn communiti outbreak e . 
+coli o157h7 absenc routin surveil . 
+despit magnitud outbreak problem may recogn three state epidemiolog link establish washington 1 . 
+clinic laboratori routin cultur stool specimen person bloodi diarrhea hus e . 
+coli o157h7 use smac agar 5 . 
+when infect e . 
+coli o157h7 identifi report local health depart evalu necessari public health action prevent case . 
+e . 
+coli o157h7 live intestin healthi cattl contamin meat slaughter . 
+cdc collabor u. . 
+depart agricultur 's food safeti inspect servic identifi critic control point process compon program reduc likelihood pathogen e . 
+coli o157h7 enter meat suppli . 
+becaus slaughter practic result contamin raw meat pathogen process grind beef may transfer pathogen surfac meat interior ground beef like intern contamin . 
+the optim food protect practic cook ground beef thorough interior longer pink juic clear . 
+in outbreak undercook hamburg patti like play import role . 
+the food drug administr fda issu interim recommend increas intern temperatur cook hamburg 155 f 86.1 c fda person communic 1993 . 
+regulatori action stimul outbreak describ report recoveri thousand contamin patti could consum emphas valu rapid public health investig outbreak . 
+the public health impact increas frequenc isol pathogen underscor need improv surveil infect caus e . 
+coli o157h7 hus better defin epidemiolog e . 
+coli o157h7 . 
+refer 1 . 
+cdc . 
+preliminari report foodborn outbreak escherichia coli o157h7 infect hamburg western unit state 1993 . 
+mmwr 19934285-6 . 
+2 . 
+riley lw remi rs helgerson sd et al . 
+hemorrhag coliti associ rare escherichia coli serotyp . 
+n engl j med 1983308681-5 . 
+hicnet medic newslett page 8 volum 6 number 10 april 20 1993 3 . 
+griffin pm taux rv . 
+the epidemiolog infect caus escherichia coli o157h7 enterohemorrhag e . 
+coli associ hemolyt urem syndrom . 
+epidemiol rev 19911360-98 . 
+4 . 
+griffin pm ostroff sm taux rv et al . 
+ill associ escherichia coli o157h7 infect broad clinic spectrum . 
+ann intern med 1988109705-12 . 
+5 . 
+march sb ratnam s . 
+latex agglutin test hicnet medic newslett page 9 volum 6 number 10 april 20 1993 use smokeless tobacco among adult unit state 1991 sourc mmwr 4214 date apr 16 1993 consumpt moist snuff smokeless tobacco product unit state almost tripl 1972 1991 1 . 
+long-term use smokeless tobacco associ nicotin addict increas risk oral cancer 2 incid could increas young person current use smokeless tobacco continu use product frequent 1 . 
+to monitor trend preval use smokeless tobacco product cdc 's 1991 nation health interview survey-health promot diseas prevent supplement nhis-hpdp collect inform snuff chew tobacco use smoke repres sampl u. . 
+civilian noninstitution popul age greater equal 18 year . 
+this report summar find survey . 
+the 1991 nhis-hpdp supplement ask have use snuff least 20 time entir life ? 
+do use snuff ? 
+similar question ask chew tobacco use cigarett smoke . 
+current user smokeless tobacco defin report snuff chew tobacco use least 20 time report use snuff chew tobacco time interview former user defin report use snuff chew tobacco least 20 time use either time interview . 
+ever user smokeless tobacco includ current former user . 
+current smoker defin report smoke least 100 cigarett current smoke former smoker report smoke least 100 cigarett smoke . 
+ever smoker includ current former smoker . 
+data smokeless tobacco use avail 43732 person age greater equal 18 year adjust nonrespons weight provid nation estim . 
+confid interv cis calcul use standard error generat softwar survey data analysi sudaan 3 . 
+in 1991 estim 5.3 million 2.9 u. . 
+adult current user smokeless tobacco includ 4.8 million 5.6 men 533000 0.6 women . 
+for categori comparison preval smokeless tobacco use substanti higher among men . 
+for men preval use highest among age 18-24 year tabl 1 
+women preval highest among age greater equal 75 year . 
+the preval smokeless tobacco use among men highest among american indiansalaskan nativ white preval among women highest among american indiansalaskan nativ black . 
+among men women preval smokeless tobacco use declin increas educ . 
+preval substanti higher among resid southern unit state rural area . 
+although preval smokeless tobacco use higher among hicnet medic newslett page 10 volum 6 number 10 april 20 1993 men women poverti level differ signific women p less 0.05 tabl 1 . 
+among men preval current use snuff highest among age 18-44 year vari consider age preval use chew tobacco even distribut age group tabl 2 . 
+although women rare use smokeless tobacco preval snuff use highest among age greater equal 75 year . 
+an estim 7.9 million 4.4 95 ci4.1-4.6 adult report former smokeless tobacco user . 
+among ever user proport former smokeless tobacco user 59.9 95 ci57.7-62.1 . 
+among person age 18-24 year proport former user lower among snuff user 56.2 95 ci49.4-63.0 among chew tobacco user 70.4 95 ci64.2-76.6 . 
+among person age 45-64 year proport former user similar snuff 68.9 95 ci63.1-74.7 chew tobacco 73.5 95 ci68.9-78.1 . 
+among current user smokeless tobacco 22.9 95 ci19.9-26.0 current smoke 33.3 95 ci30.0-36.5 former smoke 43.8 95 ci39.9-47.7 never smoke . 
+in comparison among current smoker 2.6 95 ci2.3-3.0 current user smokeless tobacco . 
+daili use smokeless tobacco common among snuff user 67.3 95 ci63.2-71.4 among chew tobacco user 45.1 95 ci40.6- 49.6 . 
+report offic smoke health nation center chronic diseas prevent health promot div health interview statist nation center health statist cdc . 
+editori note the find report indic use smokeless tobacco highest among young male . 
+adolesc young adult male particular target market strategi tobacco compani link smokeless tobacco athlet perform viril . 
+use oral snuff risen mark among profession basebal player encourag behavior among adolesc young adult male increas risk nicotin addict oral cancer mouth disord 4 . 
+differ preval smokeless tobacco use among racialethn group may influenc differ educ level socioeconom status well social cultur phenomena requir explan . 
+for exampl target market practic may play role maintain increas preval among group affect differenti initi smokeless tobacco use young person 56 . 
+in report one concern near one fourth current smokeless tobacco user also smoke cigarett . 
+in 1991 nhis-hpdp preval cigarett smoke higher among former smokeless tobacco user among current never smokeless tobacco user . 
+in previous studi among colleg student 18 current smokeless tobacco user smoke hicnet medic newslett page 11 volum 6 number 10 april 20 1993 occasion 7 . 
+in addit approxim 7 adult former smoke report substitut tobacco product cigarett effort stop smoke 8 . 
+health-car provid recogn potenti health implic concurr smokeless tobacco cigarett use . 
+the nation health object year 2000 establish special popul target group reduct preval smokeless tobacco use includ male age 12-24 year 4 year 2000 object 3.9 american indianalaskan nativ youth 10 year 2000 object 3.9a 9 . 
+strategi lower preval smokeless tobacco use includ continu monitor smokeless tobacco use integr smoke smokeless tobacco-control effort enforc law restrict minor ' access tobacco make excis tax commensur cigarett encourag health-car provid routin provid cessat advic follow-up provid school-bas prevent cessat intervent adopt polici prohibit tobacco use school properti school-sponsor event 5 . 
+refer 1 . 
+offic evalu inspect . 
+spit tobacco youth . 
+washington dc us depart health human servic offic inspector general 1992 dhhs public . 
+oei-0692-00500 . 
+2 . 
+nation institut health . 
+the health consequ use smokeless tobacco report advisori committe surgeon general . 
+bethesda maryland us depart health human servic public health servic 1986 dhhs public . 
+nih86-2874 . 
+3 . 
+shah bv . 
+softwar survey data analysi sudaan version 5.30 softwar document . 
+research triangl park north carolina research triangl institut 1989 . 
+4 . 
+connolli gn orlean ct blum a . 
+snuf tobacco sport . 
+am j public health 199282351-3 . 
+5 . 
+nation cancer institut . 
+smokeless tobacco health intern perspect . 
+bethesda maryland us depart health human servic public health servic nation institut health 1992 dhhs public . 
+nih92-3461 . 
+6 . 
+foreyt jp jackson as squir wg hartung gh murray td gotto am . 
+psycholog profil colleg student use smokeless tobacco . 
+addict behav 199318107-16 . 
+7 . 
+glover ed laflin m edward sw . 
+age initi switch pattern hicnet medic newslett page 12 volum 6 number 10 april 20 1993 smokeless tobacco cigarett among colleg student unit state . 
+am j public health 198979207-8 . 
+8 . 
+cdc . 
+tobacco use 1986 method tabul adult use tobacco survey . 
+rockvill maryland us depart health human servic public health servic cdc 1990 dhhs public . 
+om90-2004 . 
+9 . 
+public health servic . 
+healthi peopl 2000 nation health promot diseas prevent object . 
+washington dc us depart health human servic public health servic 1991 dhhs public . 
+phs91- 50213 . 
+end part 1 

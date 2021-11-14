@@ -1,0 +1,6 @@
+i conner-disk model cp30061g 200mb ? ? 
+info . 
+the thing i know normal use compaq-machin . 
+pleas send inform switch-set geometri . 
+it look like normal ide-disk possibl use standard ide-control ? ? 
+michael 

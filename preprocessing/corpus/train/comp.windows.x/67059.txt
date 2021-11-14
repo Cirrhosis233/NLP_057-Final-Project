@@ -1,0 +1,6 @@
+i piec x code compil fine pmax-ul4 pmaxmach well sun4mach whenev compil sun4411 give undefin ld error sin cos pow floor getwmshellwidgetclass getapplicationshellwidgetclass the follow librari i link -lxaw -lxmu -lxt -lxext -lx11 the makefil generat imak templat . 
+can anyon give pointer i 'm miss compil sun4411 ? 
+well first 2 easi . 
+you need math librari . 
+tri ad -lm -lx11 . 
+do n't know 's whole problem 's start . 

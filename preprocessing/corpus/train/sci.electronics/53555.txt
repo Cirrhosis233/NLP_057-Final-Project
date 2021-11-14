@@ -1,0 +1,23 @@
+just thought mine sinc on-hook line aprox 48-50v off-hook usual drop 1 how led seri zener say around 30v . 
+on-hook led off-hook led . 
+would work ? 
+if anyon triestri pleas let know . 
+aye 's rub draw enough current light led equip phone compani think ve gone hook . 
+in on-hook state re suppos draw current . 
+which mean use digit voltmet . 
+you use old vom phone compani equip detect might think 's someth wrong cabl . 
+look guy 's problem ? 
+if want light goe phone off hook need run seri line i mention previous post . 
+if want light goe phone hook need voltag threshold detector . 
+if re go seri diod thing easiest make sure led take current i ca n't recal off-hand 's someth like 100ma ? 
+tip phone 's suppos ring ! 
+even simpl zener led setup might end carbon real quick . 
+whatev scheme use make sure ve got least 200v-rat compon frontend . 
+also rememb i 'm mistaken phone line 600ohm equival circuit . 
+ani current draw 48v get drop across 600ohm . 
+that 's fine re rough 12v ma bell consid off-hook . 
+but drop far probabl big no-no . 
+the easiest implement accomplish ? ? 
+tip -- - rectifi resistor diod v zener resistor v led ring this suggest ... go ahead blow hole get idea . 
+choos high-effici led n't need much current get light . 
+choos valu compon requir . 

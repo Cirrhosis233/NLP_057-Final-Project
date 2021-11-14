@@ -1,0 +1,5 @@
+hi ! 
+i rememb read hallucin ncd 's pc-xremot function given ncd mit inclus x11r6 . 
+is true ? 
+if set modecheap i wait x11r6 get compress serial line x server support ? 
+thank ! 

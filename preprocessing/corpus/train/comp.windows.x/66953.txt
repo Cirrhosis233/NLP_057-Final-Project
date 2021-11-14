@@ -1,0 +1,10 @@
+i ve seen lot differ term seem mean thing . 
+who give exact definit term mean multi-screen multi-head multi-display x-server zaphod mode as appli server first three fuzzi term . 
+multi-head tend use system multipl monitor sometim even multipl screen even re multiplex onto monitor eg sun cg4 display . 
+multi-screen multi-display would taken strict mean differ thing sinc strict mean multi-display would refer system multipl keyboard pointer 's use probabl refer thing multi-screen would system provid multipl screen . 
+zaphod term appli way mit server switch pointer one screen anoth slide side screen . 
+is limit mani screensdisplay singl server handl articel read someth upper limit 12 there protocol limit restrict given display 255 screen . 
+i know server handl multipl display singl invoc unless possibl kludg r4 server look upon tcp-base system necessarili limit 65535 display per machin limit inher x . 
+what read like talk limit particular implement probabl mit one . 
+if claim limit 12 inher x author articl busi write x . 
+der mous 

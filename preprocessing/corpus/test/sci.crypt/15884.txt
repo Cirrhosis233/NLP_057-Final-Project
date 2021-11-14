@@ -1,0 +1,32 @@
+follow short note comment den boer bossela ' recent work md5 message-digest algorithm . 
+feel free email question comment . 
+burt kaliski rsa laboratori documentstyle12ptarticl begindocu titleon pseudocollis '' md5 message-digest algorithm authorburton s . 
+kaliski jr . 
+matthew j.b . 
+robshaw rsa laboratori 100 marin parkway redwood citi ca 94065 dateapril 23 1993 maketitl a message-digest algorithm map messag arbitrari length digest '' fix length three properti comput digest easi find messag given digest-invers '' -is hard find two messag digest-collis '' -is also hard . 
+message-digest algorithm mani applic includ digit signatur messag authent . 
+rsa data secur 's md5 message-digest algorithm develop ron rivest citerfc-md5 map messag 128-bit messag digest . 
+comput digest one-megabyt messag take littl second . 
+while message-digest algorithm yet em prove secur md5 believ least good map 128-bit digest . 
+invers take 2128 oper collis take 264 oper . 
+no one found faster approach invers collis . 
+recent work den boer bossela citeden-boer-md5 present special kind pseudocollis '' md5 's intern compress function map 512-bit messag block x 128-bit input state 128-bit output state . 
+they show find messag block x two relat input state s1 s2 yield output state fxs1 fxs2 . 
+their well-thought approach exploit structur properti collis function find pseudocollis 216 oper much less one would expect . 
+practic implic pseudocollis work secur md5 evid . 
+while real collis md5 impli pseudocollis pseudo-invers '' pseudocollis need impli real collis . 
+inde real collis sinc involv two differ messag would almost alway involv em differ messag block x1 x2 fx1s1 fx2s2 pseudocollis messag block . 
+moreov input state s1 s2 would general unrel pseudocollis ' input state except four bit . 
+there seem way extend den boer bossela ' approach anyth beyond special pseudocollis limit readili admit . 
+it reason therefor believ md5 remain secur . 
+while den boer bossela found interest structur properti md5 properti seem lead special pseudocollis anyth approach real collis . 
+further research cours give better understand strength md5 message-digest algorithm eventu hope algorithm sens prove secur . 
+bibliographystyleplain beginthebibliography1 bibitemden-boer-md5 bert denboer antoon bossela . 
+newblock collis compress function md5 . 
+newblock in advanc cryptolog eurocrypt 93 1993 . 
+newblock preprint . 
+bibitemrfc-md5 r.l . 
+rivest . 
+newblock rfc 1321 the md5 message-digest algorithm . 
+newblock internet activ board april 1992 . 
+endthebibliographi 

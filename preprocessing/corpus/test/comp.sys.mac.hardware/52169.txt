@@ -1,0 +1,18 @@
+i se30 generat system 8bit pds card 17 screen . 
+it work great i upgrad 5 20 mb ram . 
+now sys7.1 mode32 32enabl boot .. 
+tech support person said card support 32bit fix . 
+i guess right . 
+earli version rasterop card either fix peopl problem get free rom upgrad rasterop . 
+but press shift key boot ext . 
+monitor goe black grey system sometim boot proper ! ! 
+work ok 20mb full graphic . 
+what 's happen ? ? ? 
+veri easi . 
+if boot without mode32 control panel disabl rather reinstal 32-bit clean patch . 
+so run ok must 24-bit adress mode . 
+check about macintosh see havc 12mb system . 
+thank lot advic ! ! ! 
+pleas answer mail . 
+sent seper . 
+ossip kaehr voic 49.30.6226317 ossip kaehr hermannstrass 32 d-1000 berlin 44 germani 

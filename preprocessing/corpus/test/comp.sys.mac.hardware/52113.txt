@@ -1,0 +1,28 @@
+i replac osz 66 mhz yesterday trubl . 
+my quadra work 33 mhz stabl 14 hour . 
+i also tri 70 mhz osz 12 hour quadra 700 die . 
+i sure reason riski run fast . 
+most quadra 700 work 33 mhz without problem . 
+but safeti tip backup harddisk befor start upgrad . 
+dure 35 mhz test i damag harddisk hardtim get work . 
+so backup befor start ! ! ! ! ! ! ! ! ! 
+now speedomet result replac osz . 
+speedomet report mene rainer . 
+prepar april 22 1993 . 
+machin record version 5 user comment quadra 700 33mhz ram disk 20 mbyte ram 2 mbyte vram system inform comput mac quadra 700 cpu mc68040 fpu integr fpu mmu integr mmu color quickdraw 2.30 32 bit qd system version 7.1.6 finder version d1-7.1 appletalk version 57 laserwrit version d1-7.1.2 laser prep version not found imagewrit version d1-7.0.1 rom version 067c rom size 1024 bit depth 1 horizont dpi 72 vertic dpi 72 primari screen size 832 x 624 physic ram 20480k logic ram 20454k p.r . 
+result use mac classic 1.0 cpu 21.625 graphic 30.052 disk 28.351 name hard disk test ram disk math 135.128 perform rate pr 36.848 benchmark result use mac classic 1.0 kwhetston 1500.000 205.479 dhryston 26315.789 27.008 tower 24.960 quicksort 22.391 bubbl sort 23.823 queen 24.105 puzzl 28.804 permut 26.523 fast fourier 167.728 f.p . 
+matrix multipli 154.452 integ matrix multipli 30.250 siev 25.602 benchmark averag 63.427 fpu test use mac ii 1.0 fpu kwhetston 5454.545 7.636 fpu f.p . 
+matrix mult . 
+14.333 fpu test averag 12.202 color test use mac ii 1.0 black white 6.395 4 color 6.773 16 color 6.957 256 color 7.016 color test averag 6.785 veri interest graphic result graphic 30.052 could n't belief true . 
+two point caus problem 4 mbyte ram solder board . 
+the 80ns ram run upperlimit 33 mhz . 
+the next part may caus troubl video ram . 
+i orign 100ns vram appl quadra also upperlimit chip run n't garanti run . 
+most part quadra board run wn clockspe wont make trubl . 
+the importan question i neat new heat sink . 
+i would say no . 
+after run quadra 14 hour heat sink realli cool . 
+a 33 mhz 486 heat sink mutch warmer 68040 quadra i n't see problem . 
+the room temperatur 22 celsius 72 f . 
+if live area hot 100 f 45 c room temperatur mutch i would suggest new heat sink ventil stay safe side . 
+hope success i rainer 

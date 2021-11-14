@@ -1,0 +1,10 @@
+besid faster processor 950 scsi 2 far i know faster io due separ processor handl function . 
+the 950 output 16 bit video 16 monitor 1 meg vram 24 bit 2 meg . 
+actual quadra 900 950 scsi control run differ speed . 
+they scsi 2 support certain scsi command take advantag faster drive . 
+the io processor present machin . 
+the q950 run io bus 25mhz 900 's io bus 16mhz . 
+the quadra 950 support 16bit color monitor size well 24bit 832 x 624 resolut . 
+it also support 1024 x768 resolut . 
+the 900 support support 8bit 1152 x 870 support 1024 x 768 . 
+vram 950 80ns faster 100ns faster 900 . 

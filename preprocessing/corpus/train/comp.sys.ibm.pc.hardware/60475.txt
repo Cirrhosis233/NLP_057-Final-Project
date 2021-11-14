@@ -1,0 +1,12 @@
+how bus-mast isa bus ? 
+by initi dma xfer . 
+serious busmast adapt dma abil n't use motherboard on-board dmawhich much slower . 
+isa bus arbitr two busmast card 1 isa system tri dma xfer dma channel system lock crash.i forget their 8 dma channel isa system . 
+0-7 . 
+0-3 8-bit 4-7 16-bit . 
+the system use dma 0 soundblast use dma 1 . 
+i could buy busmast xga-2 video card busmast scsi ha . 
+in order work proper i would find dma channel xga-2 card use simpli configur scsi ha use differ dma channel dma xfer . 
+i n't know multipl dma xfer go time isa . 
+i 'm sure eisa system either . 
+i know eisamca system allow bm card use dma channel . 

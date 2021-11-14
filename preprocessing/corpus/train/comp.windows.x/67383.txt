@@ -1,0 +1,7 @@
+we sun 380 acquir cg8 frame buffer card . 
+the cg8 suppos support 24-bit color visual monochrom visual . 
+the default visual xnew server monochrom unabl chang 24-bit visual . 
+we tri use xgetvisualinfo get visual depth 24 success . 
+xdpyinfo give inform 24-bit deep visual monochrom . 
+there two possibl solut if someon patch x11r5 xsun server could forward us ? 
+otherwis could someon instruct us access 24-bit color openwindow ? 

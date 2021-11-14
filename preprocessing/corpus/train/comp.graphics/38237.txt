@@ -1,0 +1,17 @@
+i post dos mpeg decoderplay alt.binaries.pictures.util . 
+here short descript technic inform taken accompani document dmpeg v1.0 public domain mpeg decod stefan eckart 0 . 
+featur dmpegdmplay anoth mpeg decoderplay pc decod near full mpeg video standard ipb frame frame size least 352x240 support save decod sequenc 8 24bit raw file later display option on-screen display decod requir vga sever dither option order dither floyd-steinberg grayscal color-spac select run dos 640kb ram ms-window requir compact small code small data model 16 bit arithmet real time display raw file separ player vga mani super-vga ... 
+4 . 
+technic inform the player rather straightforward implement mpeg spec 1 . 
+the idct base chen-wang 13 multipl algorithm 2 quit optimum i know . 
+block eight non-zero coeffici use non-separ direct multiply-accumul 2d-idct sound great n't ? 
+turn faster fast ' algorithm quit common case . 
+dither pretti standard . 
+main differ berkeley decod except fewer number support algorithm use 256 instead 128 color default option use restrict color-spac implement color satur domin order dither . 
+this lead signific superior qualiti dither imag i claim judg . 
+restrict color-spac mean u v compon clip -0.25 instead -0.5 display color-spac point distribut restrict space . 
+sinc distanc color-spac point thus reduc factor two color resolut doubl expens abl repres fulli satur color . 
+satur domin order dither method color lie somewher point display color space approxim primarili altern two point constant hue instead constant satur . 
+this yield subjectivli better qualiti due lower sensit human view system satur chang hue chang reason use pal tv standard improv ntsc . 
+the improv particular visibl dark brown redish area . 
+... 

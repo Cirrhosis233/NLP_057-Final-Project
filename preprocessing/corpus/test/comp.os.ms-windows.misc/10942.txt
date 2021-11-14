@@ -1,0 +1,6 @@
+i follow problem dell 450se ati graphic ultra pro eisa when i start window first 5 time i tri run applic start . 
+window show follow error messag error execut applic . 
+there enough memori run applic . 
+after first 5 tri applic i want run start afterward problem . 
+when i chang video driver mach 32 8514a problem occur i suspect ati driver i tri build 55 build 59 driver . 
+doe anyon clue ? 

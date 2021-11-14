@@ -1,0 +1,13 @@
+i tri build use imak x11r4 ibm rs6000 run aix v3.2 . 
+i follow 2 problem . 
+1 mani imakefil 's contruct like this makefil start line pass makefil comment thru c preprocessor makefil . 
+most c preprocessor i use treat appear start line . 
+thus c preprocessor treat hash symbol start direct . 
+howev ibm cpp strip comment treat hash symbol start direct . 
+the cpp fail determin this known direct . 
+i temporarili hack imak handl situat would like come better fix . 
+2 sever imakefil use paramet macro particular use macro need valu paramet . 
+the aix cpp give warn situat continu work ok . 
+if familiar problem solut i would appreci inform solut . 
+perhap solv later version imak i review . 
+also know cpp 's behav similar ? 

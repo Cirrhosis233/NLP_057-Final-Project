@@ -1,0 +1,11 @@
+hi i lot problem use xview librari releas 3.2 order follow i want creat modal dialog block program flow syncron dialog ala macintosh notic panel text item list item xview object . 
+the modal dialog also must allow timer call notic n't ? . 
+the problem use xvwindowloop function xview object dont work list item timer n't call . 
+with notifydispatch explicit i problem ... never attempt direct dispach within callback routin .. 
+say xview program manual third edit page 486 uhm ... 
+i know number ! ! ! 
+- . 
+but i need dispatch insid callback routin ! 
+help pleas ! ! ! 
+thank advanc giovanni p.s . 
+pleas send replay direct address belov i n't direct access internet . 

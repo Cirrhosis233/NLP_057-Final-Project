@@ -1,0 +1,4 @@
+i would like know anyon luck use upper 128 ascii charact sun station . 
+i tri convert fortran program run sun . 
+when write charact buffer sun contain char218 char196 char197 etc . 
+we get charact screen charact standard ascii tabl . 

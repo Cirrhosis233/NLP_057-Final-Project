@@ -1,0 +1,7 @@
+has anyon els play wincmd util pc magazin ? 
+if i troubl concaten string variabl togeth need help . 
+for exampl temp path temp2 file.ext fullpath temp say fullpath output th ' fullpath fullpathtemp2 say fullpath output hfile.ext ' so seem drop first charact concaten . 
+is i memori i mayb 20 variabl total articl n't mention memori limit . 
+email idea would like see actual sourc output . 
+thank help . 
+-bo 

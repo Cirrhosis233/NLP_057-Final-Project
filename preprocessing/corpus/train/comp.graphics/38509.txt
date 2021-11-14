@@ -1,0 +1,7 @@
+hi . 
+the rtrace ray tracer support 3d text primit collect sphere cylind ... 
+the 3d char made line spline extrud ... 
+pleas look asterix.inescn.pt 192.35.246.17 directori pubrtrac . 
+in pubrtracetmp demo imag high qualiti text . 
+all call text ? .jpg jpeg encod . 
+see first tell think . 

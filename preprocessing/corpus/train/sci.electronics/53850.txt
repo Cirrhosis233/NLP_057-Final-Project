@@ -1,0 +1,2 @@
+accord ti databook pinout til311 display follow pin 1 led suppli voltag pin 2 latch data input b pin 3 latch data input a pin 4 left decim point cathod pin 5 latch strobe input pin 6 omit pin 7 common ground pin 8 blank input pin 9 omit pin 10 right decim point cathod pin 11 omit pin 12 latch data input d pin 13 latch data input c pin 14 logic suppli voltag vcc need particular well regul . 
+the led driver chip use constant current sourc led intens affect suppli voltag . 

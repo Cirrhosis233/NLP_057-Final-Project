@@ -1,0 +1,9 @@
+hi i use xdm x11r5 ow3 xview3 sun3 sparc run suno 4.1.1 . 
+prior use xdm i use set path environ variabl like manpath helppath arch etc .login file . 
+with xdm .login file n't get execut therefor neither olwm root-window applic know variabl . 
+i use displaymanager.0.userpath resourc usrlibx11xdmxdm-config succes pass path variabl . 
+but i problem pass anyth els ! ! ! 
+i tri exec home.login usrlibx11xdmxsess n't help . 
+i also tri use displaymanager.exportlist helppath manpath arch n't work either . 
+i would appreci help matter . 
+thank advanc shash 

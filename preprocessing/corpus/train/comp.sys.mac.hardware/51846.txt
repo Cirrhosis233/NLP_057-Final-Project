@@ -1,0 +1,61 @@
+hi . 
+i think i problem stereo sound output quadra 900 i total sure roomat problem powerbook 170 . 
+ani info experi anyopn would great appreci . 
+when i hook quadra home stereo system follow type sound mono far i tell play fine both speaker system beep alreadi provid one indigo one i record armor alley spectr spaceward ho ! 
+but follow game play left channel lem out this world awesom game btw glider 4.0 oid but still stereo system beep play stereo both speaker . 
+the one i 'm specif referr apocolypt begin roommat download ftp site sumex ? 
+all symptom rommat 170 ca n't run ootw n't color . 
+we re run system 7.1 doe anyon lem three game i mention get sound speaker mac ii class quadra lc powerbook 140 greater centri se30 etc ... 
+stereo machin ? 
+i use mac ii i sort rememeb lem play stereo machin left channel . 
+i could mistaken though . 
+if problem quad 900 's pb 170 's i wonder system beep still play stereo ? 
+if n't problem machin i wonder 4 game appar written support one channel stereo could use mono sound mono sound would least come speaker like spectr etc . 
+? 
+quadra 900 's powerbook 170 's rom knowledg mayb rom problem ? 
+though would n't system 7.1 patch problem ? 
+thank help provid ! 
+mac sound hardwar divers mac play stereo mix output se30 instanc other play stereo onli left channel speaker truli mono like lc develop know stuff play left channel guarante heard right channel n't . 
+some send data send data left channel first preferr cours okay i guess time quick explan mac sound . 
+the origin document sound hardwar im-3 document make sound direct access hardwar . 
+basic jam valu even byte soundbas soundbase0x170 . 
+this mac 128 later machin generat sound scan block da everi even byte odd byte went floppi machin . 
+when mac ii appl sound chip invent design generat stereo sound . 
+it also design compat document . 
+so store byte even valu soundbas meant i want play mono sound emul . 
+but appl sinc retract document soundbas decid document lowest layer sound generat . 
+so appl never explain stuff byte want make stereo sound . 
+enter game develop . 
+the sound driver current sound manag inconveni lame make game . 
+furthermor peopl port ibm n't want learn api . 
+so becom popular game writer write soundbas make sound sinc easi . 
+sinc mac ii appl mani differ kind sound output hardwar thing common write soundbas work . 
+on hardwar mac ii iix iicx iici least write soundbas get mono sound speaker . 
+on mac quadra 700900950 least write soundbas get mono sound left channel . 
+both technic correct interpret origin specif one obvious prefer asthet reason . 
+if develop use sound manag i think sound driver mono sound typic come channel regardless under hardwar . 
+it possibl specifi want generat left channel one . 
+if develop write sound base game come left game . 
+the problem origin mac ii produc left channel sound intern speaker se30 mix n't realli relat . 
+it due post generat amplif use motherboard differ machin . 
+it affect true stereo sound . 
+sound actual mono play intern speaker matter machin . 
+now direct address question game list lem out this world awesom game btw glider 4.0 oid also hellcat super tetri oxyd mani i ve test cheat write soundbas left channel quadra . 
+other game list armor alley spectr spaceward ho ! 
+also pga tour golf civil person experi use sound manag work fine machin . 
+the stori develop do n't cheat ! 
+realli i absolut posit allow i i 'm go say anyway . 
+stop cheat sound ! 
+realli soon sorri even without extern speaker disappoint sound futur hardwar . 
+the grace period end . 
+the sound manag understand work pretti well work even better soon use . 
+in conclus to doug n't hardwar problem least bug . 
+to jon n't choic develop whether want send sound channel . 
+if right way taken care automat . 
+if cheat way make work hardwar . 
+have fun . 
+disclaim number 1 i n't work sound appl i 'm pretti well inform . 
+so n't write sound question . 
+disclaim number 2 if say i wrote anyth like grace period end bug news feed sinc i catagor allow say anyth like . 
+you know i mean . 
+disclaim number 3 i n't speak appl . 

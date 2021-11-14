@@ -1,0 +1,562 @@
+archive-nam net-privacypart2 last-modifi 199333 version 2.1 ident privaci anonym internet c 1993 l . 
+detweil . 
+not commerci use except permiss author otherwis may freeli copi . 
+not alter . 
+pleas credit quot . 
+summari email account privaci anonym file encrypt academ comput polici relev legisl refer eff privaci right issu associ use internet global network general . 
+search exact section . 
+search `` underlin next section . 
+part 2 file resourc 4.1 what unix program relat privaci ? 
+4.2 how i learn use cryptographi ? 
+4.3 what cypherpunk mail list ? 
+4.4 what privacy-rel newsgroup ? 
+faq ? 
+4.5 what internet privaci enhanc mail pem ? 
+4.6 what request for comment rfcs relat privaci ? 
+4.7 how i run anonym remail ? 
+4.8 what refer privaci email ? 
+4.9 what email usenet internet use polici ? 
+4.10 what mit crosslink '' anonym messag tv program ? 
+miscellan 5.1 what digit cash '' ? 
+5.2 what hacker '' cracker '' ? 
+5.3 what cypherpunk '' ? 
+5.4 what steganographi ' anonym pool ? 
+5.5 what secur obscur ' ? 
+5.6 what ident daemon ' ? 
+5.7 what standard need guard electron privaci ? 
+issu 6.1 what electron frontier foundat eff ? 
+6.2 who comput profession social respons cpsr ? 
+6.3 what oper sun devil ' steve jackson game case ? 
+6.4 what integr servic digit network isdn ? 
+6.5 what nation research educ network nren ? 
+6.6 what fbi 's propos digit telephoni act ? 
+6.7 what u. . 
+legisl relat privaci network ? 
+6.8 what refer right cyberspac ? 
+6.9 what comput academ freedom caf archiv ? 
+footnot 7.1 what background behind internet ? 
+7.2 how internet anarchi ' like english languag ? 
+7.3 most want list 7.4 chang histori resourc 4.1 what unix program relat privaci ? 
+for inform type man cmd ' apropo keyword ' unix shell prompt . 
+passwd chang password finger obtain inform remot user chfn chang inform obtain remot user sometim passwd -f ' chmod chang right associ file directori umask shell chang default creation file access right ls list right associ file directori xhost allow disabl access control particular user xwindow server last list latest user login system origin list user loginidl time origin w list user run xhost access control list x window client use xauth control x window server authent .signatur file home directori append usenet post .forward file use forward email account .xauthor file use x window server authent key signatur variabl use name email usenet post the tcpdump ' packet-trac program loos base smi 's etherfind although none etherfind code remain . 
+it origin written van jacobson lawrenc berkeley laboratori part ongo research project investig improv tcp internet gateway perform . 
+a current version avail via anonym ftp host ftp.ee.lbl.gov current address 128.3.254.68 file tcpdump.tar.z compress unix tar file . 
+this program subject standard ' berkeley network softwar copyright . 
+4.2 how i learn use cryptographi ? 
+a general introduct most theoret cryptograph issu especi frequent discuss sci.crypt avail faq form compil nist u. . 
+nation institut standard technolog publish introductori paper cryptographi special public 800-2 public-key cryptograhi '' jame nechvat april 1991 . 
+avail via anonym ftp csrc.ncsl.nist.gov 129.6.54.11 file pubnistpubs800-2.txt . 
+also via avail anonym ftp wimsey.bc.ca crypt.txt.z crypto directori . 
+cover technic mathemat aspect encrypt number theori . 
+more general inform found faq paul fahn rsa labortori via anonym ftp rsa.com pubfaq.ps.z . 
+see readm ' file inform tex ' version . 
+also avail hardcopi 20 rsa laboratori 100 marin parkway redwood citi ca 94065 . 
+send question phil zimmerman 's pgp pretti good privaci public-domain packag public key encrypt avail numer site widespread use internet general unix-bas file encrypt includ email . 
+consult archi ftp databas . 
+also see newsgroup alt.security.pgp . 
+mail list request from ripem faq marc vanheyningen ripem program perform privaci enhanc mail pem use cryptograph techniqu rsa des . 
+it allow electron mail properti authent i.e . 
+sent confirm privaci i.e . 
+nobodi read except intend recipi . 
+ripem written primarili mark riordan except rsa routin librari call rsaref licens rsa data secur inc . 
+ripem avail via anonym ftp citizen perman resid u. . 
+rsa.com cd rsaref read readm file info . 
+ripem well crypt stuff home site ' rpub.cl.msu.edu open non-anonym ftp user u. . 
+canada citizen perman resid . 
+to find obtain access ftp cd pubcrypt read file gettingaccess . 
+note cryptographi general well integr email yet system profici requir user util . 
+4.3 what cypherpunk mail list ? 
+dedic discuss technolog defens privaci digit domain . '' send email list . 
+from charter the import mean defens privaci encrypt . 
+to encrypt indic desir privaci . 
+but encrypt weak cryptographi indic much desir privaci . 
+cypherpunk hope peopl desir privaci learn best defend . 
+4.4 what privacy-rel newsgroup ? 
+faq ? 
+newsgroup alt.comp.acad-freedom.new alt.comp.acad-freedom.talk moder unmoder issu relat academ freedom privaci univers . 
+document exampl violat privaci e.g . 
+email . 
+document exampl censorship ' e.g . 
+limit usenet group local avail . 
+alt.cyberpunk virtual realiti scienc fiction william gibson bruce sterl cyberpunk mainstream . 
+alt.hack usenet network news transfer protocol nntp post mechan simpl mail transfer protocol smtp obligatori hack ' report . 
+alt.privaci general privaci issu involv taxpay licens social secur number etc . 
+alt.secur comp.security.misc comput relat secur issu . 
+faq news.answ . 
+alt.security.pgp alt.security.ripem dedic discuss public domain cryptograph softwar packag pgp pretti good privaci '' softwar develop phil zimmerman public key encrypt ripem mark riordan public key des encrypt . 
+comp.society.privaci privaci issu associ comput technolog . 
+exampl caller identif social secur number credit applic mail list etc . 
+moder . 
+comp.eff.new comp.eff.talk moder unmoder group associ electron frontier foundat start mitch kapor protect civil constitut right electron realm . 
+news.admin news.admin.polici concern news administr . 
+nntp standard mechan . 
+news.list usenet traffic distribut . 
+most frequent poster volumin group activ site etc . 
+sci.crypt consid scientif social issu cryptographi . 
+exampl legitim use pgp public-key patent des cryptograph secur cypher break etc . 
+faq faq frequently-ask question '' avail newsgroup .answer via anonym ftp pit-manager.mit.edu 18.172.1.27 also rtfm.mit.edu directori pubusenetnews.answersx x archiv name . 
+this faq archiv file net-privaci ' . 
+other network-infopart1 sourc inform internet connect nsf commerci vendor . 
+alt-security-faq comput relat secur issu aris alt.secur comp.security.misc most unix relat . 
+ssn-privaci privaci issu associ use u. . 
+social secur number ssn . 
+pdial public dialup internet account list . 
+college-emailpart1 how find email address undergradu graduat student faculti staff various colleg univers . 
+ripemfaq inform ripem program public key mail encrypt offici sanction public key partner inc . 
+compani own patent public key cryptographi . 
+unix-faqfaqpart1 frequently-ask question unix includ inform finger ' termin spi . 
+distribut known geograph univers network distribut . 
+4.5 what internet privaci enhanc mail pem ? 
+internet draft privaci enhanc mail pem describ standard revis six year delin offici protocol email encrypt . 
+the standard recent stabil implement develop . 
+rfc-1421 privaci enhanc internet electron mail part i messag encrypt authent procedur . '' j . 
+rfc-1422 privaci enhanc internet electron mail part rfc-1424 privaci enhanc internet electron mail part iv key certif relat servic '' b . 
+kaliski rfc-1423 privaci enhanc internet electron mail part iii algorithm mode identifi '' d . 
+balenson relat privaci '' inform obtain rfcs . 
+4.6 what request for comment rfcs relat privaci ? 
+rfc-822 smtp simpl mail transfer protocol rfc-977 nntp network news transfer protocol rfc-1036 standard interchang network news messag rfc-1208 glossari network term rfc-1207 answer experienc internet user '' question rfc-1206 answer new internet user '' question rfc-1355 privaci issu network inform center databas rfc-1177 fyi answer common ask new internet user '' question includ basic terminolog internet tcpip smtp ftp internet organ iab internet activ board ietf internet enbgin task forc glossari term . 
+also ftp.eff.org pubinternet-infointernet.q . 
+rfcs obtain via ftp nic.ddn.mil pathnam rfcrfcnnnn.txt rfcrfcnnnn.ps nnnn ' refer number rfc . 
+login ftp usernam anonym ' password guest ' . 
+the nic also provid automat mail servic site use ftp . 
+address messag indic rfc number subject rfc nnnn ' subject rfc nnnn.ps ' postscript rfcs . 
+rfcs also obtain via ftp nis.nsf.net . 
+use ftp login usernam anonym ' password guest ' connect rfc directori cd rfc ' . 
+the file name form rfcnnnn.txt-1 nnnn ' refer number rfc . 
+the nis also provid automat mail servic site use ftp . 
+address request blank . 
+the first line text messag must send rfcnnnn.txt-1 ' nnnn replac rfc number . 
+4.7 how i run anonym remail ? 
+cypherpunk remail sourc soda.berkeley.edu pubcypherpunk directori . 
+it 's written perl relat easi instal administr right requir . 
+modif . 
+also remail oper mention amen discuss featur problem help new site becom oper . 
+address point section responsib anonym use '' document prior advertis servic . 
+you commit long-term stabil site avoid run one surreptiti . 
+4.8 what refer privaci email ? 
+brown bob . 
+ema urg user adopt polici e-mail privaci . '' network world oct 29 1990 7.44 2 . 
+bairstow jeffrey . 
+who read electron mail ? '' electron busi june 11 1990 16 11 92 . 
+electron envelop uncertainti keep e-mail privat '' scientif american februari 1993 . 
+ftp.eff.org pubeffpapersemailprivaci articl right email privaci . 
+ruel t . 
+hernandez . 
+pubacademiclawprivacy.email comput electron mail privaci '' edit version law school seminar paper ruel t . 
+hernadez . 
+pubeffpapersemail-privacy-biblio-2 compil bibliographi e-mail privaci issu part 2 work . 
+compil staci b . 
+veeder 1291 . 
+pubeffpapersemail-privacy-research the author digit research tri formal employe privaci polici e-mail . 
+the casesight divid two group us constitut law california law . 
+pubeffpaperscompany-email formul compani polici access disclosur electron mail compani comput system david r . 
+johnson john podesta electron mail assoc pubcudalcor inform alcor co . 
+e-mail privaci suit . 
+pubacademiclawprivacy.email email privaci search berkeley . 
+4.9 what email usenet internet use polici ? 
+the comput polici critiqu archiv collect comput polici mani school network run comput academ freedom group electron frontier foundat ftp site . 
+the collect also includ critiqu polici . 
+if gopher archiv browsabl command gopher -p academicpolici gopher.eff.org the archiv also access via anonym ftp email . 
+ftp ftp.eff.org 192.88.144.4 . 
+it directori pubacademicpolici ' . 
+for email access send email send acad-freedompolici filenam filenam list file want . 
+file readm detail descript item directori . 
+for inform make contribut report typo contain addit polici critiqu . 
+ftp.eff.org pubcudnetwork accept use polici various network includ compuserv file compuserv ' nsfnet file nsfnet ' inform research commerci use . 
+see pubcudnetworksindex . 
+pubcudnetworksemail polici various sysadmin handl issu email privaci control abus compil t . 
+hooper pubcudschool comput use polici number school . 
+see schoolsindex full list descript . 
+commentari pubacademicfaqpolicy.best opinion best academ comput polici . 
+pubacademicfaqemail.polici do univers treat email comput file privat ? 
+pubacademicfaqnetnews.writ polici user write usenet . 
+pubacademicfaqnetnews.read polici user read usenet univers remov restrict netnew newsgroup peopl find offens ? 
+pubacademicfaqpolici what guidanc creat evalu univers 's academ comput polici ? 
+4.10 what mit crosslink '' anonym messag tv program ? 
+crosslink anonym messag system run mit student cabl tv-36 . 
+it provid anonym medium mit student say thing might otherwis find difficult inconveni imposs say person . 
+it 's also way send fun total random messag friend air . 
+it similar anonym messag page found mani colleg newspap except 's electron natur 's free . 
+messag post servic via email . 
+for miscellan 5.1 what digit cash '' ? 
+with digit encrypt authent technolog possibl widespread digit cash system may someday realiz . 
+a system util code sent user bank similar today 's check system except entir digit may one approach . 
+the issu cryptographi privaci anonym close associ transfer cash economi . 
+see articl scientif american david chaum dec.1992 . 
+an experiment digit bank run karl barrus cypherpunk mail list . 
+to use server send mail command help 5.2 what hacker '' cracker '' ? 
+these term arous strong feel mani mean especi internet . 
+in general news media past person use comput network malici end break system refer hacker internet user prefer term cracker '' . 
+instead hacker '' perceiv benign intens ambiti curious driven comput user explor obscur area system example-someth proud electron pioneer patriot . 
+this sens intend document . 
+see also hacker 's dictionari '' faq alt-security-faq ' . 
+5.3 what cypherpunk '' ? 
+from charter cypherpunk mail list cypherpunk assum privaci good thing wish . 
+cypherpunk acknowledg want privaci must creat expect govern corpor larg faceless organ grant privaci benefic . 
+cypherpunk know peopl creat privaci centuri whisper envelop close door courier . 
+cypherpunk seek prevent peopl speak experi opinion . 
+see inform cypherpunk mail list . 
+see also cryptoanarchist manifesto cryptographi glossari soda.berkeley.edupubcypherpunk . 
+5.4 what steganographi ' anonym pool ? 
+close associ encrypt steganographi ' techniqu pursu privat encrypt communic conceal exist communic . 
+mani new possibl area introduc prolifer comput technolog . 
+for exampl possibl encod messag least-signific bit imag typic noisi ' . 
+in addit item post public place newsgroup virtual untrac communic take place sender receiv . 
+for steganograph communic electron realm one anoth possibl set mail list individu messag get broadcast entir list individu user decod particular messag uniqu key . 
+an anonym pool set miron cuperman command subject line subscrib unsubscrib help 5.5 what secur obscur ' ? 
+secur obscur ' refer attempt gain protect system weak hide sensit inform program relat . 
+for exampl compani may make public inform softwar 's encrypt techniqu evad attack ' base knowledg . 
+anoth exampl would conceal data exist secur hole bug oper system . 
+or relianc may made fact standard mechan potenti problem serious wide known '' wide use . '' this argument occasion appli mechan email usenet post forgeri ' . 
+secur obscur ' regard feebl techniqu best inappropri ineffect worst also call head-in-the-sand approach '' . 
+see faq alt.secur . 
+some remark john perri barlow cofound electron frontier foundat direct nsa agent first intern symposium nation secur nation competit held mclean virginia dec . 
+1 1992 digit inform hard stamp classifi keep contain . 
+... 
+this stuff incred leaki volatil . 
+it 's almost life form abil self-propag . 
+if someth hit net 's someth peopl find interest spread like virus mind . 
+i believ must simpli accept idea move environ inform interest peopl go get . 
+and littl . 
+this bad thing view may differ ... 
+5.6 what ident daemon ' ? 
+rfc-931 describ protocol standard allow unix program queri remot user 's login name connect local communic socket connect type establish ftp telnet session exampl . 
+the standard wide support perhap 10 internet site current implement number increas . 
+the mechan detriment anonym . 
+regular user disabl system adminstr circumv . 
+this standard may repres trend toward greater authent mechan . 
+5.7 what new standard need guard electron privaci ? 
+remailingpost stabl secur protect offici sanction permit public privat oper anonym server hub . 
+offici standard encrypt anonym mail usenet post . 
+truli anonym protocol sourc destin inform obscur absent hidden rout mechan chain encrypt address etc . 
+standard anonym email address embed file remail site chain . 
+general recognit anonym cryptographi relat privaci shield legitim use desir crucial general public govern . 
+widespread use implement technolog system design hardwar softwar standard implement secur ' seamless ' transpar ' . 
+general shift use depend relianc mean wiretap electron surveil law enforc agenc . 
+public retract dissolut law govern agenc oppos privaci replac structur dedic strengthen protect . 
+issu 6.1 what electron frontier foundat eff ? 
+from ftp.eff.orgpubeffmissionstat a new world aris vast web digit electron media connect us . 
+computer-bas communic media like electron mail comput conferenc becom basi new form communiti . 
+these communiti without singl fix geograph locat compris first settlement electron frontier . 
+while well-establish legal principl cultur norm give structur coher use convent media like newspap book telephon new digit media easili fit exist framework . 
+conflict come law struggl defin applic context fundament notion speech properti place take profound new form . 
+peopl sens promis threat inher new comput communic technolog even struggl master simpli cope workplac home . 
+the electron frontier foundat establish help civil electron frontier make truli use benefici technic elit everyon way keep societi 's highest tradit free open flow inform communic . 
+eff start multimillionair mitchel kapor founder lotus softwar john barlow lyricist grate dead rock band . 
+a high public endeavor organ involv legal defens steve jackson game fbi raid accompani civil suit see section steve jackson game '' . 
+the foundat publish eff news effector in letter mitchel kapor chairman subcommitte primari jurisdict telecommun polici date novemb 5 1991 repres edward j . 
+markey complement mitchel kapor insight develop nation public inform infrastructur '' appreci great member subcommitte '' complet text ftp.eff.compubpub-infra1991-12 ... need pursu polici encourag bell compani work sector communic industri creat consumer-ori public inform network . 
+pleas let staff know polici other comput industri believ would best serv public interest creat reason price wide avail network competit open innov reward . 
+i also want learn lesson comput industri past ten fifteen year appli current debat structur inform communic network futur .... i ask help gain input comput industri subcommitte shape polici bring spirit innov entrepreneurship inform servic industri . 
+ftp.eff.org pubeffabout-eff a file basic inform eff includ goal mission achiev current project . 
+contain membership form . 
+pubeffmission-stat eff mission statement . 
+pubeffhistoricalfounding-announc eff found press releas . 
+pubeffhistoricaleff-histori john perri barlow 's not terribl brief histori eff '' juli 10 1990 . 
+how eff conceiv found major legal case organiz direct . 
+pubeffhistoricallegal-case-summari eff legal case summari . 
+6.2 who comput profession social respons cpsr ? 
+the comput profession social respons work protect promot electron civil liberti issu sinc 1982 . 
+the group three offic palo alto cambridg washington dc 20 chapter . 
+it involv litig fbi the nsa nist secret servic u. . 
+govern agenc declassifi provid document issu oper sundevil fbi wiretap propos nsa 's interfer crypographi breakup 2600 raid arlington va nov 1992 . 
+member speak frequent front congress state legisl public util commiss testifi privaci inform polici comput secur caller identif . 
+cpsr creat extens internet privaci librari avail via ftp gopher wai email cpsr.org current compris largest collect privaci document internet . 
+for inform anonym ftp cpsr.orgcpsr . 
+. 
+6.3 what oper sundevil ' steve jackson game case ? 
+in earli 1990 's fear spread among u. . 
+law enforc agenc illicit activ hacker ' phreaker ' involv activ credit card fraud long-dist call thieveri . 
+see ftp.eff.orgpubsjggeneralinformationeffector1.04 oper sundevil ' phoenix-inspir crackdown may 81990 concentr telephon code-fraud credit-card abus follow seizur plan success . 
+bulletin board system went america terrifi underground swift depriv least crimin instrument . 
+it also saddl analyst 24000 floppi disk confront harri justic depart prosecutor daunt challeng gigant nationwid hacker show-trial involv high technic issu dozen jurisdict . 
+massiv show-trial ' never materi although isol instanc prosecut pursu . 
+the movement reach crescendo texa high public case illeg search seizur involv steve jackson game compani austin texa march 1 1990 . 
+from column gurp ' labour lost fiction magazin in earli morn raid unlaw unconstitut warrant agent secret servic conduct search sjg offic . 
+when left took manuscript prepar public privat electron mail sever comput includ hardwar softwar sjg comput bulletin board system . 
+yet jackson busi innoc crime never suspect first place . 
+the raid stage unfound suspicion somewher jackson 's offic might ' document compromis secur 911 telephon system . 
+fbi agent involv seizur name civil suit file behalf steve jackson game the electron frontier foundat . 
+see inform eff . 
+from articl joe abernathi houston chronicl feb 1 1993 austin an electron civil right case secret servic close thursday clear statement feder district judg sam spark servic fail conduct proper investig notori comput crime crackdown went far retain custodi seiz equip . 
+secret servic special agent timothi foley chicago charg three austin comput search-and-seizur march 1 1990 led lawsuit stoical endur spark 's rebuk servic 's poor investig abus comput seizur polici . 
+while servic seiz dozen comput sinc crackdown began 1990 first case challeng practic . 
+spark grew visibl angri establish austin scienc fiction magazin game book publish never suspect crime agent even margin research establish crimin connect firm suspect illeg activ employe determin compani publish . 
+inde agent testifi even train privaci protect act special secret servic school comput crime . 
+how long would taken mr . 
+foley find steve jackson game ? 
+ask spark . 
+an hour ? 
+was reason march 2 could return steve jackson game copi floppi disk form everyth taken ? 
+did read articl busi week magazin pictur steve jackson law-abid tax-pay citizen say comput crime suspect ? 
+did ever occur mr . 
+foley seiz materi could harm steve jackson econom ? 
+foley repli no sir judg offer answer . 
+you actual idea anybodi would actual go hire lawyer sue more 200000 spent electron frontier foundat bring case trial . 
+the eff found mitchel kapor amid civil liberti movement spark larg part secret servic comput crime crackdown . 
+ftp.eff.org pubcudpaperssundevil a collect inform oper sundevil epic nonprofit publish project . 
+everyth want know could never find . 
+pubcudpaperssj-resp steve jackson 's respons charg . 
+6.4 what integr servic digit network isdn ? 
+isdn high-spe data communic standard util exist copper telephon line possibl inexpens intermedi altern lay fiber optic cabl phone network . 
+the speed involv may suffici audio video transmiss applic . 
+g . 
+v . 
+der leun file ftp.eff.org pubpub-infra1991-11 telecommun unit state crossroad . 
+with region bell oper compani free provid content shape inform network irrevoc alter . 
+but network open access afford network american public need ? 
+you help decid question . 
+the electron frontier foundat recent present plan congress call immedi deploy nation network base exist isdn technolog access anyon telephon connect price like local voic servic . 
+we believ deploy platform spur develop innov new inform servic maxim freedom competit civil liberti throughout nation . 
+the eff testifi congress fcc make present public util commis massachusett california meet repres telephon compani publish consum advoc stakehold telecommun polici debat . 
+the eff believ particip internet pioneer electron frontier need voic heard critic moment . 
+to automat receiv descript platform detail send document open-platform-overview open platform propos ftp.eff.orgpubpub-infra1991-02 . 
+refer digit data on demand . '' macworld 282 page 224 . 
+56kbps vs . 
+isdn servic product . 
+see comment j . 
+power ftp.eff.orgpubpub-infra1992-02 . 
+telephon servic that ring futur . '' by joshua quittner . 
+newsday tue jan 7 1992 . 
+implic isdn mass written popular scienc style . 
+john perri barlow cofound eff . 
+region telephon compani ohio bell . 
+isdn technolog rorschach test . '' anecdot mcdonald 's barbara bush teleconferenc . 
+see complet text ftp.eff.orgpubpub-infra1992-01 . 
+ftp.eff.orgpubpub-infra file 1991-11 1992-05 contain email eff public infrastructur group organ month . 
+opinion fact pros con isdn integr servic digit network . 
+use isdn phone video audio etc . 
+japanes model . 
+altern isdn hdsl adsl fiber optic . 
+technic specif isdn implement detail cost issu polit obstacl rboc region bell oper compani babi bell ' e.g . 
+net new england telephon . 
+influenc develop futur network e.g . 
+isdn nren nation research educ network encourag competit cabl tv system . 
+press releas news articl . 
+letter rep . 
+e . 
+j . 
+markey m . 
+kapor . 
+6.5 what nation research educ network nren ? 
+the nation research educ network introduc legisl cosponsor sen . 
+a . 
+gore promot high-spe data network infrastructur augment internet 50 time faster transmiss rate . 
+the bill pass hous novemb 20 1991 senat novemb 22 1991 sign presid decemb 9 1991 . 
+ftp.eff.org pubefflegislationnren-bill-text the complet text house-sen compromis version s . 
+272 high-perform comput act . 
+pubinternet-infogore.bil 102nd congress 1st session . 
+text high perform comput bill cosponsor sen . 
+a . 
+gore . 
+pubefflegislationgore-infrastructure-bil the text s.2937 inform infrastructur technolog act 1992 introduc senat gore expand feder effort develop technolog applic high-perform comput high-spe network provid coordin feder program acceler develop deploy advanc inform infrastructur . 
+u. . 
+said to play favorit in promot nationwid comput network by john markoff n.i . 
+time 18 dec 91 . 
+presid bush 's legisl natiowid comput data superhighway . ' ibm-mci ventur monopoli destruct fair competit innov ? 
+nation scienc foundat nsfnet . 
+complet text pubpub-infra1991-12 . 
+commentari pubacademicstatementsnren.privacy.cpsr propos privaci guidelin nren '' statement marc rotenberg washington director comput profession social respons cpsr . 
+pubinternet-infocisler.nren the nation research educ network two meet steve cisler senior scientist appl comput librari decemb 17 1990 summari meet explor educ issu nren divers member academia industri . 
+pubinternet-infoprivatized.nren feb . 
+14 1991 essay m . 
+kapor advoc advantag privat nation public network specif recommend open nren polici encourag competit . 
+pubeffpapersnetproposit an fyi propos nren setup . 
+6.6 what fbi 's propos digit telephoni act ? 
+provid electron communic servic privat branch exchang oper shall provid within unit state capabl capac govern intercept wire electron communic author law ... '' from bbs legisl watch fbis wiretap propos thwart ' s . 
+steel boardwatch magazin feb . 
+1993 p . 
+19-22 in move worri privaci expert softwar manufactur telephon compani fbi propos legisl amend communic act 1934 make easier bureau perform electron wiretap . 
+the propos legisl entitl digit telephoni ' would requir communic servic provid hardwar manufactur make system tappabl ' provid back door ' law enforc offic could intercept communic . 
+furthermor capabl would provid undetect communic progress exclus communic parti regardless mobil target fbi 's investig without degrad servic . 
+... propos depart justic doj keep communic product market determin product meet doj 's ... 
+guidelin . 
+this could result increas cost reduc competit servic provid equip manufactur sinc unlik add featur may result doj reject entir product . 
+... fbi propos suggest cost wiretap servic ' bureau would born servic provid ... 
+the electron frontier foundat organ broad coalit public interest industri group comput profession social responsibilti cpsr aclu att sun microsystem oppos legisl . 
+a white paper produc eff ratifi coalit entitl an analysi fbi digit telephoni propos ' wide distribut throughout congress . 
+... 
+the justic depart lobbi hard final day get congress take bill congress adjourn bill never ... 
+found congression sponsor therefor never offici introduc . 
+the fbi may reintroduc digit telephoni 103rd congress conven januari . 
+ftp.eff.org pubefflegislationfbi-wiretap-bil pubefflegislationnew-fbi-wiretap-bil a bill ensur continu access law enforc content wire electron communic author law purpos . 
+version 2 bill fbi chang respons public respons . 
+pubcudlawhr3515 hous rep bill 3515 telecommun law . 
+commentari pubeffpaperseff-fbi-analysi the eff-sponsor analysi fbi 's digit telephoni propos . 
+pubeffpapersecpa.layman the electron communic privaci act 1986 a layman 's view . 
+pubeffpapersnightline-wir transcript abc 's nightlin may 22 1992 fbi privaci propos wire-tap legisl . 
+featur marc rotenberg cpsr william session director fbi . 
+pubeffpapersedwardslett a letter director secret servic us rep . 
+don edward d-california respons question rais edward ' subcommitte . 
+this copi came comput profession social respons washington d.c . 
+pubeffpapersfbi.system a descript inform store fbi 's comput system . 
+6.7 what u. . 
+legisl relat privaci ? 
+ftp.eff.org pubcudlawst state comput crime law al ak az ca co ct de fl ga hi ia id il in md mn nc nj nm ny or tx vt va wa wi wv . 
+pubcudlawcountri current comput crime law the unit state feder code canada ghana great britain . 
+pubcudlawbill.s.618 senat bill 618 address registr encrypt key govern . 
+pubcudlawimprov improv inform access bill . 
+pubcudlawmonitor senat bill 516 concern abus electron monitor workplac . 
+pubcudlawus.e-privaci titl 18 relat comput crime email privaci . 
+pubacademiclawprivacy.electronic.bil the text simon 's electron privaci bill s . 
+516 . 
+to prevent potenti abus electron monitor workplac . '' 6.8 what refer right cyberspac ? 
+ftp.eff.org pubcudpapersconst.in.cyberspac laurenc tribe 's keynot address first confer comput freedom privaci . 
+the constitut cyberspac ' pubcudpapersden paper present 13th nat ' l comp secur conf concern hacker who break comput system '' dorothi e den . 
+pubcudpapersprivaci comput privaci vs first fourth amend right '' michael s . 
+borella pubcudpapersrights-of-expr right express cyberspac r . 
+e . 
+baird pubacademiceff.right bill right ' mean electron frontier . 
+6.9 what comput academ freedom caf archiv ? 
+the caf archiv electron librari inform comput academ freedom . 
+run comput academ freedom group electron frontier foundat ftp site . 
+if gopher archiv browsabl command gopher -p academ gopher.eff.org it avail via anonym ftp ftp.eff.org 192.88.144.4 directori pubacadem ' . 
+it also avail via email . 
+for in bodi note includ line help ' index ' . 
+for inform make contribut report typo ftp.eff.org pubacademicstatementscaf-stat codifi applic academ freedom academ comput reflect seven month on-lin discuss comput academ freedom . 
+cover free express due process privaci user particip . 
+pubacademicbook directori book refer relat comput academ freedom mention caf discuss . 
+the file booksreadm bibliographi . 
+pubacademicfaqarch list file avail comput academ freedom archiv . 
+pubacademicnew directori issu comput academ freedom news . 
+a full list abstract avail file abstract ' . 
+the special best-of-the-month issu name month exampl june ' . 
+footnot 7.1 what background behind internet ? 
+the articl internet '' fantasi scienc fiction bruce introductori note origin internet includ role rand corpor goal network resili face nuclear attack mit ucla arpanet tcpip nsf nren etc . 
+arpanet formal expir 1989 happi victim overwhelm success . 
+it user scarc notic arpanet 's function continu steadili improv . 
+the use tcpip standard comput network global . 
+in 1971 mere twenty-on year ago four node arpanet network . 
+today ten thousand node internet scatter forty-two countri come on-lin everi day . 
+three million possibl four million peopl use gigant mother-of-all-computer-network . 
+the internet especi popular among scientist probabl import scientif instrument late twentieth centuri . 
+the power sophist access provid special data person communic sped pace scientif research enorm . 
+the internet 's pace growth earli 1990s spectacular almost feroci . 
+it spread faster cellular phone faster fax machin . 
+last year internet grow rate twenti percent month . 
+the number host ' machin direct connect tcpip doubl everi year sinc 1988 . 
+the internet move origin base militari research institut elementari high school well public librari commerci sector . 
+refer bower k . 
+t . 
+laquey j . 
+reynold k . 
+roubicek m . 
+stahl a . 
+yuan where start a bibliographi general internetwork inform '' rfc-1175 cnri u texa isi bbn sri mitr august 1990 . 
+the whole internet catalog user 's guid ed krol . 
+1992 o'reilli associ inc . 
+a clear non-jargon introduct intimid busi network literaci written humor style . 
+krol e . 
+the hitchhik guid internet '' rfc-1118 univers illinoi urbana septemb 1989 . 
+the user 's directori comput network '' traci laquey . 
+the matrix comput network conferenc system worldwid . 
+john quarterman . 
+digit press bedford ma . 
+1990 massiv high technic compendium detail mind-boggl scope complex global internetwork . 
+donnalyn frey rick adam . 
+the internet companion traci laquey jeann c . 
+ryer 1992 addison wesley . 
+evangel '' etiquett guid internet featur anecdot tale life-chang internet experi . 
+foreword senat al gore . 
+zen art internet a beginn 's guid brendan p . 
+keho 1992 prentic hall . 
+brief use internet guid plenti good advic use databas . 
+see also ftp.eff.compubinternet-info . 
+thank bruce sterl general cunningham scott alan l . 
+porter . 
+communic network a dozen way ll chang live . '' the futurist 26 1 january-februari 1992 19-22 . 
+brian kahin ed . 
+build inform infrastructur new york mcgraw-hil 1992 isbn 0-390-03083-x essay inform infrastructur . 
+polici design issu research nren futur vision inform market . 
+see tabl content ftp.eff.orgpubpub-infra1992-03 . 
+shapard jeffrey . 
+observ cross-cultur electron network . '' whole earth review winter 1990 32-35 . 
+varley pamela . 
+electron democraci . '' technolog review novemberdecemb 1991 43-51 . 
+7.2 how internet anarchi ' like english languag ? 
+the internet 's anarchi ' may seem strang even unnatur make certain deep basic sens . 
+it 's rather like anarchi ' english languag . 
+nobodi rent english nobodi own english . 
+as english-speak person 's learn speak english proper make whatev use pleas though govern provid certain subsidi help learn read write bit . 
+otherwis everybodi sort pitch somehow thing evolv somehow turn workabl . 
+and interest . 
+fascin even . 
+though lot peopl earn live use exploit teach english english ' institut public properti public good . 
+much goe internet . 
+would english improv the english languag inc. ' board director chief execut offic presid congress ? 
+there 'd probabl lot fewer new word english lot fewer new idea . 
+7.3 most want list hope benefit creation compil condens inform various sourc regard privaci ident anonym internet . 
+the author commit keep up-to-d strengthen effect feedback . 
+in particular follow item sought short summari rfc document refer list esp . 
+cpsr file . 
+more data specif use penetr rfc-931 . 
+internet traffic statist . 
+how much email ? 
+how much usenet ? 
+what cost involv ? 
+famous obscur exampl compromis privaci internet . 
+ftp site code not code turn .plan file name pipe sensingreact remot finger ' . 
+knowledg promiscu ' mode receipt transmiss network card . 
+detail infam experi scientist resubmit previous accept paper promin journal new unknown author subsequ reject . 
+x window eff cpsr faqhood news.answ . 
+commer use document negoti way author recoup signific time invest . 
+email feedback newsgroup etc .. 
+7.4 chang histori 3393 v2.1 current cpsr pointer new unix mode exampl digit telephoni act steve jackson incid addit reorgan anonym section part 3 . 
+note v2.0 post sci.crypt alt.privaci news.answ alt.answ sci.answ cancel j . 
+kamen incorrect subject line . 
+21493 v2.0 major revis . 
+new section x window . 
+some email privaci item reorgan network secur section . 
+new section email liabil issu anonym histori respons . 
+split three file . 
+mani new sourc ad particular eff caf new issu ' part . 
+commentari ' news.admin.polici . 
+21 day autom post start . 
+2393 v1.0 more newsgroup faq ad . 
+more most want ' . 
+post news.answ . 
+futur month post sci.crypt alt.privaci . 
+2193 v0.3 format 72 column quot etc . 
+miscellan ' resourc ' section ad cypherpunk server use warn . 
+more unix exampl ls ' chmod ' . 
+post alt.privaci comp.society.privaci . 
+12993 v0.2 ident ' privaci ' section ad . 
+anonym ' expand . 
+remail address remov due lack inform instabl . 
+post sci.crypt . 
+12593 v0.1 origin post cypherpunk mail list 12593 call organ list anonym server . 
+see also part 1 previous file 1.1 what ident ' internet ? 
+1.2 whi ident unimport internet ? 
+1.3 how email address identifi background ? 
+1.4 how i find somebodi email address ? 
+1.5 whi identif unstabl internet ? 
+1.6 what futur identif internet ? 
+2.1 what privaci ' internet ? 
+2.2 whi privaci unimport internet ? 
+2.3 how insecur internet network ? 
+2.4 how insecur account ? 
+2.5 how insecur file directori ? 
+2.6 how insecur x window ? 
+2.7 how insecur email ? 
+2.8 how i liabl email post ? 
+2.9 how i provid moreless inform other ident ? 
+2.10 who sysadmin ? 
+what know ? 
+2.11 whi privaci unstabl internet ? 
+2.12 what futur privaci internet ? 
+3.1 what anonym ' internet ? 
+3.2 whi anonym ' unimport internet ? 
+3.3 how anonym protect internet ? 
+3.4 what anonym mail ' ? 
+3.5 what anonym post ' ? 
+3.6 whi anonym unstabl internet ? 
+3.7 what futur anonym internet ? 
+part 3 next file 8.1 what known anonym remail post site ? 
+8.2 what respons associ anonym ? 
+8.3 how i kill ' anonym post ? 
+8.4 what histori behind anonym post server ? 
+8.5 what valu anonym ? 
+8.6 should anonym post group allow ? 
+8.7 what system oper anonym post ? 
+8.8 what go anon.penet.fi maintain j . 
+helsingius ? 

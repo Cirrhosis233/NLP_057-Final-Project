@@ -1,0 +1,10 @@
+could somebodi let know draw util use manipul postscript files.i specif interest draw line box sort postscript contour plot . 
+i tri xfig i impress 's featur . 
+howev use sinc i use postscript file input programme.i util convert postscript xfig format ? 
+ani help would great appreci . 
+nishantha i think optimist ! 
+postscript big languag fig format abl interpret ani arbitrari ps code . 
+the program i know manipul postscript file islanddraw . 
+i use xfig includ postscript file convert epsi format . 
+small chang possibl eras letter ad text . 
+reinhard 

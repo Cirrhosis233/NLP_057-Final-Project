@@ -1,0 +1,7 @@
+i 'd like compil x11r5 soni nws-1750 run news 4.1c . 
+the x distribut support config releas note say test machin . 
+but also releas note noth soni list support server . 
+what i suppos use r5 x server ? 
+how os support hardwar ? 
+is someth r4 binari use r5 server ? 
+these may seem like silli question i 'm realli confus . 

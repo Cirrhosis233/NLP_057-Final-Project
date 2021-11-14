@@ -1,0 +1,3 @@
+hi with 16meg ram need runload smartdrv window 3.1 ? 
+if yes i runload ramdriv without smartdrv ? 
+if i need ramdriv smartdrv follow config.si set ok ... smartdrv.si 2048 2048 ... ramdrive.si 2048 e thank advanc e-mail repli . 

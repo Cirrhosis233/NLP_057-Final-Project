@@ -1,0 +1,4 @@
+i would like advic configur 486 accept com1 com2 current irq 4 3 lpt1 irq7 bus mous irq5 sound card idea set use irq2 bus mous gobbl mani cycl caus loss communic floppi disk problem . 
+i could i suppos switch 2 com devic extern disabl second port super io card i realli want avail . 
+could sound card use irq2 without hors work ? 
+all repli apppreci i subscrib newsgroup i assum faq somewher rather i 'm sure someon tell .... 

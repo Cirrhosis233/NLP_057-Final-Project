@@ -1,0 +1,12 @@
+hi i tri develop util view word window file . 
+but i need know format doc word window file format files.can anybodi tell format doc file direct i get . 
+or proprietori format your help great apprici . 
+thank the format word window doc file avail microsoft . 
+call develop support servic number sorri n't handi ask word window binari file format spec . 
+warn it terribl use need lot look figur stuff store . 
+general primer word window store data two chunk . 
+the first chunk actual text file . 
+this store togeth noth text graphic . 
+the second chunk format inform . 
+for general use read word window file skip first 384 byte file general header . 
+then read remain text hit binari data . 

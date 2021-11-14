@@ -1,0 +1,31 @@
+i set dosunix box 116m ide 412m scsi drive wonder use ms-dos 5.0 join command . 
+i like way set thing sinc i wo n't stick c d e crap dos enforc . 
+i like would mimic mount point unix filesystem . 
+i heard problem use least older version dos . 
+pleas tell ! 
+i use join command mani year most good success duplic unix-styl file mount . 
+you hear lot peopl curs join confus dos append command trueli gnar hack n't believ . 
+you also hear peopl say microsoft recommend use join . 
+but microsoft 's window 4 workgroup resourc toolkit follow appear join ms-dos util work fine window workgroup 3.1 chang state join drive window workgroup 3.1 session . 
+this includ ad remov join drive within window workgroup . 
+we recommend use join run window setup window workgroup 3.1 within caveat join appear valid window . 
+howev i found coupl applic n't deal well filesystem mount use join . 
+in particular worst offend word window 2.0x . 
+it get confus edit tri save file join drive . 
+it want creat save file nnnnn.tmp current dir delet old file renam nnnnn.tmp file .doc file . 
+unfortun wfw usual write nnnnn.tmp file idiot place current directori often root dir join filesystem alway . 
+then delet origin .doc file ca n't find nnnnn.tmp file renam . 
+unless search disk system document gone . 
+i also found subtl problem use mks toolkit dos box join filesystem present . 
+i use join ctemp 4meg ramdisk mks sometim get confus ls ctemp dir miss file temp dir . 
+this difficult reproduc goe away total join use . 
+i think window problem rather mks 's sinc work ok raw dos . 
+so i would suggest use join awar may robust would like . 
+would n't real great mount network drive i.e . 
+z main file tree rather darn drive letter ? 
+unfortun join wo n't let . 
+there talk net simpl patch let join work network drive i n't rememb sourc . 
+it 's bad join command better implement sinc would avoid use stupid drive letter . 
+i realiz messdo meant casual even ignor user mount drive one file tree might confus . 
+but look like ms go carri window nt anoth os meant casual even igor user not ! . 
+with 's old famili system baggag mayb ms need recoveri group get life - . 

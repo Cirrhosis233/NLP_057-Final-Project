@@ -1,0 +1,17 @@
+i 5 14 drive drive a . 
+how i make system boot 3 12 b drive ? 
+optim comput would abl boot either a b check order bootabl disk . 
+but i switch cabl around simpli switch drive ca n't boot 5 14 disk 's ok . 
+also bootb wo n't trick . 
+thank davebo we issu plagu us month gateway . 
+i final got tire i perman interchang drive . 
+the reason i n't first place i sever bootabl 5-14 's 5-14 base instal disk expect a drive . 
+i order new softwar upgrad 3-12 number stupid instal program ca n't handl altern drive declin time one i upgrad . 
+and bootabl 5-14 's i cut 3-12 replac . 
+if switch drive option might abl wire drive switch comput chasi . 
+i n't tri i think would work long wire care . 
+i . 
+i use relay radio shack 4pdt instead huge switch . 
+this way relay break drive still work . 
+it work fine may still need chang cmos drive switch work correct program . 
+rp93 

@@ -1,0 +1,105 @@
+configur ide harddisk last updat 14.4.1993 publish regular comp.sys.ibm.pc.hardwar . 
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 
+there explicit no warranti given set correct harmless . 
+i collect i check ! ! ! . 
+there alway possibl set may destroy hardwar ! 
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! 
+sinc i hope howev well-mind peopl undergo effort post set chanc applic exist . 
+if agre disagre set let know immedi order updat list . 
+if possess hd mention know bio andor jumper set pleas mail next updat list ! 
+onli ide at-bus harddisk account . 
+if specifi land zone set equal number cylind . 
+if specifi write precompens ' set 65535 . 
+there bios n't even ask . 
+anoth statement mayb right ide harddisk n't precomp lzone . 
+the precomp built-in paramet lzone n't use everi ide disk autopark . 
+the jumper ' name given print hd 's board often jumper number jp12 mean jumper 12 ' . 
+a zero mean jumper left open one mean jumper close . 
+c o n n e r conner peripher drive geometri ideat conner drive low level format factori . 
+it necessari run setup fdisk dos format . 
+model head cylind sector pcomp l-zone type tabl led cp2034 2 823 38 0 823 ut 3 na cp2064 4 823 38 0 823 ut 3 na cp2084 8 548 38 0 548 ut 3 na cp3184 6 832 33 0 832 ut 1 a cp3104 8 776 33 0 776 ut 1 a cp3111 8 833 33 0 833 ut 1 a ? 
+cp3204 16 683 38 0 683 ut 2 b cp30064 4 762 39 0 762 ut 2 b cp30084 8 526 39 0 526 ut 2 b cp30104 8 762 39 0 762 ut 2 b cp30084e 4 903 46 0 903 ut 3 c cp30174e 8 903 46 0 903 ut 3 c cp30204 16 683 38 0 683 ut 3 c cp3304 16 659 63 0 659 ut 3 d cp3364 16 702 63 0 702 ut 3 d cp3504 16 987 63 0 987 ut 3 d cp3554 16 1054 63 0 1054 ut 3 b tabl 1 tabl 2 jumper set jumper set singl drive jumper act cd singl drive jumper cd master drive jumper act cd dsp master drive jumper cd dsp slave drive no jumper instal slave drive no jumper instal tabl 3 all conner 20 mbyte drive use jumper set drive type 2 . 
+all conner 40 mbyte drive use drive type 17 . 
+singl master drive jumper cd slave drive no jumper instal ut univers translat . 
+select drive type close exceed megabyt capac drive . 
+the drive translat megabyt capac select . 
+led a b c d j-4 j-5 j-5 j-3 pin 1 pin 3 pin 3 pin 3 pin 2 pin 4 pin 4 pin 4 when i instal conner cp3204f 203 mb master wd caviar 2200 203 mb slave without cp jumper caviar seem normal behaviour . 
+howev write caviar would overwrit directori etc . 
+use fastback almost imposs . 
+the workaround instal caviar master conner slave . 
+f u j i t s u detail of fujitsu drive m261xt standard m2614et m2613et m2612et m2611t head physic 8 6 4 2 cyl physic 1334 1334 1334 1334 sectrk 33 33 33 33 speed rpm 3490 3490 3490 3490 capac 180mb 135mb 90mb 45mb psu cnh-2 1 1 led cnh-1 9 cnh-3 connector 1 6 .. 1 40-way ide 12 pin function posit 1- 2 activ mode 2- 3 slave present mode 4- 5 pin 27iochrdi cnh-1 jumper 5- 6 pin 27reserv 7- 8 2 drive system 8- 9 1 drive system 10-11 pin 29irq14 pin 31reserv 11-12 pin 31irq14 pin 29reserv pin function posit 1- 2 slave drive mode cnh-2 jumper 4- 5 master drive mode 7- 8 ecc 4 byte 8- 9 ecc 7 byte pin function posit 1- 2 write protect enabl cnh-3 jumper 2- 3 write protect disabl 4- 5 -6 reserv key i guess ! 
+mark factori default set jumper bio set bio set m2614et system 667 cylind 33 sector 16 head . 
+i tri set ide drive subject slave drive a conner 170mb drive contact support compani gave answer work . 
+the factori default sw2 on off off off off off 1-6 . 
+this set drive singl drive . 
+set sw2 off on on off off off make slave drive . 
+sw1 set on off off on 1-4 along . 
+model cylind head sector capac million byte m2622t 1013 10 63 326.75 m2623t 1002 13 63 420.16 m2624t 995 16 63 513.51 there 6 switch switch block drive . 
+onli 4 use i awar m2624t manual masterslav master sw1-5 off slave sw1-5 on ecc byte 4 byte sw1-4 off 7 byte sw1-4 on write protect disabl sw1-3 off enabl sw1-3 on io channel readi disabl sw1-1 off enabl sw1-1 on i idea function sw1-2 sw1-6 . 
+the valu list factori default set . 
+k a l o k kalok kl3100 105 mb bio cyl 979 head 6 sector 35 kalok kl3120 120 mb bio cyl 981 head 6 sector 40 the follow jumper set report kl3100 probabl also valid kalok drive . 
+singl hd o-o row pin 1 ide connector . 
+master disk 1 slave these 5 pair pin righthand side disk . 
+m a x t o r model cyl head sector precomp land zone lxt-200a 816 15 32 0 816 lxt-213a 683 16 38 0 683 lxt-340a 654 16 63 0 654 lxt437a 842 16 63 0 842 lxt535a 1036 16 63 0 1024 jumper follow the bottom drive look like well sort 1-2 3-4 5-6 7-8 9-10 power ide connector- singl drive dual drive system pin number jumper system master slave 1-2 slave drive remov remov instal 3-4 activ led option option option 5-6 slave present remov remov option 7-8 master drive remov instal remov 9-10 sync spindl remov na option remov one drive master array jumper instal . 
+maxtor 7060a 16 467 17 620 j14 close j13 close maxtor 7060a 7 1024 17 595 j14 open j13 open maxtor 7060a 4 762 39 580 j14 close j13 open maxtor 7060a 8 925 17 579 j14 open j13 close maxtor 7120a 16 936 17 1243 j14 close j13 close maxtor 7120a 14 1024 17 1190 j14 open j13 open maxtor 7120a 8 762 39 1160 j14 close j13 open maxtor 7120a 15 900 17 1120 j14 open j13 close maxtor 7120a 8 824 33 1062 j14 jumper 2 drive j11 io-channel readi open disabl close enabl j13 see j14 see j15 operation-status open normal close factori j j j j j 2 1 1 1 1 0 9 8 7 6 power data-c j16 idl mode latch open disabl close enabl j17 drive model open 7060a close 7120a j18 ecc byte open 7 byte close 4 byte masterslav drive master alon j20 close j19 close drive master two drive j20 close j19 open drive slave two drive j20 open j19 close maxtor 7213a default power-up at bio translat paramet other possibl cyl hds spt mbyte 683 16 38 212 there two set jumper . 
+a set 5 set 4 . 
+with power ide connector toward set 5 number left right j16 j20 set 4 number bottom top j22-j25 . 
+the jumper normal interest j20 . 
+jumper drive singl drive system master drive dual drive system . 
+remov jumper j20 slave drive dual drive system . 
+j19 dummi may use store spare shunt drive configur slave mode . 
+jumper j17 j18 j24 j25 factori reserv . 
+abnorm oper may occur jumper . 
+jumper 22 sync spindl enableddis opendis jumper 23 sync slavemast openslav jumper 16 io channel readi opendis maxtor 7245a 245mb ide self-park univers translat drive type user defin cyl hds wpc lz st 967 16 0 0 31 wpc lz option master2 j20 close slave2 j20 open use j19 shunt storag singl j20 close m i c r o p o l i s drive 2105a 2112a unformat mb 647 1220 format mb 560 1050 platter 5 8 head 8 15 cylind 1760 1760 perform track track read 1.5 msec track track write 2.5 msec averag 10 msec max 25 msec avg rotat latenc 5.56 msec rotat speed 5400 rpm 5 data transfer rate upto 5mbytessec intern data rate 24-40 mbitssec bio set 2105a 1084 cyl 16 head 63 sector 2112a master 1024 cyl 16 head 63 sector slave 1010 cyl 16 head 63 sector 2112a emul master slave jumper label j6 drive oo w1 2 use oo w2 oo oo oo w2 w1 2112a drive emul master slave drive master slave present drive slave drive master slave present ie singl drive m i c r o s c i e n c e microsci model 7100-00 head 7 cylind 855 st 35 size 105m model 8040-00 . 
+size 40m 5hd17sec977cyl m i n i s c r i b e miniscrib model at cap cyc h rwc wpc enc rate access spt comment 8225at 3.5 21 745 2 8 28 ms 28 8051at 3.5 42 745 4 8 28 ms 28 8450at 3.5 42 745 4 8 40 ms 28 master2 5-6 slave2 1-2 singl 1-3 shunt storag n e c nec d3735 40 mb bio cyl 537 head 4 sect 41 nec d3755 105 mb bio cyl 625 head 8 sect 41 nec d3741 44 mb bio cyl 423 head 8 sect 26 wpcom 0 lzone 424 jumper jp12 jp13 nec drive singl 0 0 master 1 0 slave 1 1 there report difficulti use wd caviar master nec drive slave way work . 
+q u a n t u m logic spec quantum at drive compliment of comput broker of canada model cap avg acc cylind head sectorstrack mb ms 40at 42 19 965 5 17 80at 84 19 965 10 17 120at 120 15 814 9 32 170at 168 15 968 10 34 210at 209 15 873 13 36 425at 426 14 1021 16 51 lps 52at 52 17 751 8 17 lps 80at 83 17 611 16 17 lps 105at 105 17 755 16 17 lps 120at 122 16 901 5 53 lps 240at 245 16 723 13 51 legend 1jumper instal 0no jumper 40 80 at jumper ds ss mean 1 0 singl drive configur 1 1 master dual drive 0 0 slave dual drive 0 1 self-seek test 120 170 210 425 at jumper ds sp ss mean 0 0 0 slave master quantum prodriv 4080a 0 0 1 slave prodriv 4080a mode 0 1 0 slave master non quantum drive 0 1 1 not use 1 0 1 master drive pdiag mode check dasp slave 1 1 0 master pdiag mode use sp check slave present 1 1 1 master 4080a mode use sp check slave present 1 0 0 singl drive lps 52 80 105 120 240 at jumper ds sp dm mean 0 0 0 slave standard pdiag mode compat drive use pdiag-lin handl masterslav communic 0 0 1 slave prodriv 4080a mode compat . 
+without use pdiag line 0 1 0 self test 0 1 1 self test 1 0 0 master pdiag mode use dasp check slave 1 0 1 master 4080a mode use dasp check slave 1 1 0 master pdiag mode use sp check slave without check dasp 1 1 1 master 4080a mode use sp check slave without check dasp while spec form mark jumper name dm label cs lps 240at drive . 
+the quantum el seri model cap avg acc cylind head sectorstrack mb ms els42at 42 968 5 17 els85at 85 977 10 17 els127at 127 919 16 17 els170at 170 1011 15 22 write precomp 0 quantum drive probabl signific land zone cylind strap if el drive master use ds master slave ds ds sp case slave strap r o d i m e inform ro 3008a ro 3009a seri hard disk drive drive type model cyl hds sectorstrk no . 
+block format cap . 
+ro3058a 868 3 34 88536 45.33 mbyet ro3088a 868 5 34 147560 75.55 mbyet ro3095a 923 5 34 156910 80.33 mbyet ro3128a 868 7 34 206584 105.77 mbyet ro3135a 923 7 34 219674 112.47 mbyet ro3059a 217 15 28 91158 46.67 mbyet ro3089a 325 15 28 136737 70.00 mbyet ro3129a 492 15 28 206645 105.80 mbyet ro3139a 523 15 28 219735 112.50 mbyet ro3209a 759 15 28 319053 163.35 mbyet ro3259a 976 15 28 410211 210.02 mbyet link option in order instal rodim ro 3000a seri drive dumper singledu drive led oper drive need set describ relev product specif . 
+i singl drive environ drive describ master . 
+in dual drive environ drive describ master slave . 
+this due protoc take place two drive perform diagnost . 
+there four link lk1 lk2 lk4 lk5 adjac 40 way interfac connector . 
+they follow function describ order view end drive first jumper describ nearest 40 way interfac connector . 
+lk2 led when fit jumper connect led drive pin 39 interfac . 
+this allow led connect interfac . 
+an extern current limit resistor need fit seri led option select . 
+the valu resistor depend led type chosen rang 130 ohm ot 220 ohm . 
+lk1 dual drive this jumper must fit two drive attach singl bus . 
+it fallow communic across 40 way interfac connector indic master drive presenc slave . 
+lk4 master when fit signifi drive jumper master . 
+if two drive connect singl bus one may jumper way . 
+lk5 iochrdi when fit connect iochrdi signal drive fit drive use host system higher data transfer rate drive i.e . 
+greater 4 mbyte per second use 11 interleav . 
+this jumper normal fit host transfer lower rate 4 mbyte per second . 
+there four possibl masterslav configur drive may jumper master singl drive led interfac lk2 lk4 fit . 
+master singl drive without led interfac lk4 fit . 
+master dual drive without led interfac lk4 lk1 fit . 
+slave dual drive without led interfac no jumper fit . 
+master dual drive led interfac lk4 lk1 lk2 fit . 
+slave dual drive led interfac lk2 fit . 
+the master drive delay power-up approxim two second reduc power surg applic dual drive use . 
+the connect led found close 28 way connector end drive . 
+this led driver affect link option . 
+an intern current limit resistor drive led driver . 
+refer product specif detail . 
+s e a g a t e there list seagat hd includ mfm scsi esdiand ide everi simtel mirror msdosdskutl1seagate.zip it contain info follow drive st1144a st138a st274a st3283a st1057a st1156a st1400a st280a st351ax st1090a st1162a st1401a st3051a st9051a st1102a st1186a st1480a st3096a st9077a st1111a st1201a st157a st3120a st9096a st1126a st1239a st2274a st3144a st9144a st1133a st125a st2383a st325ax t e a c model sd-3105 cyl . 
+head sectt precmp lzone capac physic 1282 4 40 105021440 bio ami 641 8 40 0 0 105021440 100.2m award 926 13 17 0 0 104778752 99.9m phoenix 776 8 33 0 0 104890368 100.0m connector jumper 1 jumper function .... 
+2 0 0 on -act select ext.l ... 
+off -slv present select 3 1 1 on two hdd 's j2 j7 40 j1 off singl hdd power power signal jumper 2 on master singl off slave 2 unit use 3 on -io ch rdi output off -io ch rdi output master slave set jumper . 
+1 2 singl .... 
+0 1 1 on jumper master .... 
+1 1 0 off jumper slave ..... 
+1 0 w e s t e r n d i g i t a l caviar seri name size mb cylind head sector wdac140 40.7 980 5 17 wdac280 81.3 980 10 17 wdac2120 119.0 1024 14 17 wdac2170 162.7 1010 6 55 wdac2200 202.8 989 12 35 wdac2340 325.4 1010 12 55 pleas note recommend cmos paramet . 
+all disk support so-cal dynam translat thus abl work paramet fewer sector total number sector disk . 
+now accord manual jumper set follow jumper cp ma sl singl 0 0 0 master 0 1 0 slave 0 0 1 slave conner cp342 cp3022 1 0 1 mayb 2 kind caviar 's float around if jumper read ma sl si use jumper si ma sl singl 1 0 0 master 0 1 0 slave 0 0 1 there report difficulti use wd caviar master nec drive slave way work . 
+when i instal conner cp3204f 203 mb master wd caviar 2200 203 mb slave without cp jumper caviar seem normal behaviour . 
+howev write caviar would overwrit directori etc . 
+use fastback almost imposs . 
+the workaround instal caviar master conner slave . 
+wd93044-a 40 mb bios-set 977 cyln 5 head 17 sect lzone 977 wenn sie sie braucht -- - 1 drive master cabl 1 2 3 2 drive slave -- - 3 second drive conner-dr no jumper set drive . 
+use telephon number ... 
+miniscrib 303-651-6000 maxtor infotech support 800-262-9867 fax-back 303-678-2618 bbs 303-678-2222 they list 800 number 18002-maxtor . 
+quantum 408-894-4000 408-944-0410 support 408-894-3218 fax 408-894-3214 bbs seagat infotech support 408-438-8222 fax-back 408-438-2620 bbs 408-438-8771 last least if i could help littl collect live part world far away postcard pinboard ? 
+i sure answer ! 

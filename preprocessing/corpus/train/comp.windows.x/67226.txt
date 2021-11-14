@@ -1,0 +1,19 @@
+my question is mean determin state capslock andor numlock ? 
+alright . 
+ignor . 
+i delv bit deeper xkeyev found i look . 
+ev-stat bunch mask check lockmask one capslock . 
+unfortun appear numlock mask vari server server . 
+how one tell mask numlock meta mod1mask mod2mask mod3mask mod4mask mod5mask . 
+eg sgi 's vendor server mod2mask numlock wherea solari 1.0.1 openwindow 3.0 mod3mask numlock . 
+is unambigu mean determin numlock 's mask runtim given server ? 
+sorri wast bandwidth appal ignor . 
+you ll check keysym key modifi . 
+the one numlock map modifi want . 
+a bit ugli perhap i think current way preced keysym use differenti capslock shiftlock lock modifi . 
+i n't know accept strategi handl ambigu assign either . 
+ie . 
+numlock map one modifi . 
+i suppos first found good . 
+x n't handl lock modifi well . 
+hope help dave lapp 

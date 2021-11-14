@@ -1,0 +1,18 @@
+i use x server provid 3 visual pseudocolor 8 bit truecolor 24 bit directcolor 24 bit . 
+lucki dog ... 
+a problem occur i tri creat window visual differ visual parent use default visual tc24 . 
+in xlib refer guid ' o reilli one read section xcteatewindow someth like in current implement x11 when use visual parent 's sure creat find suitabl colourmap use window attribut creat els badmatch occur . 
+this warn strang enough mention newer edit x11r5 guid . 
+it appli equal forc earlier version . 
+presum recent author decid import enough mention . 
+the necess refer alway 's implicit way createwindow request default attribut new window . 
+howev even i pass along suitabl colourmap i still get badmatch i creat window non-default visual . 
+attr.colormap cmap win xcreatewindow ... 
+copyfrompar border width 8 depth inputoutput class vinfo.visu visual cwcolormap attr this warn read incomplet . 
+you provid colormap also border . 
+the default border copyfrompar valid window 's depth n't match parent 's . 
+specifi border-pixmap correct depth border-pixel problem go away . 
+there anoth problem i ca n't find anyth indic copyfrompar make sens borderwidth paramet xcreatewindow . 
+your xlib implement probabl defin copyfrompar zero simplifi convers wire format unwit ask border width zero due xlib implement provid stricter type-check . 
+to fair i 'm entir certain 's possibl xlib catch . 
+der mous 

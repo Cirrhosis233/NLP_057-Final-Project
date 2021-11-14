@@ -1,0 +1,182 @@
+archive-nam cryptography-faqpart08 last-modifi 1993415 faq sci.crypt part 8 technic miscellani this eighth ten part sci.crypt faq . 
+the part most independ read first part rest . 
+we n't time send miss part mail n't ask . 
+note kah67 '' refer refer list last part . 
+the section faq avail via anonym ftp rtfm.mit.edu pubusenetnews.answerscryptography-faqpartxx . 
+the cryptographi faq post newsgroup sci.crypt sci.answ news.answ everi 21 day . 
+content how i recov lost password wordperfect ? 
+how i break vigener repeated-key cipher ? 
+how i send encrypt mail unix ? 
+pgp ripem pem ... 
+is unix crypt command secur ? 
+how i use compress encrypt ? 
+is unbreak cipher ? 
+what random '' mean cryptographi ? 
+what unic point a.k.a . 
+unic distanc ? 
+what key manag import ? 
+can i use pseudo-random chaotic number key stream ? 
+what correct frequenc list english letter ? 
+what enigma ? 
+how i shuffl card ? 
+can i foil sw pirat encrypt cd-rom ? 
+can automat cryptanalysi simpl cipher ? 
+what code system use vcr ? 
+how i recov lost password wordperfect ? 
+wordperfect encrypt shown easi break . 
+the method use xor two repeat key stream type password byte-wid counter initi 1the password length . 
+full descript given bennett ben87 bergen caelli ber91 . 
+decrypt wordperfect document file i think i solut . 
+there softwar compani name accessdata 87 east 600 south orem ut 84058 1-800-658-5199 softwar packag decrypt wordperfect lotus 1-2-3 quatro-pro ms excel paradox file . 
+the cost packag 185 . 
+steep price think pw key less 10 charact 10 char give call ask free demo disk . 
+the demo disk decrypt file 10 char less pw key . '' how i break vigener repeated-key cipher ? 
+a repeated-key cipher ciphertext someth like plaintext xor keykeykeykey call vigener cipher . 
+if key long plaintext english follow 1 . 
+discov length key count coincid . 
+see gain gai44 sinkov sin66 . 
+tri displac ciphertext count byte equal . 
+if two ciphertext portion use key someth 6 byte equal . 
+if use differ key less 0.4 equal assum random 8-bit byte key cover normal ascii text . 
+the smallest displac indic equal key length repeat key . 
+2 . 
+shift text length xor . 
+this remov key leav text xore . 
+sinc english 1 bit real inform per byte 2 stream text xore togeth 2 bit info per 8-bit byte provid plenti redund choos uniqu decrypt . 
+and fact one stream text xore 1 bit per byte . 
+if key short might even easier treat standard polyalphabet substitut . 
+all old cryptanalysi text show break . 
+it 's possibl method hand expert 's ten time much text key . 
+see exampl gain gai44 sinkov sin66 . 
+how i send encrypt mail unix ? 
+pgp ripem pem ... 
+here 's one popular method use des command cat file compress des privatekey uuencod mail meanwhil de jure internet standard work call pem privaci enhanc mail . 
+it describ rfcs 1421 there beta version pem test time write . 
+there also two program avail public domain encrypt mail pgp ripem . 
+both avail ftp . 
+each newsgroup alt.security.pgp alt.security.ripem . 
+each faq well . 
+pgp common use outsid usa sinc use rsa algorithm without licens rsa 's patent valid least primarili usa . 
+ripem common use insid usa sinc use rsaref freeli avail within usa avail shipment outsid usa . 
+sinc program use secret key algorithm encrypt bodi messag pgp use idea ripem use des rsa encrypt messag key abl interoper freeli . 
+although repeat call understand 's format algorithm choic interoper avail time far know . 
+is unix crypt command secur ? 
+no . 
+see ree84 . 
+there program avail call cbw crypt breaker 's workbench use ciphertext-on attack file encrypt crypt . 
+one sourc cbw ftpcb . 
+how i use compress encrypt ? 
+a number peopl propos perfect compress follow simpl encrypt method e.g . 
+xor repeat key . 
+unfortun compress perfect know exact distribut possibl input . 
+for practic purpos 's imposs describ typic english text '' beyond coars characterist single-lett frequenc . 
+you build sophist model input enemi slight accur model ll abl find redund compress output . 
+note near practic compress scheme unless design cryptographi mind produc output actual start high redund . 
+for exampl output unix compress begin well-known three-byt magic number '' serv enter wedg cryptanalysi . 
+this say compress encrypt inher bad idea done care mean remov need strong encrypt . 
+compress encrypt silli . 
+is unbreak cipher ? 
+yes . 
+the one-tim pad unbreak see part 4 . 
+unfortun one-tim pad requir secur distribut much key materi plaintext . 
+of cours cryptosystem need utter unbreak use . 
+rather need strong enough resist attack like enemi whatev length time data protect expect remain valid . 
+what random '' mean cryptographi ? 
+cryptograph applic demand much pseudorandom number generat applic . 
+for sourc bit cryptograph random must comput imposs predict nth random bit given complet knowledg algorithm hardwar generat stream sequenc 0th n-1st bit n lifetim sourc . 
+a softwar generat also known pseudo-random function expand truli random seed longer string appar random bit . 
+this seed must larg enough guess oppon . 
+ideal also truli random perhap generat hardwar random number sourc . 
+those sparcstat 1 workstat could exampl generat random number use audio input devic sourc entropi connect anyth . 
+for exampl cat devaudio compress foo give file high entropi random much random . 
+one encrypt file use part key exampl convert seed entropi pseudo-random string . 
+when look hardwar devic provid entropi import realli measur entropi rather assum look complic human must random . 
+for exampl disk oper complet time sound like might unpredict mani peopl spin disk much like clock output complet time relat low entropi . 
+what unic point a.k.a . 
+unic distanc ? 
+see sha49 . 
+the unic distanc approxim amount ciphertext sum real inform entropi correspond sourc text encrypt key equal number ciphertext bit use . 
+ciphertext signific longer shown probabl uniqu decipher . 
+this use back claim valid ciphertext-on cryptanalysi . 
+ciphertext signific shorter like multipl equal valid decrypt therefor gain secur oppon 's difficulti choos correct one . 
+unic distanc like statist information-theoret measur make determinist predict rather give probabilist result name minimum amount ciphertext like singl intellig plaintext correspond ciphertext possibl key tri decrypt . 
+work cryptologist n't normal deal unic distanc . 
+instead direct determin likelihood event interest . 
+let unic distanc cipher d charact . 
+if fewer d ciphertext charact intercept enough inform distinguish real key set possibl key . 
+des unic distanc 17.5 charact less 3 ciphertext block block correspond 8 ascii charact . 
+this may seem alarm low first unic distanc give indic comput work requir find key approxim d charact intercept . 
+in fact actual cryptanalysi seldom proceed along line use discuss unic distanc . 
+like measur key size unic distanc someth guarante insecur 's small n't guarante secur 's high . 
+few practic cryptosystem absolut impervi analysi manner characterist might serv enter wedg '' crack cipher messag . 
+howev similar information-theoret consider occasion use exampl determin recommend key chang interv particular cryptosystem . 
+cryptanalyst also employ varieti statist information-theoret test help guid analysi promis direct . 
+unfortun literatur applic inform statist cryptanalysi remain classifi even semin 1940 work alan ture see koz84 . 
+for insight possibl see kul68 goo83 . 
+what key manag import ? 
+one fundament axiom cryptographi enemi full possess detail general cryptograph system lack specif key data employ encrypt . 
+of cours one would assum cia make habit tell mossad cryptosystem mossad probabl find anyway . 
+repeat use finit amount key provid redund eventu facilit cryptanalyt progress . 
+thus especi modern communic system vast amount inform transfer parti must sound cryptosystem also enough key materi cover traffic . 
+key manag refer distribut authent handl key . 
+a public access exampl modern key manag technolog stu iii secur telephon unit classifi use employ individu code crypto ignit key '' central key manag center oper nsa . 
+there hierarchi certain cik use author cryptograph control personnel valid issuanc individu traffic key perform installationmainten function report lost cik . 
+this give inkl extent key manag problem . 
+for public-key system sever relat issu mani trust ? '' can i use pseudo-random chaotic number key stream ? 
+chaotic equat fractal produc appar random relat compact generat . 
+perhap simplest exampl linear congruenti sequenc one popular type random number generat obvious depend seed output . 
+unfortun graph sequenc high enough dimens show regular lattic . 
+mathemat lattic correspond structur notori easi cryptanalyst exploit . 
+more complic generat complic structur make interest pictures- cryptograph strong sequenc comput structur . 
+see knu81 exercis 3.5-7 ree77 boy89 . 
+what correct frequenc list english letter ? 
+there three answer question slight deeper one . 
+you find first answer various book name frequenc list comput direct certain sampl english text . 
+of cours list correct '' comput exact list get depend sampl taken . 
+the second answer question n't make sens . 
+what mean english letter '' ? 
+the english languag '' fix finit close object exact character . 
+it chang time differ differ author . 
+ani particular messag differ statist languag whole . 
+the third answer yes particular messag go exact characterist english general reason statist use slight discrep wo n't matter . 
+in fact 's entir field call bayesian statist '' buzzword maximum entropi method '' maximum likelihood estim '' studi question like what 's chanc text letter frequenc english ? '' come reason robust answer . 
+so make list sampl english text . 
+it good enough practic work use proper . 
+what enigma ? 
+for project data secur look sourc inform german enigma code broken british wwii . '' see wel82 dea85 koz84 hod83 kah91 . 
+how i shuffl card ? 
+card shuffl special case permut array valu use random pseudo-random function . 
+all possibl output permut process equal like . 
+to need random function modranx produc uniform distribut random integ interv 0 .. x-1 . 
+given function shuffl follow c code assum arrlth length array arr swap interchang valu two address given n arrlth-1 n 0 n swap arrmodran n1 arrn modranx achiev exact simpl ranno x sinc ranno 's interv may divis x although case error small . 
+to cover case one take ranno 's modulus mod x call number ranno return valu less go back get anoth ranno valu . 
+can i foil sw pirat encrypt cd-rom ? 
+someon frequent express desir publish cd-rom possibl multipl piec softwar perhap encrypt separ want use differ key user perhap even good limit period time order avoid piraci . 
+as far know imposs sinc noth standard pc workstat hardwar uniqu identifi user keyboard . 
+if identif cd-rom could encrypt key base part one sold user part uniqu identifi . 
+howev case cd-rom one kind defeat intend purpos . 
+if cd-rom encrypt mass produc must key set key encrypt produc stage process . 
+that key useabl copi cd-rom 's data . 
+the pirat need isol key sell along illeg copi . 
+can automat cryptanalysi simpl cipher ? 
+utah sell product break password scheme number popular macintosh pc softwar packag . 
+their telephon number 801 224-6970 no pd softwar cite mani paper subject .... 
+peleg s . 
+rosenfeld a . 
+break substitut cipher use relax algorithm comm . 
+acm vol . 
+2211 pp 598-605 nov . 
+1979 luck michael a constraint satisfact algorithm autom decrypt simpl substitut cipher advanc cryptolog crypto 88 springer lectur note comput scienc vol . 
+403 the paper also contain refer earlier work subject . 
+john carrol steve martin the autom cryptanalysi substitut cipher cryptologia vol x number 4 oct 86 p193-209 . 
+john carrol lynda robbin autom cryptanalysi polyalphabet cipher cryptologia vol xi number 4 oct 87 p193-205 martin kochanski a survey data insecur packag cryptologia vol xi number 1 jan 87 p1-15 martin kochanski anoth data insecur packag cryptologia vol xii number 3 juli 88 p165-177 . 
+cryptologia vol xiii number 4 1989 pp 303-326 . 
+king bahler probabilist relax cryptanalysi simpl substitut cipher cryptologia 163215-225 . 
+king bahler an algorithm solut sequenti homophon cipher . 
+cryptologia april 93 press . 
+r . 
+spillman et.al . 
+use genet algorithm cryptanalysi simpl substitut cipher cryptologia vol xvii number 1 jan 93 p31-44 . 
+what code system use vcr ? 
+one frequent ask question sci.crypt vcr code work . 
+the follow articl attempt describ . 

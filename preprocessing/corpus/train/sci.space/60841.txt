@@ -1,0 +1,26 @@
+read amoco perform product data sheet erl-1906 resin t40 carbon fiber reinforc compress strength 280000 psi . 
+it densiti 0.058 lbcu therefor theoret height constant section column support 4.8 million inch 400000 ft 75 statut mile . 
+now real structur horizont brace either truss type guy wire use crush strength . 
+let us assum oper 40 theoret strength . 
+this give work height 30 mile constant section column . 
+a constant section column limit high build someth allow taper cross section go . 
+for exampl let us say 280000 pound load support top tower simplic calcul . 
+this requir 2.5 squar inch column cross section area support weight . 
+the mile structur payload weigh 9200 lb 1 mile payload total load 289200 lb 3.3 increas . 
+the next mile structur must 3.3 thicker cross section support top mile tower plus payload . 
+each mile structur must increas area ratio way bottom . 
+we see theoret limit area although practic limit base much composit afford 40lb much load need support ground need foundat bedrock support . 
+let us arbitrarili choos 1 billion limit costruct cost . 
+with afford perhap 10000000 lb composit assum finish structur cost 100lb . 
+the 40lb figur materi cost . 
+then towerpayload mass ratio 35.71 . 
+at 3.3 mass ratio per mile tower height becom 111 mile . 
+this clear signific atmospher . 
+a rocket launch top tower still provid orbit veloc atmospher drag g-loss almost elimin . 
+g-loss compon rocket thrust vertic direct counter graviti contribut horizont orbit veloc . 
+thus repres wast thrust . 
+togeth drag rocket start ground 15 veloc penalti contend . 
+this analysi simplifi consid wind load . 
+these requir structur support first 15 mile height . 
+abov air pressur drop low enough valu big factor . 
+dani eder 

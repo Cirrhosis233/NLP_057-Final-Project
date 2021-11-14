@@ -1,0 +1,6 @@
+to get number back client appatom xinternatomdisplayapplicationwindowtru xgetwindowpropertydisplaydefaultrootwindowdisplayappatom08192 falsexawindowreturntypereturnformat nitemsreturnbarreturnplac appear get back someth valid right number . 
+it alway seem return number regardless window number store properti . 
+returnplac probabl incorrect . 
+it pointer integ . 
+xgetwindowproperti alloc memori copi data return pointer memori . 
+you free memori re done . 

@@ -1,0 +1,10 @@
+this 2nd reguest discuss rfd creation comp.databases.ms-access the discuss period start april 6 last april 28 22 day this offici rfd creation new newsgroup general discuss microsoft access rdms . 
+name comp.databases.ms-access moder unmoder . 
+at time need moder assertain . 
+futur evalu determin one need . 
+purpos access new rdbms window oper system . 
+it includ wysiwyg design tool easi creation tabl report form queri databas program languag call access basic . 
+the purpos group provid help peopl use access 's wysiwyg design tool creat simpl databas well peopl use access basic creat complex databas . 
+rational eventhough access new rdbms popular graphic develop enviro initi low price . 
+been version 1.0 product mean access user novic . 
+for reason newsgroup need access user discuss experi product answer 's question . 

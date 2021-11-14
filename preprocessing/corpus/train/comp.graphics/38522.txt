@@ -1,0 +1,6 @@
+i paradis svga 1mb 90c030 chip 1d . 
+the doc say i display follow mode 640x480x32k colour 800x600x32k col i ramdac hicolor chip . 
+i check board i chip . 
+now problem i ca n't get mode work graphic workshop 6.1 claim display 24 bit imag dither 15 bit colour board n't work . 
+i tri write assembl code get mode work i found pixel address word 16 bit lower 8 bit consid happen 800x600 mode 640x480 mode refus work i.e . 
+remain text mode could someon pleas help . 

@@ -1,0 +1,13 @@
+anybodi seen date get stuck ? 
+i 'm run ms-dos 5.0 menu system aliv time . 
+the machin left run time . 
+sudden date longer roll . 
+the time reason accur allway chang date hand everi morn . 
+this involv exit menu system get dos . 
+i ve start notic thing . 
+i 'm run dos 5 win 3.1 i fix window control panel . 
+at time date other clock seem run sever minut behind . 
+did i hear order date advanc someth like clock make get date system call ? 
+appar clock hardwar interrupt bio n't date advanc automat . 
+the get date call notic midnight reset flag set advanc date . 
+anybodi info ? 

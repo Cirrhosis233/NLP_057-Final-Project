@@ -1,0 +1,34 @@
+1 . 
+for window nt altern archan fair useless dos batch program languag ? 
+for os2 ibm introduc rexx languag altern .bat . 
+sure window nt thing right ? 
+2 . 
+in lieu ani way escap crlf .bat file continu singl command across multipl line ? 
+i applic exit system submit batch file . 
+the batch file creat fli site-specif code store within applic . 
+as current design line length store code output file .bat file 80 charact enough option must specifi particular command . 
+it would help tremend i n't redesign code kludg around lack true batchshel program languag . 
+rest delet as followup post let add i 'm realli window window nt user pleas excus ignor . 
+howev i 'm develop sas institut one compon applic i support abil submit sas batch job within interact sas session . 
+the user site enter site-specif batch profil dataset within product specifi pathnam sas execut specifi site specif sas option etc . 
+at run time certain variabl resolv resolv file written extern ascii file . 
+then i exit oper system run job asynchron return interact session soon job submit . 
+the batch job run concurr interact session . 
+as current design intern dataset record length 80 charact . 
+but run batch job command reinvok sas batch mode requir 80 charact . 
+up til nt problem sinc everi job controlshel languag til nt eg . 
+mvscmsvmsunixos2 way escap crlf enter singl command across multipl line os2 via rexx languag standard os2 . 
+the gist sinc applic end-us within compani i tri develop process use nativ nt . 
+sinc first post i ve learn sever third parti compani provid altern script languag windowswindow nt . 
+and i 'm sure compani licens product would use altern script languag i ca n't develop assumpt anyth come nt . 
+i saw anoth post list subject someth like is vi avail window ? 
+someon said vi make awk ksh avail microsoft toolkit . 
+what product ? 
+is separ product part window ? 
+ksh would i need i could count nt site . 
+one last question i ve heard nt remot process capabl i.e . 
+i could shove batch job server machin run . 
+if nativ nt command rather network specif command would also help improv process . 
+if comment command i would appreci . 
+thank help scott bass sas institut inc . 
+integr system a216 x6975 sas campus drive cari nc 27513-2414 

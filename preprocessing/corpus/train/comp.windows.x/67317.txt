@@ -1,0 +1,8 @@
+we recent got ncd x-termin evalu . 
+this run xremot serial line . 
+i want get measur respons time i wrote small xlib program simpli creat window map send first expos event . 
+the program time delay send event receiv . 
+i thought simplest way test clientx-serv round-trip delay . 
+it 's similar concept ping8c program . 
+is valid test perform i ve also tri xbench program avail ftp.uu.net bombard server graphic oper i want get quantat measur accept interact respons time . 
+has anyon got idea subject thank . 

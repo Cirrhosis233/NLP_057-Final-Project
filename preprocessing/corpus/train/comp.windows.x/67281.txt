@@ -1,0 +1,10 @@
+i know mwm resourc specifi posit use border window user window . 
+mayb window manag similar option . 
+anoth way figur differ user window posit window manag decor window posit subtract posit . 
+you use xquerytre rememb window manag decor window parent window . 
+unfortun figur decor width height window map way . 
+anoth way would use getgeometri find relat frame translatecoordin find window 's upperleft corner realli . 
+as i ve said 's reliabl way find size window manag decor . 
+if window repar ca n't assum window re parent window hold window manag decor . 
+there may sever layer window . 
+do multipl xquerytre 's get root work case 's guarante outsid decor window parent root window display tvtwm . 

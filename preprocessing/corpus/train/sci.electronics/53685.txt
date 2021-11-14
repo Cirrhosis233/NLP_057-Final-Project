@@ -1,0 +1,11 @@
+so turn power caus bulb work like neon heat short thus provid loop power heater main tube . 
+when tube fire insuffici current run starter keep heat bi-metal strip straighten oc . 
+imprecis . 
+this descript 1 . 
+ignor role ballast 2 . 
+misrepres heat effect starter . 
+the bimetal strip cool immedi contact short circuit neon discharg stop much less heat generat i2r loss metal compar neon discharg . 
+the starter contact open tube fire . 
+actual tube fire result back-emf generat ballast immedi open starter 's contact . 
+a capacitor connect parallel contact prevent excess arc fire . 
+the neon reioniz draw suffici current prevent fire tube . 

@@ -1,0 +1,15 @@
+a coupl week ago i post question concern communic vb msaccess use dde . 
+the answer i receiv time allow get prototyp project work . 
+howev process i come new problem . 
+1 there seem limit 255 charact dde topic string . 
+is inher dde system peculiar msaccess vb ? 
+2 it easi queri access databas vb use dde sql command provid limit overcom use short field tabl name one meant updat databas ? 
+a dde sql updat command seem work . 
+b initi access macro use dde execut command vb use macro request inform vb use second dde channel program dead lock time- out occur . 
+the vb access channel close access vb channel initi i guess . 
+c access allow vb dde poke inform . 
+the way i eventu manag updat databas send key- stroke vb access use sendkey command . 
+this techniqu problem access minimis must alway state readi respond sequenc key-strok vb send . 
+are statement correct i made incorrect assumpt ? 
+are better work around ? 
+are sign odbc driver access ? 

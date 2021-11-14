@@ -1,0 +1,13 @@
+i new scope i thought i 'd save buck buy one function generat built . 
+hmm ... 
+ad combin radiohand crank generatorflashlightsiren i saw ? 
+function generat 50mv offset amplitud 's high is way i could make littl box could solv littl problem . 
+the box would tkae function generat input lower voltag give output imped low unchang number . 
+i would want lower voltag factor one hundr . 
+i could build littl buffer amp i 'd like box activ . 
+sure ve alreadi got right idea . 
+ignor 50 ohm intern resist generat second run say voltag divid made 990 ohm seri 10 ohm . 
+this new circuit thevenin equival one put 1100 origin voltag output imped neglig less 10 ohm . 
+you may want monkey valu littl depend whether care exact divid ratio avail part . 
+how sound ? 
+-joel kolstad 

@@ -1,0 +1,7 @@
+i 'm look program let use window common dialog box select file use run dos app . 
+basic i sever dos app i use differ file . 
+they accept file command line paramet way least i know easili run window set pif file prompt addit paramet point i type file name . 
+problem 1 sometim i ca n't rememb file exact locat would nice brows directori without use file manag . 
+2 i 'm lazi hate type long pathnam file burri sever directori level deep . 
+if anyon point program let know way handl i 'd appreci . 
+thank tim the net n't organ enough consid anarchi 

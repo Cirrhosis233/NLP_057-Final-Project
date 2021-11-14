@@ -1,0 +1,13 @@
+i use emac i want custom keyboard better . 
+when i set stuff .emac keymap define-key i access certain key x-termin 's keyboard . 
+i ca n't get e.g . 
+f10 home end pgup pgdn seem either keycod . 
+i feel ca n't fix emac i need xmodmap stuff . 
+can someon help ? 
+it actual wors think . 
+i problem given . 
+emac intern tabl somewher ! 
+defin key accept tabl system-depend . 
+i use sun hp get shift pageup ' work xmodmap suffici least i n't work make work . 
+howev i can get ordinari pageup ' shift cursorright ' work i customis thing . 
+note emac hp problem i use exact xmodmap emac configur . 

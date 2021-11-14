@@ -1,0 +1,8 @@
+i tri find applic run local remot display . 
+a local display connect system client execut . 
+i access display string i tell string ? 
+if client execut host foo 0 unix0 foo0 localhost0 local . 
+under ultrix i believ local0 also valid display name share memori connect mayb ? . 
+are string i check ? 
+is better way detect ? 
+thank help give . 

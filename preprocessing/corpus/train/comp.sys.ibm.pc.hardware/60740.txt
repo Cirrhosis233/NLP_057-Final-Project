@@ -1,0 +1,10 @@
+stuff delet did i hear order date advanc someth like clock make get date system call ? 
+appar clock hardwar interrupt bio n't date advanc automat . 
+the get date call notic midnight reset flag set advanc date . 
+anybodi info ? 
+there two problem ' 1 bio tod routin updat bio clock use 1 bit day increment second wrap clock past midnight get lost one call bio read clock meantim 2 bio reset day wrap indic first get date ' call anybodi wrap indic set . 
+so unless first bio get date ' call midnight done dos kernel ' part dos know increment date day wrap indic normal lost . 
+my guess kevin 's menu ' system use bio call read clock order display time henc entiti caus day wrap indic get lost . 
+even menu ' system notic ' day wrap ' i think indic non-zero valu al realli n't particular good way tell dos dos updat day . 
+the menu system should ' use dos call get time would caus dos kernel ' bio call wrap indic would henc process proper . 
+possibl though menu ' system ca n't easili use dos call time dos reentrant perhap time increment ofter occur menu ' system insid ' dos call . 

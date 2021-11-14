@@ -1,0 +1,12 @@
+hey folk i 'm attempt use imak manag makefil develop effort curious find anybodi els experienc problem target subdir generat imak solari 2 platform . 
+for exampl make makefil ' choke first subdirectori . 
+i.e . 
+target subdirmakefil found you n't give precis error messag i assum make target fail make ca n't find rule . 
+we ve seen happen suno 5.x make well aat point i 'm sure happen . 
+it seem happen larg makefil . 
+the entri near end get lost . 
+small chang makefil remedi problem exampl . 
+in mit r5 distribut r5.sunos5.patch happen target makefil '' one doc directori . 
+at first i thought bug make sun i built use gnumak result . 
+attach ll find first makefil target rule generat makefil this realli weird . 
+are realli sure use gnu make ? 

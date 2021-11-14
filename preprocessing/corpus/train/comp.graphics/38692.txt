@@ -1,0 +1,31 @@
+sphinx sphinx user-friend state-of-the-art imag process analysi packag run across spectrum high perform comput platform oper unix x-window system . 
+it creat meet daili research need scientist conduct climat investig use satellit data remot sens techniqu . 
+intuit graphic interfac sphinx featur interact interfac pop-up menus point-and-click dialog box make imag process analysi simpl fast . 
+this access menu enabl build attract imag layout quick also provid flexibl return main menu conduct imag analysi process oper . 
+imag format compat use smart readwrit function sphinx allow easili open save imag file varieti format use bit integ real data valu . 
+sphinx also read write common tiff gif format well compress decompress imag format save disk space . 
+imag analysi process for imag pixel analysi sphinx packag includ assort process tool perform use statist mathemat filter oper fourier transform convolut product princip compon analys . 
+an interact interpret algebra equat imag allow user manipul combin individu data channel interact . 
+standard fortran notat use formula entri trig onometr transcendent function . 
+satellit spectra orbit analysi sphinx possess function simul satellit signal sensit various meteorolog satellit e.g . 
+goe meteosat noaa spot etc .. 
+the simul conduct select standard atmospher surfac condit instrument spectral band . 
+a geometri model comput solar zenith angl warp orbit simul 3-d imag project . 
+easi extern program interfac sphinx allow user flexibl integr extern develop softwar algorithm process convert satellit observ . 
+sphinx export import imag file imag paramet extern program use special interfac function . 
+quick qualiti present sphinx rapid display manipul enhanc high-resolut multispectr imag color tabl . 
+use six 8-bit 1024x1024 imag plane one graphic plane packag conveni combin color imag graphic text generat sharp digit imag articl report . 
+sphinx 's 2-d 3-d graphic editor provid complet flexibl modifi integr vector graphic analysi plot imag histogram radial graph . 
+the packag suppli color gray scale output standard inkjet laser printer . 
+other capabl sphinx also perform imag anim extern graphic import mosaic fit ... 
+els ? 
+softwar support develop sphinx develop laboratoir d'optiqu atmospheriqu loa universit de lill franc . 
+the packag receiv critic feedback support scientist french nation laboratori centr nation de recherch scientifiqu cnrs french space agenc centr nation d'etud spatial cnes . 
+at loa sphinx undergo continu refin develop meet chang research need advanc comput technolog . 
+the packag featur on-lin help support internet address version updat provid without delay . 
+perform test cnes select sphinx analyz process satellit data collect upcom adeospold satellit mission . 
+today sphinx packag use nasa goddard space flight center wide use mani french laboratori includ centr de recherch en physiqu de l'environn ecol normal superieur laboratoir ' etud et de recherch en teledetect spatial laboratoir de meteorologi dynamiqu . 
+a test version of sphinx is avail at loasil.citilille.fr 134.206.50.4 anonym bin cd sphinx get allsphinx.tar.z in the test version the output file are disabl . 
+howev the visualis and graphic function are avail . 
+this is suffici to work with . 
+if you are interest in keep sphinx send us your email and you will receiv news about the packag evolut . 

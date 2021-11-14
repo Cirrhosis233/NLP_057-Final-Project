@@ -1,0 +1,4 @@
+doug nntp-posting-host se05.wg2.waii.com doug .. continu build problem i got stuck build xterm ... 
+doug undefin first referenc doug symbol file doug index usrucbliblibtermcap.atermcap.o doug rindex usrucbliblibtermcap.atermcap.o doug ld fatal symbol referenc error . 
+no output written xterm actual .. 
+problem build ldlibrarypath unset well ldrunpath . 

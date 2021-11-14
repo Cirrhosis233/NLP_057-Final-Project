@@ -1,0 +1,10 @@
+in xlib program manual o'rielli associ point routin draw spline includ xlib extens public avail . 
+i need spline routin work within x environ . 
+i previous post similar request got two respons direct interview packag interviews.stanford.edu . 
+i got much . 
+it look like much work tri identifi extract modifi relev compon . 
+i look code encumb complex extens framework beyond need . 
+we need spline extens xlib . 
+look xfig . 
+it two type spline algorithm relat simpl . 
+xfig avail export.lcs.mit.edu contribr5fixesxfig-patchesxfig.2.1.6.tar.z 

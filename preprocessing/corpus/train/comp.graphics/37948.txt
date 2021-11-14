@@ -1,0 +1,18 @@
+... 
+how go orient normal direct given set point edg face ? 
+look edg inconsist . 
+consid two vertic p q connect least one edg . 
+if pq edg qp appear . 
+if pq qp appear edg surfac flip travel across edg . 
+this bad . 
+assum warn ... warn ... warn otherwis accept surfac pick edg edg travers surfac enforc consist edg . 
+0 pick edg pq mark ok 1 face f contain edg 2 oop make sure edg f consist i.e . 
+face pqqrrssttp . 
+flip wrong . 
+mark edg f ok add queue check duplic especi inconsist n't let queue pq qp . 
+2 remov edg queue go 1 . 
+if mark edg discov inconsist lose . 
+if step 1 find one face share particular edg lose . 
+otherwis done edg consist . 
+which mean surfac normal either point in out . 
+decid way out left exercis ... 

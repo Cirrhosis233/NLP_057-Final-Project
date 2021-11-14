@@ -1,0 +1,8 @@
+hello folk ! 
+i archiv xl5580 intern qic-80 tape drive pretti compar colorado jumbo 250 . 
+sinc i two floppi drive system i 'm use small card acceler made archiv attach tape drive third floppi devic . 
+the problem although dos-bas qicstream softwar work fine norton central point backup program window fail unless i switch machin non-turbo speed i 'm use 486dx33 eisa . 
+sinc dos softwar work ca n't hardwar problem ? 
+has anyon seen similar problem ? 
+ani solut ? 
+thank advanc . 

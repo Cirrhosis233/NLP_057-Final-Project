@@ -1,0 +1,2 @@
+i got sever answer complet errol crari i look r4 server list ... mitserverdixwindow.c sever way get badmatch error even though o'reilli book say borderwidth nonzero inputon . 
+as third edit june 92 o'reilli book vol 2 xcreatewindow say badmatch ani invalid set window attribut attribut besid wingrav eventmask donotpropogatemask overrideredirect cursor specifi inputon window depth non-zero inputon parent inputoutput inputon borderwidth non-zero inputon depth visual invalid screen width height 0 

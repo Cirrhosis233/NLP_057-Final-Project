@@ -1,0 +1,10 @@
+as subject say can i use 4052 digit signal ? 
+i n't see could n't handl digit signal i could wrong . 
+anyon advic ? 
+thank . 
+yes . 
+i use 74hc4066 other commer purpos rest assur work fine . 
+in one case i rout bit serial digit audio use difficult see signal degrad surpris given 50 ohm . 
+the complex type general littl slower resist . 
+plain 4000 seri good handl 5v logic . 
+rememb output load seen input devic . 

@@ -1,0 +1,5 @@
+i would like abl detect angular posit low accuraci ir emit sourc distanc 100 meter better daylight . 
+the ir sourc could emit signatur i 'm lean toward 30 khz squar wave 50 duti cycl . 
+i design built hardwar 1988 would output logic level 567 tone detector upon detect 500 microwatt led 28 feet away . 
+use motorola mrd360 bias linear dc-feedback loop servo variat sunlight 60hz light . 
+use lens . 

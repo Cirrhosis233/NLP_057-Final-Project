@@ -1,0 +1,13 @@
+lot stuff . 
+i hate follow post i perhap clarifi thing i wo n't get flame . 
+first i 'm talk factor modulus '' breakthrough factor '' i realli mean breakthrough cryptanalysi rsa . 
+i know factor break rsa proven equival 's damn conveni repeat everi time . 
+i also admit i n't realli know non-group '' properti cipher essenti key chain . 
+i thought littl i ca n't find way cryptanalyst could exploit group structur . 
+that cours mean noth . 
+then i wrote pleas note long much harder factor rsa modulus generat increas comput speed alon keep key length modulus factor lock-step i.e . 
+peopl simpli start use longer moduli still safe . 
+what i meant long advantag cryptanalyst faster comput probabl rsa long time come even 1024-bit moduli somehow could broken fast comput new algorithm peopl would simpli use longer moduli . 
+both user cryptanalyst benefit better technolog way . 
+hope keep flame away ... 
+have fun . 

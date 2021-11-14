@@ -1,0 +1,18 @@
+experi diamond viper vlb video card sever problem 1 the ad specifi 16.7 million color 640x480 resolut 1mb vram i . 
+this color depth not support video bio version 1.00 driver version 1.01 . 
+a max 65k color support 640x800 800x600 resolut 1mb vram . 
+2 with 65k color choic i notic two minor irrit under ndw entri list highlight open menu deselect faint vertic line often remain left edg highlight rectangl use . 
+b with word window use shade tabl display show invers shade exampl shade cell 10 display 90 printout ok . 
+3 the big killer bug use borland c integr develop environ . 
+the problem occur click turbo debugg icon use debugg option run command debugg applic goe vga charact mode design . 
+the screen goe haywir larg unread . 
+the turbo debugg display garbl . 
+through trial error i found disrupt screen display alt-spacebar follow letter r . 
+this instruct turbo debugg refresh screen satisfactorili . 
+i wish i n't . 
+the bug diamond driver . 
+the disrupt behavior happen standard vga driver come window . 
+there must someth video card mishandl vga mode . 
+the problem monitor . 
+the bug show i use anoth monitor place usual one . 
+i still like video card hope problem remedi offer 5 year warranti . 

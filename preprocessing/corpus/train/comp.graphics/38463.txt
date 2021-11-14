@@ -1,0 +1,18 @@
+about year ago i start work problem appear simpl turn quit difficult . 
+i wonder anyon net seen problem hope publish solut . 
+the problem draw outlin surfac defin two rough parallel cubic spline . 
+for input problem essenti start two set point set point edg object treat two dimension i.e . 
+extant edg exist three dimension space . 
+to draw object 1 fit cubic spline point . 
+each spline effect comput sequenc line segment approxim curv . 
+each spline equal number segment . 
+we assum nth segment along spline rough exact distanc along spline reason measur . 
+2 take segment n along spline match nth segment oppos spline . 
+use pair segment form two triangl fill color surfac . 
+3 depth sort triangl 4 take triangl sort order project onto 2d pixmap draw color triangl . 
+take edg triangl along edg surfac draw line along edg color special edg color it edg color step 4 heart problem . 
+the idea effect outlin edg surfac . 
+the net result howev general lot break gap edg surfac . 
+the reason fair complic . 
+they involv raster problem problem result project spline . 
+if anyth problem sound familiar would appreci know work area . 

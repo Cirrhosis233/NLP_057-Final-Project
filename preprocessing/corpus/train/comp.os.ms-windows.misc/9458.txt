@@ -1,0 +1,10 @@
+help ! 
+i work project involv use text foreign languag charact case norwegian . 
+i manipul data excel 4.0 export data comma seper variabl file rs6000 workstat . 
+the norwegian charact show fine window appear funni charact workstat . 
+the workstat setup nation languag support problem enter norwegian charact workstat keyboard . 
+on investig i found charact code use window differ charact specifi msdos code page . 
+the msdos code seem workstat . 
+what give get around . 
+pleas repli e-mail i offic next day read news . 
+thank . 

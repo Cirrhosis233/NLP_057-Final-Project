@@ -1,0 +1,11 @@
+i problem i abl creat window 24 bit plane . 
+... 
+gave badmatch error createwindow request . 
+as far i tell manual attribut may give badmatch colormap belong wrong visual . 
+but visual correct match i got sever answer complet errol crari i look r4 server list ... mitserverdixwindow.c sever way get badmatch error even though o'reilli book say borderwidth nonzero inputon . 
+1- class inputon bw 0 depth 0 2- find depth visual accept screen 3- vmask cwborderpixmap cwborderpixel 0 class inputon depth pparent-drawable.depth 4- vmask cwcolormap 0 class inputon visual ancwopt-visu ancwopt-colormap none so case 1 inputon case seem o'reilli case . 
+case 2 case sinc got visual screen . 
+case 3 look suspici give cwborder ... 
+attribut mask sinc visual parent depth i would suspect need suppli border pixel new colormap go use window . 
+case 4 seem problem sinc suppli cwcolormap attribut . 
+thank help karsten 

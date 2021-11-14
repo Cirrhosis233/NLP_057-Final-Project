@@ -1,0 +1,2 @@
+as per question button handler add object call windowredraw whatev direct ? 
+although depend this design work i n't think take easili take advantag expos event redraw optim whole window redrawn area new item . 

@@ -1,0 +1,6 @@
+hi all . 
+i work project visual basic ver . 
+2.0 i need show postcript file i get anoth aplic . 
+so ca n't show postscript direct form visual basic least i n't know need util convert bmp wmf . 
+ani help appreshi . 
+kobi elimelech 

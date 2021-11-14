@@ -1,0 +1,8 @@
+are widget function librari draw network graph etc not tree view freewar sharewar comerci ... 
+like instanc pretti pictur delet just give associ node . 
+automat layout generat . 
+it would nice node symbol could use . 
+mayb even insert widget node . 
+use differ line style etc . 
+describ associ . 
+check xmgraph librari follow locat iworks.ecn.uiowa.educomp.hpguiclassicxmgraph.tar.z . 

@@ -1,0 +1,13 @@
+here stori i network 4 mac localtalk . 
+one ethernet card current connect next n't laugh i got price mac iisi . 
+the next connect internet slip run 9600 baud modem . 
+current telnet mac w ethernet next telnet rest world . 
+what want know sort hardwar rout telnet session localtalk mac next via ethernet mac . 
+from heard air n't trick . 
+softwar solut would good impress n't go . 
+our immedi interest abl get next telnet . 
+the slip connect n't allow us assign ip number machin everyon share 1 number ... oh well ... 
+what need hardwar router etherroutetcp made compat system 1400 . 
+this allow connect localtalk network 4 mac ethernet network next ethernet mac . 
+it rout tcpip protocol two network . 
+softwar router also avail less money i 'm sure work tcpip . 

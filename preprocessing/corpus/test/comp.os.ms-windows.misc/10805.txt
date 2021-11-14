@@ -1,0 +1,8 @@
+i run window 3.1 386sx-16 mhz five meg memori . 
+the motherboard came one meg i ad four meg past weekend . 
+they 1x9 70 simm . 
+i instal applic menu ms-dos command park . 
+up till today park disk applic menu without problem . 
+when attempt park head today i receiv follow messag stop this applic violat system integr due invalid general protect fault termin . 
+what messag mean ? 
+thank 

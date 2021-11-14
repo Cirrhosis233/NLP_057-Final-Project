@@ -1,0 +1,5 @@
+ok i 'm driven batti . 
+tri creat popup-menus ie . 
+button3 press menu appear . 
+i would realli like use standard athena class achiev goal best attempt i get menus come without use menubutton parent widget tree . 
+i know possibl xtpopupspringload littl twiddl someth escap . 

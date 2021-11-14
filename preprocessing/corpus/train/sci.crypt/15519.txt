@@ -1,0 +1,11 @@
+the major discuss involv clipper chip seem pertain encrypt telephon convers . 
+doe anyon know mean chip design work primarili analog signal ? 
+the languag sort suggest 's hard say . 
+i 'd lay buck data-in-data-out parallel . 
+i suspect make phone 'd need codec speech compress . 
+there would loss bandwidth speech signal i suspect would scupper suggest i ve seen put differ encrypt front end . 
+there 's hint modul scheme doc . 
+i 'm sure 's pure digit chip . 
+the back end come later i 'm posit wo n't left manufactur modul scheme make easi nsa tap . 
+the possibl intend isdn phone . 
+put whole new spin eff obsess isdn true bwahahaha ! 

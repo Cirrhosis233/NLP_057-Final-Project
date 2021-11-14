@@ -1,0 +1,6 @@
+i 'm troubl instal second ide drive promis ide cach control . 
+the first drive conner 3204 work fine . 
+the second drive conner 30174 current unjump slave drive . 
+the problem slave drive recogn report back free space . 
+disabl cach made effect . 
+what els i check ? 

@@ -1,0 +1,14 @@
+i 'm sound coupl band around need direct input box keyboard . 
+these littl box take line level keyboard transform low-z run mixer . 
+sad cost like 50 i 'm go need like 5 10 ! 
+i look insid one belong anoth band look like transform . 
+doe anyon plan build ? 
+perhap anderton 's electron project musician book i hell time track ... ? 
+an easi way solv problem use two op-amp form balanc low-z output solut provid galvan isol keyboard whatev plug mixer . 
+if tight requiremet demand hum snap crackl pop sound form ground loop toler op-amp solut look ! 
+it cheap ... somewhat 10di-box . 
+not sure craig anderton introduc one di-box project guitar player mag year ago transformerless ..... 
+thank lot ! 
+hope help . 
+email detail want .... 
+mein kopf ist ein labyrinth mein leben ist ein minenfeld the univers oulu depart electr engin -just student finland 

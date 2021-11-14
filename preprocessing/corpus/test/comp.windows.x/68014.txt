@@ -1,0 +1,6 @@
+i 'm run hp-ux 8.07 hp vue 2.01 i need hardcopi login window one ask login password includ manual . 
+i tri xwd -display hostname0 -root -out login.xwd login remot termin n't work . 
+xwd seem wait window server window server n't answer . 
+ani suggest ? 
+i must use xwd i n't access ftp i ca n't obtain anoth program grab screen . 
+thank advanc nadia pitacco 

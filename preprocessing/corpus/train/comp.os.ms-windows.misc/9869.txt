@@ -1,0 +1,9 @@
+whenev i start file manag status bar display even though select option menu . 
+if i deselect select bar appear . 
+anyon idea happen ? 
+no realli . 
+it may winfile.ini gotten corrupt unknown reason . 
+have tri re-creat either 1.exit filemanag save set option status bar visibl 2.doubl click control menuth one minim maxim everyth look proper ? 
+if still n't work may want delet winfile.ini tri one two save procedur total recreat file scratch . 
+good luck ! 
+mark waschkowski 

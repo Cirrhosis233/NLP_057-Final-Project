@@ -1,0 +1,25 @@
+oh boy i want . 
+howev i believ cursor server 's control could wrong ? 
+on xtermin exampl server not one control cursor tri get xterm applic blink would caus needless yucki network overhead consist . 
+most peopl write cursor blink code implement simpl case straight 500msec onoff cycl . 
+howev cursor work much better cursor blink suppress i.e . 
+cursor made visibl time cursor move .5 1 sec thereaft . 
+if n't cursor hard track motion . 
+you allway could port use emu export.lcs.mit.educontribemu.tar.z . 
+we ve implement blink text cursor reason peopl mention . 
+you even configur actual size text cursor horizont ver- tical line cursor smaller block cursor turn blink set blink rate . 
+you even get blink text ok enough advertis . 
+i n't look xterm code respect memori i decid whether start xterm make want most blink text i 'd say wo n't easi sinc xterm hairi mess understand follow 's root back x10 . 
+the actual task get cursor blink n't difficult provid right hook . 
+as antonio mention ll show cursor direct move peopl becom confus . 
+sinc 's good idea take cursor screen anyth screen anyway n't complic . 
+you ll start blink process cursor show direct 's map . 
+as portabl emu 's newest version . 
+the one export still r5 contrib tape . 
+we want get new releas six month unfortun re drown work . 
+but sinc chang n't affectiong emu 's behavior much i 'd say whoever want tri emu n't wait new version . 
+as emu wo n't work bsd deriv system e.g . 
+sun anyth els csh . 
+there fix short remov one line code . 
+i ll put export today . 
+michael 

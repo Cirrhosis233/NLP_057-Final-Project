@@ -1,0 +1,11 @@
+hey guy ! 
+i work mani station would like name current lognam titl xterm 's open machin name 's close . 
+in word i want host lognam appear titl open xterm host xterm close . 
+how i ? 
+thnsks advanc serg almost window manag twm mwm olwm deriv support escap sequenc . 
+for purpos put follow .login re use csh tcsh sh modifi . 
+term xterm endif note stand esc vi enter press ctrl-v esc . 
+same g mean ctrl-g . 
+in vi press ctrl-v ctrl-g . 
+the first sequenc put string titl bar second icon . 
+btw also put current work directori titl bar make alia cd greet thoma 

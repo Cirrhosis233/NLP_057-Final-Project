@@ -1,0 +1,24 @@
+somewher thread said window nt tm multi-us os well multi-thread etc . 
+i certain n't seen case . 
+there seper account person even seper directori desir . 
+i n't see implent simultaneuo use though . 
+scott it certain multi-us . 
+what i seen march beta n't yet come stuff exploit multi-us featur . 
+i rememb somebodi ms state n't allow two user share one gui . 
+my interpret one user per consol network rpc base stuff want . 
+i believ ftp rlogin deamon nt system come third parti . 
+somebodi alreadi beta version unsecur ftpd net . 
+there reason one write posix base shell like csh unix remot login . 
+in general i like nt i check . 
+it slow compar win3.1 like real os . 
+the beta version although slow bott much faster sun workstat . 
+window subsystem also start lot faster x window . 
+i believ bill gate right state nt everybodi . 
+after play around i convinc . 
+if i own busin use busi comput ibm establish vendor i would consid move nt platform would provid much cheaper solut if run sql server etc .. 
+it provid robust applic requir . 
+on hand like dos game less forget nt . 
+you alway boot dos general defeat purpos use nt . 
+most nt 's featur visibl network environ environ ca n't reboot machin . 
+for person use i would rather wait win32 base window releas whatev name jump nt bandwagon . 
+i expect applic keep use win16 win32 becom wide avail . 

@@ -1,0 +1,17 @@
+these two common subject i hope someon deal specif question . 
+1 . 
+if applic depend modifi best lookup method ? 
+my choic call xgetmodifiermap key press modifi make call init app store modifi lookup tabl . 
+i would like second way i ca n't seem get notifi user use xmodmap remap modifi . 
+i know app call xsetmodifiermap mappingnotifi event generat non-mask i pick modifi intern tabl . 
+but i n't seem get notifi event user use xmodmap . 
+if i use xt o'reilli say ' ... automat handl xt ... ' . 
+if i use xlib ala xnextev i get noth . 
+this stem problem user sun 45 keyboard numlock plus various altmetaetc . 
+modifi requir . 
+2 . 
+i would like place popup immedi right main window . 
+i want coord rightleft side touch . 
+what i need ask xy coord window manag 's border main window . 
+this ring bell anyon call xtmovewidget immedi check xy move see right next callback ask xy see offset wm border . 
+ani help would appreci . 

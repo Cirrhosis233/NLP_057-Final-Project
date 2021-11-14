@@ -1,0 +1,4 @@
+anyon know applic retriev name font applic given xfontstruct would xgetfontproperti work i pass xafontnam ? 
+anyon know detail ? 
+thank advanc . 
+brian 

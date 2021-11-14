@@ -1,0 +1,7 @@
+pleas repli via email ... 
+when i use termin softwar window terminal.ex crossttalk n't use whole window . 
+i mean softwar 's window size max still scroll around 23 window . 
+it use whole window . 
+i set stti row 30 still . 
+scroll 23 top window . 
+could anyon tell setup softwar use whole window ? 
