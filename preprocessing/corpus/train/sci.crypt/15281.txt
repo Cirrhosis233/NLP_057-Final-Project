@@ -1,0 +1,42 @@
+a unix tool cryptograph signific avail anonym ftp . 
+agrep 2.0.4 fast approxim pattern-match tool sourc code project avail cs.arizona.edu directori agrep agrep fast fuzzi search tool tremend number power search option . 
+the one obvious applic cryptographi key select abl specifi similar match data . 
+for exampl say make passwordphras qimwe7l . 
+of cours right suspect key dictionari word list . 
+but close 
+en entri could vari crack program brute-forc search ? 
+you use agrep find . 
+look argument none one two error match . 
+good far . 
+but agrep -3 qimwe7l bigwordandphraselist find pattern qimwe7l close pattern imsel part host other cryptograph valu key . 
+an error level two correspond simpl transposit letter like teh . 
+a minim accept password would pass least level 3 order immedi ruled-out even remot possibl good password . 
+in real cryptograph use person passphras clear least level 8 rather larg 80 meg word phrase list . 
+and search key word human-typ data lot ' typo tool unexcel . 
+for exampl for exampl say i want find peopl think gibson 's sf book neuromanc huge sf-lover 's archiv . 
+even error distanc specif small 1 i find peopl think titl necromanc common typo . 
+whi miss anyth ? 
+also program look 30000 pattern in parallel boyer-moor sublinear speed . 
+great nsa wannab look name terrorist name special tagalog religi word etc . 
+news e-mail spool directori . 
+you even search ciphertext use say 30000 random three-byt combin elimin text n't score x chi-squar birthday ' hit messag size y . 
+you think crypto-terrorist tri foil chang pattern ? 
+no problem . 
+tri agrep -p nsa find nsa nation secur agenc nsecag no such agenc nation scrabbl associ nsa etc . 
+you also specifi fix area look licens plate xyz123 know letter correct might say agrep -2 xyz123 licenseplatedatabas find plate start xyz two error addit substitut delet number area . 
+you also weight relat cost substiut addit delet error . 
+for exampl search dna pattern particular protein combin might know kind damag caus a nucelotid drop error ... 
+could adjust bias set -dc set delet cost count c error . 
+a steganograph use i even use agrep -2 stegeograp e find correct spell ! 
+would intent introduc error certain type magnitud plaintext later recov orgin 
+via agrep pipe . 
+lot possibl outlaw ciphertext ... 
+also agrep 's power extract option 
+make 
+easi abstract hit use form . 
+for exampl agrep -d from pgppassphrasezimmermannsa ' say output entir mail record delimit from ' contain pgp ' contain either passphras ' zimmerman ' nsa ' . 
+and agrep measur order-of-magnitud faster second-best similar tool public avail . 
+as usual i glad e-mail sourc doc reqest e-mail if anonym ftp . 
+get . 
+it power stay hand nsa . 
+gradi ward vendor nsa proud 

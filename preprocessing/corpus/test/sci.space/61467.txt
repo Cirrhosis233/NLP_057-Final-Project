@@ -1,0 +1,28 @@
+if 's case let point interstellar dust molecul provid mani instanc thing well not-too-far blackbodi . 
+mani differ observ includ ira cobe determin interstellar dust grain temperatur rang 40k 150k . 
+interstellar grain close blackbodi . 
+the larg grain size order 0.1 micron absorb visibl light fair effici . 
+howev temperatur 100 k 90 thermal emiss beyond 22 micron radiat effici poor . 
+a small antenna easili radiat long wavelength . 
+thus grain must heat order radiat energi absorb . 
+moreov ira observ maximum wavelength 100 micron . 
+grain colder 30 k radiat primarili longer wavelength ira would relat insensit . 
+in extrem limit grain cold 5 k almost undetect conceiv observ . 
+wors still ira color temperatur heavili contamin popul small grain . 
+these grain perhap 50 atom hit singl photon heat temperatur sever hundr 1000 k . 
+of cours cool quick stay cold radiat characterist temperatur sever hundr k . 
+even small popul grain dramat rais observ averag temperatur . 
+a model local infrar emiss consist cobe data three compon . 
+these repres scatter radiat zodiac dust color temperatur 5500 k thermal emiss zodiac dust tc 280 k thermal emiss galact dust tc25 k . 
+at eclipt pole emiss dilut factor respect 1.9e-13 4e-8 2e-5 . 
+the first two rough doubl eclipt plane . 
+to find thermal equilibrium temperatur add dilut factor time fourth power temperatur compon take fourth root . 
+in tabl starlight come allen 's number stellar emiss whole sky equival 460 zero mag star b-v color 0.75 . 
+no doubt care work could much better . 
+the person suggest starlight dilut factor e-4 must rememb wrong . 
+we would cook case . 
+in event energi densiti starlight come microwav background i believ correct . 
+dilut temp . 
+dt4 microwav background 1 2.7 53 galact dust 2e-5 25 8 zodiac dust emiss 6e-8 280 369 zodiac dust scatter 3e-13 5500 275 starlight 1e-13 5500 92 797 the fourth root 797 5.3 k . 
+outsid solar system result would 3.5 k . 
+i find result surpris especi import zodiac dust i n't see serious mistak . 

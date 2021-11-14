@@ -1,0 +1,33 @@
+boy embarass trivial faq given 4 point non coplanar one find sphere center radius exact fit point ? 
+i know circl 3 point immedi see straightforward way 3-d . 
+i check geometri book graphic gem farin still loss ? 
+pleas merci provid solut ? 
+would n't requir hyper-spher . 
+in 3-space 4 point specifi sphere far i see . 
+unless prove point exist 3-space equi-dist 4 point may necessarili happen . 
+correct i 'm wrong i quit possibl ! 
+steve sorri ! ! 
+call four point a b c d . 
+ani three must non-collinear otherwis three could lie surfac sphere four must coplan otherwis either lie sphere defin infin . 
+a b c defin circl . 
+the perpendicular bisector ab bc ca meet point p say centr circl . 
+this circl must lie surfac desir sphere . 
+consid normal plane abc pass p . 
+all point normal equidist a b c circl fact diamet desir sphere . 
+take plane contain normal d d lie normal plane contain normal plane right angl abc one . 
+let e point normal two circumfer abc circl lie plane . 
+we need point q normal eq dq . 
+but intersect perpendicular bisector ed normal point exist sinc d plane abc ed right angl normal . 
+algorithm is sphere well defin ? 
+1 check a b coincid failur . 
+2 find line ab check c lie failur . 
+3 find plane abc check d lie failur . 
+yes . 
+find centr . 
+1 find perpendicular bisector ab ac . 
+2 find point intersect p . 
+3 find normal plane abc pass p line n . 
+4 find plane contain n d find point e abc circl plane d lie n take e a . 
+4 find perpendicular bisector ed line l 5 find point intersect n l q . 
+q centr desir sphere pictur 1 in plane abc a p b c 2 at right-angl abc plane contain n d e d line n p-q- numer if ed ep q close p relat radius abc circl subject error . 
+it 's best choos d least ad bd cd larger choic . 

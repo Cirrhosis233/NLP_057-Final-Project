@@ -1,0 +1,16 @@
+help i run sampl problem o'reilli volum 4 xt intris program manual chapter 3 . 
+popup dialog box . 
+in exampl 3.5 page 76 creat pop-up dialog box the applic creat window button quit press . 
+the button press pop dialog box . 
+the strang featur program alway pop dialog box much faster first time . 
+if i tri pop 2nd time 3rd 4th .... 
+time much slower . 
+has anyon experi sampl program i get behaviour fast respons time first time slow respons time 2nd time onward anyon give idea program popup time popup reason fast respons time thankyou shirley thank respond . 
+we abl prevent behaviour two method 1 run twm rather olwm 2 keep olwm put wmtimeout 10 resourc it suggest difficuti someth window manag posit popup window . 
+ani guru analys go inform pleas post let us know . 
+thank shirley i ran problem i ago i rememb use xttranslatecoordin etc . 
+realiz main widget calcul locat popup use someth like xtvasetvalu popup widget ever use . 
+call setvalu repeat e.g . 
+everi time someth pop seem slow . 
+i never delv deep enough figur exact though ... 
+jeremi payn uiuc neurosci program colleg medicin 217244-4478 

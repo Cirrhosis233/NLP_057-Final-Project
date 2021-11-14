@@ -1,0 +1,8 @@
+is possibl buy serial io card 16550 uart 's built rather buy separ socket ? 
+my current io card use 8250 's correct number ? 
+the braindead one anyway . 
+it also control two floppi drive two ide hard drive . 
+ideal i 'd like get new multi io card 2 serial port 16550 's could also control anoth 2 ide hd 's . 
+it would configur address serial port ide control could co-exist exist card . 
+doe beast exist ? 
+now hard part i get one australia prefer brisban ? 

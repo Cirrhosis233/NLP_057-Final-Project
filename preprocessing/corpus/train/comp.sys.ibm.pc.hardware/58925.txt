@@ -1,0 +1,10 @@
+hi i got quantum prodriv 80at ide harddisk would like format . 
+when tri format low-level format fdisk dos format i somehow mess paramet ... 
+i enter fdisk mbr exact know . 
+the suggest drive type 38 format drive 21mb . 
+i tri type 25 give around 70mb nomin 80mb . 
+could i use user type 47 ? 
+howev i n't know actual paramet cylind head ... 
+could someon give ? 
+and fdisk work togeth user type 47 ? 
+thank thoma thoma dachsel phone 49 6221 4150 work 49 6203 12274 home fax 49 6221 415101 snail sas institut gmbh p.o.box 105307 d-w-6900 heidelberg taglin one bad sector ruin whole day ... 

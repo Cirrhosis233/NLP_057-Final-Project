@@ -1,0 +1,11 @@
+i gateway2000 48333 local bus system . 
+it 4 slot simm either use 4 16mb simm . 
+my question i receiv 4x9 70ns simm 30 pin . 
+the slot motherboard least 70 pin . 
+did i get wrong simm i still use simm although pin slot would flill . 
+i never encount long slot simm . 
+anyon suggest ? 
+i ca n't get hold gateway yet . 
+thank yes you bought wrong simm ..... you need 1x36 4x36 72 pin simm ..... these better anyway becuas sendrec data 4byte 32bit4bit pariti one byte chunk . 
+you undoubt see simm becom wide use near futur . 
+jason 

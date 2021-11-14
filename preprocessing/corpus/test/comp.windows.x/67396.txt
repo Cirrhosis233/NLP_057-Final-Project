@@ -1,0 +1,5 @@
+hello xpert . 
+i ve built x11r5 suno 4.1.1sparc . 
+i gcc-2.2 i 'd like use 64-bit capabl generat x11 releas render frame buffer use store-doubl 64-bit machin code . 
+can anyon tell directoriessourc file compil switch begin ? 
+thank advanc 

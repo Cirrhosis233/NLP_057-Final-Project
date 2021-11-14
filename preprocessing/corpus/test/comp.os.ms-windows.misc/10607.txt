@@ -1,0 +1,12 @@
+even point still stand extent ... 
+64k limit appear place realli necessari edit control limit . 
+while 64k limit may necessari limit probabl fall within categori reason ' limit . 
+if find tri alloc edit control 64k text 's probabl time take good look program 's design . 
+whi small limit number global memori handl allow ? 
+in way 8192 small ' number ? 
+it seem 'd hit wall mani way 'd hit systemwid limit global handl unless cours re abus globalalloc . 
+and pleas n't tri tell 's imposs abus resourc avail oper system . 
+all system limit . 
+the question whether limit reason . 
+so far n't offer singl argument suggest window ' limit less reason limit system . 
+rick schaut uucp ... uunet uw-beav ! microsoft ! rich 

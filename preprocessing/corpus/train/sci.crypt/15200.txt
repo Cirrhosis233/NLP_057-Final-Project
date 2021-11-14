@@ -1,0 +1,35 @@
+an articl comp.org.eff.new effector onlin 5.06 carl april 16 1993 initi eff analysi of clinton privaci and secur propos the clinton administr today made major announc cryptographi polici effect privaci secur million american . 
+the first part plan begin comprehens inquiri major communic privaci issu export control effect deni peopl easi access robust encrypt well law enforc issu pose new technolog . 
+howev eff concern administr alreadi reach conclus one critic part inquiri public comment discuss allow . 
+appar administr go use leverag get telephon equip vendor adopt voic encrypt standard develop nation secur agenc . 
+the so-cal clipper chip 80-bit split key escrow encrypt scheme built chip manufactur militari contractor . 
+two separ escrow agent would store user ' key requir turn law enforc upon present valid warrant . 
+the encrypt scheme use classifi chip avail manufactur incorpor communic product . 
+this propos rais number serious concern first administr appear adopt solut conduct inquiri . 
+the nsa-develop clipper chip may secur product . 
+other vendor develop may better scheme . 
+furthermor reli govern sole sourc clipper chip . 
+rather independ chip manufactur abl produc chipset base open standard . 
+second algorithm trust unless test . 
+yet administr propos keep chip algorithm classifi . 
+eff believ standard adopt ought public open . 
+the public confid secur standard open independ expert scrutini . 
+third use split-key dual-escrow system may prove reason balanc privaci law enforc need detail scheme must explor public adopt . 
+what give peopl confid safeti key ? 
+doe disclosur key third parti waiv individu 's fifth amend right subsequ crimin inquiri ? 
+in sum administr shown great sensit import issu plan comprehens inquiri digit privaci secur . 
+howev clipper chip solut ought consid part inquiri adopt discuss even begin . 
+detail of the propos escrow the 80-bit key divid two escrow agent hold 40 bit key . 
+upon present valid warrant two escrow agent would turn key part law enforc agent . 
+most like attorney general ask identifi appropri escrow agent . 
+some administr suggest one non-law enforc feder agenc perhap feder reserv one non-government organ . 
+but agreement ident agent yet . 
+key registr would done manufactur communic devic . 
+a key tie devic person use . 
+classifi algorithm and the possibl of back door the administr claim back door mean govern other could break code without secur key escrow agent presid told back door classifi algorithm . 
+in order prove administr sourc interest arrang all-star crypto cracker team come secur arrang examin algorithm trap door . 
+the result investig would made public . 
+govern as market driver in order get market move show govern believ secur system fed first big custom product . 
+user includ fbi secret servic vp al gore mayb even presid . 
+from more inform contact jerri berman execut director daniel j . 
+weitzner senior staff counsel 

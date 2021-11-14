@@ -1,0 +1,19 @@
+repost i two question well probabl ... 
+expos configur event handl . 
+i appl . 
+use 1 window draw . 
+sinc i give user capabl scale zoom well allow window resiz i made translat tabl expos configur event . 
+the expos event call redraw method configur event call rescal method . 
+the rescal method invok fake expos event actual call redraw w appropri expos struct draw data . 
+quest 1 . 
+when appl . 
+compiledlink w r4 run either r4 r5 env . 
+i get multipl 4 redraw window get uncov size chang . 
+i assum i 'm get cascad event . 
+is right ? 
+ani suggest handletrap event better way ? 
+quest 2 . 
+when appl . 
+compiledlink w r5 i get expos event whatsoev . 
+do event andor translat tabl act differ r5 ? 
+thank advanc 

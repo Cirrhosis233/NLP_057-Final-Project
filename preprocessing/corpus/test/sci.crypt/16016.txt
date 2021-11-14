@@ -1,0 +1,7 @@
+sensibl des encrypt data toward bit error ? 
+how much data per bit lost averag i assum still correct key ? 
+it depend mode re use . 
+for singl 64-bit input block one-bit error 50 percent chanc corrupt 64 output bit word essenti turn output block random number . 
+if re encrypt data cbc mode howev one 64-bit block affect . 
+the next block follow decrypt proper . 
+it 's good idea kind error correct system corrupt bit like . 

@@ -1,0 +1,27 @@
+now ? 
+i doubt trapdoor skipjack . 
+but never know . 
+and i doubt nsa would promot mass market chip could n't compromis . 
+ergo nsa capabl compromis probabl brute forc keysearch engin complex skipjack . 
+look spec . 
+whi i bet thousand littl chip chug away crypto buster ... 
+mayb even ten thousand . 
+complex ? 
+not much 3090 . 
+how mani machin fit fort mead ? 
+i think pgp2.3 256 bit idea key ... 
+thousand ? 
+ten thousand ? 
+do arithmet pleas ... 
+skipjack 280 possibl key . 
+let 's assum brute-forc engin like hypothes des 1 microsecond per trial 1 million chip . 
+that 's 1012 trial per second 38000 year 280 trial . 
+well mayb get chip run one trial per nanosecond build machin 10 million chip . 
+sure 3.8 year solut . 
+idea use 128-bit key . 
+shall i bother calcul ? 
+hint multipli 3.8 year 2128-80 . 
+and ca n't idea speed key setup take much long . 
+i would n't surpris case skipjack though 's way know yet . 
+des use xor 's feasibl mid-70 's technolog . 
+modern chip lot . 

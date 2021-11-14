@@ -1,0 +1,3 @@
+i kit includ follow 1 82c84a82c84a-5 chmos clock generat and driver for 808680c88 processor 2 27c6487c64 64k8kx8 chmos uv eras prom 3 51c259l low power 64k x 4 chmos dynam ram 4 82c59a-2 chmos programm interrupt control 5 82c88 chmos bus control fro 80c8680c88 processor 6 80c8880c88-2 8-bit chmos microprocessor 7 82c55a chmos programm peripher interfac 8 82c54 chmos programm interv timer 9 82c08 chmos dynam ram control all chip complet manual box . 
+i n't know whether still work i n't realli know . 
+so main know use probabl ee stuff sinc use belong ee student anyon interest pleas make offer . 

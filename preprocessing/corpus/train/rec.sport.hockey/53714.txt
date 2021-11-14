@@ -1,0 +1,24 @@
+group a group b cardiff devil 7-3 bracknel bee nottingham panther 8-3 billingham humbersid 7-7 whitley warrior murrayfield racer 11-2 fife flyer whitley bay 6-9 cardiff devil billingham bomber 6-8 murrayfield humbersid 8-5 bracknel bee nottingham panther 11-5 fife flyer cardiff devil 10-4 humbersid murrayfield racer 6-4 nottingham bracknel bee 4-9 whitley bay fife flyer 2-5 billingham bracknel bee 3-8 cardiff devil billingham bomber 2-8 nottingham whitley bay 5-7 humbersid fife flyer 3-12 murrayfield p w d l f a p p w d l f a p cardiff devil 4 4 0 
+0 
+34 16 8 murrayfield racer 4 4 0 
+0 
+37 15 8 humbersid 4 2 1 1 26 27 5 nottingham panther 4 3 0 
+1 31 16 6 whitley bay 4 1 1 2 27 27 3 billingham bomber 4 1 0 
+3 16 26 2 bracknel bee 4 0 
+0 
+4 15 32 0 
+fife flyer 4 0 
+0 
+4 12 39 0 
+indic qualifi championship final relegationpromot a relegationpromot b basingstok 10-4 swindon wildcat sheffield steeler 12-8 peterborough durham wasp 13-5 romford raider slough jet 1-9 mk king basingstok 6-0 durham wasp sheffield steeler 9-4 milton keyn swindon 8-5 romford raider milton keyn king 4-6 peterborough durham wasp 17-2 swindon wildcat slough jet 2-12 sheffield romford 4-10 basingstok peterborough 10-2 slough jet romford 8-3 durham wasp peterborough 8-5 sheffield swindon 7-11 basingstok milton keyn king 10-4 slough jet p w d l f a p p w d l f a p basingstok 4 4 0 
+0 
+37 15 8 sheffield steeler 4 3 0 
+0 
+38 22 6 durham wasp 4 2 0 
+2 33 21 4 peterborough 4 3 0 
+1 32 23 6 swindon 4 1 0 
+3 21 43 2 milton keyn king 4 2 0 
+2 27 20 4 romford raider 4 1 0 
+3 22 34 2 slough jet 4 0 
+0 
+4 9 41 0 

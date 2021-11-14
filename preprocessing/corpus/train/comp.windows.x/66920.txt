@@ -1,0 +1,11 @@
+i 'm x resourc problem use brian wilson 's wscrawl 2.0 wonder interact conferenc program way . 
+i 'm run openwindow 3.0 sparc 1 os 4.1.3 . 
+i follow default .xdefault file among mani other wscrawl.telepointernam kevin wscrawl.syncscrollbar true wscrawl.continuoustelepoint true wscrawl.showpointercoordin fals wscrawlbackground lightblu wscrawlswindowforeground yellow wscrawldrawareaframeforeground blue wscrawlkeyboardfocuspolici pointer natur i exit server restart ad line .xdefault if i run follow cmdtool pwd home dir . 
+xrdb -m .xdefault start wscrawl default use proper . 
+wonder yes ? 
+except i ca n't get oper except manual invok afore-ment xrdb command . 
+if i tri xrdb .xdefault default wo n't take so i tri chang xrdb call .xinitrc file xrdb home.xdefault xrdb -m home.xdefault no go . 
+so i tri ad xrdb -m homekbw.xdefault begin end .openwin-init file . 
+still go . 
+ani notion give ? 
+thank help . 

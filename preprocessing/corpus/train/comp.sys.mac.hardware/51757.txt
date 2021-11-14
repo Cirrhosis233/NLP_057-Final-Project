@@ -1,0 +1,19 @@
+i hook mac iisi relat old 1 year ? 
+asant ensc adapt . 
+the 10base-t connect work like charm . 
+i instal newest driver asant 's ftp server . 
+the problem begin i attach one devic scsi chain specif 50mb drive . 
+i power drive mac . 
+the mac test memori etc . 
+just happi mac face normal show power light ensc goe boot process stop . 
+so i use network extern drive . 
+this make asant box pretti much unus . 
+it n't look like pure electr scsi problem i turn drive second late n't get notic initi scsi poll mac boot normal adapt work even though hard disk power connect . 
+the mac never fail boot intern drive i ve year . 
+here i tri chang scsi id 's ensc disk sever permut chang order devic i.e . 
+ensc head tail chain overtermin extern termin devic intern one undertermin i.e . 
+remov intern resistor hard disk tri anoth ensc box tri anoth ident drive tri sever differ scsi cabl . 
+has anybodi seen ? 
+more import anyon solut ? 
+thank lot . 
+e . 

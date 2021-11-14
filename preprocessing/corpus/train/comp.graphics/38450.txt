@@ -1,0 +1,9 @@
+look graphicscador-whatev packag x-unix box take file record like n b p n count integ entiti string b entiti b string p type string produc network graph node repres box circl vertic repres line width line determin n . 
+there would differ line type type vertic . 
+the box need identifi entiti 's name . 
+the number entiti 1000 vertic 100000 . 
+it would nice tool minim line cross-ov good job layout . 
+i look faq comp.graph gnuplot without success . 
+ani idea would appreci ? 
+thank hi see roger grywalski 's respons re help network visual comp.graphics.visu . 
+amongst thing exact ! 

@@ -1,0 +1,8 @@
+this question aim done server code hack i attempt add work savescreen function new server . 
+i abl get screen blank proper debug i see savescreen function call on0 arcan reason mean blank screen . 
+my problem function never call on1 even i move mous andor type key . 
+my question i like miss would caus problem ? 
+i copi basic design function exist version static bool nextsavescreenscron screenptr scr bool copi omron server code right way ? 
+screensaveron nextsetlasteventtim screensaveron save user 's current set nextsavescreenbright nxscreenbrightnessmyeventhandl nxsetscreenbright myeventhandl 0.0 blank screen els unblank screen nxsetscreenbright myeventhandl nextsavescreenbright return true i see servero code screensav call turn saver i find wake server unblank screen . 
+ani tipshelp would appreci . 
+thank . 

@@ -1,0 +1,7 @@
+hi i tri write x-window base interfac run top gdb . 
+could anyon help understand way suppos fork gdb subprocess ? ? 
+i current use pipe i tri debug program follow happen program main int x printfent x scanfd x printfx .d.n x output the program hang without return output printf statement . 
+when i type valu like 5 printf 's output come one time . 
+is way besid use pipe i.e . 
+like ioctl someth els ? ? 
+thank deepak 

@@ -1,0 +1,11 @@
+yes bug x11r5 port xterm . 
+you sometim get start xdm . 
+i report casper n't know whether made set patch yet . 
+basic mitclientsxtermmain.c test line 1598 check errno attempt open devtti . 
+add errno einval case fine . 
+it 's actual bug solari 2.1 kernel . 
+we could add workaround xterm . 
+open never return einval i n't time updat r5.sunos5 patch late non exist problem seem warrant new set patch . 
+sinc .xsession bourn shell script anyway might well add line etctimezon done etcprofil . 
+xdm coulda also keep xdm environ variabl . 
+it inherit environ . 

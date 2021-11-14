@@ -1,0 +1,34 @@
+doe anyon know way unix machin automat set 's display variabl xterm re use 's machin 's serv x ? 
+the best i ve abl come rather convolut script extract ip whos command frequent fail mention requir user name ad . 
+andrew inman consult itd consult support servic from note subject .... 
+method automat passwd author one machin anoth . 
+this also includ problem notif remot host current display use . 
+1 use rshrexecon ... 
+method xauth manual set .rhost file home directori remot machin password requir remot execut command . 
+xauth extract display rsh xauth merg this method also use xrsh pass author . 
+my vampir program also use variat howev i wrap part remot command sequenc eg xauth add auth includ method use xrlogin ' xrsh ' job . 
+these program usal newer one allow pass secifi list environ variabl includ display ' andor copi author code requir . 
+the xon ' program avail enabl sun machin also pass environ variabl well current directori . 
+you howev requir store author variabl pass . 
+unless also share home directori . 
+warn environ variabl command line argument visibl ps ' list appropi flag . 
+as pass author inform environ variabl argument recomend . 
+the recommend method given manual shown safe view user . 
+2 wrap part term environ variabl . 
+this method use fact remot command executor pass term environ variabl remot host . 
+it matter appropi script remot .login file extract inform term environ variabl set thing appropiat . 
+a version xrlogin script avail network . 
+basic chang term environ variabl actual call rlogin perform includ display author . 
+on remot machin extract inform return term environ variabl normal befor use reset stty'e termin . 
+-8- script launch rlogin ! binsh binrl rlogin display -n display case display displayhostnamedisplay esac termtermdisplayxauth nextract display export term fi rlogin -8- add .cshrc .login ? term echo term tr -cd `` `` echo term cut -d ' -f3 xauth nmerg setenv display echo term cut -d ' -f2 setenv term echo term cut -d ' -f1 endif endif -8- xterm command use xterm -t hostnam -e binrl hostnam -8- 3 nfs . 
+write file share nfs partit access . 
+note home directori nfs mount author automat pass hoever still pass display environ variabl via file mean . 
+ie login host echo display .x11host remot host setenv display cat .x11host 4 finger info .plan file this involv encrypt inform .plan ' .project ' remot machin finger inform . 
+this disadvantag inform anyon finger user . 
+thus requir encrypt method uniq individu . 
+ie method decyrpt must share known other easi determin . 
+a improv use finger ' techniqu give inform remot account anyon ask . 
+this last method develop last year second year until i explain need encrypt point gave method . 
+it howev valid method . 
+it easer 2 less secur . 
+magic real unless declar integ john p.melvin 

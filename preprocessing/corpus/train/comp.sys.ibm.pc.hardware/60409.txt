@@ -1,0 +1,4 @@
+i tseng lab video card give problem i anyth super vga mode . 
+checkit v3.0 report video page frame address error page frame 7 . 
+what mean i could fix ? 
+the card say et4000ax . 

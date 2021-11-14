@@ -1,0 +1,6 @@
+i ve got 6.0 spec obvious sinc i quot last post . 
+my gripe tiff 's far complic near infinit easier write read ... 
+whi use pd c librari readingwrit tiff file ? 
+it took good 20 minut start use app . 
+martin what name pd c librari tiff . 
+i 'd like get copi i ca n't archi someth i n't filenam . 

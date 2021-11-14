@@ -1,0 +1,20 @@
+directori pd1msdos.sysutl filenam type length date descript clkdev14.zip b 37122 910729 keep dos time synch batteri clock chip an index file wsmr-simtel20.army.mil ms-dos collect avail two format directori pd1msdos.filedoc filenam type descript simibm.zip b comma-delim list msdos file wdescrip . 
+simlist.zip b text format list msdos file wdescrip . 
+these file updat everi 7-10 day . 
+see aaaread.m directori detail . 
+simtel20 allow nine anonym ftp login weekday prime time 5am 3pm mountain time gmt-7 27 otherwis . 
+simtel20 file also avail anonym ftp mirror site oak.oakland.edu 141.210.10.117 wuarchive.wustl.edu 128.252.135.4 archive.orst.edu 128.193.2.13 ftp.uu.net 137.39.1.9 nic.funet.fi 128.214.6.100 src.doc.ic.ac.uk 146.169.3.7 nic.switch.ch 130.59.1.40 archie.au 139.130.4.6 nctuccca.edu.tw 140.111.3.21 e-mail bitnetearn file server uucp uunet 's 1-900-got-src . 
+see uunet file uunet ! infoarchive-help detail . 
+oak.oakland.edu primari mirror site wsmr-simtel20.army.mil . 
+all mirror except wuarchiv listserv trickl server get simtel20 file oak instead simtel20 much faster allow simultan ftp connect . 
+oak alway sync simtel20 i maintain addit duti simtel20 . 
+i run oak 's mirror program whenev new file ad simtel20 . 
+use internet ms-dos archiv manag announc new addit collect . 
+the announc post mail list also post usenet newsgroup comp.archives.msdos.announc . 
+if host usenet news pleas subscrib msdos-ann . 
+to add mail list send e-mail bodi messag subscrib msdos-ann to subscrib someth account mail come local redistribut list add address subscrib command exampl subscrib local-msdos-ann pleas includ signatur may confus server . 
+send mail word help bodi messag get complet list command syntax . 
+if later chang mind wish unsubscrib send e-mail address subscrib . 
+send messag unsubscrib msdos-ann this server mail list inform file . 
+it send program file . 
+keith 

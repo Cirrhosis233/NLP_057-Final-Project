@@ -1,0 +1,118 @@
+archive-nam ripemfaq last-upd sun 7 mar 93 210000 -0500 about this post this still rather rough list like question inform ripem program public key mail encrypt . 
+it faq ripem written maintain marc varieti newsgroup month basi follow-up discuss specif ripem redirect group alt.security.ripem . 
+this month i reformat post attempt compli standard hypertext faq format allow easi manipul document world wide web . 
+let know think . 
+disclaim noth faq consid legal advic anyth one person 's opinion . 
+if want real legal advic talk real lawyer . 
+question and answer 1 what ripem ? 
+ripem program perform privaci enhanc mail pem use cryptograph techniqu rsa des . 
+it allow electron mail properti authent i.e . 
+sent confirm privaci i.e . 
+nobodi read except intend recipi . 
+most code public domain except rsa routin librari call rsaref licens rsa data secur inc . 
+2 how i get ripem ? 
+ripem contain librari cryptograph routin rsaref consid munit thus export-restrict distribut peopl citizen perman resid u. . 
+canada . 
+therefor follow request quot readm file pleas export cryptograph code distribut outsid usa canada . 
+this person request author ripem condit use ripem . 
+note rsaref public domain licens includ distribut . 
+you read use ripem . 
+the best way get ask friend copi sinc reduc load site carri mention human run . 
+natur requir trust friend . 
+ripem avail via anonym ftp citizen perman resid u. . 
+rsa.com cd rsaref read readm file info . 
+last i look site contain sourc tree contain compil binari nice mac version . 
+ripem well crypt stuff home site rpub.cl.msu.edu open non-anonym ftp user u. . 
+canada citizen perman resid . 
+to find obtain access ftp cd pubcrypt read file gettingaccess . 
+for conveni binari mani architectur avail addit full sourc tree . 
+3 will ripem run machin ? 
+probabl . 
+it alreadi port ms-dos flavor unix suno next linux aix ultrix solari etc . 
+port macintosh includ standard unix-styl port rather nice mac-lik port written raymond lau author stuffit . 
+more port expect help user invit . 
+4 will ripem work mailer ? 
+probabl . 
+how easi clean effect interfac depend sophist modular mailer though . 
+the user guid includ distribut discuss way use ripem mani popular mailer includ berkeley mush elm mh . 
+code also includ elisp allow easi use ripem insid gnu emac . 
+if make new interfac ripem creat improv one distribut believ conveni use secur may use other feel free post alt.security.ripem . 
+5 what rsa ? 
+rsa crypto system asymmetr public-key . 
+this mean two differ relat key one encrypt one decrypt . 
+becaus one reason deriv may publish encrypt public key wide keep decrypt privat key . 
+anyon use public key encrypt messag hold privat key need decrypt . 
+note messag sent rsa normal des key real messag . 
+see what des ? 
+note provid privaci . 
+for authent fingerprint messag see what fingerprint like md5 ? 
+encrypt sender 's privat key . 
+the recipi use sender 's public key decrypt confirm messag must come sender . 
+rsa name three men rivest shamir adleman invent . 
+to find rsa ftp rsa.com look pubfaq look sci.crypt . 
+6 what des ? 
+des data encrypt standard wide use symmetr secret-key crypto system . 
+unlik rsa des use key encrypt decrypt messag . 
+howev des much faster rsa . 
+ripem use des rsa generat random key encrypt mail des use key . 
+it encrypt key recipi 's public rsa key includ result letter allow recipi recov des key . 
+des sometim consid weak somewhat old use key length consid short modern standard . 
+howev reason safe oppon smaller larg corpor govern agenc . 
+it unlik futur ripem strengthen symmetr cipher possibl use multipl encrypt des . 
+7 what pem ripem relat ? 
+pem privaci enhanc mail system allow easi transfer encrypt electron mail . 
+it describ rfcs 1421-1424 document approv obsolet old rfcs 1113-1115 . 
+ripem realli complet implement pem pem specifi certif authent key ripem handl time . 
+their addit plan . 
+8 what 's distribut authent key ? 
+for remot user abl send secur mail must know public key . 
+for abl confirm messag receiv came must know public key . 
+it import inform accur bad guy convinc key fact send messag read . 
+ripem allow three method key manag central server distribut finger server flat file . 
+all three describ ripem user guid part distribut . 
+none provid perfect secur . 
+9 whi ripem public key look similar ? 
+ripem public key begin pkcs identifi describ various characterist key first bunch charact key may lot peopl 's key . 
+this mean key similar class key generat program length etc . 
+10 what fingerprint like md5 ? 
+md5 messag digest algorithm produc rsa data secur inc . 
+it provid 128-bit fingerprint cryptograph secur hash plaintext . 
+it cryptograph secur possibl reason amount comput produc differ plaintext produc fingerprint . 
+thus instead sign entir messag sender 's privat key md5 messag need sign authent . 
+md5 sometim use purpos exampl often use map input arbitrari length 128 bit data passphras interpret cooki generat . 
+md5 describ entireti includ implement c rfc 1321 . 
+11 what pgp ? 
+pgp anoth cryptograph mail program call pretti good privaci . 
+pgp around longer ripem work somewhat differ . 
+pgp compat ripem way though pgp also use rsa . 
+some major differ pgp ripem pgp key manag featur particular user without direct network connect . 
+ripem conform pem rfcs thus greater probabl work pem softwar . 
+pgp make attempt compat anyth pgp fact pgp 1.0 compat pgp 2.0 . 
+ripem use rsaref librari rsa routin rsa data secur inc . 
+rsaref come licens allow noncommerci use . 
+pgp use implement rsa licens thus pkp firm hold u. . 
+patent rsa algorithm claim infring patent make use sell pgp u. . 
+canada . 
+in acknowledg pgp 's origin author phil zimmermann say document in fact live usa feder agenc n't actual run pgp comput public key partner want forbid run softwar . 
+pgp contraband . 
+both pgp ripem export-restrict sent outsid u. . 
+canada . 
+howev pgp alreadi exist mani ftp site europ place . 
+whether use pgp ripem whatev document pgp recommend read anyon interest issu . 
+note fact regard patent export restrict somewhat controversi mani peopl think n't way peopl interpret various document differ . 
+unfortun discuss net inevit seem produc heat light probabl belong misc.legal.comput . 
+see disclaim 12 what rpem ? 
+rpem stand rabin privaci enhanc mail . 
+it similar ripem use public-key cipher invent rabin rsa attempt avoid patent rsa . 
+it written mark riordan author ripem . 
+it distribut halt contrari belief mani includ rabin public key partner pkp claim patent broad enough cover public-key cipher whose strength rest difficulti factor product larg prime rsa . 
+this claim univers accept mean challeng pragmat reason . 
+rpem realli use anymor . 
+it compat ripem pgp . 
+13 what mime ? 
+mime stand multipurpos internet mail extens describ rfc 1341 . 
+you find newsgroup comp.mail.mim . 
+how pem interact mime yet entir clear peopl use stopgap solut mime type applicationx-ripem order send ripem messag mime one . 
+i hope standard emerg . 
+draft internet document exist matter . 
+14 i simpl way defeat secur ripem ... 

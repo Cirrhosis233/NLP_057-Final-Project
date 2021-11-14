@@ -1,0 +1,4 @@
+hi netter quantum lps 240at harddisk forsal . 
+3.5 frame 13 height . 
+ide format master slave 723 cyl 13 hd 51 st 234.9 real meg access time 16 ms . 
+256k cach drive ask 300 . 

@@ -1,0 +1,34 @@
+hi i get lot request inform i thought i would post interest parti . 
+sorri length . 
+to increas maciisi speed 25mhz 33mhz clock must chang 40mhz 50mhz 64mhz respect . 
+this done go static-fre work station put aluminum foil work . 
+1 . 
+open si lift tab back case . 
+2 . 
+remov hard disk disconnect power scsi cabl spread tab lift drive . 
+3 . 
+remov flopi drive . 
+4 . 
+remov power suppli spread tab front lift suppli straight . 
+5 . 
+remov fan press ear togeth back bottom side fan lift straight . 
+6 . 
+remov mother board spread tab left right side board slide board forward lift board . 
+connector back board must remov first 7 . 
+desold 40mhz clock one closest memori modul . 
+this easi even skill solder . 
+8 . 
+get ic socket round pin remov four pin push bottom long nose plier . 
+9 . 
+put four pin hole vacat clock solder . 
+10.insert 50mhz 64mhz clock . 
+11.put larg power transistor heat sink 's processor chip larg chip right processor figur way hold heat sync 's place . 
+i made simpl clamp put four inch screw hole board two chip . 
+mount screw use insul washer . 
+screw cross member heat sync 's hold place . 
+do n't use much pressur . 
+12 . 
+put back togeth go-for-it . 
+disclaim procedur i use author anyon . 
+you procedur . 
+i 'm quit sure void warente . 

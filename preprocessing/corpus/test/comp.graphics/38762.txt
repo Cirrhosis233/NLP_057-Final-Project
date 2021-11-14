@@ -1,0 +1,18 @@
+howdi i recent talk possibl employ mine ! 
+made refer 48-bit graphic computerimag process system . 
+i seem rememb call imag someth akin . 
+anyway claim 48-bit color 12-bit alpha channel . 
+that 's 60 bit infowhat could possibl ? 
+specif 48-bit color ? 
+that 's 280 trillion color mani human eye resolv . 
+is anti-alias thing ? 
+or magic number make work better certain processor . 
+hmm ... 
+48 bit aye ? 
+well beat 32-bit design thee sake elleg . 
+48 bit mean 16 bit per primari colour . 
+the 248 nr colour bit mislead . 
+it make sens see 65536 possibl shade pure red . 
+this might actual make sens sinc 256 shade red 24 bit colour may produc visibl jump ' intens . 
+then byte per primari colour pixel eleg way colour graphic leav ya tidi fast program code . 
+take care bram 

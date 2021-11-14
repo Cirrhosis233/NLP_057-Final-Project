@@ -1,0 +1,12 @@
+i bought new portabl cd player offic i notic proud proclaim 8 time oversampl box . 
+the data ever read bar mistrack cours eventu get turn 44.1 khz 16 bit two channel data . 
+oversampl take two discret data point interpol n-1 point n time oversampl . 
+when i ask peopl said interpol simpli linear interpol signific complic . 
+you quit correct understand . 
+in case care filter method use fir finit impuls respons filter . 
+i 'd guess cd maker use kind method . 
+anybodi know real answer ? 
+typic old 2x-oversampl unit thirteen-tap fir implement dedic hardwar addit circuit . 
+at kind speed slow digit standard adder much less expens analog compon compar precis . 
+i glean inform hardwar manual old cd player design one would find similar info particular cd digit filter is interest compon point view i idea . 
+the digit filter kind interpol scheme read book numer analysi see broad term interpol ' ... 

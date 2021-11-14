@@ -1,0 +1,13 @@
+question what exact entri paramet syntax pleas x-termin configur file load x-termin boot add anoth system tcpip access control list ? 
+background i two unix system 1 . 
+att 3b2 run x11r3 mit 's x11r4 2 . 
+sun ss10 without x . 
+i want window sun 3b2 ncd x-termin time . 
+i i manual set network paramet tcpip access control list login telnet session . 
+not great ! 
+i ve tri get xhost work fail . 
+either syntax wrong x11r3 implement bogus . 
+i tri edit ncd configur file load ncd boot . 
+no matter entri i add edit ncd still boot tcpip access control list contain 3b2 . 
+my manual worthless help would appreci ! ! 
+thank ! 

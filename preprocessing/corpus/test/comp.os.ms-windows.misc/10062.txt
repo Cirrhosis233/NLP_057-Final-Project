@@ -1,0 +1,8 @@
+brad what procedur use special ' compress bmp file ? 
+i would love use bmp file i creat logo screen . 
+thank chris i n't know specif compress algorithm i ve use sharewar program paintshop convert two . 
+you download ftp.cica.indiana.edu i n't know file call directori start look pubpcwin3 tri scan index file . 
+to convert .bmp file .rle file load .bmp file save .. 
+select window bitmap compress rle ? 
+whatev 's fair intuit ... 
+sorri i n't detail i 'm current ibm3151 dumb termin ca n't much research ... good luck ! 

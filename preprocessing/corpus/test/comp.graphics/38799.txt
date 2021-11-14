@@ -1,0 +1,8 @@
+i color gif i would like archiv much smaller size use grayscal palett 16 shade . 
+the quantize 16 gray introduc ugli band pictur nice elimin dither . 
+up i use xv process imag i would like autom procedur . 
+the problem xv ca n't i think convert imag automat obvious altern pnmplus ppmquant pnmdither n't even get close xv 's qualiti . 
+pnmdither appar dither rgb even though imag grayscal . 
+the dither routin xv seem use natur imag color dither . 
+is similar routin avail public domain ? 
+if ? 

@@ -1,0 +1,10 @@
+what tube viewson 17 use ? 
+doe support 1600x1280 ? 
+i ve look philip 1762dt use soni trinitron tube digit control support 1280x1024ni .25mm dot pitch it found 1000 . 
+the origin poster john navitski said might use monitor sparcstat lx . 
+the lx abl generat pictur 12801024 76 hz . 
+not offici i tri set resolut refresh rate lx came non-sync screen . 
+our tube obvious could n't handl speed . 
+at 67 hz work perfect . 
+when buy third parti monitor 's go use sparcstat lx might consid monitor 's fast enough 12801024 76hz . 
+i n't know sure whether lx support sun certain wo n't tell ll check . 

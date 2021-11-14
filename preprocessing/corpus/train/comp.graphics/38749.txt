@@ -1,0 +1,5 @@
+hi guy . 
+i scan color imag look fine screen . 
+when i convert pcxbmpgif file get ms window color got much lighter . 
+for exampl yellow becam white . 
+ani idea ? 

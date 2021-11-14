@@ -1,0 +1,9 @@
+how fast fastest modem go ? 
+the shannon limit voic line like somewher around 25kbps . 
+we rapid approach . 
+the fastest afford full-duplex modem current market v32bis 14400bps . 
+how far voic compress ? 
+celp manag sound decent 4800 bps . 
+in theori built speech recognit system turn voic ascii perfect synthesi system end sound like person speak could get inform content speech . 
+with various kind lpc get 2400 bps prehap even less point sound horribl . 
+4800 bps adequit purpos . 

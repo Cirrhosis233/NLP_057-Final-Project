@@ -1,0 +1,8 @@
+i suspect extern cach i real evid . 
+suggest caus problem bad memori bad motherboard bad cach . 
+suggest debug problem turn cach . 
+gcc big program seem crash 15 time . 
+gcc gave someth like program got fatal signal 11 anyth past complex elvi kermit etc i got kernel general protect fault least session . 
+i disabl cach suggest bingo linux stabl rock n't given core dump kernel error yet . 
+doe one know cach would someth like ? 
+aldi 

@@ -1,0 +1,4 @@
+hello edn magazin i found note new ct 82c735 io control . 
+it support sever parallel port protocol includ fast centron microsoft enhanc capabl protocol ecp enhanc parallel port epp the last two handl data rate 2mbytessec . 
+is specif protocol avail ? 
+regard christian frank 

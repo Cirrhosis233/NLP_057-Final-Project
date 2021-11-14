@@ -1,0 +1,157 @@
+comprehens list delet there comprehens list sci.math.symbol detail descript mani packag . 
+especi mark updat list here avail system this list current develop distribut softwar symbol math applic . 
+no inform suppli system longer support like saint formac alpak altran mathlab sin sac camal scratchpad mumath sheep trigman analitik smp ccalc . 
+for detail info system look directori pubsymbolicmath anonym ftp math.berkeley.edu . 
+no particular recommend made . 
+if want price contact compani . 
+program list aprox . 
+revers order number machin run class general purpos system first . 
+if inform add list know miss mupad felix pleas send paulo ney de souza depart mathemat univers california general purpos mapl type commerci machin most impress list machin i seen program workstat dec hp ibm mip sun sgi apollo 386 pc 's mac amiga atari att 3b2 gould convex ncr pyramid sequent unisi cray 's . 
+waterloo mapl softwar 160 columbia street west waterloo ontario canada n2l 3l3 phone 519 747-2373 version 5 releas 1 comment general purpos sourc avail routin graphic support 5.0 . 
+a demo program pc-dos obtain anonym ftp wuarchive.wustl.eduedumathmsdosmodern.algebramaplev.zip mathematica type commerci machin cray ymp mac 's pc 's wolfram research inc . 
+100 trade center drive champaign il 61820-7237 version 2.1 comment general purpos notebook interfac next mac nice graphic . 
+macsyma type commerci machin sun-3 sun-4 sparc vax unix vms apollo hp 9000 dec risc pc386dos symbol comput 368387 486 sx 's pc 's . 
+macsyma inc 20 academi st . 
+arlington ma 02174-6436 version depend machin 417.100 latest sun-4 hp dec risc 417.125 pc 's comment general purpos mani divers capabl one oldest around . 
+includ propietari improv symbol macsyma inc . 
+descend mit 's macsyma . 
+doe-macsyma type distribut fee machin gigamo symbol ti explor lisp machin . 
+the nil version run vax use vms system . 
+the public domain franz lisp version run unix machin includ sun vax use unix . 
+contact estsc energi scienc technolog softwar center p . 
+o . 
+box 1020 oak ridg tn 37831-1020 phone 615 576-2606 comment help doe-macsyma general help issu leon harten paradigm assoc . 
+paradigm associ inc . 
+29 putnam avenu suit 6 cambridg ma 02139 617 492-6079 . 
+maxima type licenc fee . 
+get licenc estc download . 
+machin unix workstat sun mip hp pc 's pc-dos beta . 
+version 4.155 comment general purpos mit macsyma famili . 
+common lisp implement william f . 
+schelter base kyoto common lisp . 
+modifi version doe-macsyma avail estsc doe site . 
+get licenc estsc phone 615-576-2606 dowload softwar dos math.utexas.edupubbeta-max.zip unix rascal.ics.utexas.edupubmaxima-4-155.tar.z current charg 1 machin licens 165 univers . 
+site licens also avail . 
+aljabr type commerci machin mac 's 4meg ram . 
+15 fort pond road acton ma 01720 us version 1.0 comment mit macsyma famili descend use franz lisp . 
+paramac type commerci machin vax-vm sun-3 sun-4 sgi mac 's work version ? ? ? 
+comment ? ? ? 
+vaxima type distribut fee machin vax-unix contact estsc see doe-macsyma version ? ? ? 
+comment general purpos mit macsyma famili descend . 
+includ sourc binari assembl macsyma franz lisp opus 38 reduc type commerci machin all unix workstat varieti mainfram ms-dos3864mbyt atari st . 
+version 3.34 comment general purpos form type public domain verison 1 version 2 commerci machin msdos atarist mac sun3 sun4sparc apollo next vaxvm vaxultrix decstat other binari version version 1 avail anonym ftp nikhef.nikhef.nl 192.16.199.1 version 1 2 . 
+comment general purpos design big problem batch-lik interfac axiom type commerci machin ibm rs 6000 's ibm plataform nag numer algorithm group inc 1400 opus place suit 200 downer grove il 60515-5702 version ? ? ? 
+comment general purpos . 
+simath type anonym ftp machin sun apollo dn siemen workstat . 
+version 3.5 comment general purpos deriv type commerci machin run pc 's hp 95 's . 
+contact 808-734-5801 soft warehous inc . 
+3615 hard ave suit 505 honolulu hawaii 96816-3735 version 2.01 comment said robust get problem larger program fail . 
+low cost . 
+theorist type commerci machin mac 's prescienc corp 939 howard st 333 san francisco ca 94103 version 1.11 comment general purpos graphic if like mac interfac ll love fix precis 19 digit run smaller mac 's mma . 
+mas type anonym ftp machin atari st tdi spc modula-2 compil ibm pcat m2sds topspe modula-2 compil commodor amiga m2amiga compil . 
+contact h . 
+kredel . 
+comput algebra group univers passau germani version 0.60 comment mas experiment comput algebra system combin imper program facil algebra specif capabl design studi algebra algorithm . 
+mas avail via anonym ftp alice.fmi.uni-passau.d 123.231.10.1 mockmma type anonym ftp peoplesparc.berkeley.edu machin anywher run common lisp . 
+version ? ? ? ? ? ? ? 
+comment it matematica i mispel ! . 
+weyl type anonym ftp ftp.cs.cornell.edu pubweyl version 4.240 comment intend incorpor larger special system . 
+flac type ? ? ? 
+machin ibm pc 's dos contact victor l . 
+kistlerov institut control scienc profsoyuznaya 65 moscow ussr version ? ? ? 
+comment function languag group theori cayley type cost recoveri machin sun 3 sun 4 ibm aix vm machin apollo dec vaxvm mac run aux 2.01 higher convex . 
+phone 61 02 692 3338 fax 61 02 692 4534 comput algebra group univers sydney nsw 2006 australia version 3.8.3 comment design fast comput algebra combinatori structur group ring field modul graph . 
+although began group theori system recent evolv general abstract algebra system . 
+gap type anonym ftp free pd basic gnu copyleft machin all unix workstat atari st ibm pc mac ftp site samson.math.rwth-aachen.d 137.226.152.6 math.ucla.edu version 3.1 3.2 releas dec 92 comment group theori calcul . 
+algebra number theori pari type anonym ftp machin most workstat mac next anonym ftp math.ucla.edu 128.97.64.16 directori pubpari version 1.35 comment number theoret comput sourc avail key routin assembl ascii xwindow graphic . 
+pc-dos version avail anonym ftp wuarchive.wustl.eduedumathmsdosmodern.algebrapari386 macaulay type anonym ftp machin complet sourc avail binari mac version avail contact anonym ftp zariski.harvard.edu 128.103.1.107 version ? ? ? 
+comment focus algebra type comput polynomi ring finit field thing like . 
+kant type ? ? ? 
+machin ? ? ? 
+contact kant group prof . 
+dr . 
+m . 
+e . 
+pohst dr . 
+johann graf v . 
+schmettow mathematisch institut heinrich-heine-universitat universitatsstr . 
+1 d-4000 dusseldorf 1 version 1 2 comment kant comput algebra number theori subroutin packag algorithm geometri number algebra number theori . 
+there two version kant kant v1 written ansi-fortran 77 kant v2 built cayley platform written ansi-c . 
+lie type commerci machin unix workstat sun dec sgi ibm next pc 's atari mac 's . 
+can expertis centr kruislaan 413 1098 sj amsterdam the netherland version 2 comment lie group comput ubas type anonym ftp ubas830.zip machin mac ibm pc 's donald e . 
+g . 
+malm depart mathemat scienc oakland univers rochest mi 48309-4401 version 8.30 comment basic-lik environ number theori . 
+in collect program written one find malm collect ubas number theori program malm.zip donald e . 
+g . 
+malm copyright includ baillie-wagstaff luca pseudoprim test algorithm chines remaind ellipt curv method factor n fermat 's method factor general period continu fraction quadrat routin evalu carmichael 's function d . 
+h . 
+lehmer 's method solv x2 q mod p . 
+ubmpq prime factor program number 80 digit ubmpqs32.zip found wurst archiv wuarchive.wustl.edu . 
+number type free public domain registr requir . 
+machin pc-dos contact ivo dntsch phone 49 541-969 2346 rechenzentrum fax 49 541-969 2470 postfach 4469 w 4500 osnabrck germani version 202c comment number calcul number theori . 
+it perform various routin elementari number theori also usabl algebra combinator . 
+avail anonym ftp ftp.rz.uni-osnabrueck.d directori pubmsdosmath cocoa type ? ? ? 
+machin mac 's version ? ? ? 
+comment comput commut algebra galoi type commerci machin ibm-pc dos contact cifeg inc . 
+kalkgruberweg 26 a-4040 linz austria version ? ? ? 
+comment algebra number theori microcomput written r . 
+lidl r . 
+w . 
+matthew r . 
+well u . 
+tasmania turbo pascal v3.0 . 
+ganith type anonym ftp machin ani system vanilla common lisp x 11 least rudimentari lispc interfac . 
+contact chanderjit bajaj andrew royappa depart comput scienc purdu univers west lafayett in 47907 version comment ganith algebra geometri toolkit comput visualis solut system algebra equat . 
+it written common lisp c run version 11 x window system . 
+ganith avail anonym ftp cs.purdue.edu file pubavrganith-src.tar.z tensor analysi schoonship type ? ? ? 
+machin ? ? ? 
+contact mention comp.phi . 
+comm . 
+8 1 1974 . 
+version ? ? ? 
+comment i heard program mention suppos 's design larg problem i.e . 
+thousand term seri expans develop cern cdc7600 stensor type ? ? ? ? 
+machin vax sun apollo orion atari amiga lar hornfeldt physic depart univers stockholm vanadisv.9 s-113 46 stockholm sweden version ? ? ? ? 
+comment system tensor calculus noncommut algebra lisp calcul jacal type gnu copyleft machin need lisp either common scheme contact avail anon ftp altdorf.ai.mit.edu 18.43.0.246 version ? ? ? 
+comment an ibm pc version floppi 50 avail aubrey jaffer 84 pleasant st . 
+wakefield ma 01880 usa . 
+gnu-calc type gnu copyleft machin where emac run . 
+contact free softwar foundat version ? ? ? 
+comment it run insid gnu emac written entir emac lisp . 
+it usual thing arbitrari precis integ real complex arithmet written lisp scientif function symbol algebra calculus matric graphic etc . 
+display express squar root sign integr draw screen ascii charact . 
+it come well written 600 page onlin manual . 
+you ftp gnu site . 
+differenti equat delia type inform distribut machin ibm pc 's dos contact a . 
+v . 
+bocharov program system institut ussr academi scienc pereslavl p.o . 
+box 11 152140 ussr tlx 412531 boat version ? ? ? ? 
+comment differeti equat comput pc sharewar symbmath type sharewar student advanc version . 
+machin ibm pc version 2.1.1 comment run plain 640k dos machin . 
+the sharewar version avail file sm211a.zip wurst archiv . 
+more capabl version avail mail-ord author . 
+cla type anonym ftp machin pc-dos contact ? ? ? ? 
+version 2.0 comment a linear matrix algebra packag comput rank determin rwo-reduc echelon form jordan canon form characterist equat eigenvalu etc . 
+matrix . 
+file cla20.zip wurst archiv . 
+xpl type anonym ftp machin pc-dos contact david meredith depart mathemat san francisco state univers san francisco ca 94132 version 4.0 comment former call ccalc . 
+well-integr graphic numer matrix manipul routin . 
+intend calculus student . 
+prentic hall sell book isbn 0-13-117441-xor call 201-767-5937 also avail without manual comprehens help system anonym ftp wuarchive.wustl.edu edumathmsdoscalculuscc4-9206.zip . 
+amp type commerci evalu copi avail anonym ftp machin pc-dos cerebr softwar po box 80332 chamble ga 30366 version 3.0 comment the algebra manipul program amp written modula-2 symbol calcul tool . 
+amp function interpret mode program mode . 
+it tensor manipul use index notat . 
+the evalu copi avail anonym ftp ftp.rz.uni-osnabrueck.depubmsdosmathamp30.zip mercuri type sharewar machin pc-dos contact ? ? ? 
+version 2.06 comment limit symbol capabl extrem adept numer solv equat produc public qualiti graphic output . 
+this use borland 's eureka ! 
+borland abandon origin author start sell sharewar name mercuri . 
+avail anonym ftp wuarchive.wustl.eduedumathmsdoscalculusmrcry206.zip pfsa type public domain machin pc-dos contact ? ? ? 
+version 5.46 comment avail anonym ftp wuarchive.wustl.eduedumathmsdosmodern.algebravol546.zip lie type public domain machin pc-dos csiro divis materi scienc technolog melbourn australia lock bag 33 clayton vic 3168 australia phone 03 542 2861 telex aa 32945 fax 03 544 1128 version 3.3 comment lie program written mumath languag packag lie analysi differenti equat . 
+avail anonym ftp wuarchive.wustl.edu edumathmsdosadv.diff.equationslie33 calculus type sharewar machin pc-dos ega contact byoung keum dept . 
+mathemat univers il . 
+urbana il 61801 . 
+version 9.0 comment program calculus differenti equat . 
+it symbol diff . 
+integr simpl function graph . 
+veri unstabl program reason use except price suggest registr fee 30.00 . 
+avail anonym ftp wuarchive.wustl.edu edumathmsdoscalculuscalc.arc 

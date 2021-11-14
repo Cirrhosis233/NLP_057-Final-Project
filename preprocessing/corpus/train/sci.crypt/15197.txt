@@ -1,0 +1,9 @@
+what expect run time factor 10 486dx50 use best known algorithm find shortest path solut rubick cube random chosen posit ? 
+i read faq follow recent discuss rubick cube i n't believ question answer . 
+notic i specif look algorithm find shortest path solut . 
+it seem under assumpt program would need brute forc search though 1020 posit . 
+that seem unreason pessimist assumpt i want know someon signific improv . 
+i idea approach problem i spend much time develop i want know someon els alreadi done work . 
+administrivia i post three group attempt set followup rec.puzzl seem place continu discuss . 
+i cross post summari becom appropri . 
+email repli glad accept . 

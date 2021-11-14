@@ -1,0 +1,13 @@
+forward mar observ project mar observ status report april 28 1993 1240 pm pdt flight sequenc c9 activ 0011 am tuesday april 27 . 
+with activ begin short 500 am yesterday c9 command spacecraft execut seri slew roll provid mag magnetomet team data point vari spacecraft attitud orient purpos better character spacecraft-gener magnet field effect instrument . 
+the spacecraft command back sun star init state 907 am re-establish inerti refer . 
+transit back array normal spin began 1117 am sequenc power on-board transmitt 1118 am . 
+telemetri reacquisit occur approxim 1130 am 4 kbs scienc engin downlink data rate high gain antenna . 
+subsystem engin report system appear nomin . 
+the command termin use low gain antenna uplink sent 1231 pm . 
+uplink downlink current via hga . 
+mag calibr data record digit tape record 2 3 . 
+playback dtr 2 schedul take place tomorrow morn 811 am 1242 pm . 
+playback dtr 3 schedul take place tomorrow even begin 1157 pm end 428 am friday . 
+dtr playback perform via high gain antenna 42667 bit per second . 
+upon verif success dtr playback downlink maintain 4k s e rate . 

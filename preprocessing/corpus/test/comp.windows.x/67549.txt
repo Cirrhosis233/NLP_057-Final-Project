@@ -1,0 +1,21 @@
+i place new releas axe editor axe-5.0.tar.z export.lcs.mit.edu 18.24.0.12 arjuna.ncl.ac.uk 128.240.150.1 . 
+the signific chang time justif hike major version number undo implement . 
+by default last chang undon resourc provid allow user specifi mani includ unlimit level undo inform kept . 
+also undo undo support . 
+there truth rumour next version emax 19 -- -- -- -- -- for encount axe summari axe simpl use text editor x repres signific improv xedit . 
+also built around athena text widget featur amongst thing multipl window multipl buffer default menu interfac option button interfac choic layout button user control minibuff expert use access extern filter provis defin keyboard macro geometri specif resiz term charact file select via browser knowledg line number parenthesi match regular express search restrict unlimit undo abil chang font easi entri control code xterm-lik keymap featur easi runtim set select prefer resourc brief comprehens on-lin help server mode cooper client program option extens languag use tcl option xaw3d widget set compat collect reusabl widget embodi function axe i person built run core axe i.e . 
+without tcl xaw3d option follow system sun sparc suno 4.1.x mit x11r5 sun sparc suno 5.1 mit x11r5 encor multimax umax 4.3 mit x11r5 dec 5000120 ultrix 4.2 mit x11r5 hp 9000710 hp-ux 8.07 mit x11r5 mac iici aux 3.0 mit x11r5 subject level test . 
+i test tcl xaw3d option first . 
+a number ifdef sysv'-ism fed back incorpor code possibl scandir replac provid system one . 
+although axe probabl build r4 run-tim problem encount past . 
+i bother tri version r4 put effort solv previous known problem . 
+therefor r4 much take pot luck . 
+if n't work altern tri last releas 2.1.1 version 2 still around . 
+it n't mani featur use widget creation librari wcl . 
+not requir old version wcl 1.06 1.05 . 
+version 3 axe near complet version 2 wcl came axe 2 never got convert make use . 
+axe avail anonym ftp export.lcs.mit.edu 18.24.0.12 arjuna.ncl.ac.uk 128.240.150.1 initi probabl due cours sever ftp site . 
+check nearest use xarchi . 
+word help alon messag bodi . 
+you receiv instruct ftp via email . 
+jim 

@@ -1,0 +1,6 @@
+modifi pgp allow compressdecompress 144 bit frame everi 30msec ... 
+as part project i 'm work re tri get celp run realtim full duplex mode ... 
+i got ta find sourc pgp see tough would integr endecrypt part code . 
+i presum go use idea session encrypt transmit session key rsa ? 
+david r . 
+conrad no mind rentto god govern 

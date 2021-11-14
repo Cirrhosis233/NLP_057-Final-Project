@@ -1,0 +1,36 @@
+i receiv follow two note martin hellman detail clipper work . 
+they post permiss . 
+the implic detail fascin . 
+date sat 17 apr 93 230523 pdt to long list recipi subject clipper chip most seen announc friday 's ny time etc . 
+nist nation institut standard technolog announc clipper chip crypto devic . 
+sever messg net ask technic detail labor understand misunderstand given lack detail news articl . 
+so help friend nsa link . 
+i somewhat surpris friday get call agenc suppli mani miss detail . 
+i told info public cc denni branstad nist most doubl check fact sinc i assum awar pleas let know i anyth wrong the clipper chip secret crypto algorithm embed silicon . 
+each chip two secret 80-bit key . 
+one chip ie system-wid key unit specif . 
+i n't know nist nsa call i call system key sk unit key uk messag . 
+the ic design extrem difficult revers system key kept secret . 
+asid it clear also want keep algorithm secret opinion may much state purpos . 
+the unit key generat xor two 80-bit random number k1 k2 ukk1k2 kept two escrow author . 
+who escrow author still decid attorney general stress not nsa law enforc agenc must parti accept user system unbias . 
+when law enforc agenc get court order present two escrow author receiv k1 k2 therebi allow access unit key uk . 
+in addit system key user get choos key chang often desir . 
+call key plain old k . 
+when messag sent first encrypt k k encrypt unit key uk serial number unit ad produc three part messag encrypt system key sk produc e em k ek uk serial number sk when court order obtain k1 k2 thenc k law enforc agenc use sk decrypt inform flow suspect link asid it guess may constant link without court order sinc almost imposs tell link messag flow . 
+this give agenc access em k ek uk serial number messag . 
+they check serial number unit see watch list court order . 
+if decrypt ek uk obtain k decrypt em k obtain m . 
+i still process assess scheme pleas take kind endors propos scheme . 
+all i tri help us assess scheme knowledg . 
+but i say need one court order worri . 
+i would feel comfort though necessarili comfort ! 
+two separ court order need one per escrow author . 
+while explan need follow stori add color in research idea silvio micali i kick around i spoke gerald gunther constitut law expert stanford relat follow stori when edward levi becam pres . 
+ford 's attorney general right waterg visit fbi agent ask wiretap author when levi ask detail could review case requir law agent told predecessor turn 40-50 blank sign form everi time . 
+levi compli chang system lesson clear no singl person author power author wiretap wors yet divulg person key . 
+sometim edward levi sometim john mitchel . 
+martin hellman date sun 18 apr 93 114142 pdt subject re clipper chip it fine post previous messag sci.crypt also post messag 1 . 
+i ask recipi spars request info ask comment specif question . 
+by post i apolog messag i unabl respond . 
+i alreadi spend much time answer much e-mail particular overload week respons . 

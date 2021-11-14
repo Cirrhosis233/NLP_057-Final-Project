@@ -1,0 +1,8 @@
+...... 
+better oss os2 ix abl handl 16mb dram use eisa-bus . 
+has someon experi vlb ? ? 
+i think scsi-vlb-busmast . 
+the problem 16bit floppi dma control unabl reach 16mb . 
+i n't think fd problem . 
+sinc fd much sloooooooowwwwwwer hd overhead doubl buffer n't matter . 
+ken nakata 

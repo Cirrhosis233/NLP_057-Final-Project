@@ -1,0 +1,15 @@
+i bought littl gizmo suppos instal seri tip ring line phone wire . 
+which one ? 
+suppos i hold regular phone wire littl plastic tooth littl plastic squar thing nake lead end plug phone face away . 
+which 4 wire i see tip ring ? 
+mike levin mike ring red wire . 
+tip green wire standard phone line . 
+they two constitut two wire often use voic telephon two live line . 
+they two innermost connector rj-11 phone jack . 
+anoth way tell measur voltag red green ring tip . 
+tipgreen ground potenti voltmet read -48 volt on-hook no-r posit . 
+i 98 sure 's -48 v 48 volt . 
+doe n't hurt phone much re revers 's bad one happen somehow get ground earth ground elsewher . 
+addit off-hook voltag drop -4 -9 volt dc . 
+i think suppos correspond 36 40 ma current loop . 
+and last ring two wire develop ac potenti 80 v p-p 20 30 hz across get electromechan old fashion bell ringer . 

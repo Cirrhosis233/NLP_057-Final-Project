@@ -1,0 +1,6 @@
+i read pc magazin peripher pc isa bus access 16mb memori . 
+also video card isa bus look memori apertur map memori . 
+so i want put 16mb memori pc video card would n't anywher map 's memori . 
+can someon explain detail . 
+is way around limit . 
+if email respons i summar . 

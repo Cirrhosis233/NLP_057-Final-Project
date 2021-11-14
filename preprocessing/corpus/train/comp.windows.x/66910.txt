@@ -1,0 +1,5 @@
+i peculiar color problem macx appl 's macintosh x server . 
+i 'd like know other seen problem . 
+it 's happen current version 1.2 version 1.1.7 . 
+when type client window display part window wrong color window move slight forc server repaint repaint correct color . 
+it n't happen xterm window happen graphic window motif client . 

@@ -1,0 +1,4 @@
+is xt call give applic context ? 
+i fix xmotif program tri use xtappaddtimeout whose first argument appcontext . 
+what call i use give valu ? 
+xtappcontext xtwidgettoapplicationcontextwidget 

@@ -1,0 +1,10 @@
+i n't seem abl get window posit reliabl xview xvget function x int xvgetmyfram xvx int xvgetmyfram xvi for exampl i set xvx xvi 5050 frame come correct posit top left corner size handl 5050 . 
+xvget return 5050 well . 
+but later xvget return 525 without interven xvsetmyfram xv ? . 
+my frame fit around canva turn measur screen 525 posit first pixel canva relat frame 's origin . 
+what give ? 
+ani help appreci ! 
+derek p.s . 
+on relat subject way queri window manag thick border put around frame etc . ? 
+derek c . 
+richardson tel 0223 337548 x 37501 institut astronomi fax 0223 337523 cambridg u.k . 

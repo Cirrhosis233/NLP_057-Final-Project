@@ -1,0 +1,14 @@
+hi i ve made vga mode 13h graphic librari avail via ftp . 
+i origin wrote routin kind exercis perhap someon find use . 
+they certain useabl miss higher-level function . 
+they re intend intro mode 13h program start point . 
+the librari assum 386 processor trivial modifi 286 . 
+if enough peopl ask i ll make mod re-post differ version . 
+the routin written assembl tasm callabl c . 
+they fair simpl i ve found fast purpos anyway . 
+routin includ enter exit mode 13h defin virtual screen put get pixel put pixmap rectangular imag transpar spot put sprite imag see-thru area copi area virtual screen video memori etc . 
+i ve also includ simpl c routin draw line well c routin load 256 color gif imag buffer . 
+i also wrote quick'n'dirtytm demo program bounc bunch sprite around behind three window . 
+the whole packag avail spang.camosun.bc.ca pubdosvgl.zip it zip pkzip 2.04g it complet public domain far i 'm concern . 
+do whatev like . 
+howev 'd nice get credit 's due mayb e-mail tell like n't like n't bother 

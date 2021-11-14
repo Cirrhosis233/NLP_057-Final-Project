@@ -1,0 +1,3 @@
+hi i problem compil wcl 2.02 sco odt 2.0 cc -c -ox -i .. 
+-iusrinclud xt4getresl.c xt4getresl.c xt4getresl.c47 error c2065 xtconstraintbit ' undefin error code 1 although i follow instruct file readmebuild build wcl sco platform problem n't resolv . 
+so i question relat matter 

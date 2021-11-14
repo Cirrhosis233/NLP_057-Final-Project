@@ -1,0 +1,6 @@
+.. delet ... 
+in plain motifi use dialog in-lin ' like simpli n't done . 
+you need set callback buttonswidget dialog let callback routin work . 
+in callback carri flow logic . 
+xview sun actual support neat notifi ' box return status in-lin actuali eas code goe event driven style applic . 
+summari redesign requir . 

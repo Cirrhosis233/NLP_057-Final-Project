@@ -1,0 +1,5 @@
+version 1.3 xew widget avail export.lcs.mit.edu contribxew-1.3.tar.z export.lcs.mit.edu contribxew-1.3.readm for better detail check readm . 
+for extens detail xew-1.1.ps.z still n't time updat one . 
+no new function ad sinc 1.2 version . 
+raster widget handl expos event slight intellig realli i ad simpl program use x11r5 athena porthol panner widget . 
+the program demoviewer.c simpl demonstr pannerporthol usag copi from'editr ' actual 

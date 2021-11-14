@@ -1,0 +1,64 @@
+archive-nam spacediff diff sinc last faq post in post order these hand-edit context diff attempt use patch old copi faq . 
+diff -t -c -r1.18 faq.intro tmprcst1a06400 thu apr 1 144722 1993 faq.intro thu apr 1 144655 1993 101107 nasa langley technic report nasa spacelink nation space scienc data center space and planetari imag facil space telescop scienc institut electron info . 
+servic starcat astronom databas 101106 130135 129135 llnl great explor lunar prospector lunar scienc activ orbit earth satellit histori spacecraft model rocket propuls spacecraft design diff -t -c -r1.18 faq.net tmprcst1a06405 thu apr 1 144724 1993 faq.net thu apr 1 144657 1993 5863 5867 element sent list dr . 
+kelso jsc sourc gps digest moder list discuss global posit system satellit navig posit system . 
+email space-investor list inform relev invest 223227 227241 1030 . 
+if fact learn unauthor access contact nasa personnel . 
+claim made news group fraud wast . 
+none ever substanti signific degre . 
+reader detect fraud wast abus mismanag contact nasa inspector general 24-hour 800-424-9183 anonym write nasa inspector general p.o . 
+box 23089 l'enfant plaza station washington dc 20024 next faq 315 onlin offlin sourc imag data etc . 
+diff -t -c -r1.18 faq.data tmprcst1a06410 thu apr 1 144726 1993 faq.data thu apr 1 144654 1993 216237 telephon 301 286-6695 space and planetari imag facil avail 24 hour day via anonym ftp pioneer.unm.edu . 
+has approxim 150 cd-rom 's full imageri raw tabular data . 
+to start get file pioneer.unm.edupubinfobeginner-info this hope give inform need get data machin . 
+beginner-info translat languag look insid pubinfo particular languag meet need . 
+space telescop scienc institut electron inform servic 216221 diff -t -c -r1.18 faq.math tmprcst1a06415 thu apr 1 144728 1993 faq.math thu apr 1 144656 1993 6065 6071 give seri comput posit accur 1 arc minut period 300 year . 
+pluto includ state accuraci 15 arc minut . 
+multiyear interact comput almanac mica produc us naval observatori . 
+valid year 1990-1999 . 
+55 80 outsid us . 
+avail ibm order pb93-500163hdv macintosh order pb93-500155hdv . 
+from ntis sale desk 703-487-4650 . 
+i believ intend replac usno 's interact comput ephemeri . 
+interact comput ephemeri us naval observatori distribut ibm-pc floppi disk 35 willmann-bel . 
+cover date diff -t -c -r1.18 faq.refer tmprcst1a06420 thu apr 1 144730 1993 faq.refer thu apr 1 144659 1993 93100 us naval observatori 202-653-1079 usno bulletin board via modem 202-653-1507 general 202-653-1545 nautic almanac offic info interact comput ephemeri willmann-bel p.o . 
+box 35025 9398 138151 sdi 's ssrt singl stage rocket technolog project fund suborbit technolog demonstr call dc-x fli mid-1993 . 
+further develop toward oper single-stag orbit vehicl uncertain present consider detail ssrt program get document ames.arc.nasa.govpubspacefaqdeltaclipp anonym ftp email server . 
+how to name a star after a person offici name decid committe intern 136151 sdi 's ssrt singl stage rocket technolog project fund suborbit technolog demonstr call dc-x fli mid-1993 . 
+further develop toward oper single-stag orbit vehicl call delta clipper uncertain present . 
+an collect pictur file relat dc-x avail anonym ftp email server directori bongo.cc.utexas.edupubdelta-clipp how to name a star after a person offici name decid committe intern 223228 223236 univers press 1970 . 
+inform lunar orbit mission includ map coverag lunar nearsid farsid various orbit . 
+orbit earth satellit histori a list earth orbit satellit still orbit avail anonym ftp ames.arc.nasa.govpubspacefaqsatellit spacecraft model diff -t -c -r1.18 faq.address tmprcst1a06435 thu apr 1 144734 1993 faq.address thu apr 1 144651 1993 7580 7585 latter sf 171 useless . 
+employe caltech employe contractor part similar respons . 
+they offer altern fund nasa center . 
+a fact sheet descript jpl avail anonym ftp ames.arc.nasa.govpubspacefaqjpldescript nasa johnson man space center jsc houston tx 77058 diff -t -c -r1.18 faq.newprob tmprcst1a06450 thu apr 1 144738 1993 faq.newprob thu apr 1 144658 1993 813 819 team isasnasda launch schedul press kit . 
+asuka astro-d isa japan x-ray astronomi satellit launch earth orbit 22093 . 
+equip large-area wide-wavelength 1-20 angstrom x-ray telescop x-ray ccd camera imag gas scintil proport counter . 
+cassini saturn orbit titan atmospher probe . 
+cassini joint nasaesa project design accomplish explor saturnian system cassini saturn orbit huygen titan probe . 
+cassini 98115 magellan venus radar map mission . 
+has map almost entir surfac high resolut . 
+current 1192 map cycl 4 collect global graviti map . 
+mar observ mar orbit includ 1.5 mpixel resolut camera . 
+launch 92492 titan iiito booster . 
+mo current 393 transit mar arriv 82493 . 
+oper start 1193 one martian year 687 day . 
+topexposeidon joint usfrench earth observ satellit launch august 1992 arian 4 booster . 
+the primari object topexposeidon project make precis accur global observ sea level sever year substanti increas understand global ocean dynam . 
+the satellit also 104121 magellan venus radar map mission . 
+has map almost entir surfac high resolut . 
+current 493 collect global graviti map . 
+mar observ mar orbit includ 1.5 mpixel resolut camera . 
+launch 92592 titan iiito booster . 
+mo current 493 transit mar arriv 82493 . 
+oper start 1193 one martian year 687 day . 
+topexposeidon joint usfrench earth observ satellit launch 81092 arian 4 booster . 
+the primari object topexposeidon project make precis accur global observ sea level sever year substanti increas understand global ocean dynam . 
+the satellit also diff -t -c -r1.18 faq.astronaut tmprcst1a06465 thu apr 1 144743 1993 faq.astronaut thu apr 1 144652 1993 162174 specif standard distant visual acuiti 20100 better uncorrect correct 2020 eye . 
+blood pressur 14090 measur sit posit . 
+3 . 
+height 60 76 inch . 
+pilot astronaut candid 162174 specif standard distant visual acuiti 20150 better uncorrect correct 2020 eye . 
+blood pressur 14090 measur sit posit . 
+3 . 
+height 58.5 76 inch . 

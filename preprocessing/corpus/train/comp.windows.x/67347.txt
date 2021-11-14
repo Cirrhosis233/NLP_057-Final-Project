@@ -1,0 +1,15 @@
+pleas accept follow announc comp.windows.x.announc . 
+-gf a complet revamp version x11 browser interfac archi xarchi avail export.lcs.mit.educontribxarchie-2.0.tar.z for familar archi xarchi i includ part manpag intro xarchi x11 browser interfac archi internet inform system use prospero virtual filesystem protocol . 
+archi provid inform file avail ftp anywher internet xarchi display inform use easy-to-us point-and-click interfac . 
+xarchi allow explor ftp site examin directori return queri match allow retriev file locat way . 
+xarchi 2.0 extens test r4 r5 varieti flavor x wide rang machin . 
+a summari new featur readm follow major improv includ multipl select allow browser use new featur fwf multilist widget . 
+abil expand directori browser . 
+real fully-integr ftp implement . 
+abil save reload queri result well print . 
+abil resort result sort result user-defin pseudo-weight . 
+onlin help browser . 
+color resourc done n't break mono display . 
+fwf fileselector widget local file oper . 
+makefile.dst 's suppli imake-impair . 
+georg 

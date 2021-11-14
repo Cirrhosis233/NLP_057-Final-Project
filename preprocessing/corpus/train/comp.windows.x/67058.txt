@@ -1,0 +1,5 @@
+doe xdm work decnet ? 
+i ultrix machin run tcpip decnet . 
+i number x-termin hang ultrix host also run tcpip decnet . 
+present i use xdm login procedur x-termin use tcpip . 
+sinc xdm basic x-window client n't i abl run xdm decnet protocol tower well ? 

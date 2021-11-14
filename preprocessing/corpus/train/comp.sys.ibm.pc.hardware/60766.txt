@@ -1,0 +1,17 @@
+s there one param bio setup say at bus clk . 
+i s set default 4 abl get work 3 . 
+s the si 3 142.someth . 
+i didnt want mess anyth s i set back 4 . 
+also pc didnt boot set 2 . 
+s s what exactlt dow i leav 4 ? 
+i think 's imposs let at-bus oper much 8mhz . 
+i c t neat 286-20 mother board and i set at-bus clock 10 mhz hd stop boot . 
+so 's correct clkn mean mani wait state . 
+sm . 
+i think depend motherboard card system . 
+your hd stop boot probabl hd control ca n't handl faster bus speed . 
+i 486-33dx i set bus divid clk2.5 close 13mhz . 
+i gain singific performac increas video card harddisk transfer rate i boost bus speed . 
+and system work flawless set . 
+and know i go clk217mhz bus hd refus boot . 
+just 2 cent . 

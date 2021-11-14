@@ -1,0 +1,247 @@
+archive-nam x-faqspeedup last-modifi 1993420 how to maxim the perform of x month post more ram faster cpu 's more disk space faster ethernet ... 
+these standard respons hear ask improv perform workstat . 
+well hardwar n't alway option i wonder hardwar alway even necess . 
+this faq list collect suggest idea differ peopl net best possibl perform x window workstat without purchas more hardwar . 
+perform high subject issu . 
+the individu user must balanc speed ' versus featur ' order come person decis . 
+therefor document expect contain mani subject opinion amongst object fact . 
+this document specif concern x . 
+there cours mani factor affect perform workstat . 
+howev outsid scope document . 
+peopl serious interest whole area system perform might want look o'reilli nutshel handbook system perform tune mike loukid . 
+imho contain well-written comprehens treatment system perform . 
+i 'm unawar similar book . 
+ed . 
+tabl content 0 . 
+introduct administrivia 1 . 
+what other x faq ? 
+2 . 
+window manag 3 . 
+the x server which server ? 
+lock server ram ? 
+start server font about resourc file defin your display proper 4 . 
+client a better clock x a better termin emul x tune client 5 . 
+miscellan suggest pretti pictur a quicker mous program thought say what ! ? 
+6 . 
+other sourc inform 7 . 
+author note chang sinc last issu . 
+new sinc last issu . 
+introduct administrivia this document post month around 15th usenet news group comp.windows.x news.answ comp.answ . 
+if read copi faq month old see last-modifi date probabl locat latest edit sinc inform may outdat . 
+if know get newsgroup andor site receiv andor articl alreadi expir retriev faq archiv site . 
+there exist sever usenet faq archiv site . 
+to find access pleas see introduct news.answ newsgroup post news.answ . 
+the main faq archiv rtfm.mit.edu 18.172.1.27 . 
+this document found pubusenetnews.answersx-faqspeedup . 
+if access anonym ftp retriev command send usenetnews.answersx-faqspeedup messag bodi . 
+what other x faq ? 
+well written comp.windows.x frequent ask question document . 
+it focus general x inform faq concentr perform . 
+the comp.windows.x faq address issu speed regard x server . 
+the gist topic seem use x11r5 faster r4 . 
+pleas see x faq complet detail . 
+window manag there lot window manag lot differ featur abil . 
+the choic use necess balanc act perform use featur . 
+at point respond agre upon twm best candid speedi window manag . 
+a coupl generic trick tri soup window manger turn unnecessari thing like zoom opaqu move . 
+also lay window tile manner reduc amount cpu power spent rais lower overlap i ve found good font tile 7x13 aka -misc-fixed-medium-r-normal13-100-100-100-c-70-iso8859-1 it biggest font i know i use sun 1152x900 screen still get two 80 column termin window side-by-sid display overlap . 
+other font suggest accept . 
+the x server which server ? 
+make sure server proper match hardwar . 
+if monochrom monitor use monochrom x11 server . 
+on monochrom sun i n't notic much differ xsun colour server xsunmono howev point xsunmono 800k smaller therefor contribut less page . 
+how server compil also make differ . 
+jeff law compil gcc version 2 . 
+unbundl sun compil . 
+you expect get larg speedup server use bundl suno compil . 
+i assum similar result would occur use one high-qual commerci compil market . 
+lock server ram ? 
+has anyon tri hack x server lock ram get page ? 
+eg via call plock . 
+doe help perform ? 
+i ve one inquiri topic pointer plock function call hard evid someon 's tri . 
+i posit give tri . 
+start server if start lot client .xsession whatev sleep second two launch one . 
+after i chang .xclient script log actual took less time ... 
+heavili load system without much core though . 
+this sound crazi i confirm work ! 
+work i summar when start x server take huge amount time start accept connect . 
+a lot initi done server start . 
+this process touch larg number page . 
+ani process run time would fight server use cpu import memori . 
+if put sleep give server chanc get sort client start . 
+similar also lot initi whenev x client program start toolkit regist widget resourc fetch program initi state databas forth . 
+all activ typic memori intens . 
+onc initi done the process reach steadi state memori usag typic settl use page . 
+by use sleep stagger launch client .xinitrc avoid fight workstat 's limit resourc this definit your mileag may vari situat mani variabl consid avail ram local swap space load averag number user system client start etc . 
+current .xinitrc i situat like sleep 1 exec xclock sleep 1 exec xbiff sleep 1 exec xterm sleep 1 exec xterm i ve experi sleep 1 exec xclock sleep 2 exec xbiff sleep 3 exec xterm sleep 4 exec xterm i ve even tri sleep 2 exec startxclientsscript startxclientsscript i sleep 1 exec xclock sleep 1 exec xbiff sleep 1 exec xterm sleep 1 exec xterm the idea last one make sure xinit complet finish process .xinitrc settl steadi state sleep expir client launch . 
+all yield fair compar result i stuck current setup simplic . 
+you probabl experi bit find setup suit . 
+font load font take time ram . 
+if minim number font applic use ll get speed increas load-up time . 
+one simpl strategi choos small number font one small one larg one roman whatev suit configur client least heavili use client use font . 
+client program start quicker font alreadi load server . 
+this also conserv server resourc sinc fewer font load server . 
+eg my main xterm font 7x13 i also twm set use 7x13 's menus icon etc . 
+twm 's default font 8x13 . 
+sinc i n't normal use 8x13 i ve elimin one font server . 
+keep font local workstat rather load nfs . 
+if make extens use r5 scalabl font use font server . 
+about resourc file keep .xresourc .xdefault file small . 
+save ram save one suggest in .xdefault .xresourc file tri put minimum number resourc want avail applic . 
+for exampl reversevideo true then separ resourc individu client-specif resourc file . 
+for exampl homelibapp-default . 
+in .login file set environ variabl xuserfilesearchpath setenv xuserfilesearchpath homelibapp-defaultsn the comp.windows.x frequent ask question faq contain excel explan environ variabl work . 
+ed . 
+so xterm launch load resourc ... app-defaultsxterm . 
+xdvi find ... app-defaultsxdvi forth . 
+note client follow xxxxx resource-fil name pattern . 
+you check system app-default directori often usrx11r5libx11app-default find proper name name person resourc file name . 
+this document xt specif pg 125 666 . 
+kevin will mail setup file inquir . 
+this method organ person resourc follow benefit easier maintain usabl . 
+fewer resourc store x server resourcemanag properti . 
+as side benefit server may start fraction quicker sinc doesnt load resourc . 
+applic process resourc never sort resourc find one affect . 
+it also drawback applic interest load addit file everi time start . 
+this n't seem make much perform differ might consid huge boon usabl . 
+if modifi applic 's resourc databas need re-run applic without xrdb . 
+xrdb default run .xdefault file cpp . 
+when resourc split multipl resourc file load individu client program . 
+watch out for this ! ! 
+i c style comment .xdefault file cpp strip . 
+when i switch method distribut resourc file i spent sever frustrat day tri figur client find resourc . 
+xt not provid error messag encount c style comment resourc file simpli silent abort process resourc file . 
+the loss preprocess handi e.g . 
+ifdef color '' ... 
+enough caus peopl dismiss method resourc manag . 
+you may also run client break rule . 
+for exampl neither emac 18.58.3 xvt 1.0 find resourc anywher .xdefault . 
+start client machin share file machin resourc store client find resourc . 
+load resourc server guarante client alway find a possibl compromis suggest i plan tri put resourc heavili use client eg xterm .xdefault file use separ resourc file method client i seldom use . 
+defin your display proper client program often execut machin server . 
+in situat rather set display environ variabl hostname0.0 hostnam name workstat set display variabl unix0.0 0.0 . 
+by access optim routin know server machin use share memori method transfer request . 
+see display name section x1 man page explan proper set display name . 
+i n't think 's stock mit least data general hp librari smart enough use local communic even display n't set special stock r5 use local communic even display proper set . 
+i n't want get busi distribut tri juggl non-mit patch elect includ . 
+hope mit appli minor 8 line patch . 
+in meantim want tri email jodi . 
+ed . 
+client if megabyt ram think care number program run . 
+think also kind program run . 
+for exampl is smaller clock program xclock ? 
+unfortun i n't realli notic program advertis larg onus us research spread word . 
+suggest better altern standard client eg xclock xterm xbiff welcom . 
+ed . 
+i ve receiv contradictori advic peopl subject x client program . 
+some advoc use program strict xlib base sinc xt xaw toolkit rather larg . 
+other warn us applic use may alreadi load one share librari . 
+in case use non-xt exampl client program may actual increas amount ram consum . 
+the upshot seem do n't mix toolkit . 
+that tri use athena client xview client motif client etc . 
+if use one re drag one toolkit librari . 
+know environ think care client program would work best togeth environ . 
+a better clock x 1 xcuckoo avail export.lcs.mit.edu xcuckoo display clock titl bar anoth program . 
+save screen real estat . 
+2 mclock avail larry.mcrcim.mcgill.edu 132.206.1.1 xmclock.shar non xt-base . 
+extens configur . 
+made look much like mit oclock most like xclock pure chang resourc . 
+of cours ultim clock one consum resourc take screen real estat one hang wall . 
+a better termin emul x from readm file distribut xterm abandon all hope ye who enter here this undoubt ugli program distribut . 
+... 
+ugli mayb site 's still use . 
+i suspect xterm one use client mani site . 
+lazi ? 
+is n't better termin emul avail ? 
+see . 
+if must use xterm tri reduc number savelin 1 xvt avail export.lcs.mit.edu contribxvt-1.0.tar.z ... n't need esoter featur xterm get hold xvt ... 
+written save swap space xterm rather hog ! 
+this written partial clone ' xterm . 
+you n't renam resourc xvt pretend xterm . 
+in 's current version bind key xterm . 
+i ve heard version xvt featur i ve found yet . 
+updat march 1993 i recent email convers question whether xvt realli faster xterm . 
+for instanc xvt may initi slight faster compar scroll speed tri quicki benchmark bintim dd ifetctermcap bs40 see program scroll faster . 
+also xterm may slight larger ram requir we n't hard number anyon els ? 
+share librari share text segment mean xterm 's page requir major . 
+as experi rip tek stuff xterm made littl differ sinc never use never get brought memori . 
+so stand conflict report valid xvt xterm . 
+in summari ? 
+caveat emptor mileag may vari . 
+if provid hard data i 'd like see . 
+specif how much ram occupi much swap need relat speed 2 mterm avail larry.mcrcim.mcgill.edu 132.206.1.1 xmterm.srcmterm.ball-o-wax . 
+i also termin emul . 
+it major lack scrollback peopl like anyway tune client suggest tune client program work faster . 
+text field widget i notic data entri motif text field widget i get slight lag respons keystrok particular initi one field . 
+examin go xscope i found . 
+it seem resourc xmnblinkrat non-zero focus text field widget even text widget i-beam cursor blink . 
+everi time cursor appear disappear widget widget code make request server copyarea . 
+the user stop set resourc xmnblinkrat 0 . 
+it notic 40mhz sparc make littl differ slower system . 
+this specif suggest probabl appli general lot area . 
+consid heavili use client minor embellish turn therebi save server request ? 
+miscellan suggest pretti pictur do n't use larg bitmap gif 's etc root window background . 
+the complic root window bitmap slower server redraw screen reposit window redraw etc these take ram cpu power . 
+i work sun sparc i 'm conscious perform issu i ca n't comprehend i see peopl 4mb sun 360 run xphoon root window . 
+i ll let someon els figur much ram would occupi full screen root imag colour workstat . 
+if re anyth like need screen real estat get client rare see root window anyway . 
+remind one . 
+ed . 
+a quicker mous use xset adjust fast pointer move screen move mous . 
+i use xset 3 10 .xinitrc file let send pointer across screen flick wrist . 
+see xset man page idea inform . 
+hint sometim may want slow mous track fine work . 
+to cover option i place number differ mous set command menu window manag . 
+e.g . 
+twm menu mous set mous set f.titl veri fast xset 7 10 normal fast xset 3 10 system default un-acceler xset default glacial xset 0 10 program thought to speed applic re develop ton thing . 
+some stick for motif program n't set xmfontlist resourc individu button label list et . 
+al . 
+use defaultfontlist labelfontlist whatev resourc highest-level manag widget . 
+again stick font possibl . 
+better yet n't use motif . 
+it 's absolut pig . 
+do n't creat destroy widget fli . 
+tri reus . 
+this avoid mani problem buggi toolkit . 
+use line width 0 gcs . 
+on server make huge differ . 
+compress collaps multipl expos event . 
+this make differ fast applic complet unus one . 
+just small remark i heard use better malloc function would great increas perform xt base applic sinc use malloc heavili . 
+they suggest tri gnuy malloc i n't find time yet . 
+i test small program malloc free differ inde notic somewhat 5 time faster ani confirm anyon ? 
+ed . 
+unnecessari noexpos event . 
+most peopl use xcopyareaxcopyplan fastest blit routin forget reset graphicsexposur gc use blit . 
+this caus noexpos event everi blit case put load onto connect forc client run 's event-loop . 
+thousand xchangegc request . 
+this gfx context switch also seen handcod x-app one gcs creat heavili chang . 
+xt use definit better mechan cach share lot gcs need paramet . 
+this remov load subsequ xchangegc request connect move toward client startup phase . 
+say what ! ? 
+some contributor propos idea seem right wall first how swap display someon els . 
+run program machin display local user run machin onto display . 
+goal reduc context switch oper client server . 
+i 'm situat i easili tri i receiv follow confirm ... 
+i regular run program machin i notic big differ . 
+i tri run machin i reduc net usag usual nice reduc impact intrus . 
+this help lot poor littl ss1 16 mb essenti i 8 mb . 
+the x11 server client compet cpu server run machin . 
+not realli major problem except x11 client server absolut synchron context thrash . 
+first reli fact cpu 's most idl x 's cpu usag bursti . 
+chanc teammat someth cpu-intens time small . 
+if get twice cpumemori avail action . 
+the second factor context switch expens use 2 cpu 's halv pay price due overhead go network offset case improv buffer network typic 20k vs 4k pipe allow even fewer context switch . 
+other sourc inform volum 8 o'reilli 's x window system seri x window system administr 's guid '' book x administr 's read . 
+a lot tip perform paper improv x applic perform chris d . 
+peterson sharon chang issu 3 the x resourc . 
+an earlier version paper appear xhibit 1992 confer proceed . 
+this paper absolut essenti read x programm . 
+author note suggest correct submiss inclus list glad accept . 
+layout suggest comment spell mistak 's ! 
+also welcom . 
+current i list contributor various comment suggest . 
+if want credit pleas tell . 
+speedup-x-faq copyright c 1993 arthur e . 
+mulder you may copi document whole part long n't tri make money pretend wrote . 

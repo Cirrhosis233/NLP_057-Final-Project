@@ -1,0 +1,18 @@
+boy i glad i n't start one thos ps2 comput . 
+i start upgrad oper spend 235 amd386dxl-40 forex upgrad mother board midwest micro . 
+when time upgrad i bought intel 486dx2-50 cpu 350 finish . 
+i still n't see ever made 48650 cpu . 
+it fast isa lb vesa board .. 
+some test result taken mb 486dx2-50 cpu other ... 
+x-tal upgrad spec turbo mode test with fan heatsink kit isa bus x-tal mhz cpu mhz cpu speed mhz fpo mhz video chrms 
+40.00 -386and 313.33mhz 40.544 62.37 6510.00 40.00 -386amd 410.00mhz 40.544 62.37 6467.00 50.000-486dx2-50 212.5mhz 50.041 167.22 441.53 6105.00 52.361-486dx2-50 213.1mhz 52.703 176.03 464.81 6425.00 54.058-486dx2-50 213.5mhz 54.120 180.81 477.40 6642.00 56.644-486dx2-50 39.37mhz 56.220 189.46 500.25 4593.00 66.666-486dx2-50 311.1mhz 66.759 222.99 588.81 5401.00 with all test the 486dx2-50 ran ice cold ! 
+not even up to room temp did it go ! 
+50.000-486dx50 49.998 167.12 408.89 2463.00 ? ? . ? ? ? -486dx2-66 84.234 224.00 372.00 10570.00 cpuisa bus x-tal mhz bus speedmhz speedstar 24x video card amd386dxl-40 40.000 2 20.00 mhz inop amd386dxl-40 40.000 3 13.33 mhz 6510.00 chrms 
+amd386dxl-40 40.000 4 10.00 mhz 6467.00 chrms 
+amd386dxl-40 40.000 5 8.00 mhz 4020.00 chrms 
+amd386dxl-40 40.000 6 6.66 mhz not test 486dx2-50 50.000 2 12.51 mhz 6105.00 chrms 
+486dx2-50 50.000 3 8.34 mhz not test 486dx2-50 50.000 4 6.25 mhz not test 486dx2-50 50.000 5 5.00 mhz not test 486dx2-50 50.000 6 4.16 mhz not test 486dx2-50 56.64 2 14.16 mhz 6826.00 chrms 
+486dx2-50 56.64 3 9.44 mhz 4593.00 chrms 
+486dx2-50 56.64 4 7.08 mhz not test 486dx2-50 56.64 5 5.66 mhz not test 486dx2-50 56.64 6 4.72 mhz not test 486dx2-50 66.66 2 16.67 mhz not test 486dx2-50 66.66 3 11.11 mhz 5401.00 chrms 
+486dx2-50 66.66 4 8.33 mhz not test 486dx2-50 66.66 5 6.67 mhz not test 486dx2-50 66.66 6 5.56 mhz not test 486dx2-50 54.12 2 13.53 mhz 6642.00 chrms 
+486dx2-50 52.36 2 13.17 mhz 6425.00 chrms 

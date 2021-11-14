@@ -1,0 +1,8 @@
+i believ algorithm get draw convex polygon much effici draw concav self intersect polygon . 
+this effici larg attribut fact simpl convex polygon left right edg scan line . 
+complex figur 8 type polygon bit trickier . 
+it true convex algorithm faster general concavemulti outlin algorithm tremend faster . 
+i spent awhil implement optim flavor convex turn 10 faster . 
+this c hp pa-risc compil got inner loop shoot span fast possibl far i could tell . 
+for sort game databas render known ahead time made convex . 
+definit way go . 

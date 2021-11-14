@@ -1,0 +1,10 @@
+i instal diamond stealth 24 isa card 486dx2-66 system 256k cach 16 meg memori get 126 si 6.0 cpu benchmark rate . 
+use 1024x768x16 color driver window i get winbench winmark rate 9.5 million . 
+sinc i heard other get 15-to-16 million card i assum someth wrong setup . 
+what possibl caus card slow like ? 
+i ran qualita asq diagnost program memori i note follow memori time machin asq v1.30 qualita system analysi mon apr 19 1993 114349am page 1 access time hex kb kb access speed ratio start start size time us 0 25 50 75 100 00000 0 32 396 00800 32 32 598 01000 64 32 157 01800 96 32 180 02000 128 64 157 03000 192 32 165 03800 224 128 156 05800 352 96 169 07000 448 32 153 07800 480 32 188 08000 512 96 158 09800 608 32 171 0a000 640 96 1221 0b800 736 32 1581 0c000 768 32 312 0c800 800 96 154 0e000 896 64 3957 0f000 960 64 312 note two thing chart 1 the video memori appear mani order magnitud slower system memori . 
+are wait state insert would caus ? 
+2 the em page frame seem ridicul slow even though map fast xms memori system emm386 . 
+what 's go ? 
+note stealth 24 's video bio c000-c7ff shadow ami bio . 
+ani idea might happen ? 

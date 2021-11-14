@@ -1,0 +1,8 @@
+hi could pleas tell error way . 
+i tri updat drawabl . 
+this drawabl happen pixmap button . 
+the problem i xclearareaxtdisplaymusr0xtwindowmusr0 80 8 40 40 true this appear work . 
+i sprintftmpstrrdfun xdrawstringxtdisplaymusr0 bmaps0 mygc 78 10 tmpstr strlentmpstr the problem new info drawn old info still . 
+even i pass xcleararea fals see clear redraw new info old info still . 
+help pleas ! ! ! 
+thank x6191 cr041 intergraph huntsvill alabama 

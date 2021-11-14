@@ -1,0 +1,3 @@
+i got follow today gari risebrough work fine excerpt mail 29-apr-93 re olvwm 3 virtual keybo .. 
+i openwindows.keyboardcommand full openwindows.virtualgrabkey fals seem work . 
+where i find man page virtualgrabkey resourc n't show openwindow 3.0 man page ... 

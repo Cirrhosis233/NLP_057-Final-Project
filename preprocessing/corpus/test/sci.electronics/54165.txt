@@ -1,0 +1,7 @@
+can anyon offer suggest problem i ? 
+i sever board whose sole purpos decod dtmf tone send result ascii pc . 
+these board run serial interfac . 
+i need run board somwehat simultan . 
+i need abl ho ok pc the problem i hook 8 serial devic one pc inexpensivley send data simulatan close ? 
+ani help would great appreci ! 
+abhin singla 

@@ -1,0 +1,7 @@
+ive happi axe linux . 
+now i want use hp-ux . 
+howev attempt end core dump far bus error . 
+has anybodi els success ? 
+jim wight instal file say problem hps ... 
+data axe 5.0 hp-ux 9.01 x11r4 x11r5 doesnt seem matter share lib hp 9000720 . 
+thank advanc 

@@ -1,0 +1,7 @@
+if re will littl work make drawnbutton want more-or-less . 
+one colleagu ge crd done intern lymb system . 
+we matrix transform class make easi comput seri dial posit singl set vector . 
+each set vector drawn pixmap . 
+click button advanc knob 's state chang next pixmap sequenc . 
+use drawnbutton obvious still constrain take rectangular portion parent widget 's normal big shortcom . 
+you make thing look circular enough . 

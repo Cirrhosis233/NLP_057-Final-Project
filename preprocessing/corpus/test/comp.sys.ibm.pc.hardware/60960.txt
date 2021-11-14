@@ -1,0 +1,31 @@
+i believ vleisaisa motherboard use hint chipset limit 24-bit eisa dma real ' eisa dma 32-bit . 
+the hint eisa dma 16 mb ram address limit isa . 
+for reason i would pass . 
+i one hawk vleisaisa look- ing replac exact reason . 
+pleas double-check . 
+in word call motherboard manufactur ask motherboard support true 32-bit eisa dma . 
+other limit motherboard work quit well i use mine dos 5 window 3.1 unix s5r3.2 . 
+also adaptec 1742a eisa scsi host adapt . 
+you correct ! 
+the motherboard manufactur i usual buy board say problem fix two week ... 
+brian j schaufenbuel i n't see problem chip-set mistak i see someth designed-in intent . 
+so would seem enhanc design 24 32-bit eisa dma would requir updat chipset . 
+an updat chipset may begat updat motherboard board design . 
+what i 'm sa the motherboard manufactur seem pass simpl fix . 
+in mind fix updat chipset hint along possibl motherboard layout updat . 
+this simpl . 
+if i i would cautious . 
+you might look advanc integr research air vleisa motherboard . 
+all slot eisaisa capabl . 
+2 3 slot vl-bus capabl . 
+the air peopl confirm board support real ' 32-bit eisa dma i call . 
+pentiump5 capabl . 
+less expens equival ami micron vleisa board . 
+look comput shopper april 93 . 
+the zenon ad show air mother- board . 
+a associ bought air board pleas . 
+i 'm attempt get local dealer trade hawk board air board . 
+model number air board 486-33dx b433ei2 . 
+you call motherboard warehous exampl price . 
+phone 's includ . 
+air 408-428-0800 motherboard warehous 800-486-9975 

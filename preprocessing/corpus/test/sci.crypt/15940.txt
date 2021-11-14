@@ -1,0 +1,23 @@
+steve bellovin write well-thought-out near persuas articl clipper still call clipper today figur non-infring word yet ? 
+protocol almost good one given march ord . 
+i issu invit assum charg implement system complet regard civil right due process . 
+what would differ ? 
+in answer question pleas accept nsa 's fundament assumpt strong cryptographi outsid abil wiretap domest user necessari . 
+i ll accept second assumpt sake argument . 
+in view primari remain flaw encrypt algorithm secret lead suspicion back door . 
+without complet disclosur suspicion dispel matter mani trust expert allow look isol . 
+is possibl whole thing public algorithm ? 
+the concern i ve seen make skipjack public someon could build clipperphon without regist key . 
+assum f realli kept secret govern assum . 
+then part initi connect clipperphon execut protocol pseudophon demonstr know f . 
+for exampl initi phone pick number q send eq f . 
+the receiv send back eq1 f initi send back eq2 f demonstr first packet n't random 64-bit block . 
+repeat opposit direct anoth q ca n't defeat somebodi build librari sequenti number rememb respons use respons initi number subsequ challeng . 
+this way clipperphon talk clipperphon . 
+of cours pseudo compani build proprietari skipjack phone presidenti fact sheet impli wo n't get approv without equival key escrow . 
+what 's wrong pictur ? 
+it depend f stay secret skipjack resist cryptanalysi govern appear believ . 
+even particular qa i suggest flaw i imagin 's zero-knowledge-proof protocol n't . 
+smb say the third serious issu whether clipper good idea even carri strict accord letter law . 
+agre . 
+my view quot 's worth 's worth well . 

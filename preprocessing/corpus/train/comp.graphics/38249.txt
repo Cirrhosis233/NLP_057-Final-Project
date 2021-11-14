@@ -1,0 +1,14 @@
+i look algorithm determin given point bound polygon . 
+doe anyon code refer book contain inform subject regard simon basic two algorithm determin whether point insid outsid polygon . 
+the first one ray half line method . 
+in method draw ray number intersect point ray polygon even outsid . 
+if number odd insid . 
+of caus deal special case may make headach . 
+the second method pi algorithm . 
+draw line point vertic polygon . 
+calcul sum angl success line . 
+if result 2pi insid . 
+if pi polygon . 
+otherwis outsid . 
+my experi tell second method relibl . 
+hope help . 

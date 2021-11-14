@@ -1,0 +1,11 @@
+can bodi tell signific bit total horizont width hide tseng lab et4000 151624 bit dac ? 
+i tri use 640x480x16m mode unix cant call int 10hi program dump content card regist dos i sure i trust extend regist et4000 . 
+anyway problem mode horizont total regist 3d4h index0 appar set 0x27 3d4h index 1 display clock set 0xef 0x27 nonsens . 
+a reson valu would 0x0127 high bit ? 
+also one set video dot clock appropri frequenc would appropri frequenc ? . 
+the document n't realli clear tseng.txt vgadoc2.zip ftp site . 
+my card megavga1024 1mb card . 
+seem tseng lab bio ver 8.05 i think . 
+work nice dos well unix linux non-hicolor mode . 
+great run x-window 1152x900x256ni monitor take case . 
+pleas email answer i ca n't read news often . 

@@ -1,0 +1,6 @@
+i 'm use int15h read joystick hideous slow . 
+someth like 90 cpu time spent read joystick program noth printf joyread . 
+the problem lot program trap int15h like smartdrv slow hell interfac . 
+can i read joystick port reason safe fashion via poll ? 
+and n't platform clockspe specif ? 
+thank 

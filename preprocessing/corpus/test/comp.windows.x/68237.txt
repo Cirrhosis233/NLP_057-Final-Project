@@ -1,0 +1,9 @@
+i also live util convert postscript plain text perfer retain page count i know mani page origin document contain . 
+well i know one hack sort convers . 
+first get ghostscript check gs2asc.p file come . 
+it print inform text string goe page maintain page count . 
+i ve written littl c program massag output gs -dnodisplay gs2asc.p somewhat get ascii string document . 
+no guarante wo n't break wordssent though i ve use vari degre success . 
+anyway tri may want . 
+massag filter use gs crude postscript-ascii convers usag cat file.p gs -dnodisplay gs2asc.p massag i print ctrl-l new page . 
+put follow sourc massager.c compil includ stdio.h includ string.h main char line1000 p fgetslin sizeoflin stdin null line0 ' p ' printffn els line0 's ' line1 p strrchrline `` null continu p ' 0 ' p strchrline `` null continu p p p p `` p1 `` p1 `` putcharp putchar'n ' return0 

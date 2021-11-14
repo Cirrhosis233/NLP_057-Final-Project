@@ -1,0 +1,4 @@
+i design built hardwar 1988 would output logic level 567 tone detector upon detect 500 microwatt led 28 feet away . 
+use motorola mrd360 bias linear dc-feedback loop servo variat sunlight 60hz light . 
+use lens . 
+allen sullivan 

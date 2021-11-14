@@ -1,0 +1,6 @@
+the problem occur initi make world . 
+when get compil standard x client ca n't seem find librari . 
+right high suspect program ld updat 413 . 
+yip problem fix found link static client btw use cc . 
+- . 
+or use suno 4.1.1 ld . 

@@ -1,0 +1,9 @@
+hi guy it long time sinc i wrote program use x . 
+i tri get re-familiar x . 
+i would appreci help regard follow problem . 
+i tri compil simpl x program sun run suno 4.1.2 . 
+use cc -o ex ex.c -lxaw -lxmu -lxt -lxext -lx11 -lm i get error ld undefin symbol getwmshellwidgetclass getapplicationshellwidgetclass the simpl program i tri compil given . 
+includ stdio.h includ x11intrinsic.h includ x11stringdefs.h includ x11xawform.h mainargcargv int argc char argv widget toplevel widget frame toplevel xtinitializeexexnull0 argcargv frame xtcreatemanagedwidgetformformwidgetclasstoplevelnull0 xtrealizewidgettoplevel xtmainloop i got error i tri build xpostit use imakefil provid softwar . 
+i compil x program machin machin run suno 4.0 x11 r4 . 
+i get error messag can anybodi tell i get messag . 
+i would appreci email respons 

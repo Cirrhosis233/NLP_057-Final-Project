@@ -1,0 +1,10 @@
+a colleagu bizarr font problem new mip workstat . 
+when first log via xdm singl xterm window appear mwm window manag run . 
+in configur x window applic particular xdvi work fine . 
+howev open second xterm applic sudden xdvi start either window give error unabl load iso 8859-1 font . 
+the differ two xterm window initi one refer differ name xsession file prettier colour slight chang . 
+further investig show open default xterm caus behaviour signific all x applic longer load font invok command line either window . 
+if i start xterm differ font use -fn option problem . 
+it would seem default xterm load font somehow caus server lose font . 
+note xlsfont either window show font avail n't appear problem font directorieshash-t . 
+other rewrit xterm app-default file use differ font hope best anyon idea ? 

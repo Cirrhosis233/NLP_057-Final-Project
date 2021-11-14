@@ -1,0 +1,10 @@
+hi . 
+i 'm write program convert .dxf file databas format use 3d graphic program i ve written . 
+my program store point polygon ccw order . 
+i ve use 3d concept littl seem point store order drawn . 
+doe dxf format way indic order point store cw ccw ? 
+it easi enough convert i n't know way store i dont know direct polygon visibl . 
+if dxf n't handl anyon recommend workaround ? 
+the best i think creat two polygon one dxf file one store cw ccw . 
+but doubl number polygon decreas speed ... 
+thank advanc help 

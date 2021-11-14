@@ -1,0 +1,11 @@
+we setup 13 polaroid transduc rangefind . 
+we would like fire three time 5 ms fire . 
+the three fire fire direct . 
+to explain situat assum fire sonar abc 5 ms apart . 
+we normal see echo a correspond distanc . 
+howev sonar a detect init line sonar b ! 
+the detect actual transduc sonar a see faint 50khz signal transduc exact time init line sonar b activ . 
+we feel ground coupl caus interfer . 
+we came conclus sinc use separ power suppli sonar b c . 
+has anyon els problem particular unit type experi ? 
+your suggest remedi great appreci . 

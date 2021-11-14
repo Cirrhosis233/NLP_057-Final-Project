@@ -1,0 +1,10 @@
+begin repost ibm appl motorola readi unwrap powerpc 601 processor the wrap come powerpc 601 processor week motorola corp . 
+ibm appl comput inc . 
+detail result yearlong effort . 
+this first seri powerpc processor 32-bit processor 64-bit memori interfac much like intel corp. 's pentium capabl perform mani three instruct per clock cycl accord sourc familiar chip . 
+motorola expect releas chip volum year end two configur run 50 66 mhz perform 40 50 specint89 mark respect sourc said . 
+floating-point perform 3.6-volt processor even better specfp89 perform 60 80 respect . 
+the 601 scaled-down version power 220 chip develop ibm rs6000 workstat also includ 32k singl buffer cach chip protocol support motorola 's 64-bit multiprocessor 88110 bus built . 
+the chip design initi support micro channel architectur bus independ vendor could develop powerpc- base system use number differ architectur includ isa eisa sun microsystem inc. 's s-bus design one sourc note . 
+accord sourc familiar develop effort motorola extrem success develop powerpc inexpens architectur despit complex design made 2.8 million transistor use 0.6-micron technolog . 
+initi chip expect price 300 400 slight higher intel corp. 's 486 processor could sold profit less 100 one sourc said . 

@@ -1,0 +1,19 @@
+i new scope i thought i 'd save buck buy one function generat built . 
+after awhil i notic two thing function generat . 
+for one seem bias even pull-offset ' push . 
+that i pull know adjust get signal san random 50mv bias . 
+the realli annoy thing damn output wo n't go 1v p-p . 
+i student may guess previous post i often measur input imped various circuit i build.mani circuit maximum input signal way less 500mv amplitud input imped 10 's kohm rang . 
+the thing order use function generat i divid voltag thing reason . 
+then cours measureth input imped circuit i go throw anoth resistor seri . 
+with 50ohm output generat i could ignor littl divid i figur . 
+it 's kind pain ass . 
+is way i could make littl box could solv littl problem . 
+the box would tkae function generat input lower voltag give output imped low unchang number . 
+i would want lower voltag factor one hundr . 
+i could build littl buffer amp i 'd like box activ . 
+ani quick idea . 
+the scope 's broken . 
+for reason i sent shop get repair replac . 
+the function generat way one . 
+pleas help i feel stupid today 

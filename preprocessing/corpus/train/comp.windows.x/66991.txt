@@ -1,0 +1,5 @@
+i wonder possibl parent window paint area child . 
+if could possibl implement rubberband across multipl xwindow select object display one window ? 
+use gc subwindowmod attribut set includeinferior . 
+the default clipbychildren . 
+howev bewar children differ depth parent semant undefin protocol . 

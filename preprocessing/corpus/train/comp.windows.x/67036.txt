@@ -1,0 +1,5 @@
+i want equival xwininfo -name via call set call xlib . 
+i need map window name id . 
+it 's probabl easi i ve program x littl . 
+do x sourc code ? 
+simpli look mitclientsxwininfoxwininfo.c find exact . 

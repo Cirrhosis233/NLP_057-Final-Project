@@ -1,0 +1,6 @@
+hi ! 
+i work project need creat contour line random data point . 
+the work i done far tell i need look triangul irregular network tin delauney criiterion krige method . 
+doe anyon suggest refer program hope sourc code creat contour . 
+ani help surfac model would great appreci . 
+i reach address paul conway 

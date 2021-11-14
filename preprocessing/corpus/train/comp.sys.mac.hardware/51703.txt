@@ -1,0 +1,28 @@
+i ve instal 5.25 tape backup c610 lot issu . 
+so answer question ... 
+my pli 80m syquest drive wire drive id switch outsid case . 
+where i connect switch ? ? 
+can comput tell intern drive ? 
+you probabl want hard-wir scsi id short jumper . 
+put conveni number like 1 . 
+you could cut hole back machin rout id switch go hassl ? 
+you probabl wo n't need frequent chang id intern drive . 
+i notic drive lay part motherboard i n't look close i seem recal lay ram 's solder onto motherboard ? 
+would caus problem ? 
+yeah i first instal tape drive i littl concern . 
+but 's problem devic design fit fine overhang . 
+it n't reach back beyond romramvram simm though . 
+one last question ! 
+is anywher order facepl cover ? 
+drive 's front panel smaller space left case drive 's panel size spotsbm clone 's case . 
+should i cut hole plastic panel current hold tmpti place ? 
+you special-ord part mount devic local appl dealer . 
+the relev part 922-0358 blank bezel facepl 922-0850 cd-rom carrier i.e . 
+generic 5.25 devic mount bracket note appl 's unfortun choic name slide-in bracket mount 5.25 devic . 
+the servic tech i talk said oh sure stock of cours think cd caddi hold cd disk stick drive . 
+as far i tell appl sell bezel facepl alreadi cut standard 5.25 devic . 
+whi ? 
+they advertis machin abl accept standard devic 5.25 bay provid facepl ? 
+they sell cutout cd-rom drive cours 's use . 
+i 'm go hack extra bezel i order make cutout tape drive standard 5.25 devic . 
+good luck syquest . 

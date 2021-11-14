@@ -1,0 +1,7 @@
+i ve tri view .tga file creat povray . 
+i diamond speedstar 24 video board 24x . 
+so far i convert jpeg use cjpeg view cview display 8 bit color . 
+.. 
+just want see darn thing real color ... 
+i ati ultra pro card found easiest way view true color imag use window driver someth like winjpeg photofinish . 
+if anyon non-window solut i 'd love hear ! 

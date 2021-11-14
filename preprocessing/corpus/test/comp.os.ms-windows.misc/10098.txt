@@ -1,0 +1,7 @@
+doe anyon document ms mous driver 8.2 ? 
+i got i got window 3.1 window manual come document . 
+in particular i need know turn speed outsid window . 
+the greater sensit need i play various game esp x-wing the sensit chang use s v h paramet . 
+the command follow v vertic sensit h horizont sensit s follow paramet number 1 100 1 slowest 100-fastest . 
+the default 50 . 
+you type command mous s75 right keyboard add autoexec.bat . 

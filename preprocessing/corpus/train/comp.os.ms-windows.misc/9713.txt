@@ -1,0 +1,3 @@
+i 16mb memori 386sx . 
+i run window without swap file sever month . 
+will mathcad 4.0 happi insist swap file ? 

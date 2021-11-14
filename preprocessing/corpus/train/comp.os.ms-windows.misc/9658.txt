@@ -1,0 +1,13 @@
+now anyon know possibl use w4wg lan workplac dos time . 
+yup . 
+we re use work fine . 
+hope someday wfwg communic lwp tcpip . 
+right load netbeui . 
+i use odi odinsup work well . 
+hey sound great . 
+doe mean w4wg work odi ? 
+i thought use ndis . 
+my problem lan workplac driver use umb i 'd hate load mani driver make w4wg work along . 
+i read german comput magazin tcpip support w4wg around corner . 
+anybodi news ? 
+regard richard 

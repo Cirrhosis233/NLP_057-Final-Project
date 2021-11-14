@@ -1,0 +1,11 @@
+subject dos6 boot disk requir n't want emm386 load date 8 apr 1993 151240 -0500 everybodi dos 6 user particular take note want play game hateus upper memori manag dos 6 problem . 
+no boot disk requir . 
+as system start hit f5 key . 
+this tell bypass config autoexec altogeth . 
+you get plain generic session dos noth load . 
+'s anoth function key actual step thru config.si ask want execut line i ve forgotten moment ... tri find i think 's f9 ... 
+no need bypass config.si dos 6.0 function multi-config tri boot.si multi-config kind choos config.si startup . 
+and i find good . 
+it conflict qemm . 
+i problem use boot.si the key say f8 trace config.si step step . 
+sorri error 

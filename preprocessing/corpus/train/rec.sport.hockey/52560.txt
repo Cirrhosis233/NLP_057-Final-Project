@@ -1,0 +1,340 @@
+tampa bay 1 
+1 
+02 philadelphia 3 2 16 first period 1 
+philadelphia carkner 3 unassist 124 . 
+2 philadelphia hawgood 9 recchi lindro pp 556 . 
+3 philadelphia lindro 37 recchi hawgood pp 952 . 
+4 tampa bay beer 12 zamun chamber pp 1506 . 
+second period 5 tampa bay andersson 13 hamrlik lafrenier pp 158 . 
+6 philadelphia conroy 3 butsayev faust 1210 . 
+7 philadelphia beranek 13 galley hawgood pp 1853 . 
+third period 8 philadelphia recchi 51 brind'amour galley pp 1756 . 
+philadelphia 6 power play 5-4 scorer g a pts beranek 1 
+0 1 
+brind'amour 0 1 
+1 
+butsayev 0 1 
+1 
+carkner 1 
+0 1 
+conroy 1 
+0 1 
+faust 0 1 
+1 
+galley 0 2 2 hawgood 1 
+2 3 lindro 1 
+1 
+2 recchi 1 
+2 3 tampa bay 2 power play 7-2 scorer g a pts andersson 1 
+0 1 
+beer 1 
+0 1 
+chamber 0 1 
+1 
+hamrlik 0 1 
+1 
+lafrenier 0 1 
+1 
+zamun 0 1 
+1 
+vancouv 1 
+0 01 detroit 2 2 15 first period 1 
+detroit kozlov 4 fedorov chiasson 520 . 
+2 detroit drake 17 ciccarelli coffey pp 748 . 
+3 vancouv ron 24 slegr bure pp 1735 . 
+second period 4 detroit sheppard 30 drake hiller 654 . 
+5 detroit ciccarelli 38 chiasson drake pp 1213 . 
+third period 6 detroit ysebaert 31 fedorov chevelda sh 459 . 
+detroit 5 power play 5-2 special goal pp 2 sh 1 
+total 3 scorer g a pts chevelda 0 1 
+1 
+chiasson 0 2 2 ciccarelli 1 
+1 
+2 coffey 0 1 
+1 
+drake 1 
+2 3 fedorov 0 2 2 hiller 0 1 
+1 
+kozlov 1 
+0 1 
+sheppard 1 
+0 1 
+ysebaert 1 
+0 1 
+vancouv 1 
+power play 6-1 scorer g a pts bure 0 1 
+1 
+ron 1 
+0 1 
+slegr 0 1 
+1 
+buffalo 1 
+1 
+02 boston 1 
+1 
+13 first period 1 
+buffalo audett 12 corkum wood 1640 . 
+2 boston juneau 30 neeli oat 1839 . 
+second period 3 buffalo errey 9 lafontain khmylev 1051 . 
+4 boston douri 3 d.sweeney bourqu 1757 . 
+third period 5 boston donato 12 unassist 1742 . 
+boston 3 power play 4-0 scorer g a pts bourqu 0 1 
+1 
+donato 1 
+0 1 
+douri 1 
+0 1 
+juneau 1 
+0 1 
+neeli 0 1 
+1 
+oat 0 1 
+1 
+sweeney d 0 1 
+1 
+buffalo 2 power play 5-0 scorer g a pts audett 1 
+0 1 
+corkum 0 1 
+1 
+errey 1 
+0 1 
+khmylev 0 1 
+1 
+lafontain 0 1 
+1 
+wood 0 1 
+1 
+calgari 1 
+1 
+0 13 san jose 0 2 0 02 first period 1 
+calgari suter 21 reichel macinni pp 1747 . 
+second period 2 san jose zmolek 5 odger evason 303 . 
+3 san jose kisio 24 garpenlov gaudreau pp 723 . 
+4 calgari lindberg 9 macinni pp 1243 . 
+third period no score . 
+overtim 5 calgari fleuri 31 otto yawney 306 . 
+calgari 3 power play 8-2 scorer g a pts fleuri 1 
+0 1 
+lindberg 1 
+0 1 
+macinni 0 2 2 otto 0 1 
+1 
+reichel 0 1 
+1 
+suter 1 
+0 1 
+yawney 0 1 
+1 
+san jose 2 power play 9-1 scorer g a pts evason 0 1 
+1 
+garpenlov 0 1 
+1 
+gaudreau 0 1 
+1 
+kisio 1 
+0 1 
+odger 0 1 
+1 
+zmolek 1 
+0 1 
+pittsburgh 0 3 25 quebec 2 1 
+03 first period 1 
+quebec kamenski 15 huffman 605 . 
+2 quebec young 27 lapoint huffman 1652 . 
+second period 3 pittsburgh mullen 29 lemieux murphi 354 . 
+4 pittsburgh lemieux 60 tocchet u.samuelsson 507 . 
+5 pittsburgh lemieux 61 tocchet steven 812 . 
+6 quebec young 28 sundin kovalenko pp 1452 . 
+third period 7 pittsburgh tippett 4 unassist sh 352 . 
+8 pittsburgh tippett 5 mceachern mullen 825 . 
+pittsburgh 5 power play 1-0 special goal sh 1 
+total 1 
+scorer g a pts lemieux 2 1 
+3 mceachern 0 1 
+1 
+mullen 1 
+1 
+2 murphi 0 1 
+1 
+samuelsson u 0 1 
+1 
+steven 0 1 
+1 
+tippett 2 0 2 tocchet 0 2 2 quebec 3 power play 4-1 scorer g a pts huffman 0 2 2 kamenski 1 
+0 1 
+kovalenko 0 1 
+1 
+lapoint 0 1 
+1 
+sundin 0 1 
+1 
+young 2 0 2 new jersey 0 0 00 toronto 0 0 11 first period no score . 
+second period no score . 
+third period 1 
+toronto gilmour 32 andreychuk anderson 1622 . 
+toronto 1 
+power play 5-0 scorer g a pts anderson 0 1 
+1 
+andreychuk 0 1 
+1 
+gilmour 1 
+0 1 
+new jersey 0 power play 3-0 no score ottawa 1 
+0 23 hartford 5 1 
+17 first period 1 
+ottawa maciv 17 baker luongo 422 . 
+2 hartford kron 11 nyland gosselin 513 . 
+3 hartford burt 4 cassel verbeek 759 . 
+4 hartford cunneyworth 4 yake nyland 959 . 
+5 hartford sanderson 42 cassel houda 1111 . 
+6 hartford verbeek 35 cassel zalapski pp 1550 . 
+second period 7 hartford sanderson 43 cassel zalapski pp 1838 . 
+third period 8 hartford kron 12 poulin burt 457 . 
+9 ottawa turgeon 23 lamb 857 . 
+10 ottawa baker 17 luongo maciv pp 1617 . 
+hartford 7 power play 3-2 scorer g a pts burt 1 
+1 
+2 cassel 0 4 4 cunneyworth 1 
+0 1 
+gosselin 0 1 
+1 
+houda 0 1 
+1 
+kron 2 0 2 nyland 0 2 2 poulin 0 1 
+1 
+sanderson 2 0 2 verbeek 1 
+1 
+2 yake 0 1 
+1 
+zalapski 0 2 2 ottawa 3 power play 7-1 scorer g a pts baker 1 
+1 
+2 lamb 0 1 
+1 
+luongo 0 2 2 maciv 1 
+1 
+2 turgeon 1 
+0 1 
+winnipeg 1 
+3 26 edmonton 1 
+0 34 first period 1 
+winnipeg tkachuk 27 housley zhamnov pp 1438 . 
+2 edmonton klima 31 ciger elik 1605 . 
+second period 3 winnipeg king 8 unassist 354 . 
+4 winnipeg zhamnov 21 selann 1025 . 
+5 winnipeg domi 5 selann housley 1844 . 
+third period 6 edmonton manson 15 unassist 1058 . 
+7 winnipeg eagl 8 numminen bautin pp 1413 . 
+8 winnipeg zhamnov 22 ulanov selann 1527 . 
+9 edmonton gelina 8 kravchuk ranford 1648 . 
+10 edmonton kravchuk 10 buchberg 1842 . 
+winnipeg 6 power play 5-2 scorer g a pts bautin 0 1 
+1 
+domi 1 
+0 1 
+eagl 1 
+0 1 
+housley 0 2 2 king 1 
+0 1 
+numminen 0 1 
+1 
+selann 0 3 3 tkachuk 1 
+0 1 
+ulanov 0 1 
+1 
+zhamnov 2 1 
+3 edmonton 4 power play 3-0 scorer g a pts buchberg 0 1 
+1 
+ciger 0 1 
+1 
+elik 0 1 
+1 
+gelina 1 
+0 1 
+klima 1 
+0 1 
+kravchuk 1 
+1 
+2 manson 1 
+0 1 
+ranford 0 1 
+1 
+chicago 0 3 0 03 st . 
+loui 1 
+2 0 03 first period 1 
+st . 
+loui shanahan 46 janney hull pp 409 . 
+second period 2 chicago murphi 4 chelio roenick pp 050 . 
+3 st . 
+loui shanahan 47 hedican janney 118 . 
+4 chicago noonan 16 murphi chelio pp 524 . 
+5 st . 
+loui bozon 6 ps 1213 . 
+6 chicago roenick 43 sutter murphi pp 1839 . 
+third period no score . 
+overtim no score . 
+st . 
+loui 3 power play 4-1 special goal pp 1 
+ps 1 
+total 2 scorer g a pts bozon 1 
+0 1 
+chelio 0 1 
+1 
+hedican 0 1 
+1 
+hull 0 1 
+1 
+janney 0 2 2 murphi 0 1 
+1 
+shanahan 2 0 2 chicago 3 power play 3-3 scorer g a pts chelio 0 2 2 murphi 1 
+2 3 noonan 1 
+0 1 
+roenick 1 
+1 
+2 sutter 0 1 
+1 
+montreal 0 1 
+23 ny island 0 2 02 first period no score . 
+second period 1 
+montreal brunet 10 carbonneau daigneault 439 . 
+2 ny island turgeon 51 thoma kurver pp 914 . 
+3 ny island mullen 16 unassist 1513 . 
+third period 4 montreal bellow 38 desjardin dipietro 301 . 
+5 montreal damphouss 38 desjardin bellow pp 1011 . 
+montreal 3 power play 5-1 scorer g a pts bellow 1 
+1 
+2 brunet 1 
+0 1 
+carbonneau 0 1 
+1 
+daigneault 0 1 
+1 
+damphouss 1 
+0 1 
+desjardin 0 2 2 dipietro 0 1 
+1 
+ny island 2 power play 5-1 scorer g a pts kurver 0 1 
+1 
+mullen 1 
+0 1 
+thoma 0 1 
+1 
+turgeon 1 
+0 1 
+minnesota 2 1 
+03 los angel 0 0 00 first period 1 
+minnesota dahlen 33 unassist 234 . 
+2 minnesota courtnal 33 dahlen modano pp 930 . 
+second period 3 minnesota mcphee 14 sjodin hatcher pp 724 . 
+third period no score . 
+minnesota 3 power play 11-2 scorer g a pts courtnal 1 
+0 1 
+dahlen 1 
+1 
+2 hatcher 0 1 
+1 
+mcphee 1 
+0 1 
+modano 0 1 
+1 
+sjodin 0 1 
+1 

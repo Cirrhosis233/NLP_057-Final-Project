@@ -1,0 +1,6 @@
+i 'm work audio mixer project i 'm troubl find part . 
+i want use op-amp gain control stage . 
+the one i found good audio lm739 lm833 i find either electron part place i ve look . 
+are good substitut op-amp andor part supplier la area carri kind thing 10kohm dual audio taper slider pot would nice . 
+ani info would appreci . 
+thank advanc . 

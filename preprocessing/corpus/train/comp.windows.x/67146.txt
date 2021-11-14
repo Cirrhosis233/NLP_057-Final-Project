@@ -1,0 +1,5 @@
+there widget alreadi defin gl . 
+it glxmdraw motif glxdraw athena widget . 
+it similar xmdrawingarea except allow use gl call render window . 
+look glxlink glxunlink glxgetconfig glxwinset man page . 
+where i get hold widget ? 

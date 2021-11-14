@@ -1,0 +1,10 @@
+if know much pc 's ibm comp might tri joystick port . 
+though i n't tri i ve told port built a-d convert . 
+this would allow joystick coupl pot . 
+if could find spec might work ... 
+i guess 100k connect pin 1-3 1x 1-6 1y 9-11 2x 9-13 2y . 
+or get 8-bit da-convert mere coupl transistor resistor opamp compar output voltag want measur connect spare printer port one rest softwar stepwis refin . 
+the port address printer port probabl h378 lpt1 h278 lpt2 . 
+this work well enough purpos . 
+hope help gmd schloss birlinghoven postfach 1316 d-5205 st . 
+augustin 1 frg 

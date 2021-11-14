@@ -1,0 +1,7 @@
+i 386 clone intern modem set com4 . 
+it work fine i upgrad dos 6.0 time reload window 3.1 now system ca n't find com4 msd say com4 na three four comm program say hardwar present similar error messag . 
+procomm howev find modem problem work fine ! 
+curious curious . 
+ani hintshelp ? 
+thank . 
+mike 

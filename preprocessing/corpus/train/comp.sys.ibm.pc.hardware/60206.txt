@@ -1,0 +1,8 @@
+can anyon tell card work march os2 2.1 beta ? 
+i believ sinc buslog card proven reliabl os2 2.0 .... 
+where i get os2 driver ? 
+endus oem manufactur get softwar packag card includ driver novel os2 unix xenix forth . 
+doe card work toshiba 3401b cdrom ? 
+dos os2 definit . 
+here setup quantam scsi hd toshiba 3401b cdrom i 'm consid 542b i told buslog 's support better adaptec 542b perform better 1542c . 
+anyway i want know 542b work os2 dos periph . 

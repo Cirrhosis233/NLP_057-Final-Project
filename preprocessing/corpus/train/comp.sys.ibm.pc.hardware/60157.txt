@@ -1,0 +1,11 @@
+hello i recent suffer various problem concern adaptec 1542a control . 
+problem 1 floppi disk drive n't work . 
+there 's appar least two jumper control affect floppi disk drive . 
+unfortun i locat one lower front corner . 
+i would like know jumper possibl locat . 
+problem 2 my hard disk refus boot . 
+with two scsi hd 's rodim miniscrib i get messag miss oper system ' even though disk format control damn sure oper system . 
+if i boot quantum i might get far get ms-dos version inform . 
+this might cours due incombat memori driver . 
+are jumper could affect hd caus error ? 
+thank advanc jouni 

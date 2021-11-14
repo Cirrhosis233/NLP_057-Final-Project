@@ -1,0 +1,10 @@
+hi- do hardwar gurus know kind memori architectur appl use powerbook duo ? 
+or powerbook general ? 
+what factor make duo 210 slow compar desktop machin run processor speed 25mhz 68030 ? 
+how mani wait state memori system etc ? 
+what kind data bus use ? 
+32-bit 16-bit ? 
+it 's still slow plug duodock . 
+anyon know general kind shortcut notebook manufactur take make notebook ? 
+i heard 486dx266 notebook get whop 10 mip rate . 
+a similar desktop machin get 3 time i guess . 

@@ -1,0 +1,8 @@
+i creat graphic program use athena widget . 
+i use xlib routin instal custom graphic contex obtain display window variabl xtwindowofobject xtdisplayofobject . 
+the object one sub widget . 
+the problem occur whenev button press menu select graphic contex revert orgin one . 
+i tri move alloc graphic context alloc button noth chang . 
+i preform manipul call xtappmainloop . 
+thank help . 
+lesli donaldson 

@@ -1,0 +1,16 @@
+i work x-window base applic need overrid window manag focus process . 
+i use x11r4 motif 1.1 current although i also work open look futur . 
+what i need certain circumst prevent user switch one window applic anoth window . 
+let 's say exampl window a top window b window hierarchi . 
+normal user click mous window b brought top window hierarchi place top window a . 
+under certain circumst user click mous window b i need beep prevent window b rais top window a . 
+from research test i ve done far appear window order handl window manag case motif . 
+i n't found way overrid default process standard x window function . 
+i tell switch occur focus chang map notifi event i ca n't find way tell motif make switch . 
+the temporari solut i ve current come kludgi partial work . 
+when i detect window switch case switch allow i manual forc former top window back top xraisewindow call beep xbell function . 
+this provid necessari function look ugli window switch place twice . 
+doe anyon know i tell motif prefer window manag i n't want window order switch actual take place ? 
+respond either e-mail post newsgroup . 
+cheer .... 
+randal 

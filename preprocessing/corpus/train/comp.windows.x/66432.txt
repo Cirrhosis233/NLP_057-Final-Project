@@ -1,0 +1,13 @@
+pleas respond via email ! 
+has anybodi actual seen tek color space stuff work ? 
+i 'm luck either xtici editor export.lcs.mit.edu o'reilli 's ftp-abl exampl xcms ftp.uu.net . 
+the o'reilli exampl fail almost everi set input xcmstekhvcquerymaxv return smaller valu xcmstekhvcqueryminv make sens . 
+the xtici editor fail xcmsstorecolor appar mathemat manipul color spec result invalid valu . 
+so ca n't actual edit color . 
+we x11 r5 patch level 22 8-bit pseudocolor visual . 
+i ve poke around xcms code xlib without understand theori i idea 's go wrong . 
+can somebodi confirm either above-ment program work system let know fail ? 
+pleas includ hardwaresoftwarepatch level . 
+ani hint ? 
+pleas respond email i n't regular read group . 
+thank karen karen bircsak concurr comput corpor 

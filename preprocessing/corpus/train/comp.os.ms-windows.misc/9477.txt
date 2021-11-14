@@ -1,0 +1,16 @@
+hello i 'm investig purchas object orient applic framework . 
+i come across look good zapp 1.1 inmark zinc 3.5 zinc softwar cview liant win blais some consider i 'm use be new window program i 'm unixx world qualiti intuitiv abstract class librari provid import . 
+howev sinc i 'm advers learn intern window program new program methodolog close align nativ one . 
+i n't believ arbitrari level abstract sake chang api valuabl . 
+sinc develop 32bit window nt system memori manag issu issu particular window 3.1 api less import . 
+we probabl buy anoth c class librari someth like tools.h booch compon ration handl data structur miscellan stuff alloc etc .... 
+so featur import toolkit . 
+the two i narrow zapp zinc seem two toolkit receiv attent media . 
+i wonder anyon first-hand experi toolkit especi zapp zinc . 
+a coupl observ toolkit seem particular noteworthi zapp seem extens coverag window function also includ miscellan use class . 
+has new fanci 3d-style control avail support custom control . 
+has window nt version essenti redirect graphic displayoutput architectur use print sizer class automat manag control layout resiz . 
+seem newcom could advantag design better system . 
+zinc has platform independ resourc strategi . 
+not import right come interfac builder tool has window nt version essenti seem around longer matur grew dos version . 
+had better demo both sourc code avail option both lack ole support neither seem particular support multimedia type stuff ani thought anyon would much appreci thank brett harper 

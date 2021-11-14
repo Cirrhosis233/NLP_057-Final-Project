@@ -1,0 +1,3 @@
+1 what i gain new bio ? 
+it fix problem us get divid error caus gw bio overwrit interappl memori area . 
+our problem clarion databas program i also heard fix problem brief 

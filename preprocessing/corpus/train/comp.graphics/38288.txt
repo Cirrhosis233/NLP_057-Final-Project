@@ -1,0 +1,3 @@
+has anyon got multivers work i built 486 svr4 mip svr4s sun sparcstat . 
+there seem mani bug . 
+the dogfight ' dactyl ' simpli noth after fix bug variabl defin twice two differ modul one need set static els client core-dump steve 

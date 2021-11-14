@@ -1,0 +1,7 @@
+cyrix releas 386 pin-conpat 486 clone . 
+design upgrad old 16 20mhz 386 's chip also clockdoubl . 
+thus 16mhz 386 transform 32mhz 486 singl chip upgrad . 
+unfortun australia dru2 sell 700a 16mhz 1000a 20mhz 1.5x price 486dx33 motherboard two vlb slot ! ! ! 
+how much thing cost state ? 
+how well work ? 
+thank info 

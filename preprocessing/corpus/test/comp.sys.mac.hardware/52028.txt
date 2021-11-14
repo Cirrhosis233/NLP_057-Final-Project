@@ -1,0 +1,34 @@
+enter game develop . 
+the sound driver current sound manag inconveni lame make game . 
+the sound driver pretti ok sinc 's fast . 
+sound manag use book useless . 
+dispos sound channel soon sound complet question game smooth anim . 
+it 's slow . 
+whi would dispos channel go play sound soon ? 
+if tri write game n't use sndplay . 
+instead make channel use buffercmd play sound . 
+it work great . 
+you add callback channel also let know channel get empti . 
+befor get empti . 
+the sound driver much snappier sound manag . 
+unfortun system 7 support poor make program crash occasion . 
+the moral stori develop do n't cheat ! 
+well i want code work old system . 
+i n't know sys 7.1 least 6.0.7 bug sound manag caus channel hang error messag . 
+this happend i keep channel open long period necessari perform play mani sound stop sound halfway . 
+callback seem reliabl . 
+then way i safe tell sound stop play inspect privat variabl channel qhead i think way i found tell channel hung inspect undocu flag modifi . 
+callback reliabl i found 100 reliabl even system 4.1 . 
+i continu background sound interrupt sound effect system 6.0 im-v document . 
+you probabl cancel callback command channel cours n't get call . 
+in general problem sound work play one per channel close channel relat slowdown play one n't work ad one synthes channel possibl one multipl time . 
+this might call sndplay preexist channel sound resourc add sampl sound synthes channel first thing play . 
+most sampl sound command start . 
+you need resedit sound remov command creat channel specifi sampl sound synthes channel 's synth . 
+then use asynch sndplay 's want . 
+you ll probabl want switch buffercmd 's sinc go use snddocommand anyway add callback . 
+now go ahead tell i full sound manag n't work game rememb spectr use . 
+and work great . 
+if spectr spare cpu time . 
+one littl disclaim there say sound manag iisi ca n't made work right . 
+i 'm sure either way i know sure make sound work 100 correct everi machin use sound manag . 

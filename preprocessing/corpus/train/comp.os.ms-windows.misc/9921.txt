@@ -1,0 +1,9 @@
+who tell program pd sharewar redirect window 3.1 's output printer manag file ? 
+i want captur hp laser jet iii 's print output . 
+though postscript setup print filebut hp ca n't . 
+i use dos 's redirect programbut ca n't work window . 
+thankx help ... 
+english name erik wang chines name wang jyh-shyang nation chiao-tung universitytaiwanr.o.c . 
+tri set anoth hpiii printer choos port connect choos file instead like lpt1 . 
+this prompt file name everytim print hpiii file printer . 
+good luck . 

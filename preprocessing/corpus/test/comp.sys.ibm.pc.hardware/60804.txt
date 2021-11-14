@@ -1,0 +1,9 @@
+hello i diamond stealth vram card older version dip switch back . 
+i two problem 1 i ve lost manual ! ! ! 
+2 i machin network card everyth work fine i run window network connect die . 
+in case 's import network card smc arcnet 8-bit compat card . 
+it 's io address 02e0 's ram base address d000 . 
+it 's also use irq 2 i believ file diamond bboard explain sort manual i n't know bboard number . 
+if pleas help mani follow possibl send diamond bbs number b e-mail post dip switch set card fax 412 521-8668 c tell i 'm wrong i magic get everyth work . 
+ani help would much appreci . 
+thank advanc 

@@ -1,0 +1,6 @@
+doe anyon know devic avail mac increas number serial port avail use simultan ? 
+i would like connect 8 serial devic mac applic i work . 
+i must abl access one independ . 
+appli engin make nubus card call quadralink board contain 4 serial port i believ use simultan . 
+i 'm user one i instal coupl peopl work i 'm technician . 
+hope help . 

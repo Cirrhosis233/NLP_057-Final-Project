@@ -1,0 +1,9 @@
+hello x'er i problem i abl creat window 24 bit plane . 
+the follow code illustr problem includ stdio.h includ x11xlib.h includ x11xutil.h main display display window win xvisualinfo vinfo colormap colormap xsetwindowattribut attribut xevent event status status displayxopendisplaynul statusxmatchvisualinfodisplaydefaultscreendisplay24truecolor vinfo ! status fprintfstderrvisu foundn exit1 colormapxcreatecolormapdisplaydefaultrootwindowdisplay vinfo.visualallocnon attributes.colormapcolormap winxcreatewindowdisplaydefaultrootwindowdisplay00100100 024inputoutputvinfo.visualcwcolormapattribut xmapwindowdisplaywin xnexteventdisplayev i tri sgi 24 plane truecolor server hp 9000-700 24 plane directcolor server obvious neccessari chang run x11r4 . 
+on client side i tri x11r4 xlib hp 9000-700 decstat x11r3 xlib decstat . 
+all combin gave badmatch error createwindow request . 
+as far i tell manual attribut may give badmatch colormap belong wrong visual . 
+but visual correct match i get error messag . 
+what i wrong ? 
+for inform i tell xwud abort error . 
+karsten 

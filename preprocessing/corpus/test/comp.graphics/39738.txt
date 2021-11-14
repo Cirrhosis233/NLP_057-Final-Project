@@ -1,0 +1,10 @@
+o.k . 
+sorri post question seem crop quit regular group howev i yet get specif useful context answer i get hold 3d data head . 
+what i am look for simpl polyon descript head face easili convert use pov raytrac . 
+i.e . 
+1500 polygon well i place file ftp today contain sever polygon descript head face skull vase etc . 
+the format file list vertic normal triangl . 
+there various resolut name data file includ number polygon eg . 
+phred.1.3k.vbl contain 1300 polygon . 
+in order get data via ftp follow 1 ftp taurus.cs.nps.navy.mil 2 login anonym guest password 3 cd pubdabro 4 binari 5 get cyber.tar.z onc get data onto workstat 1 uncompress data.tar.z 2 tar xvof data.tar if question pleas let know . 
+georg dabro georg dabrowski cyberwar lab 

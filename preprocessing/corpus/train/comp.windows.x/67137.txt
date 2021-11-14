@@ -1,0 +1,10 @@
+store repli mous keyboard event to produc regress test automat demo 's would like store mous keyboard event produc user . 
+it possibl filter mous keyboard event server 's queue store file . 
+this sequenc event store file given server 's queue user work . 
+1 . 
+exist tool capabl save repli mous keyboard event ? 
+2 . 
+where one catch event store in case server 's queue x termin hp . 
+where catch event come given server . 
+if possibl catch event given certain client 3 . 
+where one send store sequenc event simul user is central dispatch client machin manag incom event given server reach thank advanc 

@@ -1,0 +1,13 @@
+can anyon explain fair simpl term i get os2 i might need scsi control rather ide . 
+will perform suffer much ? 
+for 200mb drive ? 
+if i n't tape drive cd-rom ? 
+ani help would appreci . 
+there way multi-task comput actual give cpu power io overlap . 
+with io overlap cpu continu think disk oper underway wherea without overlap cpu sit idl wait disk oper finish disk oper take etern compar fast cpu . 
+so ve got multi-task want increas perform increas amount overlap . 
+one way dma bus master . 
+either make possibl io devic move data memori without interrupt cpu . 
+the altern cpu move data . 
+there sever scsi interfac card allow dma bus master . 
+ide howev defin standard at interfac creat ibm pc at requir cpu move data byte dma . 

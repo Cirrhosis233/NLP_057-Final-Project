@@ -1,0 +1,11 @@
+howdi sorri cover one pc illiter friend ask help instal drdos 6.0 nec powerm sx 386sx 16 . 
+of cours i said no problem went work . 
+unfortun drdos refus recogn hard drive instal even though i still abl boot hard drive use old dos . 
+after open i discov use 8-bit seagat scsi control st-157n scsi 40mbtye drive . 
+i boot drdos 6.0 floppi second time ran fdisk see i could access drive . 
+lo behold primari 46.5 mbyte partit intact creat dos 3.1 less i n't think could go 32mbyte partit older dose . 
+i could wrong .... 
+i tri remov primari partit would n't allow . 
+i unawar anyth special done scsi drive i kinda expect work like idemfmrl drive dos instal . 
+ani suggest would great appreci except throw garbag buy new pc ... 
+thank advanc 

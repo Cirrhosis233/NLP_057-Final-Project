@@ -1,0 +1,17 @@
+in pc magazin april 27 199329 although scsi twice fasst esdi 20 faster ide support 7 devic accept ... long stall incompat problem instal headach i love magazin writer make stupid statement like perform . 
+where get number ? 
+i ll list actual perform rang convinc anyon statement absurd scsi-i rang 0-5mbs . 
+scsi-ii rang 0-40mbs . 
+ide rang 0-8.3mbs . 
+esdi alway 1.25mbs although non-standard version by own data although scsi twice fast esdi correct how 0-40 twice 1.25 ? 
+do pick whatev scsi setup make statment correct ? 
+even could make statement would meaningless unless understood esdi ide i includ scsi ata complet differ esdi device-level like mfmrll . 
+with scsi-2 control chip scsi-1 reach 10mbs inde 20 faster ide 120 8.3 9.96 . 
+all scsi fact great compar two number ata sever speed mode way articl said misleadingwrong . 
+post newsgroup mac ibm info sheet avail ftp sumex-aim.stanford.edu 36.44.0.6 info-macreport mac-ibm-comparevers .txt it 173 161 may still i would recommend peopl call ncr board download ansi spec realli interest stuff . 
+part problem mac ibm pc inconsi scsi . 
+though well document quadra scsi-2 chip appl salesperson said use fast scsi-1 chip not 6mbs 10mbs burst . 
+scsi-1 5mbs maximum synchron quadra use ansynchron scsi slower it seem mac ibm see someth miss . 
+anyway i agre . 
+there 's lot opportun market jingo like scsi-2 compliant tell noth perform whether wide support etc . 
+one refer quadra 's scsi-2 control chip digit review oct 21 1991 v8 n33 p81 . 

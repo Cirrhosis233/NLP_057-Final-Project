@@ -1,0 +1,5 @@
+one not-so-quick question throw guy ... 
+for class project need design build power suppli follow spec voltatg adjust 1-12v current limit 1a voltag must stay within 2 design valu i 0-1a ac rippl less 5 mv rms to decid kind circuit must know initialpreciss limiter-curr allow temp-drift . 
+in first case use ube transistor voltage-refer 0.7 vdc temp-drift 2mvk . 
+in second case better use bandgap-ref opamp-circuit detect maximum-curr . 
+the output opamp control outputstag limit current . 

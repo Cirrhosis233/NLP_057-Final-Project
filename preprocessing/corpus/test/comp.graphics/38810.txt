@@ -1,0 +1,10 @@
+i question recurs backward raytrac . 
+when incid ray i strike object point p first normal n calcul . 
+light ray calcul l1 ln n number light sourc light ray intersect anyth . 
+the reflect ray r transmit ray t calcul formula . 
+call routin recurs r t return colour along ray r t rcol tcol . 
+each object colour ocol light sourc licol 1 n . 
+the question how combin rcol tcol ocol licol 's get correct result colour return along i ray ? 
+all colour defin strucur record r g b compon 0 1 . 
+if anyon done could give hint ? 
+adrian secchia 

@@ -1,0 +1,20 @@
+to hardwar firmwar gurus my current home project build huge paddl keyboard physic handicap relat mine . 
+my goal keyboard look exact like at sytl keyboard host system . 
+this high endow keyboard littl pcl z world heart . 
+the thing i lack detail inform hardwar signal 486 window 3.1 dos 5.0 expect . 
+my project independ window hope fellow window 's usersprogramm recogn i need will point right direct . 
+i the winn l . 
+rosch hardwar bibl 2nd edit . 
+the hb give inform i need concern scan code even wire diagram ps2 style connector i need leav number import question unansw . 
+1 . 
+is synchron asynchron serial communic ? 
+i 'm guess synchron sinc host provid clock . 
+in either event data frame ? 
+2 . 
+is half-duplex truli one way ? 
+i 'm guess half-duplex sinc host turn led . 
+3 . 
+are chipset avail communic at keyboard standard cannib real keyboard ? 
+if anyon know book articl written sourc whatev i must safe i afford replac 486 event booboo . 
+thank time . 
+dank fuer ihr zeit . 

@@ -1,0 +1,5 @@
+has anyon got multivers work i built 486 svr4 mip svr4s sun sparcstat . 
+there seem mani bug . 
+the dogfight ' dactyl ' simpli noth after fix bug variabl defin twice two differ modul one need set static els client core-dump steve i ve tri compil sever sparcstat gcc 2.22 . 
+after fix bug 3 miss constant definit plus coupl thing i got compil link start client server i get black window sometim client core dump sometim server sometim i get broken pipe sometim sit noth although i occassion get cursor becom cross-hair dog-fight 's . 
+i ve sent word author plus i fix last week repli yet . 

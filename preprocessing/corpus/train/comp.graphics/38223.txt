@@ -1,0 +1,15 @@
+note followup-to header ... 
+is collect form routin use curs ? 
+if locat ? 
+on svr4 amiga unix box i ve got -lform -lmenu -lpanel use curs librari . 
+guess provid ? 
+unix press ie . 
+prentice-hal programm 's guid tool refer fmli form mgmt languag interfac eti extend termin interfac 's 2nd edit . 
+it isbn 0-13-020637-7 . 
+paraphras outsid back cover fmli high-level program tool creat menus form text frame . 
+eti set screen manag librari subroutin promot fast develop applic program window panel menu form manipul . 
+the fmli shell packag read ascii text file produc screen display data entri present . 
+it consist shell-lik environ fmli program 's databas file . 
+it section 1f unix press manual . 
+the eti subroutin part 3x manual section provid support multi-window capabl ordinari ascii termin control built top curs librari . 
+thank -mark steel 

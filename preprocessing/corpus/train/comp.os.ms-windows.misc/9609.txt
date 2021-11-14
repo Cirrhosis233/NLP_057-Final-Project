@@ -1,0 +1,1 @@
+how set app give window default start posit size ? 

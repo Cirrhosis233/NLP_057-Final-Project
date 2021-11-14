@@ -1,0 +1,6 @@
+hello world i 'm attempt write 8051 simul ibm pc teach purpos first-year elec-eng student see ' work microcontrol perform oper logic and exampl shown bit-by-bit basi 1 and 1 1 student see 's realli mystic process total logic exampl . 
+everi instruct show work ' alter registermemoryport content . 
+doe anyon know freely-avail exampl simul code pascal modula-2 would show i 'm go wrong write simul ? 
+i 'm use ayala 's -the 8051 microcontroller- refer simul suppli packag overkil simpl teach purpos i feel 's sourc code help roll . 
+pleas email help know somewher appropri i post i rare scan group . 
+thank 

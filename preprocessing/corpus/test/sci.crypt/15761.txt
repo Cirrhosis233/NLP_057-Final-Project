@@ -1,0 +1,62 @@
+would wiretap chip be cost-effect ? 
+robin hanson draft april 21 1993 summari compar averag month phone bill sixti dollar wiretap worth two cent month polic . 
+so propos wiretap chip must rais phone cost less one part three thousand cost-effect . 
+background until phone happen allow exist wiretap detector could pick convers phone line . 
+and time law enforc agenc come reli capabl aid crimin investig . 
+howev power new encrypt technolog threaten status quo make possibl truli privat communic . 
+a small chip phone could soon make liter imposs overhear convers without physic microphon either end . 
+in order preserv abil law enforc agenc tap phone convers u. . 
+govern announc april 16 1993 develop begun manufactur special wiretap chip place futur phone instead total privaci chip privat develop . 
+the day att announc would use chip secur telephon product . 
+each chip would creat govern supervis would given fix indentifi encrypt key . 
+period convers chip would broadcast identifi info special law enforc block . 
+law enforc offic court order could obtain key correspond indentifi special trust agenc could therebi listen futur previous record convers phone . 
+to date concern voic plan secur . 
+the govern wo n't disclos encrypt algorithm mani suspect govern limit access way claim . 
+the track record previous govern inspir confid point 1 . 
+howev paper neglect concern ask instead whether new wiretap chip cost-effect tool polic investig . 
+that cheaper way societi investig crime forc phone communic support wiretap give polic agenc money investig crime way ? 
+or put anoth way would polic agenc will pay wiretap pay share full social cost forc phone support wiretap ? 
+to start answer question might compar current benefit wiretap provid law enforc agenc project cost implement new wiretap chip plan . 
+and sinc current benefit easier estim begin . 
+wiretap benefit 1990 latest year wiretap statist avail 2 . 
+in year 872 wiretap instal request request deni . 
+this figur includ wiretap obtain consent parti convers . 
+2057 arrest result wiretap start year 1486 arrest came wiretap previous year 55 arrest led convict . 
+76 wiretap phone vs pager email etc . 
+60 regard drug offens 40 request feder author . 
+each wiretap instal heard averag 1487 call 22 incrimin among 131 peopl cost averag 45125 extrapol 794 instal report cost most labor . 
+thus total 40 million spent wiretap obtain 4000 arrest 10000 per arrest . 
+thus arrest least four time expens 2500 per arrest figur one get divid 28 billion spent polic nation total 11 million non-traff arrest 3 . 
+thus 30 million per year spent phone tap one thousanth total polic expenditur . 
+and divid 138 million phone access line countri 3 get 23 cent spent per year per phone line two cent month . 
+in general deter given class crimin combin perceiv probabl caught convict expect punish level convict . 
+so social valu wiretap amount would pay get crimin deterr mean . 
+if unabl wiretap particular suspect 's phone polic might instead use hidden microphon investig suspect way . 
+or polic might focus suspect easili investig without wiretap . 
+or might rais fine prison time certain type crime . 
+if generous assum substitut wiretap would averag twice expens wiretap annual social benefit phone wiretap equal current spend level two cent month per phone line . 
+wiretap cost let us moment optimist assum us govern encrypt scheme secur whatev privat enterpris would offer instead protect convers spi ear neighbor corpor govern foreign domest . 
+even need support wiretap would add mani addit cost build maintain communic system . 
+extra law enforc block would ad phone transmiss increas traffic unknown percentag . 
+a special process must use add encrypt key chip secur distribut key special agenc must fund monitor . 
+the chip design militari contractor whose design remain secret manufactur special process chip becom near imposs take apart . 
+chip offer relat high price 30 peic lot 10000 4 . 
+privat encrypt system support wiretap would requir none extra cost . 
+perhap import govern degre would least partial replac privat marketplac evolut standard voic repres encrypt exchang futur phone . 
+it wide believ govern less effici privat enterpris procur product standard though may perhap perform use broker role choos compet privat standard . 
+how much less effici matter debat say pay twice much other might say 10 . 
+current total 96 billion spent oper expens u. . 
+phone compani 3 come 60 per month per access line . 
+if compar wiretap valu two cent per month see wiretap rais averag oper cost even much one part 3000 wiretap cost effect ! 
+and n't even includ extra cost phone owner pay encrypt chip expens . 
+of cours phone would n't encrypt chip wiretap benefit per phone still argument still appli . 
+conclus given dramat differ total cost run phone system valu wiretap justifi slightest modif phone system accommod wiretap . 
+when modif requir allow investig attach clip phone wire wiretap support may reason . 
+but consid substanti modif burden proof clear propos modif show cost would realli less benefit . 
+if consensus obtain costbenefit estim compromis might tax phone support wiretap rate say five cent per month tax payabl polic agenc nationwid compens loss wiretap abil . 
+1 the invis weapon oxford press isbn 0-19-506273-6 2 report applic order author approv intercept wire oral electron communic 1990 administr offic u. . 
+court washington dc 20544 . 
+3 u. . 
+statist abstract 1992 . 
+4 dorothi den the clipper chip a technic summari distribut sci.crypt newsgroup april 21 1993 . 

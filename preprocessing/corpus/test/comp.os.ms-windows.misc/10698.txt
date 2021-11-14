@@ -1,0 +1,15 @@
+do load smartdrv.si use stacker . 
+appli window . 
+i repli whi ? ? ? 
+do mean use smartdrv.ex autoexec.bat ? ? ? 
+roger you answer quot windowssetup.txt under section use stacker .. for best perform use smartdriv cach compress drive . 
+you need cach uncompress drive .. 
+check ! 
+i think import clear first repli . 
+you gave impress use smartdriv stacker . 
+you correct cach compress drive . 
+howev i understand cach uncompress drive . 
+thus compress disk c c probabl d drive stacker . 
+c compress disk larg file d d uncompress disk . 
+you attempt stack d . 
+in fact win 3.1 smartdrv.ex seem smart enough automat default stack ab d drive . 

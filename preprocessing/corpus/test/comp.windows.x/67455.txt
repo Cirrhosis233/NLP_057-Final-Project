@@ -1,0 +1,4 @@
+yesterday i chang us-keyboard sparc10 german keyboard . 
+and i get alt graph charact tild ' usw .. 
+when i exit x i get charact x . 
+can anybodi give hint check correct instal keyboard . 

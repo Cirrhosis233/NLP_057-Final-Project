@@ -1,0 +1,7 @@
+i logitech 256gray hand scanner pc . 
+i 'm wonder anyon success connect scanner mac ? 
+it connector serial devic pc . 
+i imagin pin conigur would need change i 'm sure signal level would correct mac sw would work . 
+of cours manual say noth interfac connector layout anyth hw-ish ! 
+ani idea ? ? 
+thanx 

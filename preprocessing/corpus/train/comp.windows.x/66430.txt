@@ -1,0 +1,294 @@
+archive-nam x-faqpart2 last-modifi 19930404 subject 24 ! 
+how i make screendump print applic ? 
+the xwd client x11 distribut use select window background . 
+it produc xwd-format file imag window . 
+the file post-process someth use print xpr client local print mechan . 
+you use command csh sleep 10 xwd -root output.xwd spend 10 second set screen entir current display save file output.xwd . 
+note xwd also undocu r5 -id flag specifi window id command-lin . 
+there also unoffici patch export xwd specifi delay portion screen captur . 
+two publicly-avail program allow interact definit arbitrari portion display built-in delay asnap xgrabsc . 
+there sever version xgrabsc version 2.2 avail export 892 recent . 
+xsnap includ asnap featur supersed also render xpm output version unknown . 
+it avail export avahi.inria.fr see xsnap-pl2.tar.z . 
+a screen-dump mergeedit program combin featur xwd xpr avail vernam.cs.uwm.edu xdump1.0.tar.z . 
+inform cfa0 128.103.40.1 xprint.export-2.1.tar.z . 
+to post-process xwd output tool use xpr part x11 distribut . 
+also sever archiv xwd2ps xtop produc encapsul postscript trim suitabl use present see export.lcs.mit.educontribxwd2ps.tar.z contribimagemagick.tar.z . 
+also use pbmplus packag mani archiv server xim packag contain level 2 color postscript output . 
+the xv program grab portion x display manipul save one avail format . 
+imagemagick similar capabl . 
+also 2.0 xlib api postscript pcl printer demo ftp.uu.net vendorbristolxprint . 
+colorsoft 9619-459-8500 offer openprint packag includ screen- captur facil image-process support postscript non-postscript printer . 
+some vendor ' implement x e.g . 
+decwindow openwindow includ session manag desktop program includ print portion screen take snapshot option . 
+some platform also tool use grab frame-buff direct sun system exampl screendump ' program produc sun raster file . 
+some x termin local screen-dump util write postscript local serial printer . 
+some vendor ' implement lpr e.g . 
+soni includ direct support print xwd file ll typic need packag massag output use format get printer . 
+subject 25 how i make color postscript screendump x display ? 
+if need color postscript particular grab screen-imag use program produc color postscript xgrabsc xv grab screen-imag use xwd post-process xwd color ps . 
+you use xwd2ps xtop program imagemagick distribut . 
+the pbmplus packag also good xim packag . 
+subject 26 how i make screendump includ x cursor ? 
+this ca n't done unless x server extend . 
+consid instead system-depend mechan e.g . 
+captur frame-buff . 
+subject 27 how i convertview mactiffgifsunpictimgfax imag x ? 
+the likeliest program incarn jef poskanz 's use portabl bitmap toolkit includ number program convert among various imag format . 
+it includ support mani type bitmap gray-scal imag full-color imag . 
+pbmplus updat recent recent version 1291 export contribpbmplus10dec91.tar.z . 
+anoth tool san diego supercomput center 's imtool imconv ' particular packag function pbm singl binari . 
+it 's avail anonym ftp sdsc.edu 132.249.20.22 . 
+use view image-format jim frost 's xloadimag version r4 directori contribclientsxloadimag later version avail includ contribxloadimage.3.03.tar.z export . 
+graem gill 's updat earlier version xloadimag also export see xli.readm xli.tar.z.uu version 1.14 releas 293 . 
+read display pictur sun raster pgm pbm ppm x11 bitmap tiff gif jpeg . 
+it manipul imag adjust color intens contrast aspect ratio crop . 
+it save imag aforement format plus postscript . 
+it grab portion x display manipul save one avail format . 
+the program updat 592 see file contribxv-2.21.tar.z export.lcs.mit.edu . 
+convers manipul packag similar pbmplus . 
+version 1.0 avail via ftp nl.cs.cmu.eduusrmlmftpfbm.tar.z uunet.uu.netpubfbm.tar.z ucsd.edugraphicsfbm.tar.z . 
+write imag format display x11 screen imag manipul . 
+version 1.3 avail via ftp expo.lcs.mit.edu contribimg1.3.tar.z along larg collect color imag . 
+the utah rle toolkit convers manipul packag similar pbmplus . 
+avail via ftp cs.utah.edupuburt- weedeater.math.yale.edupuburt- freebie.engin.umich.edupuburt- . 
+xim the x imag manipul philip thompson essenti interact display edit filter convert imag . 
+there version x11r4 contrib area recent version use r4 motif 1.1 avail gis.mit.edu 18.80.1.118 . 
+xim readswrit gif xwd xbm tiff rle xim write level 2 ep format also librari command-lin util build applic . 
+export 's contrib area . 
+it collect util transform display imag x server . 
+the tool use miff format filter miff popular format ppm tiff gif sun raster etc includ . 
+xtiff tool view tiff file x window . 
+it written handl mani differ kind tiff file possibl remain simpl portabl effici . 
+xtiff illustr common problem build pixmap use differ visual class . 
+it distribut part sam leffler 's libtiff packag also avail xtiff 2.0 announc 491 includ xlib xt version . 
+avail contribvimage-0.9.3.tar.z export.lcs.mit.edu . 
+the packag also includ imageviewport widget filedialog widget . 
+1291592 subject 28 how i chang titlebar xterm window ? 
+the solut involv send escap sequenc xterm caus updat properti window manag reli upon string appear window titlebar . 
+a solut easi type xterm run shell echo esc2textg esc escap key text string wish display g control-g bel charact . 
+here complic csh alia chang titlebar current work directori chang directori alia newcd cd echo -n esc2cwdg ' the digit ' 2 ' string indic xterm chang titl window chang titl name use icon use digit ' 0 ' instead use ' 1 ' chang icon name . 
+note anoth way prevent incorrect display local directori modifi cd use subshel wrap escap sequenc ps1 prompt . 
+note ibm rs6000 may necessari begin sequenc v . 
+subject 29 where i find xterm control sequenc ? 
+the best sourc inform r5 sourc file ctlseqs.m postscript version mithardcopyclientsctlseqs.ps.z . 
+o'reilli 's volum 3 x user 's guid includ r5 version control sequenc standard volum avail 393 motif version book avail . 
+the current r4 guid includ outdat version control sequenc . 
+193 other good sourc inform includ r4 version document also file r4 sourc call mitclientsxtermctlseq2.txt compil put togeth skip montanaro ge crd list vt100 sequenc . 
+it date r3 fair accur . 
+a hardcopi version publish decemb 1989 xnextev xug newslett . 
+in pinch vt100 manual . 
+last updat 1091 subject 30- whi r3 xterm et al fail r4 server ? 
+subject 31 how i use charact ascii 127 xterm in order use special charact o-umlaut need stti pass8 also use charcel iso8859 font xtermfont -- -medium-r-norm -- -130 -- -c -- iso8859-1 xtermboldfont -- -bold-r-norm -- -130 -- -c -- iso8859-1 the famili intent unspecifi exampl . 
+in addit may want set shell setenv lcctype iso88591 for given charact 127 determin key use alt modifi find equival charact 127 tri use man ascii . 
+for exampl o-umlaut v alt-v section charact alt- ' . 
+subject 32 whi xterm menus small ? 
+you probabl set geometri small accident . 
+if give resourc specif like xtermgeometri 80x24 ask widget xterm geometri set 80x24 . 
+for main window ok use charact size . 
+but popup menus n't pixel show small . 
+to set termin widget specifi geometri name explicit xtermvt100.geometri 80x24 subject 33 how i print current select ? 
+you could past xterm execut lpr command . 
+manipul select help e.g . 
+xselect primari lpr find primari select print . 
+this command place window-manag menu shell-script . 
+xselect also permit set select properti . 
+a version export . 
+also avail ria.ccs.uwo.capubxgetselection.tar.z adapt . 
+subject 34 how xt use environ variabl load resourc ? 
+you use sever environ variabl control resourc load xt-base program xfilesearchpath xuserfilesearchpath xapplresdir . 
+these environ variabl control xt look application-default file applic initi . 
+xt load one app-default file path defin xfilesearchpath anoth path defin xuserfilesearchpath . 
+set xfilesearchpath softwar instal system way app-default file appear sever differ directori hierarchi . 
+suppos exampl run sun 's open window also r4 x applic instal usrlibx11app-default . 
+you could set valu like xfilesearchpath would caus xt look app-default file usrlibx11 usropenwinlib wherev openwinhom locat setenv xfilesearchpath usrlibx11tnopenwinhomelibtn the valu environ variabl colon-separ list pathnam . 
+the pathnam contain replac charact follow see xtresolvepathnam n the valu filenam paramet applic 's class name . 
+t the valu file type . 
+in case liter string app-default c custom resourc r5 s suffix . 
+none app-default . 
+l languag local codeset e.g . 
+jajp.euc l languag part l e.g . 
+ja the territori part display 's languag string c the codeset part display 's languag string let 's take apart exampl . 
+suppos applic 's class name myterm . 
+also suppos open window instal usropenwin . 
+notic exampl omit locale-specif lookup . 
+usrlibx11tn mean usrlibx11app-defaultsmyterm openwinhomelibtn mean usropenwinlibapp-defaultsmyterm as applic initi xt tri open app-default file order shown . 
+as soon find one read use stop look other . 
+the effect path search first usrlibx11 usropenwin . 
+let 's consid anoth exampl . 
+this time let 's set xuserfilesearchpath look file myterm.ad current work directori myterm directori app-default . 
+setenv xuserfilesearchpath .n.adhomeapp-defaultsn the first path list expand .myterm.ad . 
+the second expand homeapp-defaultsmyterm . 
+this conveni set debug follow imak convent name app-default file myterm.ad applic 's sourc directori run applic directori work still resourc load proper . 
+note look app-default file xuserfilesearchpath bizarr reason neither type file suffix defin t s useless . 
+with r5 's anoth twist . 
+you may specifi custom resourc valu . 
+for exampl might run myterm applic like myterm -xrm custom -color if one pathnam specif valu usrlibx11tnc expand pathnam would usrlibx11app-defaultsmyterm-color c substitut charact take valu custom resourc . 
+the default xfilesearchpath compil xt usrlibx11ltnc r5 usrlibx11ltnc r5 usrlibx11tnc r5 usrlibx11ltn usrlibx11ltn usrlibx11tn note site replac usrlibx11 projectroot batch default set . 
+the default xuserfilesearchpath also compil xt rootlnc r5 rootlnc r5 rootnc r5 rootln rootln rootn root either valu xapplresdir user 's home directori xapplresdir set . 
+if set xuserfilesearchpath valu default xt ignor xapplresdir altogeth . 
+notic quick dirti way make applic find app-default file current work directori set xapplresdir singl dot . 
+in r3 machineri work differ r3 compatibilti mani peopl set xapplresdir valu dot follow slash . 
+subject 35 how i r4 xdm put pictur behind log-in window ? 
+the answer lie chang xdm 's xrdb resourc xdm-config file run program chang background load resourc exampl usrlibx11xdmxdm-config file may add line displaymanager.0.author fals permit unrestrict access display log-in bewar ! 
+also displaymanagerxrdb usrlibx11xdmnew.xrdb file someth connect along line ! binsh come argument -display 0 -load usrlibx11xdmxresourc usrbinx11xsetroot -display 2 -bitmap usrlibx11xdmnew.bitmap usrbinx11xrdb substitut xloadimag xv xsetroot tast . 
+note general hack use invok consol window client . 
+subject 36 whi n't path set xdm run .xsession file ? 
+when xdm run .xsession n't sourc .cshrc .login file . 
+you set path explicit normal could sh script place environment-set statement separ file sourc .xsession file shell configur file set path .cshrc file normal place make .xsession path set simpli make csh script i.e . 
+start .xsession file ! bincsh . 
+if n't work also tri start ! binsh reset path pathcsh -c echo path ' export path subject 37 how i keep display i rlogin anoth machin ? 
+there sever way avoid setenv display .. 
+whenev log anoth network unix machin run x . 
+one solut use clientsxrsh r5 contrib tape . 
+it includ xrsh script start x applic remot machin xrlogin script start local xterm run rlogin remot machin . 
+a recent version export xrsh-5.4.shar . 
+one solut use xrlogin program der mous 132.206.1.1 xxrlogin.c xxrlogind.c . 
+the program packag term display singl string stuf term . 
+rlogin propag term normal .cshrc remot machin contain eval xrlogind xrlogind program check term special format recogn unpack spit setenv unsetenv command recreat environ variabl . 
+1190 in addit need start remot x process anoth host find rsh host -n usrbinx11xterm -display display simpl display must real hostnam version xrsh use start remot x process . 
+the equival usag would xrsh host xterm binsh start x11 process anoth host date 8 dec 88 062934 gmt an improv version put rcmd 's left zombi . 
+this script combin best . 
+case 01 echo usag 0 host x-cmd arg ... 
+case shell csh host1 shift xhost host devnul rsh host -n setenv term xterm setenv display hostname0 exec devnul devnul sh host1 shift xhost host devnul rsh host -n termxterm export term displayhostname0 export display ldlibrarypathusrx11lib export ldlibrarypath pathpathusrx11binusrbinx11usrlocalbin export path exec devnul devnul 21 esac esac subject 38 how i design font ? 
+one way use bitmap client bitmap-editor e.g . 
+sun 's icon-editor tool post-process pbmplus design individu charact larg amount post-process concaten bdf format . 
+see olli jone 's articl novemb 91 x journal inform . 
+the r3 contrib area fontsutil clientsxtroff contain number use util includ convert bdf font format simpl charact format edit text editor . 
+an easier way use xfed client modifi exist font version r4 r5 x11r5 contrib tape contribclientsxf . 
+xfed avail anonym ftp ftp.informatik.uni-dortmund.d 129.217.64.63 possibl file pubwindowsxdiverse-x11-sourcenxfed.tar.z . 
+it produc bdf-format font compil varieti x server . 
+the xfedor client group bull permit creation bitmap cursor xpm1 pixmap font . 
+binari common machin avahi.inria.fr pub addit sourc old xlib implement place 591 exportcontrib . 
+if metafont user use mftobdf seetex distribut convert pk gf pxl font bdf format distribut ftp.cs.colorado.edu export.lcs.mit.edu . 
+the gnu packag fontutils-0.4.tar.z prep.ai.mit.edu includ xbfe font editor number util massag font format . 
+the o'reilli x resourc issu 2 contain articl use tool modifi font . 
+font resiz hiroto kagotani 's bdfresiz new version ftp.cs.titech.ac.jpx11contrib . 
+subject 39 whi ad font server work sic ? 
+after built font use system 's font-compil instal directori run mkfontdir system 's equival e.g . 
+bldfamili openwindow directori sure use xset fp dir add full path-nam server 's font-path directori alreadi path use xset fp rehash new font directori actual found last step re probabl leav . 
+you also use xset q make sure directori path . 
+sometim xset fp dir command fail badvalu error x error fail requestbadvalu integ paramet rang oper major opcod fail request 51 xsetfontpath this mean x server find read font directori directori look like font directori server . 
+the mention integ paramet messag spurious . 
+is font directori re specifi readabl server 's file system ? 
+rememb 's server client interpret font directori . 
+troubl area especi like issu xset command shell metacharact e.g . 
+xset fp myfont server x termin manag xdm . 
+is directori realli font directori ? 
+if re run mit server varieti vendor server look directori file fonts.dir . 
+if ca n't find file run mkfontdir1 . 
+if re run openwindow look file families.list . 
+if ca n't find run bldfamily1 . 
+if re site peopl run x11rn server other run proprietari server nonstandard font format openwindow exampl make sure font directori right server re use . 
+hint directori contain .pcf andor .snf file wo n't work open window . 
+if directori contain .ff andor .fb file wo n't work x11rn . 
+subject 40 how i convert .snf font back .bdf font ? 
+a tool call snftobdf 1.4 part bdftool packag avail export.lcs.mit.educontribbdftools.tar.z crl.nmsu.edupubmiscbdftools.tar.z . 
+291 subject 41 what general method get font usabl format ? 
+der mous 's getbdf one solut connect server produc .bdf file font server will let . 
+it use anything-to-bdf convert requir access server understand font file thus less power tool snftobdf . 
+getbdf 132.206.1.1 xgetbdf.c avail via mail in addit r5 program fstobdf produc bdf font r5 server access . 
+subject 42 how i use decwindow font non-decwindow server ? 
+the decwindow font typic n't exist non-dec instal rewrit rule use alia font use decwindow applic standard mit font similar characterist size . 
+pick file contribdecwindowsonx11r4font.alias export.lcs.mit.edu file standard mit r4 server . 
+it also serv start point creat similar alias file open window server server use mit font scheme . 
+subject 43 how i add .bdf font decwindow server ? 
+the format font prefer dec 's x server .pcf format . 
+you produc compil format .bdf format use dec 's dxfc font-compil . 
+note dec server also use raw .bdf font perform hit . 
+subject 44 ! 
+how i set backgroundpixmap default file ? 
+what xpm ? 
+i want abl someth like xclockbackgroundpixmap usrincludex11bitmapsrootweav you ca n't . 
+the backgroundpixmap resourc pixmap depth screen bitmap pixmap depth 1 . 
+becaus write generic string pixmap convert imposs sinc accept convent file format pixmap . 
+therefor neither x toolkit athena widget set defin string pixmap convert convert specifi valu resourc . 
+the athena widget set defin string bitmap convert use mani widget howev . 
+howev a specif convert encapsul much function xloadimag packag jim frost post 1290 sebastian wangnick imag format pixmap . 
+the lead general-purpos format pixmap xpm format use group bull sever program includ gwm window manag att olpixmap editor ic interfac builder . 
+xpm distribut avail export contribxpm.tar.z includ readwrit routin easili adapt convert new widget want allow specif pixmap resourc manner . 
+see inform xpm-talk mail list . 
+xpm 3.0f announc 393 avail export.lcs.mit.edu avahi.inria.fr older version r5 contrib tape . 
+a set xpm icon collect anthoni thyssen subject 45 whi ca n't i overrid translat ? 
+onli first item work . 
+you probabl extra space specif first item like basictext.transl overrid ctrlkeya beginning-of-lin n ctrlkey end-of-lin extra space the newlin space end translat definit . 
+thank timothi j . 
+horton 591 subject 46 how i xclock oclock show differ timezon ? 
+one solut xchron volum 6 comp.sources.x show time timezon local one . 
+altern probabl set timezon shell invok xclock oclock use script similar ! binsh tzpst8pdt xclock -name sanluisobispoca 2 devnul tzest5edt xclock -name kingofprussiapa 2 devnul subject 47 i xmh n't work . 
+where i get mh ? 
+the xmh mail-read requir rand mh mailmessag handl system part unix softwar distribut mani machin . 
+a list various ftp uucp e-mail us-mail site xmh mh given month mh faq one sourc ics.uci.edu file pubmhmh-6.7.tar.z . 
+if receiv comp.mail.mh newsgroup mh-user mail list request copi faq also includ section xmh send usenetnews.answersmh-faq . 
+subject 48 whi i sudden unabl connect sun x server ? 
+after seem random amount time x server start client abl connect . 
+the default cron cleanup job suppli sun 4.0.3 least delet old unreferenc file tmp includ tmp.x11-unix contain socket descriptor use x . 
+the solut add -type find exclus cron job . 
+1090 subject 49 whi n't r5 pex demo work mono screen ? 
+the r5 sampl server implement work color screen sorri . 
+subject 50 ! 
+how i get sun type-45 keyboard fulli support xsun ? 
+mani user want num lock key light num lock led appropri effect numer keypad . 
+the xsun server distribut mit n't two differ patch avail . 
+the first patch written jonathan lemon fix num lock relat problem . 
+it avail export.lcs.mit.edu file contribxsun-r5.numlockpatch.z the second written martin forssen fix num lock compos key add support differ nation keyboard layout type-4 type-5 keyboard . 
+this patch avail export.lcs.mit.edu 1192 provid support type-5 keyboard . 
+subject 51 how i report bug x ? 
+general report bug find organ suppli x window system . 
+if receiv r5 sourc distribut direct mit pleas read file mitbug-report instruct . 
+look mitdocbugsbug-report r4 . 
+subject 52 whi i get warn widget class version mismatch ? 
+this error typic goe say widget 11004 vs . 
+intrins 11003 indic header file includ build program n't match header file xt librari re link built check -i includ path -l link-path sure . 
+howev problem also occur link version x11r4 xt librari patch 10 version number wrong . 
+some sun ow system particular ship flaw version librari applic link librari typic give warn seen . 
+subject 53 where i find dictionari server xwebster ? 
+webster 's still own copyright on-lin copi webster 's dictionari found various univers site . 
+after becam awar site act server site run xwebster gnuemacs-webst ask server site close extern access . 
+the next machin appar also licens dictionari . 
+a webster daemon next machin avail iuvax.cs.indiana.edu 129.79.254.192 pubwebsternext-2.0 . 
+unless want get legal on-lin copi find site grant access probabl luck . 
+howev legitim site ll want pick latest xwebster as-i exportcontribxwebster.tar.z 1091 file xwebster.readm includ discuss avail illeg non-avail dictionari server . 
+mayer 1190 subject 54 topic obtain x and relat softwar and hardwar subject 55 is x public-domain softwar ? 
+no . 
+the x softwar copyright various institut public domain specif legal mean . 
+howev x distribut avail free redistribut without fee . 
+contribut softwar though may place public domain individu author . 
+subject 56 how compat x11r3 r4 r5 ? 
+what chang ? 
+the releas note mit releas x11 specifi chang previous releas . 
+the x consortium tri hard maintain compat across releas . 
+in place incompat chang necessari detail given releas note . 
+each x11 distribut site network also offer releas note go releas offer file typic found top distribut tree . 
+stephen gildea 192 the comp.windows.x.intrins faq-xt list xt differ among version . 
+subject 57 ! 
+where i get x11r5 sourc andor binari ? 
+inform mit 's distribut sourc 6250bpi qic-24 tape distribut hardcopi document avail softwar center technolog licens offic massachusett institut technolog 28 carleton street room e32-300 cambridg ma 02142-1324 phone 617-258-8330 . 
+you need 100mb disk space hold core 140mb hold contrib softwar donat individu compani . 
+pleas use site close network . 
+note releas note general avail separ directori note list chang previous version x offer guid distribut . 
+north america anonym ftp california gatekeeper.dec.com pubx11r5 16.1.0.2 california soda.berkeley.edu pubx11r5 128.32.131.179 indiana mordred.cs.purdue.edu pubx11r5 128.10.2.2 maryland ftp.brl.mil pubx11r5 128.63.16.158 good milnet site massachusett crl.dec.com pubx11r5 192.58.206.2 massachusett export.lcs.mit.edu pubr5 18.24.0.12 crl.dec.com better michigan merit.edu pubx11r5 35.1.1.42 missouri wuarchive.wustl.edu packagesx11r5 128.252.135.4 montana ftp.cs.montana.edu pubx.v11r5 192.31.215.202 new mexico pprg.eece.unm.edu pubdistx11r5 129.24.24.10 new york azure.acsu.buffalo.edu pubx11r5 128.205.7.6 north carolina cs.duke.edu distsourcesx11r5 128.109.140.1 ohio ftp.cis.ohio-state.edu pubx.v11r5 128.146.8.52 ontario ftp.cs.utoronto.ca pubx11r5 128.100.1.105 washington dc x11r5-a.uu.net xr5 192.48.96.12 washington dc x11r5-b.uu.net xr5 137.39.1.12 europemiddl eastaustralia anonym ftp australia munnari.oz.au x.v11r5 128.250.1.21 denmark freja.diku.dk pubx11r5 129.142.96.1 unit kingdom src.doc.ic.ac.uk graphicsx.v11r5 146.169.3.7 hpb.mcc.ac.uk pubx11r5 130.88.200.7 finland nic.funet.fi pubx11r5 128.214.6.100 franc nuri.inria.fr xx11r5 128.93.1.26 germani ftp.germany.eu.net pubx11x11r5 192.76.144.129 israel cs.huji.ac.il pubx11r5 132.65.6.5 itali ghost.sm.dsi.unimi.it pubx11r5 149.132.2.1 netherland archive.eu.net windowsxr5 192.16.202.1 norway ugle.unit.no pubx11r5 129.241.1.97 norway nac.no pubx11r5 129.240.2.40 switzerland nic.switch.ch softwarex11r5 130.59.1.40 japan anonym ftp kanagawa sh.wide.ad.jp x11r5 133.4.11.11 kwansai ftp.ics.osaka-u.ac.jp x11r5 133.1.12.30 kyushu wnoc-fuk.wide.ad.jp x11r5 133.4.14.3 tisn utsun.s.u-tokyo.ac.jp x11r5 133.11.11.11 tokyo kerr.iwanami.co.jp x11r5 133.235.128.1 tokyo scslwide.sony.co.jp pubx11r5 133.138.199.1 uucp uunet uunet custom xr5 decwrl exist neighbor pubx11r5 osu-ci x.v11r5 onlin 9 sept utai exist neighbor ftppubx11r5 hp4nl netherland uucppubwindowsxr5 nfs missouri wuarchive.wustl.edu archivepackagesx11r5 128.252.135.4 mount point archiv af pennsylvania afsgrand.central.orgpubx11r5 niftp hhcp cpf fcp ... 
+unit kingdom uk.ac.ic.doc.src x.v11r5 00000510200001 user guest anon ftam unit kingdom 000005102000 janet x.v11r5 146.169.3.7 internet 204334504108 ixi acsnet australia munnari.oz fetchfil x.v11r5 pleas fetch one file time check copi avail closer site . 
+9291 updat contrib 1091 anyon europ get copi mit x.v11r5 distribut includ core contribut softwar offici patch free charg . 
+the requir agre return tape equival new tape . 
+onli qic tk format cartridg provid . 
+contact jami watson adasoft ag nesslerenweg 104 3084 wabern switzerland . 
+uk site obtain x11 ukuug softwar distribut servic depart comput imperi colleg london sever tape format . 
+you may also obtain sourc via janet therefor pss use niftp host uk.ac.ic.doc.src name guest password youremailaddress . 
+queri copi comp.sources.x export.lcs.mit.edu contrib doc area announc freeli distribut packag . 
+x11r5 x11r4 sourc along x11r5 contrib code prebuilt x binari major platform sourc code exampl o'reilli 's book avail iso-9660-format cd-rom o'reilli associ . 
+392 . 
+x11r5 sourc avail iso-9660-format cd-rom member japan x11r5 sourc along gnu sourc comp.sources.x archiv sparc binari avail iso-9660-format cd-rom pdq softwar x11r5 sourc avail automata design associ 1 215-646-4894 . 
+various user ' group e.g . 
+sug offer x sourc cheapli typic cd-rom . 
+sourc andrew user interfac system 5.1 binari common system 412-268-6710 fax 412-621-8081 . 
+binari x11r5 share libx11 libxmu aux 2.0.1 avail wuarchive.wustl.eduarchivesystemsauxx11r5 . 
+patch x11r5 compil gcc share librari also avail . 
+suno 4.0.2 avail dsinc.dsi.com pleas after-hour usa est . 
+binari sun386i avail compaq.com 131.168.249.254 pubsun-386isourc vernam.cs.uwm.edu 129.89.9.117 . 
+foxtrot.ccmrc.ucsb.edu miss server though . 
+binari sun386i vernam.cs.uwm.edusun386i . 
+binari hp-pa hpcvaaz.cv.hp.com 15.255.72.15 . 
+sourc binari hp-ux 8.9.0s300400700800 domain 10.4 68k dn 10k avail interwork user group contact carol relph export contribr5.sunos5.patch.tar.zr5.sunos5.patch.readm . 
+patch x11r5 sun type 5 keyboard keyboard numlock also probabl sun platform . 
+just faq ma'am joe friday 

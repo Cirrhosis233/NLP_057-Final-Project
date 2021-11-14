@@ -1,0 +1,11 @@
+articl crosspost hp.window author andi defaria post mon 19 apr 1993 180838 gmt for reason follow code caus x applic beep whenev i intercept keystrok chang 's mean . 
+the intent code allow date field follow special key tt insert today 's date bump day one bump day one i hardcod date exampl . 
+perhap i n't use xmtext field . 
+for reason follow code beep whenev special key tt- hit . 
+whi ? 
+the idea code interpret key special mean impli code . 
+i would like get rid beep far i tell i 'm beep lose understand beep occur . 
+code delet ... 
+from xmtextfield man page discuss resourc xmnverifybel specifi whether bell sound action revers verif callback . 
+you set doit fals callback textfield beep . 
+to turn behavior set boolean resourc fals . 

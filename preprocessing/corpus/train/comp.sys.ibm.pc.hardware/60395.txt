@@ -1,0 +1,13 @@
+i 'm kind new pc stuff . 
+my machin 4 serial port . 
+com 1 and3 2 4 share irq . 
+you mean i ca n't plug mous com1 modem com3 expect work ? 
+no os 's coher etc abl drive one port poll mode without use irq . 
+in exampl access modem mous wo n't work reboot irq use modem . 
+if answer no i chang irq 's com port differ ? 
+and realli matter irq i set port ? 
+yes chang irq 's com34 depend hardwar . 
+com1 use irq4 com2 irq3 . 
+if one printerport irq7 chang com3 irq5 normal 2nd printer for com4 assign irq2 free . 
+as far i know irq use io-card 16bit caould access irq 's 8 . 
+michael 

@@ -1,0 +1,14 @@
+i consid make reason larg applic free distribut probabl copyleft . 
+i go use x . 
+now i 'm the follow packag meet criteria pd present aesthet pleasant graphic interfac user . 
+if use 386bsd xview3 openlook interview look littl like motif gopath nice c toolkit athena widget motif simpler better interview enjoy technic support bull via e-mail it nice draw program use motif use creat graphic front-end program . 
+the data format call stream feed program . 
+i port gopath internet machin gone use gcc-2.3.3 minim effort gopath port 386bsd . 
+last least gopath interfac toolkit via driver modul . 
+they ms-window driver modul instanc . 
+also mani written extens tktcl thus allow power applic . 
+for instanc tclnm snmp extens tktcl . 
+with eas i combin snmp network oper graph photo-widget graphic interfac file oper databas operationsetc .. 
+the author tclnm mail simpl network manag applic 80 line long display various environment paramet router . 
+i wrote simpl strip chart script display real-tim ip receiv packetssecond . 
+hope help amancio hasti 

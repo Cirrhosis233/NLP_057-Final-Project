@@ -1,0 +1,5 @@
+i want abl send pixmap one client next . 
+along i want send colormap foreground background pixel valu . 
+so far problem i problem . 
+howev i pixmap id colormap id i go tell server second receiv client want associ two id 's ? 
+tia john 

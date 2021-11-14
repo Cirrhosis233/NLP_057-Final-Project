@@ -1,0 +1,3 @@
+what directori .x11-unix tmp ? 
+when i start x creat system . 
+this directori n't creat root contain empti file x0 own . 

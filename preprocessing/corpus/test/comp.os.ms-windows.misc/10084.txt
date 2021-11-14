@@ -1,0 +1,14 @@
+somebodi help cure poor comput i go insan ! 
+i problem 486 run window appear memory-rel . 
+it 's actual limit window 's caus problem . 
+ths machin 's 486dx33 8meg ram 256kcach trident tvga card pas-16 soundcard . 
+1 window run realli realli slow time . 
+slower old 386sx16 . 
+graphic drawsfil slow boot slow applic sluggish dialog box take 15 second appear . 
+note non-window applic funni thing appear relat . 
+sever run slow .mod player crash system etc .. 
+2 run borland c 3.0 run window program complet fix problem . 
+window run fast i ve ever seen run easili 10 time faster graphic i n't run bc beforehand . 
+3 i n't memori manag instal config.si . 
+instal emm386.ex fix problem- make wors . 
+after emm386 instal run bc fix problem anymor . 

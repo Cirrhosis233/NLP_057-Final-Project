@@ -1,0 +1,26 @@
+i built littl project use radio shack 5vdc relay switch audio . 
+i got pretti bad click ' thing switch . 
+i common thing one suppos use relay noth seem get rid click . 
+my question is good relayrelay circuit i use switch audio no nois kind audio line . 
+i appreci advic refer advic . 
+also exact part numberscompani name etc . 
+relay help ! 
+the first step make sure dc compon intent audio line switch . 
+if neither output input present unintent dc level let 's say re capacit coupl put 22 k resistor input ground output ground good precaut leakag coupl cap present dc level guarante caus click . 
+if devic present unintent dc level coupl capacitor leakag need remov dc switch coupl capacitor . 
+if one relay relay switch one input common output use make-before-break switch brief instant sourc connect switch chang . 
+this may mask switch click . 
+an audio switch clickless made take light bulb make ersatz opto-isol light-depend resistor ldr seal insid piec black heatshrink . 
+mani broadcast consol use older time-honor techniqu . 
+claro actual make complet optisol like i n't part number handi . 
+radio shack ldr grab-bag 276-1657 might want tri . 
+for simpl solid state clickless switch cheap might tri look cd4066 analog switch common avail older predecessor 4016 . 
+again dc compon must remov prior switch . 
+other altern includ jfet switch discret ic diod switch work relat well surpris . 
+all pitfal applic tip could easili make subject multi-pag articl . 
+solid state switch may induc click turn due charg inject audio line devic capacit control signal chang state . 
+techniqu minim includ lower imped signal path switch differenti switch slow risetim control puls . 
+with 4016 cut click simpl put 10k 47k resistor seri control pin . 
+hope help least get start . 
+dave medin phone 205 730-3169 w ssdnetwork 205 837-1174 h intergraph corp . 
+huntsvill al 35894 uucp ... uunet ! ingr ! b30 ! catbyt ! dtmedin everywher you look least around offic 

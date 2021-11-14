@@ -1,0 +1,14 @@
+hi 's easi question window gurus . 
+i 'd appreci help . 
+we need write on-lin help applic . 
+we n't window softwar develop 's toolkit yet sinc want build .hlp file around window ' help engin i hope wo n't complic ? 
+anyway could someon kind give hint build on-lin help take 100 page explain ? 
+or complic would help point i would need ? 
+vincent q . 
+yin hi if develop window applic must sdk sort contain hc.ex hc31.ex file compil generat .hlp file .rtf file . 
+rtf file generat wordprocessor like word dos w4w . 
+you need sdk . 
+what need get free locat ftp.cica.indiana.edu index pubpcwin3index first get pubpcwin3uploadswhat.zip 1.3m this contain help compil among thing . 
+it free microsoft . 
+then get i think free dir pubpcwin3programr file hag.zip whag.zip wfwhlp.zip these sharewar dir pubpcwin3util file hwab21.zip qdhelp.zip qdtool.zip dir pubpcwin3winword file drhelpev.zip macro word 2.0 convert doc hlp file . 
+2066 blackdept aeemisuamesia 50010 offic 515-294-0082 

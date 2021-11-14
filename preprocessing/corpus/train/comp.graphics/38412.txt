@@ -1,0 +1,3 @@
+yesterday i wrote program bilinear interpol ala numer recip pbmplus librari . 
+i 'm pretti happi result i 'm look already-cod non-linear interpol scheme i go ahead tri write one . 
+ani pointer ? 

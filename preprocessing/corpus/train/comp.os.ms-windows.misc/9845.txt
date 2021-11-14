@@ -1,0 +1,13 @@
+somewher thread said window nt tm multi-us os well multi-thread etc . 
+i certain n't seen case . 
+there seper account person even seper directori desir . 
+i n't see implent simultaneuo use though . 
+sinc run gui network go slow fair amount i expect window nt multius sens share filesystem . 
+someon like write telnetd one could run character-bas app graphics-bas app share run execut local cpu . 
+this thing shape everywher client-serv architectur take old cpu-termin setup . 
+note next alway telnet next run character-bas app ca n't run gui . 
+yeah i know x-window n't impress ..... 
+iskandar taib the thing wors peach ala i read electron magazin nt and hoopla nt one would think thing would multi-us 's . 
+it support one user time . 
+it support multipl client one actual user your mileag may vari ! 
+this post doe not repres the opinion of my employ . 

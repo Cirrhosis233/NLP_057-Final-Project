@@ -1,0 +1,15 @@
+hey all- we old 1990 extern hd attach plus lab . 
+it given us flawless servic last week . 
+the problem someon lab old 512 upgrad coupl year ago plus aftermarket simmscsi setup digigraph simmer . 
+db25 scsi plug run back machin attach board 26-pin rectangular connector . 
+well guy remov back machin put memori disconnect scsi plug . 
+sinc 26-pin connector symmetr key may reinstal upsid essenti revers pin db25 . 
+he came ask could tri hd scsi port never use . 
+naiv fool said o.k .. 
+his comput fail recogn drive . 
+now none comput lab recogn . 
+we tri disk doctor n't recogn anyth scsi chain . 
+could instal scsi upsid wreck hd 's driver board ? 
+the drive seem spin right unpark upon powerup . 
+the event coincident attribut problem stiction . 
+ani help great appreciated- 

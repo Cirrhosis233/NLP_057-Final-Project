@@ -1,0 +1,3 @@
+you use pbm 's rawtopgm ' convert three raw r g b file pgm format . 
+then use pgm3toppm convert pgm file composit ppm file feed cjpeg compress . 
+slow circuit work . 

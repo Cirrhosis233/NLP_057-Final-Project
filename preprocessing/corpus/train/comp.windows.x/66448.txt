@@ -1,0 +1,10 @@
+can somebodi point sourc code dump content x-window color postscript file ? 
+i written app bring x-window i want click mous dump window postscript file . 
+thank . 
+depart mechan engin dod 0186 bmwmoa 44469 ama 460140 the univers iowa iowa citi ia 52242 76 r90s i use xwd xwd2ps . 
+to within program i use xwd -id xxxxx xxxxx window id obtain xtwindowwidget . 
+raju gurung i.t . 
+109 i.t . 
+build dept . 
+electr eng . 
+univers manchest oxford rd manchest u.k . 

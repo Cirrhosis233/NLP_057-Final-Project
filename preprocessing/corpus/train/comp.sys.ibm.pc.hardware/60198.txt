@@ -1,0 +1,11 @@
+hi is possibl use esdi-control hdd togeth ide-harddisk control one isa-system ? 
+i ve read stuff secondari control . 
+doe trick work ? 
+thanx advanc guido i question guido . 
+it possibl use esdi drive master ide drive slave at moment i use esdi drive recent i bought ide drive use 2nd drive the person comput shop told possibl run 2 disk control card togeth motherboard esdi and ide i think might way make work . 
+can anybodi enlighten ? 
+and possibl run esdi hdd use ide control ? 
+vice versa ? 
+can anybodi pleas help ? 
+your help much appreci . 
+g.chow 

@@ -1,0 +1,15 @@
+current use winfax softwar receivesend fax pcs . 
+it work pretti well . 
+the problem receiv file bit map format take lot hd space . 
+i told program pattern recognit raster charact fax-in file translat ascii code store file ascii format . 
+would like tell 1 whether softwar packag translat ? 
+2 one i find ? 
+3 softwar packag public domain ? 
+what version winfax ? 
+the newest version 3.0 ocr optic charact recognit built ... 
+mean take fax ie letter convert ascii one edit document wo re-typ ... 
+howev i found ocr come packag winfax work well omnipag profession also delrina softwar ... 
+so winfax ver . 
+3.0 look ... 
+good luck ! 
+regard 

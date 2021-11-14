@@ -1,0 +1,5 @@
+okay i got enough repli kubota kenaidenali system i post summari capabl . 
+... 
+graphic transform modul 1-6 1-6 frame buffer modul 51020 51020 frame buffer 1280x1024x24bit 1280x1024x24bit doubl buffer doubl buffer z-buffer 24-bit 24-bit alphastencil 8-bit 8-bit doe mean either alpha stencil simultan ? 
+stereo support yes yes other machin doubl buffer stereo output per window . 
+both auxiliari video output rs-170a ntsc pal same question mean either doubl buffer stereo simultan ? 

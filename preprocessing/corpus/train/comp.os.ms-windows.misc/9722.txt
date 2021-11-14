@@ -1,0 +1,15 @@
+unless i complet misunderstand tri use either notepad sysedit.ex found system subdirectori edit .ini file . 
+you add sysedit regedit program group ... 
+window program . 
+the sysedit.ex program cool automat open win.ini system.ini autoexec.bat config.si file edit . 
+is possibl get load .ini file ? ? ? ? 
+no . 
+when program run load 4 configur file autoexec.bat config.si win.ini system.ini . 
+there open entri file menu . 
+you edit four file . 
+if need edit program 's .ini file use notepad ascii editor . 
+i wonder whether microsoft intend sysedit use holdov test period forgot take . 
+the reason i think absolut mention manual program onlin help about entri file menu . 
+the program look like someth intend intern use . 
+it 's kind shame though . 
+it would made nice multi-fil replac notepad . 

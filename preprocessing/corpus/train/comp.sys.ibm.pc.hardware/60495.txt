@@ -1,0 +1,6 @@
+hello netter i question concern scsi dos . 
+i st01 scsi control two hard-disk conect id 's 0 1 . 
+i 'd like connect scsi streamer i n't softwar access . 
+doe beast exist sharewar pd also i want third disk i know dos see two two physic four logic disk . 
+will possibl use extra disk thank advanc . 
+ib 

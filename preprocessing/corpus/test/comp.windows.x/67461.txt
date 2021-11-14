@@ -1,0 +1,4 @@
+has anyon use dce thread x client ? 
+is possibl one thread listen incom rpcs anoth process x event ? 
+how set someth like ? 
+atul 

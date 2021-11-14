@@ -1,0 +1,15 @@
+some peopl work cube come need seem someon might done alreadi point tool would help . 
+what 'd like given window take long time draw either data arriv slow link display across slow link would like first paint low-resolut version pictur repaint higher resolut . 
+thus pictur might first generat 14 resolut 4x4 squar pixel fill singl color . 
+next 4x4 squar would replac 4 2x2 squar final 1x1 version would paint . 
+sinc one scenario window side slow link low-r version obvious would n't transmit bitmap would n't help . 
+instead would process far end receiv low-r pictur small bitmap blow pixel squar sorta like magnifi program . 
+this bring question whether x server help . 
+that window open way ask filter program run process pixel ? 
+or way use someth like rsh start remot process permiss deni open local window ? 
+it seem like scenario librari routin start program remot accept bitmap compress one amount send remot program expand . 
+but someth x help 's nice hear . 
+i look sever fms 's i obvious n't know keyword - . 
+if someon nifti tool avail packag might want get copi . 
+oh yes run sun . 
+part idea build demo show thing if run across say 4800-bps link fast pictur would appear then custom would get feel speed need pay . 

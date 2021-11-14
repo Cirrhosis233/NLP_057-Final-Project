@@ -1,0 +1,22 @@
+what tube viewson 17 use ? 
+doe support 1600x1280 ? 
+i ve look philip 1762dt use soni trinitron tube digit control support 1280x1024ni .25mm dot pitch it found 1000 . 
+the origin poster john navitski said might use monitor sparcstat lx . 
+the lx abl generat pictur 12801024 76 hz . 
+not offici i tri set resolut refresh rate lx came non-sync screen . 
+our tube obvious could n't handl speed . 
+at 67 hz work perfect . 
+i n't know tube viewson 17 use 82khz horizont bandwidth go pretti high . 
+i ran mine 1280x1024x75 fast orchid p9000 could drive . 
+also 17 claim abl support 1600x1280 i experi . 
+sinc i spec sheet front i ll type crt 17 0.28 mm dot pitch 90 deg deflect rgb mediou short persis tint tm52 anti-stat anti-glar anti-reflect input signal rgb analog 0.7vp-p 75 ohm also set 1vp-p sync hv separatettl composit sync green horizont freq 30-82khz vertic freq 50-90hz compat pc vga 1600x1280 non-interlac mac iici control contrast bright posit size degauss p-p voltag color temp sync select color tune moir onoff . 
+video band witdth 135 mhz max bright 120 cdm2 white flat field misconverg .35mm max center .45mm max corner dimens 16.3x16.22x17.64 weight 42.6 lbs i n't know mean n't verifi accuraci i type . 
+other thing hype sheet doubl quadupl dynam astigmat focus ' . 
+right . 
+they mean use two lens . 
+advanc invar shadow mask . 
+viewmatch color control claim easy-to-us system adjust color close match printer output . 
+as near i abl figur translat separ control red green blue . 
+how make easi match printer output beyond . 
+but beyond hype monitor pleasant look . 
+sharp clear n't near bad nec 's reflect . 

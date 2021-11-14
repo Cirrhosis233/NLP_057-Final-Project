@@ -1,0 +1,8 @@
+i ve manag get xdm run ncr 3000 svr4 486 box run xfree86 1.2 ncd xdisplay . 
+it 's pretti much work i 'm encount weird error . 
+i 'm attempt start xterm .xsession file noth happen . 
+redirect stderr file use exec 2home.xerror ' .xsession reveal error messag xterm error 14 errno 1 not owner now i start xterm window manag command line work fine . 
+and start client like window manag mwm clock .xsession also work . 
+anyon encount ? 
+suggest ? 
+atdhvaannkcs 

@@ -1,0 +1,11 @@
+i 48633 ibm clone two serial port com1 com2 mous port . 
+both serial port direct sit mother board . 
+i tri instal 2400 buad hay intern modem doesnt work . 
+onc i dial number system lock . 
+i hear click ring system hang . 
+the modem 2 pin dip switch select appropri port . 
+onc i chang set dip switch system start work . 
+then i bought 2400 baud hay extern modem check system . 
+it work fine serial port . 
+the intern modem check anoth machin work fine work machin . 
+can anyon pleas help find problem . 

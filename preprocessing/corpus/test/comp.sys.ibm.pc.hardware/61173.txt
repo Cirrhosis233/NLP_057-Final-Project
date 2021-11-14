@@ -1,0 +1,8 @@
+i 105mb ide drive problem ! 
+i get data error drive c ' messag read file . 
+the problem also steadili get wors . 
+i run diagnost softwar pctool v7.1 say drive ok retri sector briefli flash error messag quick read . 
+doe anybodi know cheap free softwar could mark sector bad dos n't prefer perform low level format . 
+i heard latter possibl ide . 
+technic answer would appreci . 
+it would nice abl use disk ! ! ! 

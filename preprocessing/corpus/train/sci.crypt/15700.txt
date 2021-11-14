@@ -1,0 +1,8 @@
+what typic size key commerci secret key algorithm ? 
+i know des 56 bit trippl des 112 bit idea 128 bit . 
+is anyth made us 128 bit key ? 
+anyth anywher larger key ? 
+i ve heard rc2 scale arbitrarili larg key actual implement anywher ? 
+my mdc cipher use one-way hash function cfb-mode stream cipher current implement use md5 use key 2048 bit use 1-bit key want copi entir 2048-bit rang use entir 2048 bit . 
+runtim independ key size system run slight slower md5 . 
+i presum rc2 rc4 use similar system possibl hash arbitrary-length key n bit mayb 128 use someth like md5 . 

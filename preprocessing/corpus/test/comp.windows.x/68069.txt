@@ -1,0 +1,10 @@
+hi folk i 'm tri compil xfig 2.1.7 ss1 run suno 4.1.1 ow 2.0 i 'm littl troubl makeimak . 
+specif make bomb need use xaw file . 
+this n't surpris sinc x11 file sun standard ow 2.0 distribut various place usropenwin xaw file usropenwinshareincludex11xaw ! ! 
+actual real problem i know squat imak i n't know tell imak x11 file . 
+i see makefil 's look wrong place first line makefil read makefil generat imak edit ! 
+help ! 
+is way i edit imakefil tell look ? 
+i set defin -dopenwinbug said readm file . 
+email post fine . 
+thank advanc 

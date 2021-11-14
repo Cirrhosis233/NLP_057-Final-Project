@@ -1,0 +1,14 @@
+hi doe anyon know appl ambigu messag c650 regard fpu ? 
+in mac price list i ve seen everi c650 messag fpu option . 
+i know ve discuss newsgroup c650 fpu built except 480 configur . 
+whi would unclear issu price list ? 
+i 'm plan buy c650 8230cd pretti soon i 'm get confus whether come fpu . 
+whi say option 's built ? 
+pleas anybodi help understand game . 
+regard thian . 
+if get centri 650 cd configur get mac 68rc040 processor built-in math coprocessor support . 
+my understand option fpu refer option purchas centri 650 480 without fpu or one configur with fpu . 
+appl offer upgrad non-fpu system becom fpu system . 
+and unclear whether 040 processor non-fpu system 68lc040 replac 68rc040 suppli anoth vendor . 
+appl send memo one point sate centri 610 onli come non-fpu 68lc040 processor can not upgrad support fpu pin configur two chip appar match swap one anoth accord appl 's memo . 
+hope help . 

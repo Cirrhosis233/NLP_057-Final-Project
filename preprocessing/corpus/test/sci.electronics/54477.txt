@@ -1,0 +1,7 @@
+doe anyon recommend whether smart data io print spooler digit sampl etc . 
+would better implement dma chip dedic microcontrol ? 
+essenti i tri decid best way handl move data port automat handshak memori area access main system processor use smart data io . 
+which dma microcontrol chip would best use ? 
+fast cheap easi obtain would nice i wo n't limit choic fit characterist . 
+even 80868088 5 would i want i sure better altern like microcontrol onchip eeprom . 
+so i essenti want hear dma microcontrol simpl interfac move data one place anoth monitor io line . 

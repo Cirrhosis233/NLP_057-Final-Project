@@ -1,0 +1,13 @@
+a fast polygon routin what ? 
+to draw polygon cours . 
+it vga mode 13h 320x200 game done c asm . 
+i need faster way draw concav polygon method i right slow . 
+what kind polygon ? 
+shade ? 
+texturemap ? 
+hm ? 
+more come play fast routin polygon . 
+it would nice know exaclti system vga start processor ? 
+specif implement . 
+you need give info want get answer ! 
+p ian romanick danc fool epsilon 

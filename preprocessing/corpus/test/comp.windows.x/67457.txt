@@ -1,0 +1,7 @@
+at moment i use sun 380 cgfourbwtwo suno 4.0.3 openwindow 2.0 . 
+this configur slow i ca n't run program ow2 . 
+for exampl i start mailtool ow3 display ow2 display i ca n't open compos window . 
+i want instal x11r5 x11r4 server sun use xdm yes xdm alreadi run x-termin log start x program . 
+is readi go binairi x11 server configur i read someth xsun must i compil x11 stuff ? 
+ani help welcom v . 
+smeet 

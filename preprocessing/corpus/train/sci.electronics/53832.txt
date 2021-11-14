@@ -1,0 +1,23 @@
+i tri build circuit detect presenc video vs . 
+blank screen monitor rg b output graphic card . 
+it abl detect presenc singl pixel 65 mhz would mean detect 15 ns puls . 
+it also abl tell differ blank screen 300 mv dim screen say around 310 mv . 
+oh yes also need cheap . 
+my first circuit dismal failur . 
+i use 3 compari compari input go one gun input went refer creat voltag dividera potentiomet . 
+the first problem compari way slow .. 
+i need get sever pixel row would fire compari i could whole screen full text circuit would detect . 
+the second problem nois refer smallest differ blank screen dim screen . 
+in fact differ complet black complet white 650 mv . 
+i wonder i go amplifi video signal make work . 
+there faster compari expens requir split suppli . 
+i would need replac .49 quad compari three 1.89 compari creat whole new power suppli circuit . 
+at point i think i need sort transistor circuit . 
+transistor fast cheap trick ... 
+unfortun i way leagu it come design transistor circuit i appeal net help . 
+ani idea tip circuit pointer refer etc . 
+would great appreci . 
+oh yes i sampl output thing everi second i n't need fast respons time howev i n't found way take advantag fact . 
+thank lot help anybodi might abl give . 
+of cours undi gratitud . 
+steve veriti 

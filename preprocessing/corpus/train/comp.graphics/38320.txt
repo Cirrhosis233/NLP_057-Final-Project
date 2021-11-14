@@ -1,0 +1,16 @@
+boy embarass trivial faq given 4 point non coplanar one find sphere center radius exact fit point ? 
+i know circl 3 point immedi see straightforward way 3-d . 
+i check geometri book graphic gem farin still loss ? 
+pleas merci provid solut ? 
+it 's bad question i n't ref list algorithm either . 
+but think bit n't hard . 
+1 take three point find plane defin well circl lie say algorithm alreadi 2 find center circl . 
+the line pass center perpendicular plane three point pass center sphere . 
+3 repeat unus point two origin point . 
+this give two differ line pass sphere 's origin . 
+their interect center sphere . 
+4 radius easi comput 's distanc center origin point . 
+i ll leav math workabl algorithm . 
+an altern method would take pair point plane form perpendicular bisector line segment pair also contain center sphere . 
+three pair form three plane intersect point . 
+this might easier implement . 

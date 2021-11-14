@@ -1,0 +1,14 @@
+hey folk . 
+is possibl short cmos chip ? 
+i think mine fri . 
+these symptom ... 
+i follow get comput gateway 486dx33 boot ... 
+turn power disconnect batteri cmos chip turn power get setup upon get cmos configur error set cmos exit setup f10 phoenix bio ignor diskett 0 seek error press f1 the comput boot normal . 
+both hard drive access floppi drive . 
+i back network i need reboot i turn comput repeat step . 
+if i simpli ctl-alt-del comput hang memori test . 
+doe sound like cmos chip fri ? 
+can i buy anoth one ? 
+where ? 
+thank kind attent . 
+john 

@@ -1,0 +1,6 @@
+how i view .ep file x ? 
+i imag color encapsul postscript need view screen . 
+sever way avail pageview i think came system i ca n't point ghostview ghostscript new xv 3.00 packag . 
+i recommend latter two especi xv want convers . 
+are util let convert encapsul postscript plain postscript ? 
+i 'm sure offhand i attempt mail comp.lang.postscript faq list util . 

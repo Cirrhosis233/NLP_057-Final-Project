@@ -1,0 +1,24 @@
+tcpview result sever problem uw . 
+we sever network general sniffer heavili use help debug problem sever hundr subnet . 
+these good tool 1 heavi 2 hard find need one 3 limit softwar expand 4 difficult use upload data analysi 5 remot oper 6 resolv name dns requir much manual manipul name tabl . 
+we also sometim use tcpdump found 1 difficult peopl 2 enough inform mani protocol 3 could use interact 4 could handl tcp stream 5 could read sniffer file . 
+howev tcpdump reason job decod larg number protocol could easili modifi . 
+tcpview attempt resolv problem ad motif interfac tcpdump expand featur . 
+tcpview test decstat 5000 sun 4 ultrix 4.2 suno 4.1 respect . 
+it work system tcpdump . 
+it compil cc gcc dec sun . 
+to build tcpview need motif 1.1 better . 
+the follow file avail anonym ftp ftp.cac.washington.edu pubnetwork tcpview-1.0.tar.z tcpview tcpdump sourc code tcpview-1.0.sun.tar.z sun4 binari tcpview-1.0.dec.tar.z dec mip ultrix 4.2 binari what tcpview add tcpdump easier interfac enhanc protocol decod hex display frame captur base time number frame user interrupt show ethernet address manufactur 's name ethernet address host tabl easili follow stream highlight out-of-ord frame send tcp data extern file filter addit process . 
+chang to tcpdump 2.2.1 new featur now read write network general sniffer file . 
+when use -r ' file type automat detect . 
+can read use snmp mib file . 
+the hex format chang . 
+new time option ad . 
+option ad allow view process data tcp packet . 
+bug fix relat tcp sequenc number . 
+-s flag new flag -r read sniffer file . 
+not usual need except read stdin -ttt print delta time -tttt print time relat first frame -w write sniffer save file use -w -x print frame minus link-level header hexdump format . 
+sampl output 163623.349851 jeff.cac.washington.edu.1285 nic.funet.fi.ftp s 000 win 16384 0000 45 00 00 28 8a 98 00 00 3c 06 7c 9c 80 5f 70 02 e ......... p . 
+0010 80 d6 06 64 05 05 00 15 5b 19 4a 00 00 00 00 00 ... ..... j ..... 
+-x print tcp data hexdump format use -z -z write tcp data stdout use -t elimin timestamp -z write frame tcp data stdout martin m . 
+hunt network distribut comput univers washington 

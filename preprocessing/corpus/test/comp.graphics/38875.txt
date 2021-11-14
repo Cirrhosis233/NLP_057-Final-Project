@@ -1,0 +1,6 @@
+hello i problem convert tga filegener povray rle file . 
+when i convert i get warn messag . 
+but i use xloadimagegetx11 someth wrong . 
+error messag targatorl -o o.rl data.tga xloadimag o.rl o.rl 0x0 24 bit rle imag map dither 8 bit gamma 1.00 dither imag ... done build ximag ... done xloadimag x error badvalu integ paramet rang oper 0x0 xloadimag x error badwindow invalid window paramet 0xb00003 ...... 
+this happen x server run memori . 
+you need memori need quit un-neccessari run client . 

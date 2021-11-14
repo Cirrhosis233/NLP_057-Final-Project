@@ -1,0 +1,15 @@
+hint sun os user use usr5binecho instead binecho csh 's built-in echo . 
+otherwis ll emb liter esc bel charact string instead use conveni octal sequenc . 
+bad idea . 
+use usr5binecho slower built-in echo . 
+this i . 
+it execut hostnam per shell window read one extra file . 
+but maniplu titl requir execut extra program . 
+oh yes execut program per system . 
+but store file next time ... 
+? hostnam setenv hostnam hostnam endif 
+figur generat escap bell echo command without line termin i may done . 
+if variabl e set i execut script system ? 
+? e echo alreadi set echo variablesdevtti els -f .echo.hostnam sourc .echo.hostnam els echo -n wc -l 0 echo built echo bsd devtti berkeley style echo echo set ech echo -n ' .echo.hostnam echo set e echo tr 033 ' .echo.hostnam echo set b echo tr 007 ' .echo.hostnam echo set n .echo.hostnam sourc .echo.hostnam els echo built echo sysv devtti echo set ech echo ' .echo.hostnam echo set e 033 ' .echo.hostnam echo set b 007 ' .echo.hostnam echo set n c ' .echo.hostnam sourc .echo.hostnam endif 
+are use shelltool cmdtool xterm ? 
+duplic alias avoid problem term sun sun alias alia header ech el ! 1en ' alia ihead ech el ! 1en ' els term xterm alia header ech e2 ! 1bn ' alia ihead ech e1 ! 1bn ' endif 

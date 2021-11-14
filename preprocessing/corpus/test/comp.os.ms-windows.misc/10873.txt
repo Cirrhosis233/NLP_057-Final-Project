@@ -1,0 +1,8 @@
+i notic ati post beta avi driver mach32 board compuserv .. 
+anyon chanc tgo tri ? 
+how well work ? 
+veri well inde . 
+at home vl bus version graphic pro i stretch avi window 640x480 continu play back smooth . 
+it drop frame machin even attempt thing would mean one frame updat everi 30 second . 
+an isa graphic abl zoom 2 without percept perform penalti . 
+it best perform i ve seen far possibl except intel indeo board use overlay n't move decompress data isa bus point . 

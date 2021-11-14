@@ -1,0 +1,5 @@
+doe anyon know high order bit filter i make sure entir 8bit make final applic ? 
+ani help great appreci . 
+1 . 
+you need resourc xtermeightbitinput true xtermeightbitoutput true 2 . 
+in shell need stti cs8 -istrip good luck victor 

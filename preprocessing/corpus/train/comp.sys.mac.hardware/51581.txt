@@ -1,0 +1,30 @@
+not necessarili thrid-parti adapt appl manufactur transceiv thinwir 10baset twist pair cabl media well aui attach unit interfac transciev . 
+they run 100 . 
+if use thinwir 10baset ll probabl also need termin appl 's transceiv self-termin i rememb correct i idea dec . 
+the third-parti media adapt usual cheaper least toronto appl 's . 
+i bought adapt asant instead appl . 
+the decstat 5000 model 200 240 come thinwir ca n't say certain model 125 133 best bet that 's true . 
+onli decstat 5000200 come thinwir bnc coaxial ethernet connector . 
+the 500025 5000133 5000240 singl 15-pin aui ethernet connector . 
+i distinct rememb got 5000200 first i thought go thinwir . 
+i eventu go back order desta dec 's overs version aui-to-bnc adapt must use transciev cabl rest station . 
+my advis origin poster bever ? 
+1 if want creat lan two workstat wo n't add machin ever go thinwir regardless media type . 
+go utp unshield twist pair wire requir concentr mean extra money i believ unit come least 6 port . 
+as thicknet 's nightmar cabl expens . 
+avoid unless choic e.g . 
+two machin two floor part . 
+2 on mac side need one thinwir media adapt appl third-parti . 
+macx make sure get version 1.2 1.1.7 wo n't run system 7.1 . 
+mactcp come macx get macx v1.2 get mactcp v1.1.1 . 
+do n't use earlier version centri . 
+may may need 25ohm termin depend thinwir media adapt . 
+so ask sale adapt self-termin . 
+configur mactcp use ethernet . 
+3 on decstat side need model 200 need t-connector . 
+model 25 125 133 240 need aui-to-bnc adapt . 
+get one plug direct aui port decstat . 
+this way save cost transciev cabl 15-pin aui male 15-pin aui femal cabl . 
+get 25ohm termin . 
+your two-machin network look like t decstat centri 5000200 650 or t decstat centri 500025125133240 650 25ohm termin t t connector thinwir rg58 coaxial cabl aui-to-bnc i.e . 
+thick-to-thin adapt thickwir media adapt assum self-termin andi 

@@ -1,0 +1,49 @@
+i would like see serious discuss best way instal window novel administr 's point view . 
+i got phone ms access support told microsoft decid implement standard softwar support local setup describ advantag instal . 
+if true microsoft deem prudent instal i compli i 'd like hear administr first . 
+the local window instal window fulli instal workstat hard drive assum resourc avail . 
+from network administr 's implement hesh would instal window disk network drive use setupa . 
+then instal window permachin base run setup network instal complet system local drive . 
+in way driver avail setup procedur wo need chang disk . 
+advantag reduc traffic run window local reduc network traffic due local access main window file . 
+network independ if network fail one point anoth local instal would allow user keep produc reduc cost down-tim . 
+faster window theoret window run faster local hard drive network . 
+this may hard point prove network optic backbon andor network drive signific faster access local one . 
+a user travel machin machin need worri vari setup monochrom color type mous etc ... 
+sinc window instal assign workstat . 
+disadvantag cost instal window local requir signific amount disk space . 
+workstat must purchas hard disk increas cost workstat 10 30 percent . 
+administr local window instal difficult administ . 
+new driver peripher constant made avail would individu instal workstat . 
+secur user access eras corrupt system file simpl ignor . 
+this could result quit headach administr may constant repair damag instal . 
+backup we know problem back local hard disk . 
+the backup set done via central tape system get larg quick . 
+backup individu floppi may happen . 
+this may elimin assum local hard disk contain replac applic user data . 
+the share window instal window fulli instal network disk via setupa procedur describ . 
+user administr instal minim set file individu user directori . 
+these directori may local hard disk perhap network home directori . 
+the bulk window system file maintain network singl directori 400 file access share as-need user throughout window session . 
+the user 's file consist small set file user updat hisher window session . 
+these includ group file .ini file regular updat file . 
+advantag a singl locat file make updat drive easi . 
+as updat driver becom avail need instal singl directori user abl take advantag . 
+assum user ' file maintain network home directori administr easili edit .ini file as-need correct problem may aris . 
+this includ win.ini system.ini . 
+backup pertin file done easili . 
+even user ' file local hard disk bulk window system back driver updat . 
+disadvantag network traffic sinc window file share network directori traffic network becom problem effect speed window . 
+if network crash product come stop sinc window 's reliant upon network file . 
+loss data usual occur well sinc user work window time crash usual abl save work . 
+although minim disk space still consider . 
+if user ' file maintain network larg number user caus signific util disk space due person window file alon . 
+user easili move machin machin unless workstat hardwar similar . 
+this due window instal tie particular usernam case network user file . 
+the discuss i would like know administr larg window userbas prefer set window . 
+person i setup numer instal use share setup . 
+all window applic file network littl util local hard disk . 
+in fact i sold network fact compani would longer need purchas hard disk workstat thus save much money . 
+i would also like see recommend applic . 
+should app word andor excel instal local regardless window instal ? 
+again i keep file network easi backup administr put egg one basket network crash work come halt . 

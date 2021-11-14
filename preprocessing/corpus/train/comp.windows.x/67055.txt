@@ -1,0 +1,15 @@
+i tri compil sourc code mpeg anim viewer x window . 
+i got code ftp site . 
+i modifi makefil instruct error . 
+what happen i get follow messag everyth go link cc util.o video.o parseblock.o motionvector.o decoders.o fs2.o fs2fast.o fs4.o hybrid.o hybriderr.o 2x2.o gdith.o gray.o mono.o main.o jrevdct.o 24bit.o util32.o ordered.o ordered2.o mbordered.o liblibx11.so liblibxext.so -lm -o mpegplay undefin first referenc symbol file getnetpath liblibx11.so talloc liblibx11.so tunbind liblibx11.so topen liblibx11.so trcvdis liblibx11.so netdirfre liblibx11.so terror liblibx11.so netdirgetbynam liblibx11.so getnetconfig liblibx11.so tlook liblibx11.so terrno liblibx11.so tclose liblibx11.so netdirgetbyaddr liblibx11.so tlisten liblibx11.so trcv liblibx11.so setnetpath liblibx11.so tbind liblibx11.so tconnect liblibx11.so taccept liblibx11.so ncperror liblibx11.so inetaddr liblibx11.so ld mpegplay fatal error symbol referenc error . 
+no output written mpegplay error code 1 bu21 make fatal error . 
+doe anyon know miss function locat ? 
+if help ? 
+i post one unix group i tri suggest alway get error . 
+if know i use unix system v . 
+the machin 486 's . 
+the termin i want use separ call x-termin seem dedic . 
+i 'm sure realli sinc one first time x-window gidget ! 
+that first time program speak . 
+i use alot graphic thing . 
+if help mail soon . 

@@ -1,0 +1,17 @@
+hi . 
+while run ms quick c compil dos window window 3.1 even i got program violat system integr ... 
+close applic exit window restart comput error . 
+i start i immedi got serious disk error messag window . 
+hit return retri . 
+i 5 time reboot find quit file corrupt somehow . 
+i includ chkdsk output . 
+question 1 is easi way restor everyth work order ? 
+what might better approach ? 
+2 what might caus ? 
+doe smartdrv cach make vulner ? 
+i 'm suspici hard drive cach especi cach data write . 
+the straightforward approach would run chkdsk f option fix disk look like i would probabl reinstal window thing . 
+thank comment suggest . 
+brad banko ps 386sx machin 40mb hard drive 2 mb ram . 
+chkdsk output volum serial number 1159-09d3 error found f paramet specifi correct written disk cgfxvpic46cvpic.ex alloc error size adjust cgfxvpic46vpic.txt alloc error size adjust cgfxvpic46video7.cfg alloc error size adjust cgfxvpic46orcpro2.cfg alloc error size adjust cgfxvpic46vga.cfg alloc error size adjust cgamegoosebird2.x alloc error size adjust cwinmiscadv21winadv.ex alloc error size adjust 316 lost alloc unit found 224 chain . 
+647168 byte disk space would freed cgfxvpic46cvpic.ex is cross link alloc unit 16133 cgfxvpic46geno5400.cfg is cross link alloc unit 16138 cgfxvpic46tri8800b.cfg is cross link alloc unit 16139 cgfxvpic46ts4000hi.cfg is cross link alloc unit 16140 cgfxvpic46config.doc is cross link alloc unit 16141 cgfxvpic46vpic.txt is cross link alloc unit 16146 cgfxvpic46video7.cfg is cross link alloc unit 16151 cgfxvpic46defincon.cfg is cross link alloc unit 16152 cgfxvpic46atiwondr.cfg is cross link alloc unit 16153 cgfxvpic46geno6400.cfg is cross link alloc unit 16154 cgfxvpic46oak.cfg is cross link alloc unit 16155 cgfxvpic46hires.cfg is cross link alloc unit 16156 cgfxvpic46aheada.cfg is cross link alloc unit 16157 cgfxvpic46vpic.doc is cross link alloc unit 16208 cgfxvpic46orcpro2.cfg is cross link alloc unit 16184 cgfxvpic46everx673.cfg is cross link alloc unit 16185 cgfxvpic46wait.com is cross link alloc unit 16186 cgfxvpic46maxxon.cfg is cross link alloc unit 16187 cgfxvpic46wait.doc is cross link alloc unit 16188 cgfxvpic46everx678.cfg is cross link alloc unit 16189 cgfxvpic46ega.cfg is cross link alloc unit 16190 cgfxvpic46config.ex is cross link alloc unit 16191 cgfxvpic46readme.1st is cross link alloc unit 16199 cgfxvpic46vga.cfg is cross link alloc unit 16201 cgamegoosebird2.x is cross link alloc unit 16382 cwindowssystemsound.drv is cross link alloc unit 16380 cwindowsgames0.grp is cross link alloc unit 16367 cwindowsmad79-11.bmp is cross link alloc unit 16341 cmagedemo22a.kin is cross link alloc unit 16151 cmagedemo22b.kin is cross link alloc unit 16257 cmagepkin22.ex is cross link alloc unit 16339 cwinmiscgamesdialword.ex is cross link alloc unit 16184 cwinmiscgamesdialword.txt is cross link alloc unit 16201 cwinmiscadv21winadv.wri is cross link alloc unit 16257 cwinmiscadv21adv.key is cross link alloc unit 16265 cwinmiscadv21adv.rec is cross link alloc unit 16275 cwinmiscadv21freez is cross link alloc unit 16339 c386spart.par is cross link alloc unit 16133 cbng2.mbx is cross link alloc unit 16146 42366976 byte total disk space 3958784 byte 4 hidden file 153600 byte 67 directori 36042752 byte 1496 user file 1564672 byte avail disk 2048 byte alloc unit 20687 total alloc unit disk 764 avail alloc unit disk 655360 total byte memori 579712 byte free 

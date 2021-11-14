@@ -1,0 +1,1 @@
+i similar problem tri chang netmask 0.0.0.0 255.255.254.0 

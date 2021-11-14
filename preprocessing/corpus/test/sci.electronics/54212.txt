@@ -1,0 +1,29 @@
+the atari 2600 use 6502 cpu like entir 8-bit line 400 80012001400 1440 130xe 65xe comput well 5200 game machin . 
+wrong 6507 . 
+sorri ian i n't toy sever year . 
+i n't seen insid quit year . 
+i saw post lag quit day thought i 'd toss 0.02 . 
+i assum 6507 function similar 6502 also made mos technolog ? . 
+i realli vers 6502 base atari comput . 
+the 2600 came later . 
+the 2600 extra asic chip basic modifi graphic chip pia 's joystick . 
+it one custom chip asic sens word understood tia sometim known 6526 although manufactur list cia complex interfac adapt . 
+tia stand televis interfac adapt handl sound paddl minim video hardwar 2600 possess . 
+in atari comput cia chip refer sound aw lot like ctia color televis interfac adapt chip use earli model . 
+later atari upgrad gtia graphic .... 
+other color literatur state gtia might stood georg develop chip . 
+there also standard 6532 ram io timer riot plus voltag regul memori serv 555 timer . 
+that 's . 
+later model 2600 might incorpor mani chip one asci weight machin part count decreas lot year . 
+not accord servic document i . 
+the 2600 chang inten much . 
+funni i old new model . 
+the old one signific heavier . 
+addit i think 2600 use 2k 4k 8k rom game . 
+rom map upper 4k 6507 's address space . 
+2k 4k game fine later 8k 16k game need bank switch . 
+atari other made much huge cartridg . 
+i idea much ram work i would hazard guess 2 4k ram . 
+sorri i way line . 
+my first microcontrol i built mc68701 base chipset 128 byte onboard . 
+that easi work addtion small 2k on-board eprom . 

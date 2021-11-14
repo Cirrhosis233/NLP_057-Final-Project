@@ -1,0 +1,364 @@
+archive-nam graphicsresources-listpart2 last-modifi 19930417 comput graphic resourc list 
+week post part 23 last chang 17 april 1993 14 . 
+plot packag gnuplot 3.2 it one best 2- 3-d plot packag onlin help.it 's command-lin driven interact function plot util unix msdos amiga archimed vms platform least ! . 
+freeli distribut support mani termin plotter printer easili extens includ new devic . 
+it post comp.sources.misc version 3.0 plus 2 patch . 
+you practic find everywher use archi find site near ! . 
+the comp.graphics.gnuplot newsgroup devot discuss gnuplot . 
+xvgr xmgr acegr xmgr xy-plot tool unix workstat use x openwindow . 
+there xview version call xvgr sun . 
+collect 2 tool known acegr . 
+compil xmgr requir motif toolkit version 1.1 x11r4 xmgr compil x11r3motif 1.0x . 
+check ftp.ccalmr.ogi.edu 129.95.72.34 ccalmrpubacegrxmgr-2.09.tar.z motif version ccalmrpubacegrxvgr-2.09.tar.z xview version comment suggest bug report paul j turner due time constraint repli far . 
+robot releas 0.45 2-d limit 3-d . 
+base xview 3 written c fortran need fortran compil f2c translat . 
+main test sun4 less decstat . 
+check ftp.astro.psu.edu 128.118.147.28 pubastrod . 
+vg plot librari this librari fortran callabl routin sunspot.ceee.nist.gov 129.6.64.151 xgobi it 's develop bellcor special multidimension data set analysi explor . 
+you call s languag also work x11 client use athena widget set ascii termin . 
+it 's distribut free charg statlib cmu . 
+bodi area messag put line send xgobi general if want pick via ftp connect lib.stat.cmu.edu . 
+log statlib use e-mail address password . 
+then type cd general mget xgobi . 
+warn it 's 2 mb sourc larg postscript manual . 
+read relev readm decid whether need . 
+pgplot run vaxvm suppos unix . 
+it 's set fortran routin freeli avail though copyright requir nomin fee 50 includ contour plot support various devic includ ps . 
+ggraph host shorty.cs.wisc.edu 128.105.2.8 pubggraph.tar.z unknown detail . 
+epigraph you get program demo play version sent 10 1251 budapest posta fiok 60 hungari phfax 1753696 budapest ph 2017760 multiplot xln for amiga sharewar 30 usd 20 uk 40 aust .. 
+advanc 2d packag big list featur . 
+contact cambridg univers depart patholog tenni court road cambridg cb2 1qp uk athena plotter widget set this version v6.0 base gregori bond 's version v5-beta . 
+ad stuff scientif graph i.e . 
+log axe free scalabl axe xy-lineplot re-ad plotter callback v4 e.g . 
+request current pointer posit cut rectangl plot area zooming-in . 
+version v6.0 log bug fix log improv v6-beta . 
+addit i changesextens besid origin frame line axe . 
+subgrid line subtic posit . 
+line plot differ line type line point linespoint impuls linesimpuls step bar line style solid dot dash dot-dash marker type data point . 
+legend right left hand side plot . 
+option draw pixmap instead window . 
+layout callback align axi posit use multipl plotter one applic . 
+avail export.lcs.mit.edu directori contribplott sciplot sciplot scientif 2d plot manipul program . 
+for next requir nextstep 3.0 's sharewar . 
+featur ascii import export ep export copi cut past data buffer free number data point data buffer document window select open save plot mani style automat legend subview linear logarithm axe two differ axe text graphic color support zoom normal move axi convers free hand data manipul cut edit move etc . 
+data editor sort data absoluterel free defin error bar calcul buffer background subtract linearshirleytougaard bezier integr relat integr fit one free defin function linear regress calcul sin cos log etc . 
+function generat spline interpol least squar smooth fft smooth differenti fft esca calcul databas .. 
+someth you find ftp.cs.tu-berlin.d 130.149.17.7 pubnextsciencesciplot3.1.tar.z author michael wesemann scillerstr . 
+731000 berlin 12 germani plplot plplot scientif plot packag mani system small micro larg super alik . 
+despit small size quick enough power satisfi user includ standard x-i plot semilog plot log-log plot contour plot 3d plot mesh plot bar chart pie chart . 
+multipl graph differ size may place singl page multipl line graph . 
+differ line style width color support . 
+a virtual infinit number distinct area fill pattern may use . 
+there almost 1000 charact extend charact set . 
+this includ four differ font greek alphabet host mathemat music symbol . 
+the font scale size various effect . 
+mani differ output devic driver avail system depend includ portabl metafil format render . 
+freeli avail copyright via anonym ftp hagar.ph.utexas.edu directori pubplplot at present v . 
+4.13 plplot known work follow system unix suno aix hp-ux unico dgux ultrix other platform vms amigaexec ms-dos os2 next author mani . 
+the main support xterm xwindow tektronix amiga driver . 
+supermongo 2-d plot packag cmu filenam re00tmpsm.2.1.0.tar.z probabl ftp.cmu.edu andrew.cmu.edu machin ? 
+gle gle high qualiti graphic packag scientist . 
+it run varieti platform pcs vax unix driver xwindow regi tek4010 pc graphic card vt100s hp plotter postscript printer epson-compat printer laserjetpaintjet printer . 
+it provid latex qualiti font well full support postscript font . 
+the graph modul provid full control featur graph . 
+the graphic primit includ user-defin subroutin complex pictur diagram . 
+accompani util includ surfac hidden line surfac plot contour contour plot manip manipul columnar data file fitl fit arbitrari equat data . 
+mail list glelist . 
+send messag sub glelist your name 15 . 
+imag analysi softwar imag process display pc mac-bas tool multi-platform softwar imdisp imdisp written jpl nasa site . 
+can simpl display enhanc smooth . 
+work fit vicarpd data format nasa . 
+can read tiff imag know dimens pc mac labview 2 labview use framework imag process tool . 
+it provid graphic program environ use block diagram sketch program graphic element repres program element . 
+hundr function alreadi avail connect use wire tool creat block diagram program . 
+function block diagram repres includ digit signal process filter numer analysi statist etc . 
+the tool allow virtual instrument vi softwar file look act like real laboratori instrument use part virtual instrument . 
+nation instrument market plug-in digit signal process dsp board macintosh pc compat allow real-tim acquisit analysi person comput . 
+new softwar tool dsp allow engin har power technolog . 
+the tool rang low-level debug softwar high-level block diagram develop softwar . 
+there three level dsp program associ nb-dsp2300 board labview use nb-dsp2300 analysi librari ffts power spectra filter routin callabl think c macintosh program workshop mpw c execut nb-dsp2300 board . 
+there analysi virtual interfac librari ready-to-us vis optim nb-dsp2300 . 
+use nation instrument develop toolkit includ optim c compil assembl linker low-level program dsp hardwar . 
+this approach offer highest level perform must difficult term eas use . 
+use nation instrument interfac kit softwar packag util function memori manag data communic download code nb-dsp2300 board . 
+this easiest rout develop custom code . 
+ultimag concept vi concept vi graftek-fr famili imag process virtual instrument vis give labview 2 describ user high-end tool design integr monitor imag control system . 
+a vi softwar file look act like real laboratori instrument . 
+typic applic concept vi includ thermographi surveil machin vision product test biomed imag electron microscopi remot sens . 
+ultimag concept vi address applic requir qualit quantit analysi . 
+it includ complet set function imag enhanc histogram equal spatial frequenc filter isol featur threshold mathemat morpholog analysi densiti measur object count size character . 
+the program load imag minimum resolut 64 64 pixel depth 8 16 32 bit one imag plane . 
+standard input output format includ pict tiff sati aipd . 
+other format import . 
+imag enhanc featur includ lookup tabl transform spatial linear non-linear filter frequenc filter arithmet logic oper geometr transform among other . 
+morpholog transform includ eros dilat open close hole remov object separ extract skeleton among other . 
+quantit analysi provid object ' detect measur morpholog distribut . 
+measur includ area perimet center graviti moment inertia orient length relev chord shape factor equival . 
+measur save ascii format . 
+the program also provid macro script integr custom modul . 
+a 3-d view command plot perspect data graph imag intens depict mountain valley plot . 
+the histogram tool plot either linear logarithm scale . 
+the twenty-eight arithmet logic oper provid mask averag section imag nois remov make comparison etc . 
+there 13 spatial filter alter pixel intens base local intens . 
+these includ high-pass filter contrast outlin . 
+the frequenc data result fft analysi display either real imaginari compon phase magnitud data . 
+the morpholog transform use data sharpen defin object remov artifact . 
+the transform includ threshold erod dilat even hole fill . 
+the program 's quantit analysi measur includ area perimet center mass object count angl point . 
+gtfs inc . 
+2455 bennett valley road 100c santa rosa ca 95494 707-579-1733 iplab spectrum iplab spectrum support imag process analysi lack morpholog quantit analysi featur provid graftek-franceus ultimag concept vi . 
+use script tool user tell system oper perform . 
+the problem far mani basic oper requir manual intervent . 
+the tool support ffts 16 arithmet oper pixel alter movi command cycl window . 
+macintosh-bas tool ncsa imag ncsa paledit ncsa provid whole suit public-domain visual tool macintosh primarili aim research want visual result numer model calcul . 
+these applic document sourc code avail anonym ftp ftp.ncsa.uiuc.edu . 
+commerci version ncsa program develop spyglass . 
+spyglass inc . 
+701 devonshir drive champaign il 61820 217 355-6000 fax 217 355 8925 nih imag avail alw.nih.gov 128.231.128.7 prefer zippy.nimh.nih.gov 128.231.98.32 directorypubimag . 
+it paint imag manipul tool macro languag tool measur area distanc angl count thing . 
+use frame grabber card record sequenc imag play back movi . 
+it invok user-defin convolut matrix filter gaussian . 
+it import raw data tab-delimit ascii 1 2-byte quantiti . 
+it also histogram even 3-d plot . 
+it limit 8-bitspixel though 8 bit map color lookup tabl . 
+it run mac 256-color screen fpu get nonfpu version zippy.nimh.nih.gov photomac data translat inc . 
+100 lock dr . 
+marlboro ma 01752 508-481-3700 photopress blue solut 3039 marigold place thousand oak ca 91360 805-492-9973 pixeltool tcl-imag complet famili pixeltool hardwar acceler applic softwar scientif imag process analysi . 
+video-r captur display process analysi high-resolut monochromat color imag . 
+includ c sourc code tcl-imag softwar packag scientif quantit imag process analysi . 
+it provid complet languag captur enhanc extract quantit inform gray-scal imag . 
+tclimag 200 function imag process contain element need full program languag algorithm develop variabl control structur . 
+it easili extens script indirect command file . 
+these script file simpli text file contain tcl-imag command . 
+they execut normal command includ abil pass paramet . 
+the direct captur video imag support via popular frame grabber board . 
+tcl-imag come i-view util provid convers common imag file type pict2 tiff percept 725 pellissippi parkway knoxvill tn 37933 615-966-9200 satellit imag workshop it come number satellit pictur raw data sort imag enhanc . 
+you ll need least mac ii co- processor 256 color display larg harddisk . 
+the program n't run system 7.x.ate1 v1 in document contact address given liz smith jet propuls laboratori ms 300-323 4800 oak grove dr.pasadena ca 91109 818 354-6980 visual workbench an electron imag softwar system perform interact imag analysi scientif 2d 3d plot paragon imagin 171 lincoln st . 
+lowel ma 01852 508-441-2112 adob photoshop the tool support rtrue color 24-bit imag 256 level grey scale . 
+onc imag import rre-touch various edit tool typic use macintosh-bas rpaint applic . 
+these includ eras pencil brush air brush . 
+advanc rpast tool control interact past select receiv site also incorpor . 
+for exampl red pixel select easili prevent past . 
+photoshop transpar rang 0 100 allow creat ghost overlay . 
+rphoto-edit tool includ control bright contrast color balanc huesatur modif spectrum equal . 
+imag subject various signal process algorithm smooth sharpen imag blur edg locat edg . 
+imag scale also support . 
+for storag save imag compress use standard algorithm includ extern suppli compress jpeg avail storm technolog . 
+the latest version adob photoshop support import numer imag format includ epsf epsf tiff pict resourc amiga iffilbm compuserv gif macpaint pixar pixelpaint scitex ct tga thunderscan .. 
+adob system inc . 
+1585 charlestown road po box 7900 mountain view ca 94039-7900 415-961-4400 colorstudio imagestudio colorstudio image-edit paint packag letraset featur adob photoshop decid complex therefor difficult use . 
+sever step often requir accomplish done singl step use photoshop . 
+the applic requir great deal avail disk space one easili end imag 30 mb rang . 
+the program provid varieti power select tool includ auto select tool let user choos imag area basi color close hue color rang mask . 
+imagestudio do n't know ... 
+letraset usa 40 eisenhow drive paramus nj 07653 201-845-6100 dappl system high resolut imag analysi softwar provid process tool work multipl imag enhanc edit measur varieti global featur paramet interpret data dappl system 355 w . 
+oliv ave 100 sunnyval ca 94086 408-733-3283 digit darkroom the latest releas digit darkroom five new select edit tool enhanc imag . 
+one featur allow user select part imag simpli paint . 
+a new polylin select tool creat select tool singl pixel wide select . 
+a brush let oper paint select portion imag . 
+note true color imag enhanc tool . 
+this tool use user intend oper grey-scal imag . 
+it note digit darkroom power either adob photoshop colorstudio . 
+silicon beach softwar 9770 carrol ctr . 
+rd . 
+suit j san diego ca 92126 619-695-6956 dimpl it compat system 6.05 system 7.0 requir mac lc ii seri 256 colour recommend min 6mb ram . 
+it capabl read erda file . 
+function includ imag enhanc 3d contour plot imag statist supervis unsupervis classif pca imag transform . 
+there also mean imag oper languag iol write transform . 
+there imag rectif howev dimpl compat mapii . 
+the latest version 1.4 beta stage test . 
+dimpl initi develop teach tool good purpos dimpl run colour macintosh . 
+it product still develop phase .. 
+i.e . 
+n't inbuilt featur packag come along nice . 
+it inbuilt languag write program process imag defin convolut filter etc . 
+dimpl full mac applic pull menus etc ... 
+it unprotect softwar process softwar solut po box 2110 wollongong new south wale australia . 
+2500 . 
+phone 61 42 261757 fax 61 42 264190 . 
+enhanc enhanc rruler tool support measur addit provid angl data . 
+the tool 80 mathemat filter variat laplacian medium nois filter etc . 
+file save either tiff pict epsf text howev epsf file ca n't import . 
+microfronti 7650 hickman road des moin ia 50322 515-270-8109 imag analyst an imag process product user need extract quantit data video imag . 
+imag analyst let user configur sophist imag process measur routin without necess know program languag . 
+it design task comput number size cell imag project video camera attach microscop enhanc measur distanc radiograph . 
+imag analyst provid user array field-proven video analysi techniqu enabl easili assembl sequenc instruct enhanc featur appear count object determin densiti shape size posit movement perform object featur extract conduct textur analysi automat . 
+imag analyst work either framegrabb board standard video camera disk-stor imag . 
+within minut without need program imag analyst user set process identifi analyz element imag . 
+measur statist automat semi-automat generat tiff pict file captur video tape imag . 
+imag analyst recogn item imag base size shape posit . 
+the tool provid direct support data translat scion frame grabber . 
+a menu command allow imag captur vcr video camera ntsc pal devic . 
+there 2 type file imag relat sequenc file hold process measur analysi user defin . 
+autom sequenc set region of interest roi repres movabl sizabl box atop imag . 
+insid roi program find distanc two edg area shape thick wall etc . 
+imag analyst find center edg posit automat . 
+the applic also provid tool user work interact find edg object . 
+it also support histogram color look-up tabl clut tool . 
+automatix inc . 
+775 middlesex turnpik billerica ma 01821 508-667-7900 iplab signal analyt corp . 
+374 mapl ave . 
+e vienna va 22180 703-281-3277 fax 703-281-2509 menu-driven imag process softwar support 24-bit color pseudocolorgrayscal imag display manipul map ii among mac gis system map ii distribut john wiley integr imag analysi . 
+imag stanford tri anonym ftp sumex-aim.stanford.edu it pd sourc imag v2 readi run code mac imag v3 . 
+windowsdo pc-base tool ccd richard berri 's ccd imag book willamon-bel contain option ? 
+disk imag manipul softwar . 
+sourc code includ . 
+erda erda thing want rectif classif transform can user-defin overlay filter contrast enhanc etc . 
+... 
+i use thesi chang topic bit work becam secondari erda inc . 
+2801 buford highway suit 300 atlanta ga 30329 404-248-9000 fax 404-248-9400 rsvga i get speed program call rsvga avail eidet digit imag ltd . 
+british columbia . 
+it ibm pc 's clone cheap 400 stuff erda fast power though i limit experi erda . 
+i use rsvga 6 7 landsat band good starter program except obtus manual imagine-32 it 's 32 bit packag i suppos pcs call imagine32 image32 the program modest amount imag process add subtract multipli divid display plot x cut across imag . 
+it also display number imag simultan . 
+the compani compuscop santa barbara ca . 
+pc vista it announc 1989 august edit pasp . 
+it known avail mike richmond whose email address s-mail address michael richmondastronomi depart campbel hall berkeley ca 94720 the latest version pc-vista version 1.7 includ sourc code help file also complet set execut program number sampl fit imag . 
+if wish use sourc code need microsoft c version 5.0 later compil may work requir substanti modif . 
+to receiv document nine double-dens 360k floppi three quad-dens 3-12 inch floppi 1.44m everyth send request pc-vista togeth name us-mail address offic technolog licens 2150 shattuck ave . 
+suit 510 berkeley ca . 
+94704 includ check travel 's check fine purchas order 150.00 u. . 
+dollar address insid continent u. . 
+165.00 otherwis made regent univers california cover duplic mail cost . 
+softwar tool it 's set softwar tool put canyon state system softwar . 
+they free rather cheap 30 i heard . 
+it handl format use frame grabber softwar . 
+mirag it 's imag process softwar written jim gunn astrophys dept princeton . 
+it run pc among platform . 
+it forth base system i.e . 
+forth languag mani imag process display function built . 
+data translat sourc book the data translat compani massachusett publish free book contain vendor data analysi hardwar softwar compat data translat frame grabber . 
+sure find much pc-relat stuff . 
+maxen386 a coupl canadian written program name maxen386 maximum entropi imag deconvolut . 
+their compani name digit signal process softwar someth like softwar mention articl astronomi magazin either jan feb 92 articl ccd 's vs film . 
+jandel scientif java anoth softwar packag java put jandel scientif . 
+jandel scientif 65 koch road cort madera ca 94925 415 924-8640 800 874-1888 . 
+microbrian run ms dos platform use 32 bit graphic card vista releas version support number super vga card . 
+it full blown remot sens data process system .. 
+it menu driven charact base screen use window user interfac . 
+it hardwar protect dongl . 
+mbrian micro barrier reef imag anaysi system . 
+it develop csiro commonwealth scientif industri organ market support mpa australia 51 lusher road croydon victoria tel 61 3 724 4488 fax 61 3 724 4455 there educ commerci price prepar set asid a10k first educ licenc . 
+subsequ one come cheaper need ! 
+it instal site worldwid . 
+it wide use anu . 
+microimag the remot sens lab dartmouth current use terra-mar 's microimag 486 pcs fanci display hardwar . 
+terra-mar resourc inform servic inc . 
+1937 land drive mountain view ca 94043 415-964-6900 fax 415-964-5430 unix-bas tool iraf imag reduct analysi facil develop nation optic astronomi observatori kitt peak az it free ftp tucana.noao.edu 140.252.1.1 complement stsdas stsci.edu 130.167.1.2 . 
+appar one de facto standard astronom imag communiti . 
+they issu newslett also . 
+they seem support well user . 
+work vms also last i heard practic shell top vmsunix shell . 
+it 's suggest get copi saoimag display x window . 
+veri flexibleextend ton liter 3 linear feet document general user skill user programm . 
+alv a sun-specif imag toolkit . 
+version 2.0.6 post comp.sources.sun 11dec89 . 
+also avail via email aip also see usenet newsgroup alt.sci.astro.aip sci.astro.fit built nrao nation radio astronomi observatori hq charlottesvill va site nm az wv . 
+softwar distribut 9-track exabyt dat non-anonym internet ftp . 
+document postscript most avail via anonym ftp baboon.cv.nrao.edu 192.33.115.103 directori pubaip pubaipstextpubl . 
+instal requir build system thus fortran c compil . 
+this packag read write fit data see sci.astro.fit primarili reduct analysi imag enhanc radio astronomi data radio telescop particular veri larg array vla synthesi instrument . 
+it consist almost 300 program everyth copi data sophist deconvolut e.g . 
+via maximum entropi . 
+there x11-base imag tool xas tek-compat xterm-bas graphic tool built aip . 
+the xas tool model hardwar function intern imag system model 70 display unit imag arithmet etc . 
+the code most fortran 77 system c languag modul avail sun ibm rs6000 decultrix convex cray unico alliant support plan hp-90007xx solari 2.1 mayb sgi . 
+there current project aip underway rewrit algorithm function aip modern set use c object orient approach . 
+wherea aip proprietari code licens free non-profit institut owner nrao nsf aip public domain level intern effort contribut us canada england netherland india australia name . 
+laboimag version 4.0 x11 it 's written c current run sun 3xxx sun 4xxx os3.5 4.0 4.0.3 sunview . 
+the expert system imag segment written allegro common lisp . 
+it use follow domain comput scienc imag analysi medicin biolog physic . 
+it distribut free charg sourc code . 
+avail via anonym ftp ftp.ads.com 128.229.30.16 pubvision-list-archivesharewarelaboimag contact prof . 
+thierri pun comput vision group comput scienc center u-geneva 12 rue du lac ch-1207 geneva switzerland phone 4122 787 65 82 fax 4122 735 39 05 figaro it origin made vms obtain it 's 110mbyte sun . 
+khoro move scientif visual categori vista the real thing avail via anonym ftp lowell.edu . 
+email disimp devic independ softwar imag process power system provid user friendli high function interact time . 
+featur descript disimp incorpor rich librari imag process util spatial data option . 
+all function easili access via disimp execut . 
+this menu modular design group imag process function . 
+such logic structur mean complic process simpli progress seri modul . 
+process includ imag rectif classif unsupervis supervis intens transform three dimension display princip compon analysi . 
+disimp also support simpl effect enhanc techniqu filter band subtract ratio . 
+host configur requir run unix workstat disimp capabl process comput intens techniqu interact process time . 
+disimp avail runtim programm 's environ . 
+use programm environ util develop specif applic program . 
+graphic govern icon-bas display panel allow quick enhanc display imag . 
+manipul look up tabl colour stretch chang histogram zoom pan interact driven control . 
+a rang geograph project enabl disimp integr data imag graphic textual type . 
+imag rectifi number coordin system provid true geograph knowledg essenti ground truth . 
+overlay grid text vector data ad enhanc referenc imageri . 
+the system flexibl packag allow user various skill level determin work environ includ amount help requir . 
+disimp come fulli configur option extra . 
+the purchas price includ function requir profession process remot sens data . 
+for inform pleas contact the busi manag clough engin group system divis 627 chapel street south yarra australia 3141 . 
+telephon 61 3 825 5555 fax 61 3 826 6463 global imag softwar we use global imag softwar process avhrr data dish final display . 
+select chunk five band data pass automat navig calibr albedo temp convert byte regist predesign window relat automat carefre . 
+it classif routin speak n't difficult write programm 's modul . 
+veri small oper one design one code one sell . 
+been around number year sold weather servic navi . 
+run hp9000 hp-ux . 
+support 24-bit display hip human inform process laboratori 's imag process system michael landi co-wrot sell general-purpos packag imag process use basic usual imag process applic robot medic satellit engin oil explor etc .. 
+it call hip deal sequenc multiband imag way deal singl imag . 
+it grow sinc first wrote addit us well huge user-contribut librari . 
+featur descript hip set imag process modul togeth provid power suit tool interest research system develop teach . 
+it handl sequenc imag movi precis manner singl frame . 
+program subroutin develop simpl imag transform filter convolut fourier transform process edg detect line draw manipul digit imag compress transmiss method nois generat imag statist comput . 
+over 150 imag transform program develop . 
+as result almost imag process task perform quick conveni . 
+addit hip allow user easili integr custom routin . 
+new user becom effect use hip first day . 
+hip featur imag self-docu . 
+each imag store system contain histori transform appli imag . 
+hip includ small set subroutin primarili deal standard imag sequenc header larg librari imag transform tool form unix filter '' . 
+it come complet sourc code on-lin manual page on-lin document . 
+host configur requir origin develop new york univers hip repres one extens flexibl vision imag process environ current avail . 
+it run unix oper system . 
+it modular flexibl provid automat document action almost entir independ special equip . 
+hip use varieti comput includ vax microvax sun apollo masscomp ncr tower iri ibm at etc . 
+for imag display input driver suppli grinnel adag ikona imag processor sun-2 sun-3 sun- 4 sun-386i consol . 
+we also suppli user-contribut driver number framestor window packag sun gfx sun consol matrox vip-1024 iti ip-512 lexidata macintosh ii x window system iri . 
+the hipsaddon packag includ interfac crs-4000 . 
+it simpl matter interfac hip frame- store put interest user touch user interfac hip arlunya datacub max- video . 
+hip easili adapt imag display devic 98 hip machin independ . 
+avail hip proven high flexibl system interact research tool production- orient task . 
+it easi use quick adapt extend new use . 
+hip suppli magnet tape unix tar format either reel- to-reel sun cartridg come sourc code librari librari convolu- tion mask on-lin document manual page . 
+michael landi sharpimag softwar p.o . 
+box 373 princ street station new york ny 10012-0007 voic 212 998-7857 fax 212 995-4011 mira pleas do n't confus thalmann anim system montreal . 
+these altogeth differ beast ! 
+nfoti mira stand microcomput imag reduct analysi . 
+mira give workstat level perform 386486 dos comput use svga card 256 color mode 1024x768 . 
+mira contain handsomefunct gui mous keystrok oper . 
+mira readswrit tiff fit format nativ format number ccd camera uncompress binari imag byte short integ 4-byte real pixel format 1- 2- dimens . 
+the result imag process oper short integ real pixel input imag . 
+mira oper use short float point arithmet maintain precis accuraci pixel format . 
+over 100 function hand-cod assembl languag maximum speed intel hardwar . 
+the entir graphic interfac also written assembl languag maxim speed window oper . 
+window 2-d imag 1-d imagedata display analysi dedic cursor read posit valu valu real time move mous . 
+there also smooth real time contrast bright stretch pan magnifi portion display imag oper mous . 
+a wide select grayscal pseudocolor random palett provid palett generat . 
+support function includ niceti follow imag imag interpol imag constant unari oper ab valu polynomi pixel valu chs 1x log byteswap clip valu upperlow limit short-real real-short . 
+combin imag mean median mode sum pixel valu without autosc mean median mode imag section . 
+convolutionsfilt laplacian sobel edg oper direct gradient line gaussian ellipt rectangular equal weight filter unsharp mask median filter user defin filter kernel . 
+ellips rectangl line gradient gaussian user defin filter rotat specifi angl . 
+ccd data reduct flat field dark subtract column overunderscan bias remov remov bad pixel column defect normal region target mean median modal valu . 
+creat subimag mosaic x n 1-d 2-d imag get larger imag collaps 2-d imag 1-d imag . 
+plot 1-d section collaps section 2-d imag plot histogram region imag . 
+reviewchang imag informationhead data renam keyword plot keyword valu set imag . 
+luminancephotometri ellipt circular apertur photometri bright profil isophot photometri set upper lower lumin area lumin insid trace polygon . 
+interact background fit remov part imag fit ellipt apertur shape imag isophot . 
+interact 2-d imag contrastbright x- y- diagon plot pixel valu distanc two point comput region stat centroid pan xy locat imag center zoom 116 10 time chang cursor rectangl crosshair full imag crosshair adjust cursor size imag . 
+select linear log gamma transfer function histogram equal . 
+interact specifi imag offset comput re-sampl registr . 
+interact 1-d imag zoom x- y- step 12 2 time current re-cent plot enlarg frame area . 
+4 plot buffer cycl . 
+interact data analysi polynomi fit point delet undelet chang valu point weight linear quadrat loess binomi smooth revert unit point weight origin data buffer substitut result data buffer pass back call function . 
+dump data buffer overlay error bar file printer . 
+chang user specifi coordin system . 
+tricolor imag combin display hardcopi halfton printout hp-pcl compat printer laserjet deskjet etc . 
+document 300 page custom vinyl binder . 
+cost 995 usdcopi avail axiom research inc . 
+box 44162 tucson az 85733 602 791-2864 phonefax . 
+intern market rep saguaro scientif corpor tucson arizona . 
+end part 2 resourc list 

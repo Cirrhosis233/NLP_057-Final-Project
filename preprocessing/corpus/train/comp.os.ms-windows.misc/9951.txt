@@ -1,0 +1,10 @@
+has anyon problem ami pro 3.0 run pctool v7.1 compress ? 
+i corrupt data due cach pc-cach run . 
+the first time i tri run ami pro load window load caus i think segment fault amipro.ex right finish time manag get logo box first pop begin load caus general protect fault modul amiproui.dl 00021147 . 
+i abl fix problem except reinstal ami pro . 
+this happen twice time ran compress hard drive . 
+btw i run stacker disk compress program n't alreadi know pctool compress actual defragg despit 's name . 
+my system 386-40mhz 16mb ram nec oem hard drive etc n't make differ . 
+pleas email i ca n't keep newsgroup cut net traffic anyway . 
+thank . 
+-derek 

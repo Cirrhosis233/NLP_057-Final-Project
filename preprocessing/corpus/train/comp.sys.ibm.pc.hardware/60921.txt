@@ -1,0 +1,4 @@
+int eh articl pc would get plug play scsi articl seem get plug play scsi-1 sinc scsi-2 full impliment ten not 7 devic . 
+i beleiv last bit plain wrong ! 
+i believ right . 
+both scsi scsi-2 support 8 devic bus normal would host control 7 target may 8 logic unit lun . 

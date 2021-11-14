@@ -1,0 +1,9 @@
+i need help bind valu home end key keyboard . 
+i rs6000 w aix3.2.3ext run x11r5pl19 mit dist . 
+i 'm use pc run exceed window xtermin . 
+the home end key send valu applic need defin . 
+i use xdefault defin key varnetvt100.transl overrid keyhom string0338 n keyend string0337 then i xterm -name varnet . 
+this work perfect howev 7 1 key keypad also defin 0338 0337 . 
+ani idea ? 
+help pleas . 
+thank . 

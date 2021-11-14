@@ -1,0 +1,12 @@
+brian clark wrote i n't know instrutech board though i plan check need care check monoton sn ratio mani 16 bit board . 
+the ni board clear specifi term monoton sn ratio accuraci etc nb-a2100 nb-a2150 dyynam rang freedom distort 'd expect good true 16 bit convert . 
+this true spectral innov board exampl . 
+to boorish repli i found i instrutech inform alreadi . 
+the spec use term loos follow ad 16 bit convert 14 bit accuraci 100 khz 12 bit accuraci 200 khz . 
+no spec sn monoton linear . 
+there 8 multiplex input share singl ad input sampl time convers spec all-channel sampl rate must use . 
+thus two channel 14 unknown qualiti bit 50 khz per channel . 
+this poorer qualiti nation instrument sampl rate . 
+da 16 bit convert . 
+no spec sn monoton linear . 
+each 4 output channel convert . 

@@ -1,0 +1,7 @@
+is fast 'n dirti way kill line spike occur induct load turn sometim zero-cross ac cycl ? 
+a capacitor kludg somehow etc ? 
+i ve got microcontrol run bunch valv pump big instrument washer almost everyth switch zero-cross solid state relay stuff stay quiet ac-wis . 
+but 's one steam valv get turn mechan relay water tank fillthermostat system 's control ssrs sometim generateradi spike reset one peripher chip . 
+my softwar time tri i 'd love tack magic spike-kil fix would avoid major rewiringredesign . 
+a varistor would help might suffici . 
+idea ? 

@@ -1,0 +1,35 @@
+ide also use dma techniqu . 
+i believ floppi control also use dma ad board also use dma . 
+dma big deal noth direct scsi . 
+no . 
+the simpl 25 style ide control use dma . 
+the cpu perform data transfer string move instruct . 
+this requir cpu stop transfer data . 
+onli smart drive control ide scsi transfer via dma . 
+these control tend cost wether ide scsi . 
+to get dma benefit ide must sacrific 's price advantag control . 
+for exampl rewind format tape command issu control bus releas allow access devic bus . 
+this great increas product least someth els back hard drive - . 
+which happen i read group . 
+you thank softwar . 
+if dos brain could format floppi etc . 
+someth els . 
+the hardwar support dos least wo n't . 
+again noth scsi . 
+floppi n't ide bus arguement make sens n't ide issu . 
+the floppi processor control board handl command . 
+the differ ide scsi scsi peripheri intellig . 
+they control . 
+they depend cpu fewer thing i.e . 
+ide drive need processor transfer data . 
+it long stori i still use ide 486 except cdrom thank scsi i move machin . 
+if scsi better standard support ibm-clon machin i plan complet get rid ide . 
+and stick dos ll wonder ca n't multitask . 
+again i ask ca n't unix os2 type os miracul thing ide harddriv singl scsi hard drive . 
+the dettachcallback mechan alow cpu make request devic scsi bus dettach go busi . 
+later devic done issu callback say data arriv function complet . 
+most scsi card also dma data memori without interupt cpu therefor allow continu work uninterupt . 
+ide support concept dettachcallback . 
+can see would win multitask system ? 
+david willmor david willmor ever notic much look like orchid ? 
+love ! 

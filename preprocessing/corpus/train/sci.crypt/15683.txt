@@ -1,0 +1,36 @@
+from den skipjack encrypt algorithm f 80-bit famili key common chip n 30-bit serial number u 80-bit secret key unlock messag encrypt chip em k encrypt messag stream eek u n f law enforc block . 
+where session key k transmit encrypt unit key u . 
+which along serial number n encrypt famili key f . 
+presum protocol recov noth els differenti analysi . 
+postul chip logic sit clipper chip communic channel . 
+the function spoof chip twofold 1 transmit channel the spoof chip xor 30 bit encrypt serial number secondari key variabl . 
+this render serial number unrecover famili key 2 receiv channel the spoof chip xor incom encrypt serial number secondari key variabl assum integr law enforc block necessari local oper checksum sequenc control etc .. 
+this net result hide serial number . 
+it probabl theer known plaintext pattern use filler block contain n 34 bit use generat u u1u2 correct law enforc block determin famili key f . 
+wherea one propos feder agenc deni f could recov the correct serial number test examin pad bit n en f . 
+the one could select alter law enforc block mutil could detect . 
+a better approach would mutil entir law enforc block . 
+if done group encrypt scheme des presum skipjack chanc law enforc block recov lessen . 
+what want bet transmiss protocol recogn serial number decrypt target search ? 
+when digit transmiss becom wide avail would requir clipper protocol transmiss refus contain mutil law enforc block ? 
+one way avoid notic would spoof protocol inform block contain m well spoof law enforc block . 
+the goal use secur communic scheme without redress detect key k intercept contain encrypt within law enforc block . 
+the data stream return origin state use clipper chip system requir proper oper . 
+it somewhat improb entir protocol contain within clipper chip yet like sequenc event test requir valid law enforc block receiv accept decrypt em k the spoof chip could implement anywher protocol includ result serial data stream . 
+exist clipper product could subborn . 
+after high secur encrypt system right ? 
+super enciphermentencrypt could allow chip use without redress detect use chip disclosur serial number . 
+secur must adequ deni serial number recover mean . 
+one see use cut out procur clipper phone number unit high enough steal . 
+it would mistak part author nice point privaci serial number n associ particular clipper chip lot chip manufactur distribut process . 
+hope list known miss stolen clipper serial number n encrypt f protocol suffici plaintext attact super encrypt clipper stream . 
+this could made difficult alter tempor spatial relationship clipper stream super encrypt stream . 
+detect encrypt stream could tip use aforement scheme . 
+if could captur valid law enforc block use codebook sustitut point valid law enforc block store librari util session key match remaind transmiss could simpli lie yet deliv monitor andor hostil forc seem valid law enforc block . 
+these captur law enforc block would use authent manual key encrypt system . 
+fend would requir escal examin protocol block transmiss . 
+the m code stream might independ attack base knowledg clipper chip protocol reveal plaintext . 
+this could invalid chang tempor spatial relationship clipper m stream actual transmit stream control secur key generat synchron endpoint . 
+the use life time captur law enforc block might limit base hostil forc use target follow transmiss intercept . 
+you would need larg number hey 's suppos million thing right ? 
+ad time stamp encrypt law enforc block probabl impract want encrypt chip real time clock ? 

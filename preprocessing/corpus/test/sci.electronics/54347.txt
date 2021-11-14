@@ -1,0 +1,9 @@
+i 'm tri bring 8 bit pc would like use interrupt-driven routin . 
+without buy io board make new port i bring bit ? 
+lpt seem input i ve heard rumour lpts bidirect line . 
+anybodi know fer sure ? 
+if bi-d lpts board i ll run new 386dx-33 ? 
+i know sure everex magic io ev-170a jumper printer mode general purpos bidirect io mode . 
+also i know sure ibm technic refer say follow monochrom display printer adapt ibm parallel printer adapt it essenti extern devic tri pull line refer data line ground . 
+and later if extern devic drive data pin violat usag ground rule time input data or' latch content . 
+i accept respons incur damag kind result say i do not know sure i think abl use tradit parallel port input port write 0x data line read data line extern devic drive . '' the input data latch nois could make infeas . 

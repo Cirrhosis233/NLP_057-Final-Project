@@ -1,0 +1,40 @@
+archive-nam cryptography-faqpart07 last-modifi 1993415 faq sci.crypt part 7 digit signatur hash function this seventh ten part sci.crypt faq . 
+the part most independ read first part rest . 
+we n't time send miss part mail n't ask . 
+note kah67 '' refer refer list last part . 
+the section faq avail via anonym ftp rtfm.mit.edu pubusenetnews.answerscryptography-faqpartxx . 
+the cryptographi faq post newsgroup sci.crypt sci.answ news.answ everi 21 day . 
+content what one-way hash function ? 
+what differ public privat secret share etc . ? 
+what md4 md5 ? 
+what snefru ? 
+what one-way hash function ? 
+a typic one-way hash function take variable-length messag produc fixed-length hash . 
+given hash comput imposs find messag hash fact one ca n't determin usabl inform messag hash even singl bit . 
+for one-way hash function 's also comput imposs determin two messag produc hash . 
+a one-way hash function privat public like encrypt function . 
+here 's one applic public one-way hash function like md5 snefru . 
+most public-key signatur system relat slow . 
+to sign long messag may take longer user will wait . 
+solut comput one-way hash messag sign hash short . 
+now anyon want verifi signatur thing . 
+anoth name one-way hash function messag digest function . 
+what differ public privat secret share etc . ? 
+there horrend mishmash terminolog literatur small set concept . 
+when algorithm depend key n't publish call privat algorithm otherwis call public algorithm . 
+we encrypt function e decrypt function d dem m messag m . 
+we also hash function h verif function v vmx 1 x hm . 
+a public-key cryptosystem public encrypt privat decrypt . 
+checksum applic mention previous question public hash public verif . 
+digit signatur function privat hash public verif one person produc hash messag everyon verifi hash correct . 
+obvious algorithm depend privat key 's meant unus anyon n't key . 
+there 's real differ share '' key privat key share key n't publish 's privat . 
+if encrypt data friend rather eye '' sudden shared-key encrypt '' rather private-key encrypt ? 
+no . 
+what md4 md5 ? 
+md4 md5 messag digest function develop ron rivest . 
+definit appear rfc 1320 rfc 1321 see part 10 . 
+code avail ftpmd . 
+note transcript error found origin md5 draft rfc . 
+the correct algorithm call md5a though peopl refer md5 . 
+what snefru ? 

@@ -1,0 +1,11 @@
+i 'm wonder 's possibl use radio wave measur distanc transmitt receiv ? 
+seem abl measur signal strength determin distanc . 
+this would short distanc 2000 ft i would need accuraci 6 inch . 
+you might tri look what avail laser locat system . 
+they work best close work 1 mile . 
+rf use much longer distanc two major mode . 
+transpond phase measur . 
+transpond requir send puls anoth station return measur round trip time minus receiv time . 
+phase measur requir two transmit station send frequenc signal multiplex time . 
+a receiv pick measur phase shift signal . 
+map drawn plot line posit correspond certain phase shift two station . 

@@ -1,0 +1,6 @@
+the recent discuss news group suggest key search attack des quit feasibl . 
+but normal des appli cbc cfb mode one choos random init vector 8 byte . 
+question make sens handl init vector addit key ? 
+then 56 64 120 bit key . 
+if yes is anyth known secur key scheme ? 
+can break faster exhaust search 120 bit key space ? 

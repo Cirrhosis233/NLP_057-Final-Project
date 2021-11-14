@@ -1,0 +1,4 @@
+i tri defin class deriv object class i may insert hashtabl class provid contain class librari . 
+i defin pure virtual function object i still get error i attempt alloc hashentri object can creat instanc abstract class hashentri has anyon deriv class object ? 
+what i left ? 
+here virtual function i defin object virtual classtyp isa const return hashentryclass virtual pchar nameofconst return hashentri virtual hashvaluetyp hashvalu const return hashvaluehwindow note hwindow defin hashentri virtual int isequ const object far obj const return hashentri obj virtual void printon rostream os const os hwindow void far hwindow n 

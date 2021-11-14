@@ -1,0 +1,8 @@
+doe anyon know public domain toolkit creat x-window applic ? 
+i use xt toolkit i would like creat pop-up windowsdialog box etc use sort draw editor instead tri specifi i want size posit etc within actual sourc code . 
+basic i look someth similar borland 's whitewat resourc toolkit ms-window expect i need one x-window instead . 
+ani help would much appreci . 
+i recent found excel sourc x-window program . 
+i ve seen quit x-window toolkit . 
+the place export.lcs.mit.edu go contrib directori . 
+it full x-window program . 

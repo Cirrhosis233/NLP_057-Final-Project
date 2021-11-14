@@ -1,0 +1,12 @@
+i 486 sx 25 i recent ad scsi drive system use adaptec 1522 non busmast control . 
+yesterday i ran coretest find drive perform valu i got seagat 106 meg 875.1kbsec 14.5ms avg seek 3.7ms track track quantum 400 meg scsi 991.2 kbsec 12.7 avg seek 3.6 track track . 
+first good result ? 
+i n't know typic valu . 
+what i 'm wonder follow . 
+my swap file current ide . 
+i could move scsi 13 faster i would abl use 32-bit access might actual make slower . 
+so drive i put swap file get best result ? 
+is swap file speed test program ? 
+final i also ran test aspi2do driver load i got differ whatsoev perform . 
+is reason i load driver ? 
+thank advanc i post summari i get enough respons . 

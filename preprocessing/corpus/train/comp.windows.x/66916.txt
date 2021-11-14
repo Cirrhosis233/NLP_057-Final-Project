@@ -1,0 +1,9 @@
+hi i got gateway 4dx-33v tri configur x11r5 . 
+has anyon done more specif i need correct xconfig file entri set graphic card monitor . 
+i 15 color crystalscan 1572fs monitor vesa local bus ati ultra pro 1mb vram video card . 
+thank advanc . 
+did n't oper system come x ? 
+sysv usual far i know . 
+you 'd best contact peopl bought ths os . 
+if re run linux someth similar good luck . 
+christi 

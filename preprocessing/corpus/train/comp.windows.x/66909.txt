@@ -1,0 +1,37 @@
+steve folk steve i 'm look public domain x-i plot packag x . 
+steve i need basic capabl axe label log linear c . 
+steve it 's hard imagin someon put thing steve togeth i 'm hope avoid reinvent wheel . 
+steve thank lead ! 
+steve steve frysing your might take look plplot . 
+version 4.99c actual beta v5.0 found anonym ftp hagar.ph.utexas.edu pubplplot directori . 
+mark mark stucki email from readm file version 4.99c this plplot distribut . 
+plplot scientif plot packag mani system small micro larg super alik . 
+despit small size quick enough power satisfi user includ standard x-i plot semilog plot log-log plot contour plot 3d plot mesh plot bar chart pie chart . 
+multipl graph differ size may place singl page multipl line graph . 
+differ line style width color support . 
+a virtual infinit number distinct area fill pattern may use . 
+there almost 1000 charact extend charact set . 
+this includ four differ font greek alphabet host mathemat music symbol . 
+the font scale size various effect . 
+mani differ output devic driver avail system depend includ portabl metafil format render . 
+the plplot packag freeli distribut not public domain . 
+the plplot sourc code except header file file explicit grant permiss may use commerci softwar packag without consent author . 
+you allow encourag includ plplot object librari header file commerci packag provid 1 explicit promin state plplot librari freeli avail 2 full copyright plplot packag display somewher document packag . 
+we welcom suggest improv code especi form user-contribut enhanc bug fix . 
+if plplot use publish paper pleas includ acknowledg citat work help us continu improv plplot . 
+also pleas rememb plplot commerci product expect offer kind support commerci product may . 
+there great interest extend plplot fix bug princip author afford work part time . 
+improv necessarili focus help us get work done . 
+plplot written c enabl run mani platform practic without modif . 
+fortran program may use transpar stub routin provid handl c-fortran interfac without modif user program . 
+c program requir includ header file plplot.h see document detail . 
+the main document plplot doc directori form sever tex file pleas consult addit inform latex plotdoc ' . 
+unfortun document tend lag actual improv code n't surpris known featur explain . 
+consult changes.log ' see list recent chang . 
+at present plplot known work follow system unix suno aix hp-ux unico dgux ultrix sysv linux amigaexec ms-dos os2 next for inform get use plplot system see appendic plplot manual system-specif document appropri syssystem directori . 
+to becom subscrib plplot mail list send request credit plplot result effort mani peopl impract list contributor . 
+those current support otherwis respons packag present form includ mauric lebrun pleas send comment flame patch etc . 
+i respons plplot kernel develop well work metafil xwindow xterm postscript tektronix amiga driver . 
+usmail dr . 
+mauric lebrun institut fusion studi univers texa austin tx 78712 geoff furnish pleas send question regard ms-dos os2 driver geoff . 
+usmail geoff furnish institut fusion studi univers texa austin tx 78712 toni richardson creator plplot 2.6b 3.0 pleas send question regard instal plplot next toni . 

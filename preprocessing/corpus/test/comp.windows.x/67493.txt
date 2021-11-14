@@ -1,0 +1,9 @@
+i use xdm x11r5 ow3 xview3 sun3 sparc run suno 4.1.1 . 
+prior use xdm i use set path environ variabl like manpath helppath arch etc .login file . 
+with xdm .login file n't get execut therefor neither olwm root-window applic know variabl . 
+one usual suggest put everyth every-tim shell rc-file instead login-on one fair enough user know re . 
+if sever hundr user book tell though 's confus best . 
+anoth xterm run login shell still leav window manag thing get start menus wrong environ . 
+our altern instead xdm run client startup script run user 's favourit shell login shell run rest startup script . 
+that way user 's usual environ get set normal inherit everyth . 
+you find almost-curr copi script thing contribedinburgh-environment.tar.z avail usual place . 

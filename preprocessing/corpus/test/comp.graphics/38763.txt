@@ -1,0 +1,2 @@
+hi i 'm look program abl display 24 bit imag . 
+we use sun sparc equip parallax graphic board run x11 . 

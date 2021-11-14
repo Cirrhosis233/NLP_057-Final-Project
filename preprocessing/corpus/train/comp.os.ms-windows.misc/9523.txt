@@ -1,0 +1,112 @@
+i normal procomm plus dos i ve consid buy window version .... got realli great review comput shopper . 
+i friend connect mainfram unix machin use screen seem problem keep modem .... 14400 modem 486 50 mhz machin . 
+i ca n't see troubl keep . 
+his pcplus dos work great what high speed modem arriv . 
+edit 01 apr 93 this articl appli window 3.0 3.1 nt os2 dos app run window . 
+one unadvertis limit current window pcs rs-232c serial com perform serious defici . 
+almost everyon purchas high-spe modem v.32bis v.32 pep hst discov problem first time tri download file accept incom fax 9600 upgrad modem . 
+overrun retri error abound even activ applic datacomm fax program . 
+if transfer complet may take even longer old 2400bps modem . 
+there three reason problem 1 . 
+the univers asynchron receivertransmitt uart use pcs primit ns8250 devic single-byt fifo buffer . 
+if oper systemdriv read flush charact high interrupt rate next incom charact overwrit fifo previous one lost . 
+dos fair single-mind environ datacomm usual keep . 
+window ca n't . 
+2 . 
+window oper system overhead plain dos interrupt often take longer servic . 
+overrun much like dos . 
+as soon report pcmodem vendor lose data may advis need upgrad 16550 . 
+more like sinc seem conspiraci ignor issu ll get use advic . 
+most store-front mail-ord sourc i spoke attempt solv problem never heard term 16550 mani n't even know uart . 
+3 . 
+even pc ns16550a uart ps2 's upgrad mothercom board add new com board may still experi error overrun standard microsoft window com driver n't take full advantag 16550 . 
+window 3.1 improv regard 3.0 i still recommend driver upgrad . 
+applic like procommwin i use get around problem . 
+if modem card may problem modem part card design awar state uart avoid overrun howev i would n't want bet card design clever insist 16550 uart i ever buy modem card . 
+some modem card n't even convent uart work standard window driver need simul one . 
+use msd.ex see modem card pretend . 
+the hardwar situat . 
+the uart pc com port base nation semiconductor ns8250 ns16450 chip megacel insid vlsi chip ca n't replac . 
+you id uart type system run microsoft diagnost program windowsmsd.ex . 
+be sure run dos bring window . 
+the window serial api may prevent msd accur identifi 16550 run window dos prompt . 
+the ns16550 uart separ 16-byte transmit receiv fifo configur trigger level run reliabl clock rate 460800 bps although current modem technolog 's point push luck go 115200 bps . 
+the 16550 short access cycl time 16450 8250 . 
+the 16550 also dma capabl clear pc driver ever use . 
+for technic info see nation semiconductor applic note an-491 . 
+so uart compon ? 
+tri locat uart mother board multi-funct io card com board isamca modem card . 
+if ca n't find socket compon number 8250 16450 com port probabl buri vlsi wo n't abl perform chip replac . 
+if disabl vlsi com port i chose least add aftermarket com board . 
+if one socket 8250 16450 chip buy plug-in ns16550afn pc16c550cn low power cmos version ic sever supplier typic 9 15 . 
+the n chip normal 40-pin dual-in-lin packag . 
+other style avail avoid ns16550 chip without a 16c550c presum ok . 
+earli ns chip bug although nation report exchang manufactur free . 
+clone chip avail various ic maker nation . 
+the manual turbocom driver state support follow appar equival chip nation semiconductor 16550a 16551 16552 chipstechnolog 82c607 texa instrument t16c550a silicon system 73m550 vlsi 16c550 turbocom warn pre-a ns16550 western digit 16c550 say problem report earli ibm ps2 55sx 70 system ibm report upgrad . 
+if do n't socket 825016450 chip ll need buy after- market com multi-funct board . 
+if modem card situat may hose . 
+to add new com multi-funct card ll need either disabl com12 port replac re-assign com34 although watch irq conflict without turbocom . 
+although cheaper card avail interest get problem solv quick i elect buy modular circuit technolog mct-aio card jdr microdevic 2233 samaritan drive san jose ca 95124 800 538-5000 voic us 408 559-1200 voic 800 538-5005 fax us the mct-aio import sell 89.95 . 
+it 8-bit isa card provid port type connector address irq comment com db9m com 123 irq 2345 ns16550afn socket com ribbon com 234 irq 2345 ns16550afn socket parallel db25f lpt123 irq 57 game ribbon the kit includ ribbon cabl db25f connector secondari com port ribbon cableconnector game port two bulkhead plate ribbon-bas connector 9f-to-25f adaptor cabl . 
+each port individu disabl com port tx rx rts cts dtr dcd dsr jumper . 
+jdr also sell super-io m-f card also ide . 
+i heard sever peopl less expens m-f io card 16550s tsd system 407 331-9130 19.95 card plus 9.95 per 16550 . 
+greenfield trade distributor 518 271-2473 voic 518 271-7811fax . 
+their card 33 wone 16550 45 w2 sell 16550afn 13 . 
+rs data system inc . 
+820 east highway 434 longwood fl 32750 phone 407 331-1424 fax 407 331-8606 2comlptgam card w2 16550s 39 i person experi firm except jdr . 
+meanwhil back mct card jdr ... 
+i need two serial port run irq pc i disabl built-in vlsi-bas 8250 port . 
+howev turbocom driver i could set intern com3 4 use irq share . 
+the softwar situat simpli upgrad 16550 uart complet solv common overrun problem . 
+the standard ms serial driver n't take full advantag 16550 . 
+the window 3.0 driver even less capabl window 3.1 driver follow limit they enabl receiv fifo rate 2400 bps . 
+they never enabl transmit fifo result interrupt rate 10x upload . 
+they set trigger level 14 byte high 's easi 2 byte arriv driver read fifo . 
+the port menu control panel allow speed 19200 . 
+with v.32bis modem spars data text easili compress 31 suggest host dte connect rate 57600 bps would effect . 
+the api wo n't accept rate cbr128000 . 
+the api wo n't let dos program know 16550 even dos program n't 16550-awar get littl benefit 16550 port standard driver . 
+they n't allow irq share com34 . 
+the bio n't initi com34 proper mani system . 
+window provid workaround app n't provid port speed option 19200 bps . 
+these problem report not solv window nt dos 6.0 may may address window releas 3.1 4.0 . 
+rumor suggest may solv window 4.0 . 
+you get replac driver solv problem buy copi turbocom current version 1.2 bio-engin research pacif commwar divis 180 beacon hill lane ashland or 97520-9701 503 482-2744 voic 503 482-2627 fax 503 482-2633 bbs mcimail 344-5374 compuserv 71521760 price around 50 i recal . 
+bio-eng set accept credit card i send check . 
+egghead 1-800-softwar list turbocom far i know n't stock . 
+bio softwar compani per se . 
+they appar need reliabl hi-spe serial connect in-hous instrument applic wrote driver discov market revis general purpos com driver suit . 
+they recent upgrad window 3.1 . 
+it run-tim licens . 
+i host dte connect rate set 57600 bps datacomm app i zero problem download . 
+i routin see transfer rate exceed 2000 bps . 
+i also use 115200 bps link hp95lx pc lossless bi-direct io . 
+upload various remot system anoth matter mani host still use antiqu uart driver . 
+note 19200 still highest rate window 3.1 port menu control panel allow configur com port . 
+turbocom get around allow specifi port factor set real uart rate multipl rate pass window api dialog box . 
+i also ctsrts hardwar flow control enabl i suggest . 
+even ever transfer 7-bit ascii data xonxoff suffici reliabl method flow control . 
+the inform dec standard xonxoff hysteresi sender may transmit anoth 16 yes sixteen byte receipt xoff receiv system devic . 
+the 16 byte fifo 16550 clear big enough let us reli exclus xonxoff . 
+a well-respect datacomm engin inform 16550 's ca n't realli ctsrts doswindow environ use data rate 115200 may still riski . 
+even hardwar flow control 16550 turbocom still experi overrun busi system lot app run serious swap progress . 
+if situat may need buy co-process com board cost 16550turbocom upgrad . 
+a review two board review turbocom found feb'93 issu window sourc magazin . 
+i suggest tri 16550turbocom upgrad first experi process prioriti time slice power user whose thrash system still run comm problem . 
+close soapbox comment the state rs-232c serial datacomm support embarrass across comput industri . 
+becaus oldest standard io interfac job design hardwar write softwar often seem assign least senior lowest rank engin comput compani . 
+the design averag serial port least ten year behind state art . 
+in last job major workstat vendor i lobbi improv serial port initi design new system . 
+that famili machin subsequ introduc 16550 port . 
+howev except . 
+few comput compani seem champion decent io . 
+you may well learn serial io situat show sign improv soon . 
+when v.fast arriv i expect cri outrag window user world-wid whose 8250 pcs sort work today v.32 fail miser v.fast . 
+without hardware-buff uart like 16550 without softwar driver use uart best advantag v.fast modem wast money . 
+regard 1001-a east harmoni road bob niland suit 503 compuserv 710442124 303 223-5209 copyright 1993 robert j . 
+niland all right reserv permiss grant automat redistribut articl via electron magnet optic media unedit form usenet newsgroup articl post author . 
+permiss grant compuserv usenet reader subscrib person receiv articl compuserv ftp site author author via electron mail author retain one electron copi make hardcopi reproduct edit articl person non-commerci use provid materi chang made articl copyright statement . 
+all copi storag reproduct redistribut articl form prohibit without express written consent author robert j . 
+niland . 

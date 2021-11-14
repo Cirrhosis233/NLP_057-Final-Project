@@ -1,0 +1,11 @@
+hi i problem i hope gurus ' help solv . 
+background problem i rectangular mesh uv domain i.e mesh map 3d bezier patch 2d . 
+the area domain insid trim loop render . 
+the trim loop set 2d bezier curv segment . 
+for sake notat mesh made cell . 
+my problem the trim area split individu smaller cell bound trim curv segment . 
+if cell wholli insid area ... output whole els trivial reject . 
+doe bodi know thiss done algo . 
+somewher . 
+ani help would appreci . 
+thank ani . 

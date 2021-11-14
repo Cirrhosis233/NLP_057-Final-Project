@@ -1,0 +1,44 @@
+boston 2 2 04 ottawa 0 1 12 first period 1 boston robert 5 juneau 719 . 
+2 boston wiemer 1juneau oat 1747 . 
+second period 3 
+boston neeli 11 juneau murphi 610 . 
+4 boston hugh 5 richer kimbl 755 . 
+5 ottawa archibald 9 rumbl lamb 1137 . 
+third period 6 ottawa boschman 9 kudelski 510 . 
+boston 4 power play 2-0 scorer g a pts hugh 1 0 1 juneau 0 3 
+3 
+kimbl 0 1 1 murphi 0 1 1 neeli 1 0 1 oat 0 1 1 richer 0 1 1 robert 1 0 1 wiemer 1 0 1 ottawa 2 power play 4-0 scorer g a pts archibald 1 0 1 boschman 1 0 1 kudelski 0 1 1 lamb 0 1 1 rumbl 0 1 1 washington 0 0 22 ny ranger 0 0 00 first period no score . 
+second period no score . 
+third period 1 washington bondra 36 pivonka cavallini 654 . 
+2 washington bondra 37 cote pivonka 1010 . 
+washington 2 power play 2-0 scorer g a pts bondra 2 0 2 cavallini 0 1 1 cote 0 1 1 pivonka 0 2 2 ny ranger 0 power play 1-0 no score ny island 2 1 1 04 hartford 2 1 1 15 first period 1 ny island ferraro 13 malakhov king 129 . 
+2 ny island hogu 32 thoma turgeon 157 . 
+3 
+hartford yake 21poulin 415 . 
+4 hartford yake 22 nyland poulin 1644 . 
+second period 5 hartford verbeek 39 cassel weinrich pp 243 . 
+6 ny island thoma 35 king ferraro 758 . 
+third period 7 hartford burt 5 sanderson cassel 1341 . 
+8 ny island malakhov 14 hogu 1745 . 
+overtim 9 hartford janssen 12 poulin 108 . 
+hartford 5 power play 3-1 scorer g a pts burt 1 0 1 cassel 0 2 2 janssen 1 0 1 nyland 0 1 1 poulin 0 3 
+3 
+sanderson 0 1 1 verbeek 1 0 1 weinrich 0 1 1 yake 2 0 2 ny island 4 power play 3-0 scorer g a pts ferraro 1 1 2 hogu 1 1 2 king 0 2 2 malakhov 1 1 2 thoma 1 1 2 turgeon 0 1 1 pittsburgh 2 3 
+1 06 new jersey 2 4 0 06 first period 1 pittsburgh daniel 5 needham tippett 414 . 
+2 new jersey lemieux 29 semak driver 1019 . 
+3 
+pittsburgh steven 55tocchet murphi pp 1240 . 
+4 new jersey zelepukin 22 driver niedermay 1726 . 
+second period 5 pittsburgh lemieux 68 steven tocchet 142 . 
+6 new jersey semak 36 lemieux zelepukin 227 . 
+7 pittsburgh mceachern 28 jagr barrasso 424 . 
+8 new jersey steven 12 guerin pellerin 545 . 
+9 pittsburgh lemieux 69 unassist sh 1240 . 
+10 new jersey richer 37 nichol 1553 . 
+11 new jersey lemieux 30 semak zelepukin 1740 . 
+third period 12 pittsburgh mullen 33 jagr lemieux 1854 . 
+overtim no score . 
+pittsburgh 6 power play 5-1 special goal pp 1 sh 1 total 2 scorer g a pts barrasso 0 1 1 daniel 1 0 1 jagr 0 2 2 lemieux 2 1 3 
+mceachern 1 0 1 mullen 1 0 1 murphi 0 1 1 needham 0 1 1 steven 1 1 2 tippett 0 1 1 tocchet 0 2 2 new jersey 6 power play 3-0 scorer g a pts driver 0 2 2 guerin 0 1 1 lemieux 2 1 3 
+nichol 0 1 1 niedermay 0 1 1 pellerin 0 1 1 richer 1 0 1 semak 1 2 3 
+steven 1 0 1 zelepukin 1 2 3 

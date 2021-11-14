@@ -1,0 +1,14 @@
+i 'm look ic convert rs232 voltag level ttl voltag level . 
+someth relat inexpens would nice . 
+anyon suggest ? ? 
+thank . 
+well look digi-key sell chip number icl232 want . 
+they sell 3.50 ... 
+are sure need two way convert ? 
+if want rs232-ttl i would suggest mc1489 cheap 0.80 dm germani . 
+this chip need 5v . 
+the mc1488 ttl-rs232-convert use 12v -12v . 
+btw ... 
+the max232 compat seem expens usa ... 
+i paid 2.95 dm its80272 made harri absolut compat max232 icl232 . 
+gerrit 

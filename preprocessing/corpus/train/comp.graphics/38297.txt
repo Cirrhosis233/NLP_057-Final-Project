@@ -1,0 +1,6 @@
+subject pcx date wed 14 apr 1993 220100 gmt hello help ! ! ! 
+pleas i student turbo c graphic program i problem find algorithm code teach stuff .. 
+1 where book code teach read write pcxdbfand gif file ? 
+2 how i access extra ram paradis video board i page higher vga mode ie 320x200x256 800x600x256 3 anybodi got line good book help answer question ? 
+thank much peac bless stephen palm a book i somewhat recommend pratic imag process c craig a . 
+lindley publish wiley 

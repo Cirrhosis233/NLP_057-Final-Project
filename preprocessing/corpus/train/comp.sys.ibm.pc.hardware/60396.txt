@@ -1,0 +1,8 @@
+today i reciev in-warranti replac diamond speedstar 24x . 
+on card i ve notic chang most new jumper label jp5 . 
+the card revis 5a my detect work shown jumper simpli connectsdisconnect bale line 64-pin part isa bus . 
+the question i simpl to peopl revis speedstar 24x manual claim jumper ? 
+to anyon isa-refer function bale line ? 
+on relat note are ftp site contain descript refer isa bus ? 
+my motherboard manual simpl pin-to-signal-nam chart . 
+-dougla 

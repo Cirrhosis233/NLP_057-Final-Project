@@ -1,0 +1,6 @@
+i 'm tri make 24 bit window use xcreatewindow 8 bit pseudocolor server . 
+as far i know possibl stuff delet xio.gswin xcreatewindowxio.dspptr rootwindowxio.dspptr xio.scr x w h 0 24 inputoutput xtern.colorinfo 0 setwinattrib this result badmatch error . 
+can anyon pleas tell the colormap element setwinattrib must legitim truecolor colormap . 
+so use xcreatecolormap proper visual use setwinattrib n't forget mask ! . 
+and inevit caveat i usual use widget set visual colormap resourc rather direct x routin i could wrong . 
+but i think general difficulti . 

@@ -1,0 +1,13 @@
+some student chang ami bio password comput set alway . 
+what 'd like know way bypass remov password . 
+we tri switch bio avail . 
+the batteri solder bord three machin still guarente would help ca n't remov batteri . 
+as far i know way get around bio password except short power suppli cmos memori therebi eras . 
+this remov password also destroy previous bio set ll go set . 
+on 386 jumper motherboard provid purpos short batteri . 
+you short jumper briefli interrupt power cmos long enough eras . 
+i would imagin someth like board . 
+in futur i would suggest you set password leav setup . 
+that way no-on els go reset set alway unless know password use . 
+they got bunch new 386 's reason . 
+-dale 

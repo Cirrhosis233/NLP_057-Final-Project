@@ -1,0 +1,9 @@
+i 'm tri creat button label bitmap use menubutton widget . 
+is possibl ? 
+right i get bitmap sign label . 
+that 's expect . 
+the first sentenc describ bitmap resourc menubutton section athena widget set c languag interfac document state bitmap a bitmap display instead label . 
+one way round might make use button 's backgroundpixmap resourc rememb user applic wo n't abl set resourc file . 
+also button wo n't automat size bitmap . 
+the bitmap tile necessari could set button 's dimens match size . 
+jim 

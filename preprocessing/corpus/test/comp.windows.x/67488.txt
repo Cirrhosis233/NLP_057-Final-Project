@@ -1,0 +1,2 @@
+most graphic system i seen draw routin also specifi color draw like drawpointxycolor drawlinex1y1x2y2color fillrectanglex1y1x2y2color with x i someth like xsetforegroundcurrentcolor xdrawpointdwxi whi split two function ? 
+whi x design decid associ color object drawn instead associ display drawn ? 

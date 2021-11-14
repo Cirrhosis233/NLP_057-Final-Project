@@ -1,0 +1,6 @@
+musselman wrote i need find uart interfac 8051 follow -250k baud 8 data bit 2 stop bit pariti -abil break detect irq output pin -irq charact receiv i 'm use dalla ds2250 16 mhz 8051 clone wo n't break detect . 
+i ve look 6850 8251 7201 2661 etc ... 
+ani help would apprici ! ! ! 
+actual detect break done watch charact contain zero bit frame error result receipt . 
+this mean line stay zero bit state even past stop bit time slot basic indic break . 
+there special way detect break i found 's magic signal generat uart etc . 

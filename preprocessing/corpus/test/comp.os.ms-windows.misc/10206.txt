@@ -1,0 +1,10 @@
+i work visual basic v2.0 window . 
+specif i work applic generat format report . 
+sinc report rather larg first question 1 . 
+is way increas size list box text box visual basicwindow beyond 64k limit ? 
+as i yet optimist come across way get around problem i work follow approach i tri creat defin templat ms-word use wordbas macro i open word visual basicvb load templat mine work follow way it first open myown.ini file creat vb time user select kind report weant read section .ini file jump appropri code templat open read file pertain section read .ini file . 
+1 . 
+when use getprofilestr function wordbas way specifychang default .ini file win.ini myown.ini file ? 
+2 . 
+when use file input function wordbas way read 32k one time ? 
+ani help appreci . 

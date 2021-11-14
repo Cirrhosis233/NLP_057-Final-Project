@@ -1,0 +1,28 @@
+xmdrawingarea draw xlib . 
+but i would like take advantag graphic librari gl avail ibm rs6000 sgi 's gl believ . 
+is possibl mix x gl one applic program ? 
+can i use gl subroutin xmdrawingarea x window open xopenwindow ? 
+you ca n't make gl call xmdrawingarea widget sure . 
+there widget alreadi defin gl . 
+it glxmdraw motif glxdraw athena widget . 
+it similar xmdrawingarea except allow use gl call render window . 
+look glxlink glxunlink glxgetconfig glxwinset man page . 
+the glxmdraw widget work pretti well . 
+opengl improv . 
+i vouch . 
+the gl widget work pretti well . 
+i use sometim . 
+i 'm sure though whether use xlib call draw gl widget . 
+i n't tri yet i read accompani document complet . 
+tri post comp.sys.sgi inform . 
+better stillyou find answer sgi manual .. 
+littl transit guid explain mixed-model program paradigmmix x gl . 
+doe pex graphig ? 
+function gl ? 
+i think gl littl easier use littl power 's opinion . 
+mileag may vari . 
+well pex design extens x seamless buggi start .. 
+opinion . 
+
+
+

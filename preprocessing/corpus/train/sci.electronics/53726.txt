@@ -1,0 +1,10 @@
+i 'm look ic convert rs232 voltag level ttl voltag level . 
+someth relat inexpens would nice . 
+anyon suggest ? ? 
+thank . 
+well look digi-key sell chip number icl232 want . 
+they sell 3.50 ... 
+digi-key also sell quad line receiv part ds1489an 68cent ds1489n 48cent . 
+a quad line driver part ds1488 48cent also sold . 
+i guess n't wo n't suppli 12v chip pump-up circuitri might worth extra cost . 
+but 1488 's 1489 's avail friend neighborhood rs part mc1488 276-2520 1.29 mc1489 276-2521 1.29 . 

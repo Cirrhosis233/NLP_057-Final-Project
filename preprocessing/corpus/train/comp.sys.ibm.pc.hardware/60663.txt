@@ -1,0 +1,10 @@
+i unabl get com 4 work diagnost program msd show noth instal . 
+i think softwar option ok known hardwar conflict andor workaround problemand cd rom system g2k 486dx266 tower ati video card port set follow on board coma com1 irq4 extern devic intern modem com 3 irq5 dfio port card primari port com 2 irq3 mous on board com b com 4 irq 9 doe not work i run boot disk command.com elimin softwar ani suggest i call technic support ? 
+john siegel i problem time ago . 
+some bios automat instal com3 com4 port tabl . 
+program like modem program write direct port work fine anyth use bio call fail . 
+find bbs ftp site get copi port finder . 
+put devicepf.si config.si run pf.com autoexec.bat . 
+this littl program locat exist port make sure bio tabl updat . 
+it work great . 
+pf also let swap port also valu . 

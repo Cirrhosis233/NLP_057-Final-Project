@@ -1,0 +1,33 @@
+this may faq pleas direct known answer i get frustrat look help . 
+i run win 3.1 ndw 2.2 486sx 8 meg memori 6 meg perm swap file get exceed frustrat applic give back system resourc i close . 
+i awar known problem i look suggest i might mitig . 
+1 . 
+what softwar culprit ? 
+win 3.1 ndw applic ? 
+are mode win 3.1 standard real enhanc better other plug leak ? 
+it 's applic . 
+unfortun even applet ship win31 seem problem i ve seen solitair exampl . 
+2 . 
+are system.ini switch set help plug leak ? 
+none i know . 
+if applic n't give back resourc lost gone forev pend restart window . 
+3 . 
+do peopl know patch third parti softwar help ? 
+seem like increas better manag system resourc great market third parti memori compani like qemm . 
+if applic n't free memori lot n't 's bugger piec softwar . 
+4 . 
+if i run progman instead ndw leak subsid ? 
+i hope ndw 2.2 would plug seem differ 2.0 deal memori resourc . 
+no . 
+this problem applic usual . 
+5 . 
+when i write vb code thing i make less like code eat resourc ? 
+there book written one . 
+in general sure free everyth ask exit . 
+unfortun i understand vb intern lose resourc 's way avoid entir . 
+6 . 
+ani suggest i n't know enough ask specif ? 
+thank help . 
+as common problem i seen littl discuss net probabl other would like read answer pleas publish rather send email . 
+there 's littl discuss 's inevit ' ms manag come os garbag collect someth resourc pool . 
+insist perfect safeti peopl n't ball live real world mari shafer nasa ame dryden 

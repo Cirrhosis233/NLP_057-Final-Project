@@ -1,0 +1,9 @@
+for past week i ve tri instal qic-36 tape drive everex 8bit full size control 486dx50 eisa system luck . 
+i end get error miscompar stream read part test . 
+i pretti certain port set irq dma set proper sinc tape respond proper command rewind retens write eras i also boot system clean still probl i also tend elimin memori conflict . 
+it suggest bus speed fast i need slow . 
+my system ami bio i n't advanc chip set option i seen system i cant . 
+am i go accept set wo n't work ? 
+anyon suggest work around ? 
+i glad hear advicesuggest . 
+toni 

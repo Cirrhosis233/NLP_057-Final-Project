@@ -1,0 +1,7 @@
+here 's i think figur . 
+all i need instal r5 disitribut without xserver like sony.cf file defin new librari util etc . 
+instal old server r4 still work . 
+this allow run xview 3.0 x11r5 run . 
+doe server interfac remain chang made lib ? 
+anoth question is like sinc sun drop ow support desktop util like file manag made public ? 
+it would nice compani would make old code public benefit us smaller budget . 

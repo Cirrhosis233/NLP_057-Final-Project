@@ -1,0 +1,5 @@
+i program produc continu tone call xbell repeat interv equal durat bell . 
+if run display tone buffer x server tone contunu occurr program exit . 
+is conveni way prevent e.g . 
+empti x server bell buffer program exit ? 
+disclaim pleas note person view constru offici comment jet project . 

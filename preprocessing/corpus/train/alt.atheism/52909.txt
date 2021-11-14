@@ -1,0 +1,218 @@
+archive-nam atheismlog alt-atheism-archive-nam logic last-modifi 5 april 1993 version 1.4 construct logic argument although much argument usenet general qualiti argument found poor . 
+this articl attempt provid gentl introduct logic hope improv general level debat . 
+logic scienc reason proof think infer concis o . 
+logic allow us analyz piec reason determin whether correct valid invalid . 
+of cours one need studi logic order reason correct nevertheless littl basic knowledg logic often help construct analyz argument . 
+note claim made whether logic univers applic . 
+the matter much open debat . 
+this document mere explain use logic given alreadi decid logic right tool job . 
+proposit statement build block logic argument . 
+a proposit statement either true fals exampl it rain today tuesday . 
+proposit may either assert said true deni said fals . 
+note technic mean deni everyday mean . 
+the proposit mean statement particular arrang word use express . 
+so god exist there exist god express proposit . 
+an argument quot monti python sketch connect seri statement establish definit proposit . 
+an argument consist three stage . 
+first proposit necessari argument continu state . 
+these call premis argument . 
+they evid reason accept argument conclus . 
+premis assert often indic phrase sinc obvious . 
+the phrase obvious often view suspicion use intimid other accept suspici premis . 
+if someth n't seem obvious n't afraid question . 
+you alway say oh yes re right obvious ve heard explan . 
+next premis use deriv proposit process known infer . 
+in infer one proposit arriv basi one proposit alreadi accept . 
+there various form valid infer . 
+the proposit arriv infer may use infer . 
+infer often denot phrase impli therefor . 
+final arriv conclus argument proposit affirm basi premis infer . 
+conclus often indic phrase therefor follow conclud . 
+the conclus often state final stage infer . 
+for exampl everi event caus premis the univers begin premis all begin involv event premis this impli begin univers involv event infer therefor univers caus infer conclus note conclus one argument might premis anoth argument . 
+a proposit call premis conclus respect particular argument term make sens isol . 
+sometim argument follow order given exampl conclus might state first premis state afterward support conclus . 
+this perfect valid sometim littl confus . 
+recogn argument much harder recogn premis conclus . 
+mani peopl shower write assert without ever produc anyth one might reason describ argument . 
+some statement look like argument . 
+for exampl if bibl accur jesus must either insan evil liar son god this argument condit statement . 
+it assert premis necessari support appear conclus . 
+it also suffer number logic flaw ll come later . 
+anoth exampl god creat therefor duti god the phrase duti god proposit sinc neither true fals . 
+therefor conclus sentenc argument . 
+final causal import . 
+consid statement form a b . 
+if re interest establish a b offer evid statement argument . 
+if re tri establish truth b argument explan . 
+for exampl there must someth wrong engin car start this argument . 
+my car start someth wrong engin this explan . 
+there two tradit type argument deduct induct . 
+a deduct argument one provid conclus proof conclus argument premis true conclus must also true . 
+a deduct argument either valid invalid . 
+a valid argument defin one premis true conclus true . 
+an induct argument one premis provid evid truth conclus . 
+induct argument valid invalid howev talk whether better wors argument probabl premis . 
+there form argument ordinari languag neither deduct induct . 
+howev concentr moment deduct argument often view rigor convinc . 
+it import note fact deduct argument valid impli conclus hold . 
+this slight counter-intuit natur implic must consid care . 
+obvious valid argument consist true proposit . 
+howev argument may entir valid even contain fals proposit . 
+for exampl all insect wing premis woodlic insect premis therefor woodlic wing conclus here conclus true argument 's premis fals . 
+if argument 's premis true howev conclus would true . 
+the argument thus entir valid . 
+more subt reach true conclus one fals premis all fish live sea premis dolphin fish premis therefor dolphin live sea conclus howev one thing reach fals conclus valid infer true premis . 
+we therefor draw truth tabl implic . 
+the symbol denot implic a premis b conclus . 
+t f repres true fals respect . 
+premis conclus infer a b ab f f t if premis fals infer f t t valid conclus true fals . 
+t f f if premis true conclus fals infer must invalid . 
+t t t if premis true infer valid conclus must true . 
+a sound argument valid argument whose premis true . 
+a sound argument therefor arriv true conclus . 
+be care confus valid argument sound argument . 
+to delv structur logic argument would requir lengthi discuss linguist philosophi . 
+it simpler probabl use summar major pitfal avoid construct argument . 
+these pitfal known fallaci . 
+in everyday english term fallaci use refer mistaken belief well faulti reason lead belief . 
+this fair enough logic term general use refer form technic incorrect argument especi argument appear valid convinc . 
+so purpos discuss defin fallaci logic argument appear correct seen incorrect examin close . 
+by studi fallaci aim avoid misl . 
+the follow list fallaci intend exhaust . 
+argumentum ad baculum appeal to forc the appeal forc commit arguer resort forc threat forc order tri push accept conclus . 
+it often use politician summar might make right . 
+the forc threaten need direct threat arguer . 
+for exampl ... 
+thus ampl proof truth bibl . 
+all refus accept truth burn hell argumentum ad hominem argumentum ad hominem liter argument direct man . 
+the abus varieti argumentum ad hominem occur instead tri disprov truth assert arguer attack person peopl make assert . 
+this invalid truth assert depend upon good assert . 
+for exampl atheism evil philosophi . 
+it practis communist murder sometim court law doubt cast upon testimoni wit show exampl known perjur . 
+this valid way reduc credibl testimoni given wit argumentum ad hominem howev demonstr wit 's testimoni fals . 
+to conclud otherwis fall victim argumentum ad ignorantiam see elsewher list . 
+the circumstanti form argumentum ad hominem commit person argu oppon ought accept truth assert oppon 's particular circumst . 
+for exampl it perfect accept kill anim food . 
+how argu otherwis re quit happi wear leather shoe ? 
+this abus charg inconsist use excus dismiss oppon 's argument . 
+this fallaci also use mean reject conclus . 
+for exampl of cours would argu posit discrimin bad thing . 
+you re white this particular form argumentum ad hominem one alleg one 's adversari ration conclus form selfish interest also known poison well . 
+argumentum ad ignorantium argumentum ad ignorantium mean argument ignor . 
+this fallaci occur whenev argu someth must true simpli prove fals . 
+or equival argu someth must fals prove true . 
+note assum someth fals prove true basic scientif principl . 
+exampl of cours bibl true . 
+nobodi prove otherwis of cours telepathi psychic phenomena exist . 
+nobodi shown proof real note fallaci appli court law one general assum innoc proven guilti . 
+also scientif investig known event would produc certain evid occur absenc evid valid use infer event occur . 
+for exampl a flood describ bibl would requir enorm volum water present earth . 
+the earth tenth much water even count frozen ice pole . 
+therefor flood occur in scienc valid assum lack evid someth occur . 
+we conclud certainti occur howev . 
+argumentum ad misericordiam this appeal piti also known special plead . 
+the fallaci commit arguer appeal piti sake get conclus accept . 
+for exampl i murder mother father axe . 
+pleas n't find guilti i 'm suffer enough orphan argumentum ad populum this known appeal galleri appeal peopl . 
+to commit fallaci attempt win accept assert appeal larg group peopl . 
+this form fallaci often character emot languag . 
+for exampl pornographi must ban . 
+it violenc women the bibl must true . 
+million peopl know . 
+are tri tell mistaken fool ? 
+argumentum ad numeram this fallaci close relat argumentum ad populum . 
+it consist assert peopl support believ proposit like proposit correct . 
+argumentum ad verecundiam the appeal author use admir famous tri win support assert . 
+for exampl isaac newton genius believ god this line argument alway complet bogus exampl refer admit author particular field may relev discuss subject . 
+for exampl distinguish quit clear stephen hawk conclud black hole give radiat john searl conclud imposs build intellig comput hawk physicist reason expect opinion black hole radiat inform . 
+searl linguist question whether well-qualifi speak subject machin intellig . 
+the fallaci of accid the fallaci accid commit general rule appli particular case whose accident circumst mean rule inapplic . 
+it error made one goe general specif . 
+for exampl christian general dislik atheist . 
+you christian must dislik atheist this fallaci often commit moralist legalist tri decid everi moral legal question mechan appli general rule . 
+convers accid hasti general this fallaci revers fallaci accid . 
+it occur one form general rule examin specif case repres possibl case . 
+for exampl jim bakker insincer christian . 
+therefor christian insincer sweep general dicto simplicit a sweep general occur general rule appli particular situat featur particular situat render rule inapplic . 
+a sweep general opposit hasti general . 
+non causa pro causa post hoc ergo propter hoc these known fals caus fallaci . 
+the fallaci non causa pro causa occur one identifi someth caus event actual shown caus . 
+for exampl i took aspirin pray god headach disappear . 
+so god cure headach the fallaci post hoc ergo propter hoc occur someth assum caus event mere happen event . 
+for exampl the soviet union collaps take atheism . 
+therefor must avoid atheism reason cum hoc ergo propter hoc this fallaci similar post hoc ergo propter hoc . 
+it assert two event occur togeth must causal relat leav room factor may caus event . 
+petitio principii this fallaci occur premis least question conclus reach . 
+circulus in demonstrando this fallaci occur one assum premis conclus one wish reach . 
+often proposit rephras fallaci appear valid argument . 
+for exampl homosexu must allow hold govern offic . 
+henc govern offici reveal homosexu lose job . 
+therefor homosexu anyth hide secret open blackmail . 
+therefor homosexu allow hold govern offic note argument entir circular premis conclus . 
+an argument like actual cite reason british secret servic ' offici ban homosexu employe . 
+anoth exampl classic we know god exist bibl tell us . 
+and know bibl true word god complex question fallaci of interrog this fallaci presupposit . 
+one exampl classic load question have stop beat wife ? 
+the question presuppos definit answer anoth question even ask . 
+this trick often use lawyer cross-examin ask question like where hide money stole ? 
+similar politician often ask load question how long ec interfer affair allow continu ? 
+doe chancellor plan two year ruinous privat ? 
+ignoratio elenchi the fallaci irrelev conclus consist claim argument support particular conclus actual logic noth conclus . 
+for exampl christian may begin say argu teach christian undoubt true . 
+if argu length christian great help mani peopl matter well argu shown christian teach true . 
+sad fallaci argument often success arous emot caus other view suppos conclus favour light . 
+equivoc equivoc occur key word use two differ mean argument . 
+for exampl what could afford free softwar ? 
+but make sure remain free user like must place licens make sure alway freeli redistribut amphiboli amphiboli occur premis use argument ambigu careless ungrammat phrase . 
+accent accent anoth form fallaci shift mean . 
+in case mean chang alter part statement emphas . 
+for exampl consid we speak ill friend we speak ill friend fallaci of composit one fallaci composit conclud properti share part someth must appli whole . 
+for exampl the bicycl made entir low mass compon therefor lightweight the fallaci composit conclud properti number individu item share collect item . 
+for exampl a car use less petrol caus less pollut bus . 
+therefor car less environment damag buse fallaci of divis the fallaci divis opposit fallaci composit . 
+like opposit exist two varieti . 
+the first assum properti thing must appli part . 
+for exampl you studi rich colleg . 
+therefor must rich the assum properti collect item share item . 
+for exampl ant destroy tree . 
+therefor ant destroy tree the slipperi slope argument this argument state one event occur harm event . 
+there proof made harm event caus first event . 
+for exampl if legal marijuana would legal crack heroin ll nation full drug-addict welfar . 
+therefor legal marijuana a is base on b fallaci is a type of fallaci these fallaci occur one attempt argu thing way similar without actual specifi way similar . 
+exampl is n't histori base upon faith ? 
+if n't bibl also form histori ? 
+islam base faith christian base faith n't islam form christian ? 
+cat form anim base carbon chemistri dog form anim base carbon chemistri n't dog form cat ? 
+affirm of the consequ this fallaci argument form a impli b b true therefor a true . 
+to understand fallaci examin truth tabl implic given earlier . 
+denial of the anteced this fallaci argument form a impli b a fals therefor b fals . 
+again truth tabl implic make clear fallaci . 
+note fallaci differ non causa pro causa latter form a impli b a fals therefor b fals a not fact impli b . 
+here problem implic invalid rather fals a allow us deduc anyth b . 
+convert a condit this fallaci argument form if a b therefor b a . 
+argumentum ad antiquitam this fallaci assert someth right good simpli old 's way 's alway argumentum ad novitam this opposit argumentum ad antiquitam fallaci assert someth correct simpli new newer someth els . 
+argumentum ad crumenam the fallaci believ money criterion correct money like right . 
+argumentum ad lazarum the fallaci assum someon poor sounder virtuous one wealthier . 
+this fallaci opposit argumentum ad crumenam . 
+argumentum ad nauseam this incorrect belief assert like true often heard . 
+an argumentum ad nauseum one employ constant repetit assert someth . 
+bifurc also refer black white fallaci bifurc occur one present situat two altern fact altern exist exist . 
+plurium interrogationum mani question this fallaci occur question demand simpl answer complex question . 
+non sequitur a non-sequitur argument conclus drawn premis logic connect . 
+red herring this fallaci commit irrelev materi introduc issu discuss everyon 's attent divert away point made toward differ conclus . 
+reific hypostat reific occur abstract concept treat concret thing . 
+shift the burden of proof the burden proof alway person make assert proposit . 
+shift burden proof special case argumentum ad ignorantium fallaci put burden proof person deni question assert made . 
+the sourc fallaci assumpt someth true unless proven otherwis . 
+straw man the straw man fallaci misrepres someon els 's posit attack easili knock misrepres posit conclud origin posit demolish . 
+it fallaci fail deal actual argument made . 
+the extend analog the fallaci extend analog often occur suggest general rule argu . 
+the fallaci assum mention two differ situat argument general rule constitut claim situat analog . 
+this fallaci best explain use real exampl debat anti-cryptographi legisl i believ alway wrong oppos law break such posit odious impli would support martin luther king are say cryptographi legisl import struggl black liber ? 
+how dare ! 
+tu quoqu this famous 
+fallaci . 
+it occur action argu accept parti perform . 
+for instanc you re random abus so ? 
+you ve abus 

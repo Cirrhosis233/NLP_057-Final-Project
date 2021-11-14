@@ -1,0 +1,5 @@
+i post question color motif widget . 
+i got work fine . 
+there one bug .xdefault file . 
+it work fine normal case . 
+thank 

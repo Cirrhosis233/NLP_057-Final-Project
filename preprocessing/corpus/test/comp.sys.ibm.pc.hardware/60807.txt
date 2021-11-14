@@ -1,0 +1,26 @@
+has anyon success put scsi ide hard drive system ? 
+i would like know well sinc i bought 200mb seagat ide drive want add comput four-year-old gateway 38620 current 80mb seagat scsi drive . 
+the scsi control doc told specifi cmos setup i.e . 
+hard drive set list not instal appar scsi control work wonder . 
+i wonder problem . 
+also i rememb i help cousin instal second ide drive defin masterslav relationship i need someth similar ? 
+i particular interest scsi boot drive . 
+same . 
+ani help would appreci sinc i intend instal drive asap i 'd like know i start . 
+thank ! 
+i use ide mfm scsi drive year . 
+i 2 ide 1 scsi one system 2 ide 2 scsi disk 1 scsi cdrom . 
+i current use alway in2000 scsi card i also futur domain western digit scsi card i work adapt . 
+as i recal card support boot floppi drive . 
+howev use control ide mfm ... 
+boot drive ide mfm . 
+you can not boot scsi control system . 
+if guy 2 drive 1 ide 1 scsi . 
+set ide cmos setup . 
+make sure boot . 
+then set scsi control irq dma etc . 
+set scsi drive id 0 . 
+just plug play card i seen far . 
+onli 2 drive need driver third drive . 
+if question email i tri answer . 
+good luck ! 

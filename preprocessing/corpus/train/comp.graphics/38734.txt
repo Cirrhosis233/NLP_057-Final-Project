@@ -1,0 +1,18 @@
+i seek altern solut turn postscript type 1 truetyp font outlin polygon subsequ scan convert 3d scanlin render . 
+i studi problem font convers year never need implement system . 
+well i opportun write font render softwar i would like question answer i jump deep end . 
+the main problem i face use evenodd non-wind rule turn outlin singl outlin polygon render handl complex polygon need reduc polygon simpl polygon . 
+for exampl letter o two outlin 1 the outsid outlin clockwis truetyp font 2 the insid outlin counterclockwis . 
+one common solut use number render packag simpli connect inner outlin outer outlin point two outlin closest . 
+this equival descib polygon hole . 
+the render make appropri hole sinc interior polygon edg opposit direct outsid edg . 
+i want use simplist system sinc 1 it handl outlin font proper simpl matter connect outer outlin inner outlin fanci font . 
+2 it proper handl evenodd non-wind rule . 
+from research year proper solut use trapezoid decomposit algorithm scan convert outlin trapezoid done postscript truetyp font raster . 
+these trapezoid polygon easili proper render 3d scanlin render . 
+my question better solut turn outlin polgyon trapezoid decompos ? 
+i fond solut sinc creat excess number polygon . 
+anoth question know best algorithm creat bevel andor offset curv font outlin ? 
+i dozen paper subject i ca n't tell method best implement . 
+thank pointer . 
+rob lansdal 

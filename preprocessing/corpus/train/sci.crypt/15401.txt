@@ -1,0 +1,44 @@
+here correct addit hellman 's note courtesi dorothi den . 
+again repost permiss . 
+two request first note role s1 s2 . 
+it appear other anyon know valu construct unit key . 
+and natur generat process k1 k2 neither produc alon . 
+thus scheme implement one repositori generat first half-key anoth generat second . 
+that omin . 
+second post reveal scriptur carefully-craft spook post . 
+do n't attempt draw hidden mean oppos say offici announc clipper . 
+leav den given hellman 's record opposit des goe back folk newsgroup knew read i n't think impugn integr . 
+oh yeah folk invent clipper n't stupid . 
+if think someth n't make sens 's almost certain n't understand goal . 
+steve bellovin date sun 18 apr 93 075639 edt subject re clipper chip to long list folk i also brief nsa fbi let add comment marti 's messag the clipper chip secret crypto algorithm embed the algorithm oper 64-bit block like des chip support 4 des mode oper . 
+the algorithm use 32 round scrambl compar 16 des . 
+in addit system key user get choos key chang often desir . 
+call key plain old k . 
+when messag sent first k session key share sender receiv . 
+ani method e.g . 
+public key use establish session key . 
+in att telephon secur devic new chip key negoti use public-key protocol . 
+encrypt k k encrypt unit key uk serial number unit ad produc three part messag encrypt system key sk produc e em k ek uk serial number sk my understand em k encrypt sk call famili key decrypt key correspond sk held law enforc . 
+doe anyon first hand knowledg ? 
+i also check 7am sunday i want wait . 
+the unit key generat xor two 80-bit random number k1 k2 ukk1k2 kept two escrow the unit key also call chip key generat serial number n follow . 
+let n1 n2 n3 64 bit block deriv n let s1 s2 two 80-bit seed use key . 
+comput 64-bit block r1 eden1 s1 s2 s1 note like use des tripl encrypt mode two key . 
+similar comput block r2 r3 start n2 n3 . 
+i 'm unlear whether key s1 s2 chang . 
+the fact re call seed suggest might . 
+then r1 r2 r3 concaten togeth give 192 bit . 
+the first 80 bit form k1 next 80 bit form k2 . 
+the remain bit discard . 
+author . 
+who escrow author still decid attorney general stress not nsa law enforc agenc must parti accept user system unbias . 
+marti right fbi ask suggest . 
+pleas pass along reason . 
+in addit marti 's criteria i would add agenc must establish record abl safeguard high sensit inform . 
+some suggest i ve receiv far includ sri rand mitr nation lab sandia lanl los alamo treasuri gao . 
+when court order obtain k1 k2 thenc k law enforc agenc use sk decrypt inform flow suspect link asid it guess may constant link without court order sinc almost imposs tell link messag flow . 
+my understand one decod box oper fbi . 
+the servic provid isol communic stream pass fbi pass decod box key k . 
+wiretap author when levi ask detail could review case requir law agent told predecessor turn 40-50 blank sign form everi time . 
+levi compli chang system lesson clear no singl person author power author wiretap no singl person least fbi tap . 
+after complet mound paperwork agent must get approv sever peopl chain includ fbi legal counsel request even taken attorney general final approv . 

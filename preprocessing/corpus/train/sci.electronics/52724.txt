@@ -1,0 +1,12 @@
+for upcom project i want use 4 meg dram configur two 2 meg bank 16 bit data . 
+i wonder anyon know dram control handl refresh data . 
+it 's ok control n't handl bank switch part easi . 
+the control i know one nation semiconductor dram manag handbook 1988 edit eg . 
+dp8429 . 
+i would like know anoth manufactur produc one may easier implement circuit . 
+btw anyon want hook dram microcontrol dalla semiconductor make neat chip ds1262 serial dram nonvolat chip . 
+it use spi i2c bus refreshescontrol 16mx1 dram memori . 
+it use extern batteri refresh dram power . 
+price 11.75 dalla quan 1 . 
+i wish i could use chip maximum spi clock rate 1 mhz slow .... 
+thank advanc wayn schelleken 

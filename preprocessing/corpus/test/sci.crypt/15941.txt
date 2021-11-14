@@ -1,0 +1,9 @@
+there descript someth call fair crypto system may 1993 issu byte p . 
+134 attribut mit professor silvio micali . 
+the way work follow you generat privat key s break piec s1 s2 s3 s4 s5 s1 s2 ... 
+s5 mod p s . 
+you give piec s1 s2 etc . 
+differ escrow agenc . 
+the agenc comput gsn mod p forward result public key telephon book keeper . 
+the public key telephon book keeper multipli gsn mod p reduc result mod p user 's public key . 
+now sever hunder recogn escrow agenc user could give piec key one trust result would someth improv propos clipper system . 

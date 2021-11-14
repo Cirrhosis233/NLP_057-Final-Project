@@ -1,0 +1,12 @@
+i old 3com ethernet card pc at bus came apollo workstat . 
+i 'm tri identifi order use pc . 
+the assembl number 4008-00 rev 2 16 bit card circa 1985 . 
+it aui port well bnc coax connect . 
+it select address bio io dma irq locat via berg jumper . 
+it also appear intel 80186 processor board presum buffer . 
+the ethernet chip appear intel 82586 48 pin dip packag . 
+is chip equival 8390 use card ? 
+there also 68 pin plcc chip call link pleas e-mail i n't think general interest . 
+my least favorit last line post . 
+um general interest . 
+as i prepar retir 22 apollo i 'm look way recycl use part . 

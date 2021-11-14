@@ -1,0 +1,14 @@
+forsal cpm comput 1 . 
+model ampro a13001 rev a without 2 720k 5 14 floppi drive system disk . 
+z80 processor . 
+2 . 
+unknown brand . 
+wminiscrib model 1006 hard drive . 
+12 height 8 shugart model 810 floppi drive . 
+keyboard . 
+system disk . 
+also 2 8 shugart model 801 floppi drive . 
+also commodor 64 comput 1541 disk drive . 
+will sell whole part . 
+buyer pay ship . 
+ask jonathan . 

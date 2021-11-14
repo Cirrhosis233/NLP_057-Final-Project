@@ -1,0 +1,20 @@
+could someon post definit answer vram configur q800 presum c610 c650 well . 
+there seem lot confus issu . 
+i 'd like know what kind simm vram simm i.e . 
+30-pin etc . ? 
+there 's one physic size vram simm unlik dram simm come mani mani size pinout although come differ amount vram . 
+the one need 256kb simm organ 128k x 16 two 128k x 8 vram chip . 
+this size quadra centri machin use . 
+how mani vram simm slot ? 
+two . 
+what rule must follow fill slot e.g pair size must match etc . ? 
+both simm slot must fill put simm one slot noth . 
+how fast must ? 
+80 ns q800 c650 100 ns c610 . 
+is relev inform ? 
+there certain vram chip manufactur whose part compat quadra centri video hardwar . 
+make sure sourc get guarante compatibl . 
+in general work q950 work q800 . 
+pleas n't repli unless correct inform . 
+mani thank advanc help elimin nois group . 
+trust . 

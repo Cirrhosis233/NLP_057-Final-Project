@@ -1,0 +1,5 @@
+when type client window display part window wrong color window move slight forc server repaint repaint correct color . 
+it n't happen i exact problem run hewlett packard 's microwav design system mds hp 380 unix box run macx 1.2 sys 7.0.1 . 
+normal mds draw window deep blue backround occasion becom light blue text etc insid window becom wash near invis . 
+i thought someth brain dead i subtl conflict anoth app init . 
+by slight move window forc re-draw color get correct . 

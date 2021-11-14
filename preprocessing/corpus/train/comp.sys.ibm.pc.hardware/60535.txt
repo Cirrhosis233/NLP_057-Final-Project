@@ -1,0 +1,22 @@
+except clock frequenc differ various type 386 486 processor ? 
+the follow list i know perhap i think i know ! . 
+can anybodi extend correct ? 
+80386 true 32 bit processor . 
+cach ? 
+no cach also call 386dx . 
+80386sx emul 80386 16 bit bus . 
+it intern 386 real 32-bit processor 16 bit hookup outsid world . 
+80486 true 32 bit processor . 
+intern mathemat coprocessor correct ? 
+yes optim 387 intern . 
+intern cach correct ? 
+how big ? 
+yes 8k . 
+extend instruct set way ? 
+yes instruct noth noteworthi . 
+80486sx probabl sorta like 80486 ... 
+486 coprocessor . 
+80486dx probabl sorta like 80386 ... 
+nope . 
+just anoth name 486 . 
+comput useless give answer . 

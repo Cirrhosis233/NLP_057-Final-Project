@@ -1,0 +1,4 @@
+i think mean circular recurs semant . 
+recurs problem horribl ineffici ask assembl programm . 
+tail-recurs function scheme least effici iter loop . 
+anyon n't program assembl heard optim compil . 

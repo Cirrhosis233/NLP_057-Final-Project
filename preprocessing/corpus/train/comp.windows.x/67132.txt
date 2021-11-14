@@ -1,0 +1,7 @@
+i develop x xtxm applic includ graphic window sort move symbol among thing . 
+a pure x applic could implement motif widget one would xmdrawingarea draw xlib . 
+but i would like take advantag graphic librari gl avail ibm rs6000 sgi 's gl believ . 
+is possibl mix x gl one applic program ? 
+can i use gl subroutin xmdrawingarea x window open xopenwindow ? 
+in sgi 's distribut indigo line other well possibl includ sourc code gl widget fit top motif one 's xt base well . 
+you may wish ask ibm whether support . 

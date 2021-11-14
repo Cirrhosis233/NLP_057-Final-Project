@@ -1,0 +1,9 @@
+in window i creat perman swap-fil 7771kb win3.1 recommend 32bit access . 
+if i use emm386.ex win3.1 startup i 6689k memori free i leav emm386.ex config.si i 9935k memori free window recommend swap file 11769k . 
+i think need emm386.ex noem this let expand mem activ use therefor give extend mem window yet base cover . 
+i use dos6 memmak 4mb intern memori 486dx i use dos6 i familiar . 
+doe anybodi know happen possibl win need umb 's manag virtual memori ? 
+if true umb 's emm386 find without includ suspici part ? 
+i need optim dos-environ develop applic dos use window program environ . 
+rudi c-ya ..... 
+artin 

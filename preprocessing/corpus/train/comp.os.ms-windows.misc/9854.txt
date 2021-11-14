@@ -1,0 +1,16 @@
+i .bat file i run window icon . 
+i set pif file run bat file exclus mode use entir screen . 
+the first line bat file set environ variabl . 
+my problem machin run ms-dos 5.0 window 3.1 enhanc mode set command bat file fail out of environ space error . 
+i rais amount environ space 2048 byte use shell command config.si i know i nowher near run . 
+from window resourc toolkit win4workgroup add entri system.ini file nonwindowsapp section commandenvsizennnn this set command.com env size nnnn must either 0 160 32768 . 
+a valu 0 disabl set . 
+if valu small big round 160 32768 . 
+if valu less current size actual environ set disabl 0 . 
+if specifi environ size pif file command.com pif set overrid set . 
+the default 0 msdos version earlier 3.2 . 
+otherwis default valu e option shell command config.si . 
+to set valu must edit system.ini reboot i use entri well reli default e config.si shell line give larger environ . 
+if n't use one environ pass window new dos box littl bit bigger environ variabl present window start . 
+no matter big dos env window start truncat unus space except byte . 
+this allow batch file run mileag may vari . 

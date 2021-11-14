@@ -1,0 +1,8 @@
+... 
+stuff delet besid 0 wait state perform 'd need cach anyway . 
+i mean use processor run speed 80ns simm ? 
+note memori speed correspond clock speed 12.5 mhz . 
+stuff delet ... 
+how calcul figur ? 
+i 'd assum even person comput board design would use bank switch optimist quadrupl access speed i miss someth ? 
+hsk 

@@ -1,0 +1,16 @@
+hi . 
+we bought 486 dx266 gateway system 2 meg ati ultra pro video card . 
+everyth seem work fine except window driver 800x600 24 bit 800x600 1024x768 16 bit mode . 
+the font icon start deterior window startup within minut use everyth screen total unintellig . 
+natur i call gateway tech support inquir . 
+the technician ask driver i told version 1.5 build 59 . 
+he told 16 24 bit driver this pure bull . 
+i ve 24 bit mode 640x480 800x600 work sinc version 59 ? ? 55 ? ? . 
+bld 59 ad 24 bit option flexpanel . 
+tri get driver ftp.cica.indiana.edu wuarchiv . 
+ati ultra pro simpli work ! ! ! 
+is true ? 
+if i 'm simpli amaz . 
+how could ? 
+the strang thing i would expect see discuss unless subject made faq ! ! ! . 
+gateway 486 dx266 local bus 16 meg ram scsi hd cd-rom ultrastor 34f local bus scsi control ati ultra pro local bus 2mb vram dos 6.0 window 3.1 mach 32 driver version 1.5 build 59 mine gateway 486 dx250 lb 8 meg ram ide hd ati gup w 2mb instal upgrad bld 59 driver . 

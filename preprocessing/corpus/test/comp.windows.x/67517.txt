@@ -1,0 +1,10 @@
+hello ! 
+we want configur x11r5 sytem i486 33mhz run bsd-like unix com chooser menu differ machin work connect . 
+but connect work localhost ! 
+an ' x -indirect machin ' work well ! 
+the configur start xdm ' boot time server specifi xserver start x-server boot time x -indirect localhost ........... 
+delet you need start x-server -indirect itsnam . 
+if start -indirect localhost use loopback adress 's adress . 
+so tri contact anoth host one tri answer loopback adress . 
+not good . 
+rememb everi machin adress 127.0.0.1 loopback network . 

@@ -1,0 +1,9 @@
+hi i wrote small applic use pixmap copi window show draw . 
+this work perfect kind object expect larg font . 
+what happen screen right half font shown . 
+the way i creat thing quit simpl aggreg code xfillrectangledisp pix anycolor 0 0 width height xdrawlinerectstr ... 
+xcopyareadisp pix win 0 0 width height 0 0 i use rs6k 340 bos 3.2 . 
+the question bug aix x-server may ptfs i someth wrong within code ? ? 
+sorri cross-post i realli know kind error . 
+juergen schietk research insitut discret mathemat univers bonn nassestr . 
+2 5300 bonn 1 germani 

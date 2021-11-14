@@ -1,0 +1,541 @@
+archive-nam xt-faq version id faq-xtv 1.28 930402 124112 ware exp the x toolkit intrins f.a.q a month post this articl contain answer frequent ask question faq comp.windows.x x toolkit intrins . 
+to submit mani faq includ one avail archiv site rtfm.mit.edu directori pubusenetnews.answ . 
+the name faq archiv appear archive-nam line top articl . 
+this faq archiv xt-faq . 
+all code fragment public domain . 
+content 0 . 
+xt glossari 1 . 
+softwar version 2 . 
+relat faq 's 3 . 
+whi applic core dump i use signalsalarmscthread ? 
+4 . 
+how i use differ visual default ? 
+5 . 
+which visual applic use ? 
+6 . 
+whi shell widget visual ? 
+7 . 
+which visual depth colormap shell inherit ? 
+8 . 
+i ve done i still get badmatch error . 
+whi ? 
+9 . 
+whi n't widget get destroy i call xtdestroywidget ? 
+10 . 
+how i exit still execut destroycallback ? 
+11 . 
+how i resiz shell widget ? 
+12 . 
+whi ca n't xtappaddinput handl file ? 
+13 . 
+what good book magazin xt ? 
+14 . 
+what widget avail ? 
+15 . 
+what altern intrins ? 
+16 . 
+how i pass float valu xtsetvalu ? 
+17 . 
+how i write resourc convert ? 
+18 . 
+how i open multipl display ? 
+19 . 
+what chang r3 r4 r5 ? 
+20 . 
+where resourc load ? 
+21 . 
+what order callback execut ? 
+22 . 
+how i know widget visibl ? 
+23 . 
+how i repar widget xt i.e . 
+xtreparentwidget ? 
+24 . 
+whi use xtmalloc xtfree etc ? 
+25 . 
+how debug xt applic ? 
+26 . 
+whi n't xtaddinput xtaddtimeout xtaddworkproc work ? 
+27 . 
+what i implement drag drop ? 
+0 . 
+xt glossari the xt intrins implement object orient interfac c code allow use graphic compon creat . 
+includ class provid base function object rectobj core composit constraint shell overrideshel wmshell etc . 
+the term xt intrins use interchang howev use precis mean specif librari x window system . 
+in particular includ athena motif olit widget set . 
+without widget intrins especi use . 
+a widget refer user interfac abstract creat via xt . 
+the precis use object subclass core class . 
+it use loos refer anyth subclass object class although accur call windowless widget gadget . 
+xlib c interfac x11 protocol . 
+it one layer xt intrins . 
+typic widget use relat xlib function xt provid servic although understand xlib help problem . 
+1 . 
+softwar version the follow latest version xt base softwar softwar version releas next expect x11r4 patch 18 none x11r5 patch 21 121892 ? ? 
+athena widget see x11r5 motif 1.2.1 992 ? ? 
+olit ? ? 
+? ? 
+? ? 
+xtra 2.5 61592 ? ? 
+xw x11r4 none xcu x11r5 none fwf 3.4 11192 493 2 . 
+relat faq 's david b . 
+lewi uunet ! craft ! faq maintain faq x . 
+it post month comp.windows.x locat export contribfaq . 
+comp.windows.x . 
+comp.windows.x.motif . 
+comp.windows.x.intrins export contribfaq-xt . 
+3 . 
+whi applic core dump i use signalsalarmscthread ? 
+in brief xlib xt widget set mutual exclus critic section . 
+ani interrupt handler like leav one librari inconsist state appropri flag yet set dangl pointer middl list travers etc . 
+note ansi c standard point behavior signal handler undefin signal handler call function signal problem specif xlib xt posix specif mention function may call safe may assum function call xlib xt function . 
+the safe way deal signal set flag interrupt handler . 
+this flag later need check either work procedur timeout callback . 
+it incorrect add either interrupt handler . 
+as anoth note danger add work procedur never finish . 
+this effect preempt work procedur previous ad never call . 
+anoth option open pipe tell event loop read end use xtappaddinput signal handler write byte write end pipe signal . 
+howev could deadlock process pipe fill . 
+whi n't intrins deal problem ? 
+primarili suppos portabl layer hardwar oper system . 
+is good enough reason i n't think . 
+note articl the x journal 14 exampl o'reilli volum 6 error . 
+4 . 
+how i use differ visual default ? 
+this requir complic answer . 
+a window three thing visual specif visual colormap border pixmap . 
+all widget colormap borderpixmap resourc shell widget visual resourc anoth question deal shell visual . 
+the default valu resourc copyfrompar exact say . 
+in shell widget copyfrompar get evalul defaultvisualofscreen defaultcolormapofscreen . 
+when one three resourc proper set badmatch error occur window creat . 
+they proper set valu depend visual use . 
+how get work ? 
+there two part answer . 
+the first want applic start particular visual second want particular shell within applic start differ visual . 
+the second actual easier basic inform need avail . 
+the first littl harder ll need initi much toolkit order determin need inform . 
+some sampl code start applic use someth default visual . 
+to compil cc -g visual.c -o visual -lxaw -lxmu -lxt -lxext -lx11 -lm to run .visual -geometri 300x300 -depth 24 -visual staticcolor -fg blue -bg yellow need move mous get particular visual colormap instal . 
+includ x11intrinsic.h includ x11stringdefs.h includ x11shell.h typedef struct visual visual int depth optionsrec optionsrec option xtresourc resourc visual visual xtrvisual sizeof visual xtoffsetof optionsrec visual xtrimmedi null depth depth xtrint sizeof int xtoffsetof optionsrec depth xtrimmedi null xrmoptiondescrec desc -visual visual xrmoptionseparg null -depth depth xrmoptionseparg null int main argc argv int argc char argv xtappcontext app applic context widget top toplevel widget display dpi display char xargv save argument vector int xargc save argument count colormap colormap creat colormap xvisualinfo vinfo templat find visual xvisualinfo vinfolist return list visual int count number match 1 ? 
+arg args10 cardin cnt char name test char class test save command line argument xargc argc xargv char xtmalloc argc sizeof char bcopi char argv char xargv argc sizeof char the follow creat dummi toplevel widget retriev appropri visual resourc . 
+cnt 0 top xtappiniti app class desc xtnumber desc argc argv string null arg cnt dpi xtdisplay top cnt 0 xtgetapplicationresourc top option resourc xtnumber resourc arg cnt cnt 0 options.visu options.visu defaultvisualofscreen xtscreen top xtsetarg argscnt xtnvisual options.visu cnt now creat appropri colormap . 
+we could use default colormap base class visual could examin properti rootwindow find right colormap could sort thing ... 
+colormap xcreatecolormap dpi rootwindowofscreen xtscreen top options.visu allocnon xtsetarg argscnt xtncolormap colormap cnt now find inform visual . 
+vinfo.visualid xvisualidfromvisu options.visu vinfolist xgetvisualinfo dpi visualidmask vinfo count vinfolist count 0 xtsetarg argscnt xtndepth vinfolist0.depth cnt xfree xpointer vinfolist xtdestroywidget top now creat real toplevel widget . 
+xtsetarg argscnt xtnargv xargv cnt xtsetarg argscnt xtnargc xargc cnt top xtappcreateshel char null class applicationshellwidgetclass dpi arg cnt display applic loop handl event . 
+xtrealizewidget top xtappmainloop app return 0 5 . 
+which visual applic use ? 
+this point argu one opinion way applic know appropri visual specifi user . 
+if disagre applic probabl fall categori alway use default visual hardwar specif expect particular visual 24bit truecolor overlayplan extens . 
+whi ? 
+no applic run isol . 
+depend way server alloc resourc i may alway want applic run truecolor mode go mess applic . 
+i may upset choos run greyscal instead psuedocolor monochrom . 
+as exampl low end color sun server mani differ possibl visual monochrom 256 entri colormap static gray static color 332 truecolor . 
+the sgi iri 's offer plus 12 bit truecolor 24 bit truecolor overlay plane . 
+6 . 
+whi shell widget visual ? 
+this strict convent . 
+it make possibl arbitrari widget know visual use found look shell widget ancestor obtain visual shell . 
+a widget visual resourc . 
+if must realiz method use visual call xcreatewindow . 
+you also make resourc obtain xtgetvalu widget find . 
+a reason valu probabl xtnvisual . 
+7 . 
+which visual depth colormap shell inherit ? 
+the default valu resourc set copyfrompar . 
+this interpret defaultcolormapofscreen defaultdepthofscreen default visual screen widget parent i.e . 
+applicationshellwidgetclass root widget tree . 
+if parent widget null shell copi colormap depth parent use copyfrompar visual . 
+8 . 
+i ve done i still get badmatch error . 
+whi ? 
+some resourc convert improp cach refer . 
+this especi true x11r3 earlier version motif . 
+9 . 
+whi n't widget get destroy i call xtdestroywidget ? 
+see section 2.8 xt specif . 
+it eventu get destroy immedi . 
+the intrins destroy widget two-phas process . 
+first children flag set indic destroy . 
+it put list widget destroy . 
+this way pend x event refer widget clean memori actual freed . 
+the second phase perform callback event handler action complet check next x event . 
+at point list travers widget 's memori actual free 'd among thing . 
+as caveatstrivia widget may destroy intrins determin refer widget list . 
+if phase 2 destruct occur immedi . 
+also nest event loop use widget place destroy list enter inner event loop destroy return outer event loop . 
+10 . 
+how i exit still execut destroycallback ? 
+the problem simpl entir reason approach exit applic use call exit direct widget may chanc clean extern state open socket temporari file alloc x resourc etc . 
+code simplic reason assum singl toplevel widget widget toplevelget gw widget gw widget find toplevel widget top top gw xtparent top top xtparent top empti return top void exitcallback gw closur calldata widget gw widget xtpointer closur data app specifi xtpointer calldata widget specif data widget toplevel toplevel toplevelget gw xtunmapwidget toplevel make disappear quick xtdestroywidget toplevel exit 0 one see code exit 's immedi destroy toplevel widget . 
+the troubl phase 2 destruct may never occur . 
+this work widget applic work widget extern state . 
+you might think sinc work alway work rememb part reason object orient approach use one ignor implement detail widget . 
+which mean widget may chang someday requir extern state clean destroy callback . 
+one altern modifi exitcallback set global flag test flag privat event loop . 
+howev privat event loop frown upon tend encourag sloppi difficult maintain practic . 
+tri follow code instead . 
+includ x11intrinsic.h extern widget toplevelget needfunctionprototyp widget gw endif extern boolean exitworkproc needfunctionprototyp xtpointer closur endif extern void exitcallback needfunctionprototyp widget gw xtpointer closur xtpointer calldata endif widget toplevelget gw widget gw widget find toplevel widget top top gw xtparent top top xtparent top empti return top void exitcallback gw closur calldata widget gw widget xtpointer closur data app specifi xtpointer calldata widget specif data widget toplevel toplevel toplevelget gw xtunmapwidget toplevel make disappear quick xtdestroywidget toplevel xtappaddworkproc xtwidgettoapplicationcontext gw exitworkproc xtpointer null boolean exitworkproc closur xtpointer closur exit 0 notreach exitcallback add work procedur get call applic next idl happen event process destroy callback execut . 
+11 . 
+how i resiz shell widget ? 
+after realiz one n't resiz shell widget . 
+the proper thing resiz current manag child shell widget use xtsetvalu . 
+the geometri chang propag shell ask window manag may may allow request . 
+howev shell must resourc xtnallowshellres set true otherwis even ask window manag grant request shell resiz . 
+to chang posit shell use xtsetvalu shell child within limit window manag grant . 
+12 . 
+whi ca n't xtappaddinput handl file ? 
+it howev unix semant io readi file fit peopl ' intuit model . 
+in unix term file descriptor readi read whenev read call would block ignor set option flag indic block . 
+this work expect termin socket pipe . 
+for file read alway return return indic eof i.e . 
+data . 
+the result code intrins alway call input handler alway think someth read . 
+the culprit select system call sysv base os 's poll system call . 
+how get around unix system ? 
+the best approach use anoth process check avail input file . 
+use pipe connect applic process pass file descriptor pipe xtappaddinput . 
+a suitabl program bsd system tail -f filenam . 
+it 's rumor select system complet reliabl . 
+in particular ibm aix 3.1 one would work sever thousand time stop event woke . 
+this seem result race condit kernel . 
+ibm claim fix . 
+pyramid n't work . 
+ultrix possibl other pipe implement socket n't complet broken although write side wrote 512 byte block read side receiv broken put pipe byte time . 
+you wast lot time read small block get raound detect situat select ignor pipe 10 msecond given whole block . 
+note descript use unix terminolog read file descriptor pipe etc . 
+this os depend area may ident system . 
+howev intrins design felt common enough oper includ part toolkit . 
+whi n't also deal signal point i n't know . 
+13 . 
+what good book magazin xt ? 
+i favorit definit refer . 
+to perspect offer reason introduct also goe full detail intrins . 
+when i start use i alreadi familiar xt concept behind newcom may may find use . 
+i ve alway found accur complet mean 1000 page . 
+asent paul j . 
+swick ralph r . 
+x window system toolkit the complet programm 's guid specif digit press 1990 isbn 1-55558-051-3 order number ey-e757e-dp prentice-hal isbn 0-13-972191-6 . 
+also avail dec direct 1-800-digit . 
+the book i common recomend novic young doug . 
+the x window system applic program xt motif version prentic hall 1989 isbn 0-13-497074-8 . 
+isbn 0-13-972167-3 and cours o'reilli entir seri manual x xt . 
+o'reilli order 800-998-9938 . 
+in particular volum 5 xt refer done manual page style . 
+the 3rd edit extens overhaul goe far beyond mit manual page . 
+i 'm find use . 
+in particular permut index refer manual page help great deal chase relat inform . 
+i read two period the x resourc the x journal . 
+these two deal specif x . 
+the x resourc publish quarter o'reilli one issu mit x consortium technic confer proceed . 
+there advertis . 
+i ve found inform pretti good depth . 
+for math.utah.edu ftppubtexbib tex form ftp.uu.net ftppublishedoreillyxresourc ascii form . 
+the x journal bimonth trade rag lot advertis . 
+the articl inform orient toward less technic audienc . 
+i read see 's go expect learn great deal rememb i repres fair small percentag peopl . 
+also pretti good collect peopl advisori board columnist . 
+call 908 563-9033 . 
+14 . 
+what widget avail ? 
+there three popular widget set athena the set provid x11 . 
+this suffici purpos ugli side . 
+recent 3d look avail ftp export.lcs.mit.educontribxaw3d.tar.z . 
+motif from osf avail licens fee common ship mani workstat vendor platform almost everyon sun . 
+it look good work well person i think poor implement . 
+olit the open look intrins toolkit set widget implement sun 's open look specif . 
+develop att . 
+i ve never use ca n't comment qualiti . 
+i ve heard rumour pain actual get . 
+in addit follow collect widget also avail xtra librari widget sale graphic softwar technolog 310-328-9338 . 
+it includ bar graph stack bar graph line graph pie chart xy plot hypertext help spreadsheet data entri form widget . 
+i ve never seen i ca n't comment . 
+fwf the free widget foundat attempt collect set freeli avail widget . 
+includ pixmap editor filedialog other . 
+the current set widget obtain via anonym ftp machin a.cs.uiuc.edu 128.174.252.1 file pubfwf.shar.z . 
+xcu the cornel univers widget gene dyke . 
+one earli widget set releas . 
+provid nice appear button mini command languag . 
+probabl wide use . 
+xs the soni widget set . 
+this around r3 day seem disappear . 
+it look like promis . 
+xw the hp widget . 
+the precursor motif . 
+origin written r3 exist diff get work r4 r5 . 
+again pretti good widget set less die . 
+the precursor xray toolkit origin implement x10r4 appar provid much experi design xt . 
+xo a widget set i 'm work . 
+it 's still primit give tri archive.cis.ohio-state.edupubxo the follow special widget also avail tbl implement tabular layout widget . 
+support motif widget children . 
+part wcl . 
+plot the athena plot widget athena widget . 
+15 . 
+what altern intrins ? 
+name languag vendor xview c sun oi c parcplac interview c stanford tcltk c sprite.berkeley.edu howev much i like c admir skill design implement intrins hope altern develop next 3-5 year use object orient languag . 
+keep eye open expect chang time languag c start gain accept . 
+16 . 
+how i pass float valu xtsetvalu ? 
+first go wrong structur arg essenti typdef struct string name long valu arg code arg arg xtsetarg arg name 3.2 expand arg arg arg.nam name arg.valu 3.2 see normal c type convers arg.valu get integ 3 instead float point valu 3.2 . 
+when valu copi widget resourc bit pattern wild differ requir float point valu . 
+so get around ? 
+the follow macro athena widget document i recomend previous suggest . 
+defin xtsetfloatargarg n sizeoffloat sizeofxtargv xtsetargarg n els xtargval ld xtargval xtsetargarg n ld 17 . 
+how i write resourc convert ? 
+the follow discuss resourc convert assum r4 r5 intrins . 
+resourc convert chang r3 r4 allow destructor cach convert valu . 
+there sever main type resourc convert string data type data type string data type data type string data type usual string data type convert fix set string convert data type valu . 
+this often use map enumer name enumer valu name valu true 1 fals 0 in case string data type convert need compar resourc valu list fix string . 
+this readili accomplish use quark mechan resourc manag . 
+the resourc valu turn quark uniqu represent string fit singl word . 
+then resourc quark compar quark fix string repres enumer valu . 
+if mani enumer string convert mani convert small number enumer string global initi routin might use turn resourc string quark . 
+that way first time one convert use string turn quark held static variabl use next invoc one convert . 
+ii data type string this type convert slight easier string data type convert sinc use quark n't necessari . 
+instead data type valu simpli convert string valu probabl use sprintf . 
+data type string convert use applic wish convert intern data type valu string write valid resourc specif file . 
+this mechan use provid snapshot applic state file . 
+this snapshot use restor program known state via usual x resourc databas mechan . 
+if take troubl write string data type convert n't much extra effort write data type string convert . 
+write time help ensur consist . 
+iii data type data type this type convert use convert exist data type valu anoth data type . 
+for instanc x pixel valu convert rgb data type contain separ field red green blue . 
+the type signatur resourc convert follow typedef boolean xttypeconverterdisplay xrmvalueptr cardin xrmvalueptr xrmvalueptr xtpointer display dpi xrmvalueptr arg cardin numarg xrmvalueptr fromval xrmvalueptr toval xtpointer converterdata when convert invok fromval argument point sourc x resourc manag valu toval argument point destin x resourc manag valu . 
+the converterdata argument opaqu pointer converter-specif data specifi convert regist . 
+the arg numarg argument allow extra inform pass convert invok . 
+for instanc pixel rgb structur convert discuss would need colormap visual argument lookup pixel obtain rgb valu correspond pixel . 
+care must taken toval argument . 
+an xrmvalu follow type definit specifi size locat convert valu typedef struct unsign int size caddrt addr xrmvalu xrmvalueptr when convert invok address may point locat given size convert valu locat null . 
+in former case convert ensur size destin area larg enough handl convert valu . 
+if destin area larg enough convert set size amount space need return fals . 
+the caller ensur enough space alloc reinvok convert . 
+if size larg enough convert simpli copi convert valu space given return true . 
+if locat null convert assign locat address static variabl contain convert valu return true . 
+when write group convert code often repeat becom conveni defin macro defin donevar type toval-addr toval-s sizeoftyp toval-s sizeoftyp return fals els type toval-addr var els toval-addr caddrt var toval-s sizeoftyp return true defin donestrstr toval-addr toval-s sizeofstr toval-s sizeofstr return fals els toval-addr caddrt str toval-s sizeofstr return true insid convert good idea perform littl safeti check numarg arg argument ensur convert call proper . 
+onc written convert need regist intrins . 
+the intrins invok resourc convert creat widget fetch resourc valu resourc databas . 
+to regist convert singl applic context use xtappsettypeconvert void xtappsettypeconvertercontext convert arg numarg cach destructor xtappcontext context string string xttypeconvert convert xtconvertarglist arg cardin numarg xtcachetyp cach xtdestructor destructor to regist convert applic context use xtsettypeconvert void xtsettypeconverterfrom convert arg numarg cach destructor string string xttypeconvert convert xtconvertarglist arg cardin numarg xtcachetyp cach xtdestructor destructor in r3 intrins routin xtappaddconvert xtaddconvert supersed xtappsettypeconvert xtsettypeconvert . 
+whenev possibl newer routin use . 
+when convert regist intrins cach argument specifi convert resourc valu cach xtcachenon do n't cach convert valu xtcacheal cach convert valu xtcachebydisplay cach convert valu per display basi cach convert valu requir round-trip server good idea instanc string pixel convers . 
+the destructor argument routin invok resourc destroy either cach refer count decrement zero widget own valu destroy . 
+xtdestructor follow type definit typedef void xtdestructorxtappcontext xrmvalueptr xtpointer xrmvalueptr cardin xtappcontext context xrmvalueptr xtpointer converterdata xrmvalueptr arg cardin numarg the destructor invok free auxiliari storag associ argument actual free storag point argument to-addr . 
+the destructor pass extra argument pass convert convers perform instanc colormap visual argument string pixel convert sinc destructor would need free alloc pixel colormap well privat data pass convert regist . 
+sampl convert code found follow file mit r5 distribut mitlibxtconverters.c contriblibpextconverters.c contriblibpextconverters.h 18 . 
+how i open multipl display ? 
+see multi-us applic softwar use xt the x resourc issu 3 summer 1992 oliv jone complet coverag issu involv . 
+most answer base articl . 
+in nutshel one use xtopendisplay add display singl applic context xtclosedisplay shutdown display remov applic context . 
+the real problem occur tri close display . 
+this happen 3 way 1 . 
+user select quit button one display 2 . 
+user window manag send wmdeletewindow messag 3 . 
+server disconnect possibl killclient messag server shutdowncrash network failur . 
+i ll assum deal grace 1 2 sinc mere problem translat widget display remov display . 
+if read oliv jone articl . 
+the third one difficult handl . 
+the follow base oliv jone articl i includ difficult problem . 
+the difficulti aris xlib design presum io error alway unrecover fatal . 
+this essenti true singl display x base applic true multipl display program applic thing display inform x server . 
+when x io error occur io error handler call return exit happen . 
+the way around use setjmplongjmp avoid return io error handler . 
+the follow code fragment demonstr includ setjmp.h jmpbuf xiorecov void xiohandl dpi display dpi destroydisplay dpi longjmp xiorecov 1 main ... 
+setjmp xiorecov 0 xsetioerrorhandl xiohandl xtappmainloop appcontext the destroydisplay someth given display pointer go back applic specif data perform necessari cleanup . 
+it also call xtclosedisplay . 
+for unfamiliar setjmplongjmp setjmp first call return 0 save 's enough inform jmpbuf latter execut longjmp return program state setjmp execut . 
+the return valu second setjmp valu second argument longjmp . 
+there sever caveat use purpos adequ . 
+some problem might run resourc convert improp cach resourc . 
+the like symptom xlib error badcolor badatom badfont . 
+there may problem total number display open sinc typic limit number file descriptor avail 32 typic valu . 
+you may also run author problem tri connect display . 
+there much discuss comp.windows.x topic novemb 91 . 
+robert scheifler post articl basic said way xlib chang . 
+19 . 
+what chang r3 r4 r5 ? 
+this address chang intrins . 
+first general chang releas describ . 
+then certain incomplet list new function ad other deprec list . 
+breviti primari goal . 
+much follow inform retriev chapter 13 mit xt intrins manual o'reilli volum 5 3rd edit . 
+from r3 r4 addit gadget windowless widget new resourc type convert interfac handl cach addit data . 
+variabl argument list interfac . 
+defin xtspecificationreleas 4 ad releas wmshellpart toplevelshellpart transientshellpart chang incompat . 
+core.initi core.setvalu ad arglist count paramet event handler continuetodispatch paramet ad core.setvaluesalmost specif chang . 
+core.compressexposur chang enumer data type boolean core.classinit chang enumer data type boolean constraint.getvalueshook ad extens record core.initializehook obsolet info pass core.initi shell.rootgeometrymanag ad extens record core.setvalueshook obsolet info pass core.setvalu call xtquerygeometri must store complet geometri . 
+ad unrealizecallback . 
+xttranslatecoord actual work r4 . 
+from r4 r5 psuedo resourc basetransl ad . 
+search app-default file made flexibl custom resourc ad . 
+per-screen resourc databas . 
+support perman alloc string . 
+permanet alloc string requir sever class field . 
+the arg argument xtappiniti xtvaappiniti xtopendisplay xtdisplayiniti xtiniti chang cardin int mani perform improv summar articl xt perform improv releas 5 gabe beged-dov the x resourc issu 3 xrmstringtoquark augment xrmpermstringtoquark avoid string copi . 
+sever field class record indic need perman string . 
+use array string resourc callback list redesign use less memori translat manag redesign rewritten take less memori translat tabl merg faster cach action bind keycod keysym cach . 
+better share gc 's modifi field window widget translat use less space faster doe malloc space widget name sinc quark avail widget space alloc includ constraint over sever exampl program 26 reduct memori usag . 
+function new r5 xtallocategc sharabl gc modifi field xtgetactionlist get action tabl class xtscreendatabas return resourc databas screen xtsetlanguageproc regist languag procedur call set local function new r4 xtappaddactionhook procedur call everi action . 
+xtappiniti lot initi work . 
+xtappreleasecacheref decrement cach refer count convert xtappsetfallbackresourc specifi default resourc xtappsettypeconvert regist new style convert xtcallcallbacklist direct execut callback list xtcallconvert invok new style convert xtcallbackreleasecacheref releas cach resourc valu xtcallbackreleasecachereflist releas list cach resourc valu xtconvertandstor find call resourc convert xtdirectconvert invok old-styl convert xtdisplayofobject return display xtdisplaystringconversionwarn issu warn convers xtfindfil find file xtgetactionkeysym retriev keysym modifi action xtgetapplicationnameandclass return name class xtgetconstraintresourcelist get constraint widget xtgetkeysymt return keycode-to-keysym map tabl xtgetmulticlicktim read multi-click time xtgetselectionrequest retriev selectionrequest event xtgetselectionvalueincrement obtain select valu increment xtgetselectionvaluesincrement obtain select valu increment xtinitializewidgetclass initi widget class manual xtinserteventhanld regist event handler beforeaft other xtinsertraweventhandl regist event handler without modifi input mask xtisobject test subclass object xtisrectobj test subclass rectobj xtkeysymtokeycodelist return list keycod xtlasttimestampprocess retriev recent event time xtmenupopdown action pop widget xtmenupopup action pop widget xtoffsetof macro structur offset xtownselectionincrement make select data availab increment xtpoupspringload map spring-load popup xtregistergrabact indic action procedur need passiv grab xtremoveactiohhook remov function call everi action xtresolvepathnam find file xtscreenofobject return screen object . 
+xtsetmulticlicktim set multi-click time xtsetwmcolormapwindow set wmcolormapwindow custom colormap xtungrabbutton cancel passiv button grab xtungrabkey cancel passiv key grab xtungrabkeybard releas activ keyboard grab xtungrabpoint releas activ pointer grab xtva varag interfac bunch function xtwindowofobject return window nearest widget ancestor deprec replac when xtaddact xtappaddact r3 xtaddconvert xtappaddconvert r3 xtaddinput xtappaddinput r3 xtaddtimeout xtappaddtimeout r3 xtaddworkproc xtappaddworkproc r3 xtconvert xtconvertandstor r4 xtcreateapplicationshel xtappcreateshel r3 xtdestroygc xtreleasegc r3 xterror xtapperror r3 xtgeterrordatabas xtappgeterrordatabas r3 xtgeterrordatabasetext xtappgeterrordatabasetext r3 xtgetselectiontimeout xtappgetselectiontimeout r3 xtiniti xtappiniti r3 xtmainloop xtappmainloop r3 menupopdownact xtmenupopdownact r4 menupopupact xtmenupopupact r4 xtnextev xtappnextev r3 xtpeekev xtapppeekev r3 xtpend xtapppend r3 xtseterrorhandl xtappseterrorhandl r3 xtseterrormsghandl xtappseterrormsghandl r3 xtsetselectiontimeout xtappsetselectiontimeout r3 xtsetwarninghandl xtappsetwarninghandl r3 xtsetwarningmsghandl xtappsetwarningmsghandl r3 xtwarn xtappwarn r3 xtwarningmsg xtappwarningmsg r3 20 . 
+where resourc load ? 
+the resourc widget fill follow place highest prioriti lowest prioriti 1 . 
+arg pass creation time . 
+2 . 
+command line argument . 
+3 . 
+user 's per host default file 4 . 
+user 's default file . 
+5 . 
+user 's per applic default file . 
+6 . 
+system wide per applic default file . 
+note 2-6 read applic startup . 
+the result step 3-6 singl resourc databas use queri . 
+the per host default file contain custom applic execut specif comput . 
+this file either specifi xenviron environ variabl set file home.xdefaults-host use . 
+the user default file either obtain resourcemanag properti root window display set file home.xdefault use . 
+typic program xrdb use set resourcemanag properti . 
+pleas note kept relat small client connect display must transfer properti . 
+a size around 1-3kbyte reason . 
+some toolkit may track chang resourcemanag . 
+a user may mani per applic default file contain custom specif applic . 
+the intrins quit flexibl file found . 
+read next part describ various environ variabl effect file found . 
+the system wide per applic default file typic found usrlibx11app-default . 
+if file found fallback resourc use . 
+the intrins quit flexibl file found . 
+read next part describ various environ variabl effect file found . 
+you use sever environ variabl control resourc load xt-base program xfilesearchpath xuserfilesearchpath xapplresdir . 
+these environ variabl control xt look application-default file applic initi . 
+xt load one app-default file path defin xfilesearchpath anoth path defin xuserfilesearchpath . 
+set xfilesearchpath softwar instal system way app-default file appear sever differ directori hierarchi . 
+suppos exampl run sun 's open window also r4 x applic instal usrlibx11app-default . 
+you could set valu like xfilesearchpath would caus xt look app-default file usrlibx11 usropenwinlib wherev openwinhom locat setenv xfilesearchpath usrlibx11tnopenwinhomelibtn the valu environ variabl colon-separ list pathnam . 
+the pathnam contain replac charact follow see xtresolvepathnam n the valu filenam paramet applic 's class name . 
+t the valu file type . 
+in case liter string app-default c custom resourc r5 s suffix . 
+none app-default . 
+l languag local codeset e.g . 
+jajp.euc l languag part l e.g . 
+ja the territori part display 's languag string c the codeset part display 's languag string let 's take apart exampl . 
+suppos applic 's class name myterm . 
+also suppos open window instal usropenwin . 
+notic exampl omit locale-specif lookup . 
+usrlibx11tn mean usrlibx11app-defaultsmyterm openwinhomelibtn mean usropenwinlibapp-defaultsmyterm as applic initi xt tri open app-default file order shown . 
+as soon find one read use stop look other . 
+the effect path search first usrlibx11 usropenwin . 
+let 's consid anoth exampl . 
+this time let 's set xuserfilesearchpath look file myterm.ad current work directori myterm directori app-default . 
+setenv xuserfilesearchpath .n.adhomeapp-defaultsn the first path list expand .myterm.ad . 
+the second expand homeapp-defaultsmyterm . 
+this conveni set debug follow imak convent name app-default file myterm.ad applic 's sourc directori run applic directori work still resourc load proper . 
+note look app-default file xuserfilesearchpath bizarr reason neither type file suffix defin t s useless . 
+with r5 's anoth twist . 
+you may specifi custom resourc valu . 
+for exampl might run myterm applic like myterm -xrm custom -color if one pathnam specif valu usrlibx11app-defaultsnc expand pathnam would usrlibx11app-defaultsmyterm-color c substitut charact take valu custom resourc . 
+the default xfilesearchpath compil xt usrlibx11ltnc r5 usrlibx11ltnc r5 usrlibx11tnc r5 usrlibx11ltn usrlibx11ltn usrlibx11tn note site replac usrlibx11 projectroot batch default set . 
+the default xuserfilesearchpath also compil xt rootlnc r5 rootlnc r5 rootnc r5 rootln rootln rootn root either valu xapplresdir user 's home directori xapplresdir set . 
+if set xuserfilesearchpath valu default xt ignor xapplresdir altogeth . 
+notic quick dirti way make applic find app-default file current work directori set xapplresdir singl dot . 
+in r3 machineri work differ r3 compatibilti mani peopl set xapplresdir valu dot follow slash . 
+21 . 
+what order callback execut ? 
+the intrins librari guarante order . 
+this widget writer applic writer abil modifi entir content callback list . 
+neither one current know intrins guarante order execut . 
+the applic programm reli widget writer widget writer requir document widget add remov callback list effect therefor function contain callback independ function contain callback list . 
+even though xt standard definit xtaddcallback say callbacknam specifi callback list procedur append may infer word append callback routin call order ad callback list . 
+22 . 
+how i know widget visibl ? 
+i build widget need know visibl . 
+i set visibl interest field core window complet obscur core visibl flag goe fals . 
+howev window iconifi flag stay set true . 
+right everyth implement correct . 
+this demonstr defici x protocol core widget reflect capabl protocol . 
+the defici inform avail one way case inconveni way . 
+the xt specif accur second third paragraph section 7.10.2 read section care . 
+the visibl field chang respons iconif . 
+a visibilitynotifi event receiv window goe viewabl unview widget ancestor unmap iconif occur . 
+this protocol defici . 
+visibl state viewabl state specif mean x protocol see glossari xlib x protocol refer manual . 
+is problem mwm someth els need done ? 
+you ll see window manag window manag . 
+if problem mwm fastest way determin window iconifi ? 
+as applic writer keep track global boolean action routin translat mapnotifi unmapnotifi shell widget contain custom widget . 
+as custom widget writer see mapstat field return call xgetwindowattribut . 
+these suggest . 
+23 . 
+how i repar widget xt i.e . 
+xtreparentwidget ? 
+you ca n't . 
+24 . 
+whi use xtmalloc xtfree etc ? 
+unfortun code call malloc realloc calloc tend ignor possibl return null . 
+at best handl someth like ptr type malloc sizeof type ! ptr perror malloc xyzzi exit 1 to handl common case intrins defin function xtmalloc xtcalloc xtnew xtnewstr xtrealloc use standard c languag function malloc calloc realloc execut xterrormsg null valu return . 
+xt error handler suppos return effect exit . 
+in addit xtrealloc call null pointer use xtmalloc get initi space . 
+this allow code like ! ptr ptr type malloc sizeof type els ptr type realloc ptr sizeof type count 1 count written ptr xtrealloc ptr sizeof ptr count also xtfree accept null pointer argument . 
+general i ve found xt function conveni use . 
+howev anytim i 'm alloc anyth potenti larg i use standard function i fulli recov enough memori error . 
+xtnew xtnewstr conveni macro alloc structur copi string struct abc xyzzi char ptr char str abcdef xyzzi xtnew struct abc take care type cast ptr xtnewstr str a strict interpret intrins refer manual allow implement provid function exchang malloc free . 
+i.e . 
+code char ptr ptr xtmalloc 100 ... 
+free ptr may work . 
+person i 'd call implement broken complain vendor . 
+a common error motif programm use xtfree string realli use xmstringfre . 
+25 . 
+how debug xt applic ? 
+first i 'd recomend get purifi pure softwar . 
+this great packag trace memori problem sun 's . 
+it 's bit pricey 2750 i 'd still recomend . 
+excus market blurb purifi insert addit check instruct direct object code produc exist compil . 
+these instruct check everi memori read write perform program test detect sever type access error read uniti memori write past malloc 'd bound write freed memori . 
+purifi insert check logic code program includ third parti vendor object-cod librari verifi system call interfac . 
+in addit purifi track memori usag identifi individu memori leak use novel adapt garbag collect techniqu . 
+purifi 's near comprehens memori access check slow target program typic factor two five . 
+an altern packag n't pricey 395 sun run mani unix 's pretti similar featur the sentinel debug environ . 
+this replac malloc sever c librari info next get sort xlib error ll need run synchron mode easili accomplish -sync command line argument set variabl xdebug 1 debugg . 
+then set break point exit . 
+this let trace back origin xlib function call . 
+if n't run synchron mode actual error may occur number call xlib previous sinc xlib call buffer repli server asynchron . 
+next troubl window layout use undocu resourc xtidentifywindow class resourc xtdebug caus widget name identifi window . 
+for exampl exampl xload -xrm xtdebugtru ' exampl xwininfo -tree click new xload window give normal inform widget name class window includ . 
+this help check locat size errant widget . 
+next troubl geometri manag want test way widget manag 's children tri export.lcs.mit.educontriblibxtgeo.tar.z . 
+this act filter children geometri manag check behaviour . 
+it 's clever idea . 
+the unfortun problem debug callback applic execut grab keyboard mous pulldown menu . 
+the server effect lock ll need go anoth machin kill debugg manual . 
+the server lock applic debug said one els access keyboard applic stop wait debugg wait command . 
+unfortun ca n't give input go applic stop . 
+the best way debug kind problem two machin desk run program debugg environ one machin run applic possibl use command sequenc like othermachin xhost thismachin thismachin setenv display othermachine0 thismachin gdb applic your favorit debugg . 
+othermachin xhost thismachin thismachin gdb applic gdb set environ display othermachine0 gdb run ... 
+i believ codecent c interpretergraph debugg method deal explicit call xlib function releas grab breakpoint . 
+debug widget problem requir pretti good debug skill knowledg widget work . 
+you go long way without know intern particular widget far without understand widget work . 
+judici use condit breakpoint ad print statement debugg help great deal . 
+26 . 
+whi n't xtaddinput xtaddtimeout xtaddworkproc work ? 
+i got delic problem three routin xtaddinput xtaddtimeout xtaddworkproc . 
+the problem i i use applic seem registr proper . 
+i made handi littl testprogram everyth work perfect real applic noth happen . 
+the introduct r3 xtapp function obsolet routin see q19 chang r3 r4 r5 . 
+what happen use default applic context differ one may creat . 
+sinc event timeout distribut per applic context basi use two applic context wo n't get event . 
+for exampl ... 
+cnt 0 toplevel xtappinitializeapp class desc xtnumber desc argc argv fallback arg cnt xtaddtimeout ... 
+xtaddworkproc ... 
+xtappmainloop app would never invok timeout . 
+27 . 
+what i implement drag drop ? 
+drag-n-drop buzzword move data client intuit '' fashion . 
+motif version 1.2 support drag-n-drop capabl openlook support d-n-d along . 
+the two protocol compat far i know publish . 
+i wrote packag call rdd design flexibl public protocol drag 'n drop oper client . 
+my intent provid tool would make easi peopl support standard drag-n-drop protocol program develop contribut sell regardless widget set use long base xt . 
+the implement base upon understand icccm convent detail read code . 
+i heard dozen peopl use rdd like feel work whole lot better motif 1.2 stuff . 
+also seem mani think neat constrain use motif anyway . 
+the latest rdd stuff avail ftp netcom.com pubrogerr . 
+a possibl older version also avail export.lcs.mit.edu contrib . 

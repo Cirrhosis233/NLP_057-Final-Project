@@ -1,0 +1,4 @@
+how i get font famili weight slant instanc widget ? 
+use initfontcontext getnextfont freefontcontext i get size font bunch stuff concern font nowher i found famili weight slant . 
+assum i access sourc famili weight slant orginali use creat fontlist . 
+thank bunch great day carl 

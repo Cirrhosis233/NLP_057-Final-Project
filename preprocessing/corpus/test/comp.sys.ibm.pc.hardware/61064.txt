@@ -1,0 +1,8 @@
+do scsi card dos system requir separ devic driver load memori scsi devic hook ? 
+no . 
+all i ve seen also on-board bio enabl use 2 hard drive direct dos 2 drive dos limit problem ide standard matter . 
+softwar driver often allow better perform though . 
+you use want use devic besid hard disk 2 disk . 
+will also true 32-bit os 's ? 
+obvious abl use 16-bit real mode bios written dos need softwar driver . 
+that 's big deal long driver avail wo n't fight low memori problem either . 

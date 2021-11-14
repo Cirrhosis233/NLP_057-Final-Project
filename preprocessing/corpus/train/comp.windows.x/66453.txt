@@ -1,0 +1,12 @@
+can anybodi tell use xmu function xmucvtstringtowidget . 
+i want specifi widget name resourc file i connect two widget togeth xmform . 
+ie . 
+myproggymylistsw.topwidget maintextsw howev i run program i get messag warn no type convert regist string ' window ' convers . 
+just like manual sez . 
+i manag find bit code seem correct way go static xtconvertargrec parentcvtarg xtwidgetbaseoffset xtpointerxtoffsetof corerec core.par sizeofcorewidget xtsettypeconvert xtrstring xtrwidget xmucvtstringtowidget parentcvtarg xtnumberparentcvtarg xtcacheal null howev i n't got clue put ! 
+the exampl code i seem suggest i i creat widget elsewher say i add widget 's classinti function . 
+how ? 
+what 's one ? 
+if anybodi code pleas let know trick i 'm sure faq . 
+thank advanc rik . 
+ps what header file corep.h intrinsicsp.h i use core.h intrinsics.h ok i know rtfm- 

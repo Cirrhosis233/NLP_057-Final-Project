@@ -1,0 +1,7 @@
+i wonder anyon tell whether i creat bitmap size ? 
+i follow bitmap creation exampl sdk manual specifi 24x24 bitmap set widthheight 24 suppli byte string 72 char . 
+but i get right bitmap imag . 
+i chang widthheight 32x32 use valu string pad zero byet make right size got imag . 
+the exampl manual 64x32 size multipl 2 byte . 
+can defin bitmap imag size ? 
+thank much . 

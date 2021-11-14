@@ -1,0 +1,3 @@
+hi hello i admin rs6000 run aix 3.2 x11r5 motif xdt3 . 
+i want prevent user hit cntl-alt-bkspc exit x . 
+tri dontzap usrlibx11xconfig cu styx 

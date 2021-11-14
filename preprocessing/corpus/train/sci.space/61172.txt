@@ -1,0 +1,46 @@
+i ve three talk last month might interest . 
+i ve transcrib note . 
+sinc note take abil mean infal pleas assum factual error mine . 
+permiss grant copi without restrict . 
+note newbi the delta clipper project gear toward produc singl staget orbit reusabl launch vehicl . 
+the dc-x vehicl 13 scale vehicl design test concept invovl ssto . 
+it current undergo test . 
+the dc-i vehicl would full scale experiment vehicl capabl reach orbit . 
+it yet fund . 
+on april 6th rocki nelson macdonnel dougla gave talk entitl optim techniqu advanc space mission univers illinoi . 
+mr nelson 's job involv use softwar simul trajectori determin optim trajectori within given requir . 
+although direct involv delta clipper project spent time recent use softwar applic . 
+he thus use dc-i project exampl . 
+while i n't think detail implicit trajectori simul much interest reader i hope n't i fell asleep part i think mani interest detail glean exampl . 
+the first exampl given maxim payload polar orbit . 
+the main restrict acceler must remain 3 gs . 
+i assum driven passeng constraint rather hardwar constraint i verifi . 
+the delta clipper y version 8 engin 4 booster 4 sustain . 
+the booster lower isp shut mid-flight . 
+thus one critic question shut . 
+mr nelson show follow plot acceler vs time 3 g as ascii graph go actual fair good . 
+the big differ line 2 g made curv concav . 
+the data approxim graph n't long . 
+1 g 0 g 100 sec 400 sec as mention critic constraint g level must kept 3 . 
+initi eight engin start . 
+as vehicl burn fuel acceller increas . 
+as get close 3g booster engin throtl back . 
+howev quick becom ineffici low power soon make sens cut altogeth . 
+this caus dip acceller 100 second . 
+eventu remain sustain engin bring g level back 3 hold cut entir . 
+the engin cutoff acut occur orbit . 
+the trajectori aim altitud slight higher 100nm desir last vestig air drag slow vehicl slight thus lower final altitud desir . 
+question audienc paraphras q would make sens shut booster engin pair rather ? 
+a veri percept . 
+worth consid . 
+they yet done simul . 
+shut four part problem given . 
+q so final payload trajectori ? 
+a ca n't tell us . 
+read aviat leak he also appar good propuls exampl told use . 
+my question doe anyon know secur due sdio protect nation secur md protect interest ? 
+the second exampl reentri simul orbit pitch maneuv . 
+the biggest constraint one aerodynam heat paramet tri maxim crossrang . 
+he show graph heat use two differ model show similar i think suppos assum meant accur . 
+the end result polar orbit land ksc dc-i would 30 degre crossrang would start 's reentri profil 60 degre south latitud . 
+i would ask land maneuv n't know aspect flight profil . 

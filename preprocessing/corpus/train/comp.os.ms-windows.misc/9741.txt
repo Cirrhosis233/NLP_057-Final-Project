@@ -1,0 +1,61 @@
+to interest new ati ultra card i post question regard new ati ultra pro card ask confirm opinion . 
+this messag summari respons . 
+thank repli . 
+1 the card work system 32m ram . 
+the higher memori limit appli isa card far i know . 
+the vlb eisa version problem . 
+b i 'm pretti sure experi isa version n't work system 16m ram . 
+there suppos way switch memori apertur featur prevent appar n't work . 
+i post help messag net peopl indic eisa card n't problem . 
+c fals the vlb card i allow set memori apertur 32m use configur softwar . 
+no mess jumper necessari . 
+the 32m problem probabl valid isa card . 
+2 the card work 32m system switch set much slower . 
+again memori apertur need disabl 124m ram eisa vlb 12 m isa . 
+32m problem . 
+b dunno . 
+c depend bus . 
+yes isa no eisa localbus 3 the card interlac 24bit true-colour mode . 
+nope . 
+i use 640x480 72hz 24-bit 800x600 70hz 24-bit non-interlac . 
+b yes accord pc magazin ve test local bus version 1024x768 24-bit may may interlac . 
+c not pro . 
+sometim plus . 
+some mode may run interlac certain monitor . 
+this noth 24 bit ... 
+screen size . 
+note 24 bit color window must 2 meg memori size calcul notwithstand . 
+4 the latest build 59 driver still work mani case . 
+they n't perfect much improv . 
+i n't recal last time i leav mach 32 mode ati gup mode switch 8514 vga mode due softwar incompat . 
+b true . 
+mani peopl recommend go back build 55 54 . 
+c they appear excel bug . 
+for exampl certain graph dash line mathcad 3.1 print correct though display ok screen . 
+they par fanci card .. 
+acceler card also bug . 
+overal i like card even driver perform somewhat less satisfactori . 
+i run 1024768 16 color mode nt driver octob nt version seem allow . 
+i say color perform quit nice diamond stealth vram i abl tri lot option old driver . 
+5 this card fastest full colour card money . 
+it 's quit fast whether fastest open debat . 
+b yes i ll admit fast 16-bit mode i want use . 
+too bad crash mani differ way everi 20 minut ... 
+c depend mani mani thing . 
+6 this card greatest thing sinc slice bread . 
+i like . 
+b well pc magazin seem think . 
+c yes appear true as greatest thing sinc slice bread i doubt . 
+better card come . 
+who know mayb ati come someth faster yet . 
+sever review i read rate one pycon winjet card superior perform cheaper price except avail driver pycon develop time . 
+pc magazin two month back overal card lot potenti abl use . 
+that end question . 
+these discuss item group i thought need confirm . 
+for familiar card i includ summari ati ad sinc i n't graphic ultra yet . 
+ati graphic ultra plus acceler 1024x768 65k colour true colour16.7m 800x600 multimedia video acceler indeo videorl video 1 compress stretch full motion video window full size fast vga includ 3 button mous isa version anti-alias font ed . 
+avail 16 colour mode onlyi think real-tim pan zoom across larg virtual window desktop around 12 length card size price 400 u. . 
+ati graphic ultra pro everyth graphic ultra plus faster perform vram acceler 1280x1024 256 colour 74hz non-interlac avail isa eisa microchannel price 600 u. . 
+ati technolog 416 756-0718 i hope summari use . 
+al p.s . 
+i associ ati technolog way use previous ati ultra card year i general like . 

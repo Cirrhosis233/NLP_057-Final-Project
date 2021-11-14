@@ -1,0 +1,9 @@
+here annoy problem . 
+whenev i save icon contain dark color like dark red dark purpl color convert bright color . 
+this happen everi icon editor includ imag editor came sdk . 
+i n't problem .bmp file either .ico file icon librari . 
+the problem icon colormap field icon file header . 
+check file binari editor i see mask ok . 
+by edit colormap manual copi anoth icon i n't edit i fix color . 
+doe anybodi know may caus problem ? 
+thank . 

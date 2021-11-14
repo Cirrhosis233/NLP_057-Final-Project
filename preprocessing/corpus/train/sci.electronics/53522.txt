@@ -1,0 +1,4 @@
+hi instead use 15vdc suppli 4066 tri use 7 -7 volt suppli . 
+commerci audio equip use approach ground referenc audio . 
+use -7 volt suppli logic ground . 
+in case would switch control voltag -7v turn switch 0v turn switch ? 

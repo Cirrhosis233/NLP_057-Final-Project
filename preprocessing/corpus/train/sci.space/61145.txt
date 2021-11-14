@@ -1,0 +1,6 @@
+there nice littl tool lucid emac . 
+it 's call calendar . 
+on request show given longitudelatitud coordin time sunset sunris . 
+the code written lisp . 
+i n't know like idea editor right program calcul thing . 
+theo w . 

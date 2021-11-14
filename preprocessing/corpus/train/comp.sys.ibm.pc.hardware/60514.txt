@@ -1,0 +1,5 @@
+hello i ve got old trident 8800cs svga card lack suitabl driver window 3.1 . 
+the driver 8900 seri seem incompat . 
+doe anyon idea get driver ? 
+address ftp-site would nice . 
+thank advanc jouni 

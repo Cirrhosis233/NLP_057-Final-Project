@@ -1,0 +1,10 @@
+... 
+i 'm look fast polygon routin use 3d game . 
+a fast polygon routin what ? 
+to draw polygon cours . 
+it vga mode 13h 320x200 game ... 
+hi i ve come across fast triangl fill-draw routin mode 13h . 
+by call routin enough time fast polygon draw routin . 
+i think i ftp'ed wuarchive.wustl.edupubmsdosuploadsprogram . 
+i copi i reupload . 
+the triangle.txt file say c inlin assembl sourc vga mode 13h triangl drawer . 

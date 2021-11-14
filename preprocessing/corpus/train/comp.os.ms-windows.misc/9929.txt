@@ -1,0 +1,11 @@
+hello i thought problem might someth window 3.1 smartdrv vesa video card ... idea ? ? ? 
+i recent purchas 486dx-33 machin problem machin sudden freez reboot . 
+this may happen window 3.1 dos 5.0 . 
+sometim print document sometim use mous sometim i sit . 
+twice happen machin reboot sound seven beep . 
+i look document seven beep code meant problem interrupt . 
+the machin follow configur file 486dx-33 ami bio 5.25 3.5 floppi 170 meg ide hard drive 256k cach microsoft compat mous com1 citizen gsx-145 lpt1 ni supervga monitor vesa window acceler card w 1meg two vesa slot window 3.1 dos 5.0 config.si devicecwindowshimem.si doshigh devicehighcdossetver.ex files20 buffers20 stacks9128 autoexec.bat lh cwindowssmartdrv.ex 1024 prompt pg path cdoscwindowscmous lh cmousemous set tempcdo lh cdosdoskey when machin freez i ca n't use mous keyboard use ctrl-alt-del reboot . 
+if one give help i would great appreci . 
+if anyon help configur machin best effici memori wise i would appreci also . 
+hrb system inc . 
+state colleg pa usa 16804 

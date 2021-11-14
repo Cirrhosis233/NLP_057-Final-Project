@@ -1,0 +1,8 @@
+i ati graph . 
+ultra pro vlb w2 meg small question graphic workshop window . 
+when i exit say current driver handl 32768 color i actual 1024x768x65000 color mode . 
+is driver problem gws error ? 
+i use 1.559 driver win 3.1 . 
+it correct state i display 16m color i switch 800x600x24bit though . 
+anoth question- anybodi know viewer support card window viewer ? 
+ani help would appreci . 

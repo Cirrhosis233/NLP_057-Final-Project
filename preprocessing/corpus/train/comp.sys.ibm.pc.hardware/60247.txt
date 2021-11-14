@@ -1,0 +1,17 @@
+scsi-i rang 0-5mbs . 
+scsi-ii rang 0-40mbs . 
+ide rang 0-8.3mbs . 
+esdi alway 1.25mbs although non-standard version the tell proper stori scsi scsi-i 8-bit asynchron 1.5mbs ave synchron 5mbs max transfer base . 
+scsi-1fast requir scsi-2 control chip provid scsi-2 8-bit 16-bit speed scsi-1 control . 
+scsi-2 4-6mbs 10mbs burst8-bit 8-12mbs 20mbs burst 16-bit 15-20mbs 40mbs burst32-bitwid fast . 
+16-bit scsi wide fast depend port designedth quadra support fast scsi wide os scsi manag rewritten sinc quarda use scsi-1 non-wid port . 
+the articl pc mag 4279329 talk scsi-1 scsi-2 use ten 10 devic nativ mode outsid nativ mode behav lot like scsi-1 7 devic slower put from figur scsi-1 inde twice esdi articl point 20 faster ide seem 8-bit scsi-1 use scsi-2 contol chip the mac quadra use scsi-2 control chip scsi-1 get 6mbs put asynchron 8-bit scsi-1 far excess normal synchron scsi-1 output 120 8.3 9.96 near burst scsi-1 machin scsi-2 control chip . 
+the pc world seem scsi-1 scsi-2 mix . 
+fact scsi-2 control chip allow near scsi-2 speed scsi-1 devic as shown mac quadra skew data scsi-1 vs ide esdi test . 
+i agre articl could state 20 faster ide came scsi-1 devic scsi-2 chip . 
+mayb editor kill articl deal scsi-1 not scsi-2 understand effect scsi-1 devic scsi-2 control chip . 
+scsi-1 chip limit 5mb max . 
+scsi-1 devic scsi-2 chip becom common produc 10mbs 8-bit mode 20mbs 16-bit mode fast version scsi-1 port use wide scsi . 
+of courc prime piec wierd scsi-1 devic have scsi-2 chip accur machin . 
+this allow best both world high scsi-2 speed cheeper scsi-1 cost full scsi-2 hardwar port electron control etc veri expens . 
+it also creat logist nightmar fast scsi-1 goe . 

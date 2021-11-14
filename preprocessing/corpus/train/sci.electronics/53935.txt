@@ -1,0 +1,9 @@
+i troubl obtain specifi standbi current drain mc146818a real time clock ... 
+lowest current drain i acheiv 3.7v vcc 150ua . 
+this three time specifi maximum ... 
+1 made sure reset assert trlh powerup as low time . 
+2 made sure cycl as negat rd wr stbi assert ... 
+are input chip come ttl ? 
+standby-drain spec cmos chip typic appli input pull way zero way vcc . 
+ttl n't good former wo n't latter without help pullup resistor . 
+this sort thing easili multipli power consumpt consider factor cmos transistor suppos off n't way hard off . 

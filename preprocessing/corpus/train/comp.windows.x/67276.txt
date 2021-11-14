@@ -1,0 +1,28 @@
+we develop toolkit run x window system . 
+the toolkit cope languag base x11r5 's i18n facil . 
+as know 2 kind i18n implement mit 's x11r5 releas xsi ximp . 
+our origin implement toolkit use xsi . 
+our toolkit manag charact 's size base font manag system . 
+in order wchart ' type charact string must decompos charact set . 
+this mean one wchart type compound string ascii kanji mix exampl given element wchart array must check correspond charact set base bit layout applic environ 's local . 
+in case local japanes ' wchart charact classifi either iso8859-1 jisx0208 . 
+we need function . 
+the function must check mani charact top charact set charact set . 
+we could find public x11r5 function inevit use xsi 's intern function construct function . 
+the follow sourc code function decomposecharacterset ' . 
+i18n.h this may look like c code realli -- c -- id i18n.hv 1.1 19920121 120524 iima exp iima ifndef i18nh defin i18nh includ x11xlib.h extern int decomposecharactersetconst wchart wcstr in int wclen in char buf out int buflen inout int scannedlen out char charset out extern xmstring wchartoxmstringconst wchart wcstr extern xmstringcharset charsetofwcharconst wchart wc endif i18nh i18n.cc id i18n.ccv 1.1 19920121 120505 iima exp includ stdlib.h includ x11xlibint.h includ xmxm.h includ i18n.h extern c includ x11wchar.h defin xwcdecomposeglyphcharset xxxxwcdecomposeglyphcharset defin xmbfscs xxxxmbfscs defin xmbctidtocsid xxxxmbctidtocsid includ xlocaleint.h undef xwcdecomposeglyphcharset undef xmbfscs undef xmbctidtocsid extern int xwcdecomposeglyphcharsetxlocal const wchart int char int int int extern charset xmbfscsxlocal csid extern csid xmbctidtocsidxlocal csid int decomposecharactersetconst wchart wcstr in int wclen in char buf out int buflen inout int scannedlen out char charset out xlocal xlocal xfallbackconvert int ctid int status charset xcharset status xwcdecomposeglyphcharsetxlocal wcstr wclen buf buflen scannedlen ctid status success xcharset xmbfscsxlocal xmbctidtocsidxlocal ctid charset xcharset xcharset-csnam null els charset null return status an includ file xlocaleint.h also xsi intern copi file toolkit directori compil . 
+a serious issu occur tri compil toolkit applic hp machin os version hp-ux9.01 . 
+when tri link applic base toolkit link error occur say follow function miss xmbctidtocsid code xmbfscs code xwcdecomposeglyphcharset code xfallbackconvert code we use mit releas version x11r5 xsi implement hp-up9.0 ran applic success . 
+one reason use xsi hp releas hp 's x11r5 os 9.0 way know hp 's r5 would implement . 
+we hope xsi 's popular use intern function . 
+the hp 's linker complain xsi intern function implement . 
+we observ hp 's libx11.a use ximp implement sure use mit 's vanilla ximp version version ximp therefor find counter part function mit 's ximp xsi seem lead us solut . 
+my question goal know construct function like decomposecharacterset ' list . 
+is function check charact set element wchart type string depend local ? 
+if public function perfect even want use intern function hp 's x11r5 mit 's r5 . 
+in order render wchart ' type string must machineri judg charact set proper font select string . 
+we way find without hp 's x11r5 sourc file . 
+we want know use goal . 
+ani help comment would high appreci . 
+i also appreci anyon tell ximp treat around area even hp 's implement . 
+thank . 

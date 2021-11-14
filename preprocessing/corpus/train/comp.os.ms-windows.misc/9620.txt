@@ -1,0 +1,23 @@
+i n't know much window nt i ve alway thought win nt would run intel 386486 compat system . 
+we set network includ sun sparc server 4490 dozen pc 's . 
+some peopl suggest run window nt sun sparc server 4490 replac current os suno . 
+i n't know whether possibl whether would us good . 
+i would appreci help answer question . 
+1 . 
+doe window nt run sun sparc server 490 ? 
+2 . 
+if answer question 1 yes run unix applic sas unix . 
+3 . 
+is window nt multius os ? 
+4 . 
+when window nt releas ? 
+5 . 
+is telephon number i call get info win nt ? 
+thank . 
+minghua shan as far i read win nt support intel dec alpha mip r4000 seri processor . 
+i rememb though read rumour sparc support sometim futur . 
+i sure mean run unix applic . 
+you would sas win nt mayb sas win16 etc . 
+i read ms anounc avala win nt end may 93 comdex spring . 
+hope help . 
+rajiev gupta 

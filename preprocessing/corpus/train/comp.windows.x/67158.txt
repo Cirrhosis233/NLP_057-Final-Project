@@ -1,0 +1,7 @@
+poset friend okay i got great respons last question thank everyon let tri how i tell colorcel read-on ? 
+i want use read-on cell alreadi colormap i start run allocat cell use arbitrari nearest color match scheme get cell come closest request color . 
+onc i determin cell read-on i assum i request xalloccolor exact color specif flag use ' applic n't later get freed someon els alloc read-writ anoth applic . 
+so far way i ve figur write error handler go ahead request cell color colormap full . 
+it error cell non-shar . 
+but life would much easier i could detect read-onlyshar stuff direct ... 
+ani idea ? 

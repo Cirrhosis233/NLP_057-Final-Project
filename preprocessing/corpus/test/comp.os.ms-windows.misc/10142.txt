@@ -1,0 +1,17 @@
+i eisa machin i understand eisa video card match perform isa counterpart . 
+for instanc eisa orchid pro design iis- fast isa diamond speedstar plus n't i would call fast i n't understand eisa video card n't group level perform local bus card given eisa video card 32 bit bus move data around instead isa 's 8 bit . 
+good question . 
+answer the eisa bus move 32 bit rather isa 's 816 ? 
+but still move speed isa bus . 
+i think 's either 8 10 mhz . 
+the local bus design also move 32 bit like eisa move data cpu speed 40 mhz . 
+so 33mhz cpu local bus move 32bit data 33 mhz eisa move 32bit data 8 10 mhz . 
+so local bus 3 4 time faster eisa 33 mhz cpu . 
+eisa two mayb 3 time fast isa . 
+i would expect eisa board twice fast isa board . 
+not move data path twice wide least differ number clock requir bus transact two buss . 
+most isa board requir multipl clock per bus transact typic around 3-4 . 
+eisa board suppos abl burst ' 11 rate i would expect perform 6x-8x isa card . 
+so i guess question unansw still . 
+i would expect abl see 6x speed differ appar . 
+insist perfect safeti peopl n't ball live real world mari shafer nasa ame dryden 

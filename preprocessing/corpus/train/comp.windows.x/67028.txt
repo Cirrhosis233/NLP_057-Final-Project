@@ -1,0 +1,14 @@
+i peculiar color problem macx appl 's macintosh x server . 
+i 'd like know other seen problem . 
+it 's happen current version 1.2 version 1.1.7 . 
+when type client window display part window wrong color window move slight forc server repaint repaint correct color . 
+it n't happen xterm window happen graphic window motif client . 
+i expect go colormap full new applic start add color need colormap . 
+it therefor pick choos exist color . 
+this make look ugli 's window get prioriti . 
+then macx chang colormap select app get exact color want applic make 's colormap . 
+this problem color x server least color xserver i seen demand applic exceed size colormap . 
+my solut usual 1 avoid colormap-greedi app 2 display applic color ice cake monochrom mode rather color option applic . 
+doug shaker voic 415572-0200 fax 415572-1300 mail qualix group 1900 s . 
+norfolk st . 
+224 san mateo ca 94403 

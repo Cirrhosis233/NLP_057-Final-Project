@@ -1,0 +1,8 @@
+we problem makedepend ' n't know correct process claus c preprocessor statement . 
+it evalu everyth true matter condit . 
+... 
+has anybodi come solutionfix makdepend ' writeyourownpars ... 
+will share us ? 
+rewrit makedepend ' use cc -m ' gcc -m ' gcc -mm ' one i prefer sinc system header n't chang often generat actual depend . 
+ll still need write part edit actual makefil . 
+i think 's program berkeley distribut call mkdep essenti . 

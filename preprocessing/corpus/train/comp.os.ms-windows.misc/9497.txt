@@ -1,0 +1,34 @@
+two-part question 1 what window nt real ' window os ? 
+2 this past weekend local hacker ' radio show metion new product microsoft call chicago ' i recal . 
+anyon know ? 
+that thank heap . 
+alan window nt giant window oper system . 
+unlin win3.1 run top dos . 
+it os billi gate assur us true multi-taskingmultithread meet dod secur spec run win3.1 program well dos program multi-processor support primarili server program . 
+it 's overhead high econom user . 
+it also run os2 charact base app posix app . 
+the dos 16bit 32 bit window app run window 32 bit subsystem . 
+if consid fact nt lanman redirector built support tcpip built support netbeui come tcp util like ping ftp client etc applic like schedul 32 bit version msmail storag argument isnt issu . 
+speak overhead requir least 386 16 meg ram . 
+it iwll run 12 's like run os2 2.0 4 meg . 
+and 's run . 
+also i heard system file take 30-50 meg recommend drive half gig ! 
+the skd distribut cd-rom . 
+i ran 486 8mram ton disk swap 19m virtual memori page file . 
+it function crawl . 
+oct build i upgrad machin 16m perform good at point i instal march build . 
+consid probabl still work featur set havent done lot fine tune code yet . 
+chicogo i want use . 
+it like nt true os thrue multitask multithread much smaller hardwar requir meet dod secur spec 's okay sinc probabl client os . 
+otehr differ main one . 
+there articl chicogo pc week last august . 
+the chicogo nt develop group microoft intens competit said . 
+howev i think differ relationship aris nt server netowrk techonolog chicogo client machin . 
+it entir possibl differ os 's work togeth part chicogo small nt think way anyway . 
+novel netwar creat os server truli dos n't scorn concept . 
+anyway n't expect soon . 
+window 4 dos 7 suppos releas next year read see 95 i expect chicogo wo n't til 96 . 
+i littl info chicago i cant make comparison . 
+is beta ? 
+is anyon test care make comparison ? 
+just 0.02 

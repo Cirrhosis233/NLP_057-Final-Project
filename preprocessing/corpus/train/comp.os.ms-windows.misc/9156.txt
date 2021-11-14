@@ -1,0 +1,48 @@
+window sharewar month wsm on-lin forum inform newest best window 3.x nt sharewarefreewar softwar . 
+wsm compil submiss sharewarefreewar author singl window .hlp help system file . 
+all type softwar may submit entri wsm util applic game program tool etc . 
+wsm benefit window sharewarefreewar author allow public softwar releas inform user updat version increas instal base user . 
+those search specif window softwar benefit complet list avail softwar avail fingertip complet featur list current price relev inform . 
+window softwar author may submit entri window sharewar month follow manner 1 . 
+compos short summari function softwar . 
+includ special featur uniqu product set apart program genr . 
+be sure includ specif detail current releas version softwar avail much registr fee cost much disk space requir special requir e.g . 
+sound card vbrun200.dll etc . 
+author may contact etc . 
+becaus text high compress summari may long necessari howev best keep short . 
+a good guidelin singl screen 12-point text 640x480 resolut . 
+order form addendum may includ desir . 
+all submiss whould plain text ascii format . 
+format exact submit i simpli cut past text file help author system . 
+if requir special format convent boldfac text ital larger font size indic clear within text file . 
+for best result use window notepad creat .txt file . 
+2 . 
+includ 100k windows-format .bmp bitmap screen-shot display work special featur program . 
+special case render applic exampl requir 256-color bitmap may submit 250k .bmp file observ 100k limit use 16-color format . 
+for maximum compatibl softwar use creat wsm .hlp file stefan olson 's help writer 's assist window pleas save bitmap window paintbrush wingif . 
+3 . 
+includ 16-color .bmp program 's icon .ico file . 
+mani program avail convert .ico .bmp format window paintbrush may use . 
+the .bmp embed summari text . 
+4 . 
+double-check spell error format correct etc . 
+5 . 
+compress .txt file .bmp program icon addit .bmps singl file use pkzip version . 
+6 . 
+submit entri uuencod .zipfil e-mail submit via internet compuserv . 
+if submit via america onlin send brief messag indic submiss append .zip file e-mail diegoaa 7 . 
+if chang requir new version releas complet all entri receiv deadlin includ subsequ edit wsm . 
+the editor held respons error reserv right make chang entri . 
+wsm limit sharewarefreewar softwar . 
+a special area devot commerci avail window 3.x nt softwar . 
+commerci softwar author follow step except limit size .txt file .bmps may larg requir larg practic transmiss phone line . 
+there charg publish either sharewarefreewar commerci product entri . 
+advertis comput hardwar softwar bulletin board etc . 
+may submit well . 
+again procedur appli except size limit . 
+there charg advertis space . 
+the first ten advertis submit month includ subsequ submiss includ due size constraint . 
+wsm current look person will devot time author column within wsm . 
+a cc program section visual basic section two windows-specif opinionadvic column envis . 
+all work voluntari basi . 
+if wish aid wsm author month column diegoaa america onlin . 

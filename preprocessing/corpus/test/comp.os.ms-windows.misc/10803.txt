@@ -1,0 +1,4 @@
+the microsoft window devic driver kit ddk document blurb state user must separ acquir microsoft window softwar develop kit sdk contain window tool build driver . 
+if use borland c applic framework necessari ? 
+we also copi microsoft press programm 's refer librari book normal come sdk microsoft macro assembl 6.0 . 
+whi sdk neccessari develop virtual devic driver ? 

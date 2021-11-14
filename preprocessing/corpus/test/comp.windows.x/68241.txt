@@ -1,0 +1,12 @@
+how everybodi ? 
+i instal x11r5 ibm rs6000 workstat . 
+os version aix 3.2.3 . 
+there problem instal . 
+but problem invok xinit ' . 
+when i invok xinit ' error messag follow give . 
+xinit unabl connect x server xinit no process errno 3 server error . 
+i 'm navic . 
+so i n't know reason i get messag . 
+pleas help . 
+i wait help . 
+thank read mail . 

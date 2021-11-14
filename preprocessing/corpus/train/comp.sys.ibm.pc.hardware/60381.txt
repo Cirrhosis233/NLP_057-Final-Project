@@ -1,0 +1,23 @@
+i bought quantum 240 mac home . 
+i paid 369 . 
+i n't seen ide drive cheaper . 
+a friend mine got maxtor 245 meg ide drive 320 . 
+'s 245 million byte 234 mega-byt . 
+with basic 20 interfac get close 1 megsec transfer 286-20 . 
+doe figur includ hundr scsi driver ? 
+sinc mac use onli scsi-1 hard drive yes figur includ hundr scsi driver this sloppi peopl dumb . 
+but point faster ? 
+this . 
+do get perform money . 
+ok scsi spec list scsi-1 scsi-1 control chip synchron rang inde 0-5mbs asynchron rang slower 0-3mbs . 
+scsi-1 with scsi-2 control chip 4-6mbs 10mbs burst 8-bit note increas speed mac quadra use version scsi-1 doe exist . 
+some pcs use set . 
+scsi-2 8-bitscsi-1 mode 4-6mbs 10mbs burst want scsi-2 n't want pay 16-bit 32-bit hardwar mess scsi-2 softwar control . 
+usabl scsi-1 devic close 8-bit scsi-2 speed scsi-2 16-bitwid fast mode 8-12mbs 20mbs burst scsi-2 32-bitwid and fast 15-20mbs 40mbs burst ide rang 0-8.3mbs . 
+again synchron asynchron mode asynchron much slower rang 0-5mbs esdi alway 1.25mbs although non-standard version one problem inconsit use term scsi ' articl peopl . 
+it proper mean the set scsi interfac compos scsi-1 and scsi-2 look inconsit use scsi quot my comment pc magazin april 27 199329 although scsi twice fast esdi this asynchron scsi-1 scsi-1 chip 20 faster ide .. 
+both asynchron scsi-1 scsi-2 chip and 8-bit scsi-2 to read consit quot should read asynchron scsi-1 scsi-1 chip although asynchron scsi-1 twice fast esdi one third speed ide .. 
+asynchron scsi-1 scsi-2 chip 8-bit scsi-2 although scsi-1 scsi-2 chip 8-bit scsi-2 eight time fast esdi 20 faster ide .. 
+note nonus scsi ' . 
+this elimin ambagu . 
+scsi-1 driver somewhat reason 16-bit 32-bit scsi-2 driver veri expans 8-bit scsi-2 use scsi-1 driver littl speed degridationth mac quadra exact . 

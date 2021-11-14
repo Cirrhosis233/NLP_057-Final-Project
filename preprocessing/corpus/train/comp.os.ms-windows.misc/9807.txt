@@ -1,0 +1,10 @@
+i sever peopl share machin would like set separ environ window . 
+is way set thing separ desktopsdirectori ? 
+ideal i 'd like total separ virtual machin . 
+i 'd will settl less may end batch file copi .ini file around depend want use machin . 
+you could use dos 6 part . 
+you set differ config.si autoexec.bat command user select menu option bootup . 
+then autoexec.bat copi win.ini system.ini file chang directori . 
+when exit window copi back generic .ini file want . 
+this way i think . 
+there may program somewher allow better though use dos 6 allow person custom config.si autoexec.bat . 

@@ -1,0 +1,8 @@
+i laserwrit iig disappear complet network i.e . 
+'s name n't show zone . 
+you print 's serial interfac tho ! 
+i seen discuss chang zone iig ... 
+includ ps code let chang zone . 
+is mayb ps code use go back factori default set ? 
+i feel 's need heal . 
+the follow postscript work laserwrit iig 's version 2 rom 0 serverdict begin exitserv factorydefault true setsystemparam systemdict begin realtim 10000 add dup realtim le pop exit loop quit 

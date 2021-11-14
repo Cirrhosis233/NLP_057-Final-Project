@@ -1,0 +1,14 @@
+i plan post summari respons soon i work code i also includ . 
+the intersect 3 plane method look best implement base short articl graphic gem i n't work . 
+i may misinterpret cours . 
+i avoid simultan solut plane equat favor dot cross product former may actual better . 
+in either case matrix determin need comput implicit solut linear equat . 
+to get plane i take midpoint line say p1 p2 set normal normal vector p1 p2 . 
+these plug formula graphic gem . 
+howev result center point occasion equidist 4 test point differ test . 
+my matrixvector math rusti look like i need verifi formula use simultan equat solut requir bring anoth routin i n't easi find . 
+anoth method first find center circl defin 2 set 3 point intersect normal . 
+this would also defin circl center . 
+howev small numer imprecis would make line intersect . 
+suppos 3 plane have intersect uniqu point parallel . 
+ed thank answer far . 

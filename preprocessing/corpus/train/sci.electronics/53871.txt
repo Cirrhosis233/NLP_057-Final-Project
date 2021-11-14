@@ -1,0 +1,15 @@
+doe anyon know detail interfac 5 wire din ir remot sensor 2 wire ir repeat adcom gtp-500ii preamp ? 
+the adcom part number xr-500ii spm-500ii ira-500ii . 
+a cursori physic examin pre-amp connector indic connector 5 pin din may provid view connector front 3 pin 3 signal ground pin demodul signal ? v-pp polar ma drive pin signal drive repeat led drive 150ohm resistor ? v-pp i assum repeat connector mini-plug drive ir repeat led 's direct . 
+true ? 
+can anyon fill ? 's . 
+thank . 
+here 's scoop . 
+when get home brew receiv work would will share rest us ? 
+i alway want build never time fool around design . 
+pin 1 signal ground pin 2 signal pin 3 alway hot 6 volt pin 4 6 volt hot preamp turn pin 5 infrar repeat connector the infrar repeat jack back preamp connect anyth insid preamp except 5 pin connector pin 5 . 
+there 150 ohm resistor two jack 1.5k pin 5 ground . 
+the signal pin 2 preamp sum built ir receiv . 
+they use chip call cx20106a bjt amplifi signal . 
+i would imagin logic way would duplic circuit use extern receiv . 
+if need info let know . 

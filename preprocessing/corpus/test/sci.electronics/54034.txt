@@ -1,0 +1,5 @@
+i need make power suppli take input cigarett lighter car 12v dc drive 7.5 volt 3.0 amp . 
+i know enough know simpl voltag divid two resistor wo n't right . 
+can thing made radio-shack- part without much difficulti ? 
+jps bf p.s . 
+i ve look premad thing like radio shack none seem go higher 800ma . 

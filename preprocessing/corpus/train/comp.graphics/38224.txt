@@ -1,0 +1,15 @@
+i ve tri view .tga file creat povray . 
+i diamond speedstar 24 video board 24x . 
+so far i convert jpeg use cjpeg view cview display 8 bit color . 
+i 'm look way convert andor view 24 bit . 
+i univesa uvesa31.zip dvpeg viewer i n't get anyth . 
+perhap i set univesa proper ? 
+if anyon idea pleas feel free enlighten ... 
+just want see darn thing real color ... 
+imag alchemi aka alchemi view tga file pov output format think . 
+it also convert . 
+it 's sharewar 's probabl avail ftp somwher netland ... 
+yep ... 
+alchemi work fine tseng400dac i think i rememb read display 15-bit . 
+of cours 's still 32k color noth sneez . 
+use v flag . 

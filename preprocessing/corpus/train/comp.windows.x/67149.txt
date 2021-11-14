@@ -1,0 +1,8 @@
+do anyon know shade program base xlib public domain ? 
+i need exampl alloc correct colormap program . 
+appreci help . 
+i n't know might help i ve start play program call povray persist vision raytrac also display output via x window . 
+it fair good job alloc colormap psuedo-color 8-plane display . 
+i got sourc site canda . 
+patrick l . 
+mahan 

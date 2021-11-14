@@ -1,0 +1,6 @@
+hello everybodi if use pixar 's renderman 3d scene descript languag creat 3d world pleas help . 
+i 'm use renderman librari next document nextstep version renderman avail . 
+i creat complic scene render use surfac shader i bring life appli shadow reflect . 
+as far i understand i defin environment shadow map produc reflect shadow i know use . 
+ani advis simpl rib c exampl appreci . 
+thank advanc ... 

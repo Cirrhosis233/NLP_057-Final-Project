@@ -1,0 +1,1 @@
+i vt200 vt100 compat termin 1200 extern hyess modem amber screen 101 keyboardc make offer 0 

@@ -1,0 +1,8 @@
+i use dos quick c 2.5 dos window window 3.1 day i run compil i got general protect fault immedi follow serious disk error . 
+when i reboot i found 15 file gotten cross-link pretti serious corrupt hard drive file system . 
+i concern quick c dos window somehow stray outsid protect mode world corrupt smartdrv.ex disk cach caus disk problem . 
+i thought dos program run dos window pretti well-contain window . 
+if true mayb quick c compil noth . 
+has anybodi els type problem ? 
+i recent upgrad quick c 2.0 2.5 . 
+brad banko 

@@ -1,0 +1,18 @@
+when comput set 256 color certain oper done particular vertic scroll window horizont white line appear monitor general alway spare open window . 
+these line accummul oper continu . 
+if window move involv area screen move away line disappear area screen . 
+this problem observ monitor configur 16 color 14 inch appl monitor 256 color use . 
+has anyon not problem given configur ? 
+would help elimin design flaw explan as data point i 'm use centri 610 480 appl 16 monitor not problem . 
+i produc similar artifact . 
+i use centri 610 appl 16 monitor . 
+i got 8230cd configur on-board ethernet 1 megabyt video ram . 
+the effect occur 256 color 256 grey mode . 
+ani vertic scroll oper whether scrollbar say use vi insert line produc scatter horizont flicker line screen . 
+they persist visibl perhap one refresh part screen back usual . 
+they seem alway start 64th pixel left mayb 512 pixel wide . 
+this certain prevent use macintosh seem sign someth perhap ground incorrect video circuitri ... 
+i went ahead call appl custom assist center 1-800-776-2333 1-800-767-2775 direct ? 
+the person answer polit - . 
+i also took chanc complain mous button stick mac hang boot hard kill macsbug crash left cd drive . 
+i play paperclip 5 minut get thing eject mac boot fine . 

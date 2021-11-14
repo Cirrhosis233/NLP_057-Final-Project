@@ -1,0 +1,32 @@
+ok discuss observ playback speed quicktim effect scale i thought i 'd test . 
+first i felt origin speed test perhap less realist . 
+the movi i use 18 frame version first movi i creat compact video compressor . 
+i decid someth littl longer would give closer real-world result better wors . 
+i pull copi 2001 a space odyssey i record tv back . 
+about fifteen minut movi 's sequenc earth shuttl approach space station . 
+specif i digit portion 30 second ' durat zoom rotat space station . 
+i figur would give reason amount movement frame . 
+to increas differ frame i digit 5 frame per second give total 171 frame . 
+i captur raw footag resolut 384288 pixel spigot card centri 650 quarter-s resolut pal sourc . 
+i import premier put compact video compressor keep 5 fps frame rate . 
+i creat two version movi one scale 320240 resolut 160120 resolut . 
+i use default 2.00 qualiti set premier 2.0.1 specifi key frame everi ten frame . 
+i ran 320240 movi raw speed test program i use result i 'd report earlier . 
+result playback rate 45 frame per second . 
+that 's right i get much higher result first short test movi . 
+just fun i copi 320240 movi extern hard disk quantum lp105s ran . 
+this time playback rate 35 frame per second . 
+obvious 230mb intern hard disk also quantum signific contributor speed playback . 
+i modifi speed test program allow specif option scale factor tri play back 160120 movi scale 320240 size . 
+this time playback speed 60 fps . 
+clear poster observ poor perform scale playback see quicktim 1.0 action 1.5 . 
+i 'd tri test quicktim 1.0 i n't think 's entir compat centri system 7.1 ... 
+unscal playback rate 160120 movi 100 fps . 
+the thing i tri save version 320240 movi prefer playback rate greater 1.0 see well play within movieplay ie quicktim 's normal synchron playback . 
+a prefer rate 9.0 45 fps n't work well playback jerki . 
+compar raw speed test achiev 45 fps eas . 
+i ca n't believ quicktim 's synchron code would add much overhead i think slowdown come mac system 's task switch . 
+a prefer rate 7.0 35 fps seem work fine i could n't see evid stutter . 
+at 8.0 40 fps i think i could see slight stutter four key frame everi second hard tell . 
+i guess i could tri recreat movi longer interv key frame make stutter notic . 
+of cours also improv compress slight speed playback perform even ... 

@@ -1,0 +1,6 @@
+i know probabl faq ... 
+i instal sw ati graphic card bash window logo file . 
+when i start window 3.0 logo instead 3.1 logo . 
+i thought file control windowssystemvgalogo.rl windowssystemvgalogo.lgo i restor file n't chang logo . 
+anyon know correct file ? 
+thank . 

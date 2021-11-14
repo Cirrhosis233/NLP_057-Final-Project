@@ -1,0 +1,41 @@
+each chip includ follow compon skipjack encrypt algorithm f 80-bit famili key common chip n 30-bit serial number u 80-bit secret key unlock messag encrypt chip hmmm . 
+a thirti bit serial number . 
+and told unit key u deriv determinist serial number . 
+that mean one billion possibl unit key . 
+to generat unit key serial number n 30-bit valu n first pad fix 34-bit block produc 64-bit block n1 . 
+s1 s2 use key triple-encrypt n1 produc 64-bit block r1 r1 eden1 s1 s2 s1 similar n pad two 34-bit block produc n2 n3 two addit 64-bit block r2 r3 comput r2 eden2 s1 s2 s1 r3 eden3 s1 s2 s1 r1 r2 r3 concaten togeth give 192 bit . 
+the first 80 bit assign u1 second 80 bit u2 . 
+the rest discard . 
+the unit key u xor u1 u2 . 
+u1 u2 key part separ escrow two escrow agenc . 
+hmmm . 
+we must assum generat unit key u serial number n rather generat random select u1 u2 intent way assur fail safe govern u complet determin given s1 s2 n . 
+if s1 s2 chang constitut effect master key along f theft possess various author complet obviat secur system . 
+howev interest know fact s1 s2 fix matter keyspac u 230 . 
+whi pick u1 u2 random ? 
+whi interest restrict key space not provid addit back door ? 
+i find disturb best secur depend approxim 30 byte worth inform could written back napkin . 
+even s1 s2 chang period rational behind restrict size keyspac seem strang one assum goal secur make perfect sens goal illus secur . 
+if s1 s2 chang even remain secret i wonder somehow back-deriv given enough unit keyseri number pair . 
+we assur happen one understand skipjack work outsid govern offici soon foreign intellig servic gain inform via espionag . 
+presum eventu inform well revers engin get advanc everi year time know may late . 
+as sequenc valu u1 u2 u generat written onto three separ floppi disk . 
+the first disk contain file serial number contain correspond key part u1 . 
+the second disk similar contain u2 valu . 
+the third disk contain unit key u . 
+agent 1 take first disk agent 2 take second disk . 
+the third disk use program chip . 
+after chip program inform discard vault agent leav . 
+the laptop may destroy addit assur inform left behind . 
+none make feel least bit secur . 
+the silli notion destroy laptop appear yet anoth bizarr distract . 
+we know ca n't read data dram turn moment . 
+on hand n't know need generat unit key s1 s2 first place weaken system . 
+we n't know agent question would resist million cash piec inform probabl worth hundr million make bribe arbitrarili hard resist . 
+and tell truth vault rather joe random tempest-shield room laptop comput seem like melodrama design make high-school dropout peoria impress littl rest us . 
+the protocol may chang slight four peopl room instead two . 
+the first two would provid seed s1 s2 second two escrow agent would take disk back escrow agenc . 
+what would provid ? 
+let say escrow agenc aclu nra agent person take back disk alway honest . 
+who care ? 
+the nsa must laugh loud algorithm regener u given n like n't need steal key effect alreadi . 

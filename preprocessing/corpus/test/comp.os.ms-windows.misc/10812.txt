@@ -1,0 +1,7 @@
+after set larg 4 page tabl word window i ask word print hp laserjet ii work fine first . 
+after much edit tabl content structur output request kick lj manual feed mode document contain tabl . 
+other document without tabl print correct . 
+where i look i chang get document long tabl use paper drawer rather kick manual feed mode ? 
+i believ i ve tri obvious printer manag chang well replac hppcl.lp00 file archiv version . 
+thank help . 
+peter 

@@ -1,0 +1,36 @@
+the one-time-pad yeild ideal secur well-known flaw authent . 
+suppos use random bit stream pad exclusive-or encrypt oper . 
+if adversari know plaintext messag chang messag . 
+here 's work . 
+alic send bob plaintext p key stream s alic comput ciphertext c s xor p send bob . 
+eve know plainext p want messag appear p ' . 
+eve intercept c comput c ' c xor p xor p ' s xor p ' . 
+eve send c ' bob . 
+bob decrypt c ' comput c'xor s p ' thus receiv fals messag substitut eve . 
+first asid i agre weak exist i lot troubl believ repres difficulti real life . 
+given 1 . 
+purpos one-tim pad give unbreak secur expens key distribut etc . 
+impli client realli want level secur 2 . 
+these peopl want keep p secret i find hard believ eve might happen copi p lie around . 
+i awar argument appli eve know even small part messag eve must know exact byte c known susequ start result garbl . 
+i find least surpris . 
+back question if i resourc use one-time-pad transmiss i would also append messag authent code messag use next bit one-time-pad key perhap . 
+your origin question basic ask whether way authent messag degre secur pad provid i n't know answer . 
+howev i would propos follow discuss . 
+alic bob arbitrari number secret random bit share eve n't know . 
+she find effect know p correspond c . 
+it fact correspond caus problem . 
+if messag authent code creat use one-time-pad oper eve could know part mac affect part input would unabl forg mac correspond . 
+what requir non-linear combin part messag . 
+non-linear simpli xore subtract whatev n't exact effect . 
+now end encrypt messag c alic append n-bit mac comput follow s2 mean next full chunk one time pad 1 . 
+comput c2 p xor s2 pad n-bit boundari s 2 . 
+break c2 n-bit chunk 3 . 
+set mac 0 initialis vector 4 . 
+chunk sequenti set mac mac nlop c2i at end process mac messag authent code . 
+bob verifi mac obvious manner recov plaintext p use pad reproduc mac manner . 
+nlop non-linear oper rub . 
+the simplest non-linear oper i think s-box fix even publish permut n-bit integ index tabl call sbox use x nlop x xor sboxi . 
+practic speak i think solv problem eve never see intermedi output c2 henc ca n't deduc s2 perform valid substitut . 
+also practic speak want mac fair larg say 32 bit might want 4 gigabyt say s-box might work 4 byte-s s-box i think irrelev detail discuss hand . 
+who first point error give pointer literatur ? 

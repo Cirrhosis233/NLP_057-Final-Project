@@ -1,0 +1,22 @@
+i post may 12th i look info product take window sourc unix box sparc produc motif execut . 
+anoth requir mfc 2.0 support . 
+i alreadi know windu bristol technolog hunter sdk mainwin mainsoft are other ? 
+i post summari 's want . 
+i got request ask summari i ll attempt one here 's one i know windu bristol technolog hunter sdk hunter system mainwin mainsoft libwxm visual solut hunter the compani go big chang . 
+i expect eventu see hunter sdk pop new name . 
+at moment difficult get phone call return otherwis obtain info . 
+hope post someth thing settl . 
+visual solut libwxm product i heard . 
+they n't yet support mdi mfc . 
+libwxm use port vissim mathemat model packag . 
+doe nativ motif widget like windu bristol . 
+contact carri lemieux 508 392 0100 info . 
+she 's help . 
+mainsoft this translat window sourc unix execut switch window quasi-motif look feel runtim . 
+they skip xt xm motif x toolkit level go straight xlib . 
+they n't yet support mfc . 
+they re 415 896 0708 . 
+bristol this compani seem right track . 
+windu use xlibxtxm give real motif app . 
+they seem work tri support thing like dde common dialog horizon . 
+my contact knowledg respond email wrote exampl program show obtain x widget window handl . 

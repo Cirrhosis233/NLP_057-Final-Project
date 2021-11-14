@@ -1,0 +1,18 @@
+you re right . 
+you read write mac appl ii 800k 3.5 disk appl ii 5.25 disk without extra hardwar . 
+howev mac 1.44mb disk read written pc 3.5 hd drive softwar . 
+this probabl ad everi pc mac faq file . 
+it sure get ask enough . 
+i agre ad sort faq list . 
+but stray origin topic . 
+our comput environ pretti split mac 's pc 's ... 
+i lucki get desk . 
+but peopl pc 's need share data mac user . 
+the mac user problem packag call dos mounter automat let mac read dos disk nativ . 
+for pc equivil ... 
+i know ! 
+both mac-ett macse inconsist dos platform requir perform activ dos program select transport file . 
+the question origin pose program hook window like .dll interpret read mac disk pc allow access standard file dialog . 
+it quit clear would avail 1.44mb flopi . 
+t.j . 
+fisk 

@@ -1,0 +1,9 @@
+hi recent i run norton disk surfac test i realiz slow harddisk access . 
+at begin test harddisk check speed usual . 
+as surfac test scane half way harddisk tremend slow occur . 
+the expect time oper jump 3 6 minut . 
+i tri use harddisk tool check physic damag harddisk report alway turn none . 
+the surfac test slow certain section disk turn back origin speed get section . 
+i wonder whether harddisk problem problem . 
+anyway help comment apprici .... 
+shane cheney wang 

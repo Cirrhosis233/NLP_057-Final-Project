@@ -1,0 +1,8 @@
+how i draw object specifi color object vari color eras without redraw everyth els ? 
+what 's happen if i draw use gxcopi drawn specifi color . 
+if i eras use gxcopi foreground background revers eras whatev overlay . 
+i need redraw item cross . 
+yuch . 
+if i draw use gxinvert drawn random color noth resembl i request . 
+it proper restor color under object eras mode . 
+what 's solut ? 

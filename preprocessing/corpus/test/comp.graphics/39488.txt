@@ -1,0 +1,7 @@
+i need help creat 4x4 perspect matrix . 
+i 'd like use transform x z w textur map code i got graphic gem i . 
+i mani book talk none simpl plain english . 
+if graphic gem i i 'm talk page 678 . 
+i 'd like perspect matrix handl differ field-of-view aspect cours . 
+thank 's help . 
+yes cours everyth i say person opinion ! 

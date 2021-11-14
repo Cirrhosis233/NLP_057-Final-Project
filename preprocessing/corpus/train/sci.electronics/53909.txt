@@ -1,0 +1,7 @@
+i built littl project use radio shack 5vdc relay switch audio . 
+i got pretti bad click ' thing switch . 
+is good relayrelay circuit i use switch audio no nois kind audio line . 
+with relay alon alway get transient abrupt turn on off channel . 
+if n't want hear transient use devic photoresistor-output optoisol usual sort thing gentl mute signal switch then remov power lamp optoisol . 
+it use standard practic employ photoresistor switch audio photoresistor time delay thousandth second kept nois digit side drive lamp contamin audio . 
+and devic cheaper relay . 

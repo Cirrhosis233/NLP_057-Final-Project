@@ -1,0 +1,9 @@
+i 'm look build microphon preamp good low-nois characterist larg clean gain incorport phantom power 20-48 volt dc pzm microphon . 
+i 'm lean toward good low-cost ? ? 
+instrument amplifi maintain balanc input microphon good cmrr intern compens use minim part . 
+doe anyon experi suggest advic etc ... 'd like pass i 'd great appreci . 
+without anyth realli tricki best i ve seen burr-brown ina103 . 
+their databook show good applic chip phantom power mic pre . 
+i ve good result ssm2016 pmi part analogu devic . 
+they also introduc ssm2017 look good paper i n't tri yet . 
+christoph 

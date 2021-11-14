@@ -1,0 +1,11 @@
+i look faq section seen answer . 
+i xmotif applic i written . 
+i coupl gif file pict i scan color scanner . 
+now i would like abl convert gif file format could read applic display background main window . 
+prefer pixmap perhap ximag . 
+i found function pbmplus program suit convert gif xbm monochrom i realli need color . 
+i look xv read gif write sever format found way write file read pixmap . 
+is easi way ? 
+email respons prefer . 
+thank ! 
+mark 

@@ -1,0 +1,5 @@
+i 'm look code generat minimum-volum orient bound box arbitrari polyhedron . 
+anyon know code ? 
+whi ? 
+i 'm convert object one model system anoth destin system object orient . 
+so i want repres object coordin system bound box object translat rotat appropri represent use destin system . 

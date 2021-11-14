@@ -1,0 +1,4 @@
+2 anyon use cpu impress cpu perform compat ? 
+there benchmark program call comptest said cyrix cpus bug run program . 
+also may nextstep 486 ? 
+regard 

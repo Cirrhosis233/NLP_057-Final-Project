@@ -1,0 +1,14 @@
+mjmhi i wonder anyon would abl help twwo relat mjmsubject . 
+i current learn amfm receiv reciev mjmcircuit . 
+i understand lot thing thing i confus mjmabuot . 
+the first mixer mix rf local oscil mjmfrequenc make if . 
+doe anyon cicruit diagram mjmsimpl possibl kind mixer ? 
+i come across mjmmc-sbl mixer chip but i abl find catalog mjmactiveetc ... 
+mjmalong note simpl fm receiv circuit anyon mjmmay stash away somewher couold let see ? . 
+mjmp.s . 
+realli good book amfm theori along with detail mjmelectr diagram would help lot . 
+mjmi seen lot theori book circuit lot mjmcircuit book theori one without help . 
+digi-key ne-622 chip local oscil mixer one chip . 
+for great combin theori actual circuit best refer non-engin probabl radio amateur 's handbook arrl . 
+most librari 's refer section . 
+slmr 2.1 if ignor bliss n't happi folk ? 

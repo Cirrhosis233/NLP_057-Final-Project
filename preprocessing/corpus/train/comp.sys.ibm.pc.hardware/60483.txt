@@ -1,0 +1,7 @@
+the jp5 speedstar 24x system boot-up problem . 
+if system fail boot-up proprt pleas pull jumper block jp5 . 
+this affect proform speedstar 24x . 
+this manual say jp5 . 
+i never knew card real ask kicker book . 
+it beat hell junk soni 1604s point i ca n't even use 648x480 mode much ... sam some time upgrag turn big overkil like drive soni 24x monitor ca n't handl . 
+or instal 60ns simm find mother board n't cmos wait state adjust take advantag new 60ns simm bought ! 

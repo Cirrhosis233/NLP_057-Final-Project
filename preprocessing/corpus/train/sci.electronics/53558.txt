@@ -1,0 +1,25 @@
+i would like digit output squid magnetomet rang -10 v 10 v digit signal process comput say macintosh ii 486 pc . 
+i would like good 16 bit adc good linear high convers speed least 50 khz prefer 200 khz . 
+other concern 2 must i use adc extern comput avoid digit nois feedback sensit squid electron ? 
+might good idea ... 
+the resolut request 0.3mv in order get ve paid nois level better lower . 
+it kind hard noisi box like expect insid pc . 
+befor pay pc card test sampl low distort sine wave i think sine wave cd . 
+digit domain there possibl low thd sourc run digit waveform fft transform take alook nois floor spectrum . 
+that 's give good indic design . 
+that 's i test data acquist system i design i got idea maxim data sheet . 
+if live 14 bit resolut i would recommend look max121 maxim . 
+it high speed 308khz complet sampl ad dsp interfac . 
+the input rang 5v use serial interfac easili optic isol comput elinim major nois sourc the analog design guid i got show -100db nois level . 
+they claim -77db a evalu kit avail . 
+might want give nice folk call . 
+1-800-998-8800 fax 408737-7194 408 737-7600 ext4000 applic assist . 
+this assum build das write softwar . 
+hey get max121 free sampl call 1-800 i would appreci discuss person experi mac pc- base adc system . 
+i would recommend find resolut gotten system look nois level otherwis might throw money . 
+charl cunningham k . 
+c . 
+lee elec . 
+eng . 
+grad . 
+student 

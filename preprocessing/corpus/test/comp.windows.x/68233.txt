@@ -1,0 +1,6 @@
+is easi ie via shell command way tell display environ variabl given client process ? 
+sometim i get i want type ps -ax . 
+client invok -display argument b . 
+display one first variabl defin environ actual i ve never seen b . 
+'s illustr type thing i 'm look ultim i wish determin number display simultan run given x applic . 
+system suno 4.1.2 sun4c thank help 

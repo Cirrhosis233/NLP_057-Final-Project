@@ -1,0 +1,96 @@
+archive-nam cryptography-faqpart04 last-modifi 1993415 faq sci.crypt part 4 mathemat cryptolog this fourth ten part sci.crypt faq . 
+the part most independ read first part rest . 
+we n't time send miss part mail n't ask . 
+note kah67 '' refer refer list last part . 
+the section faq avail via anonym ftp rtfm.mit.edu pubusenetnews.answerscryptography-faqpartxx . 
+the cryptographi faq post newsgroup sci.crypt sci.answ news.answ everi 21 day . 
+content in mathemat term private-key cryptosystem ? 
+what attack ? 
+what 's advantag formul mathemat ? 
+whi one-tim pad secur ? 
+what 's ciphertext-on attack ? 
+what 's known-plaintext attack ? 
+what 's chosen-plaintext attack ? 
+in mathemat term say brute-forc attack ? 
+what 's key-guess attack ? 
+what 's entropi ? 
+in mathemat term private-key cryptosystem ? 
+a private-key cryptosystem consist encrypt system e decrypt system d . 
+the encrypt system e collect function ek index key '' k map set plaintext '' p set ciphertext '' c . 
+similar decrypt system d collect function dk dkekp p everi plaintext p . 
+that succes decrypt ciphertext plaintext accomplish use key index use correspond encrypt plaintext ciphertext . 
+such system wherein key valu use encrypt decrypt also known symmetr '' cryptoystem . 
+what attack ? 
+in intuit term passiv attack cryptosystem method start inform plaintext correspond ciphertext unknown key figur inform plaintext . 
+it 's possibl state mathemat mean . 
+here go . 
+fix function f g h n variabl . 
+fix encrypt system e fix distribut plaintext key . 
+an attack e use g assum f give h probabl p algorithm a pair f g input one output h probabl p comput h hp1 ... pn f fp1 ... pn g gekp1 ... ekpn . 
+note probabl depend distribut vector kp1 ... pn . 
+the attack trivial pointless '' probabl least p comput h hp1 ... pn f fp1 ... pn g gc1 ... cn . 
+here c1 ... cn rang uniform possibl ciphertext particular relat p1 ... pn . 
+in word attack trivial n't actual use encrypt ekp1 ... ekpn . 
+an attack call one-ciphertext '' n 1 two-ciphertext '' n 2 . 
+what 's advantag formul mathemat ? 
+in basic cryptolog never prove cryptosystem secur . 
+read part 3 keep say strong cryptosystem must properti properti guarante cryptosystem strong ! '' in contrast purpos mathemat cryptolog precis formul possibl prove statement cryptosystem strong . 
+we say exampl cryptosystem secur passiv attack nontrivi attack system defin slow practic . 
+if prove statement confid cryptosystem resist passiv cryptanalyt techniqu . 
+if reduc statement well-known unsolv problem still confid cryptosystem n't easi break . 
+other part cryptolog also amen mathemat definit . 
+again point explicit identifi assumpt re make prove produc desir result . 
+we figur mean particular cryptosystem use proper mean assumpt valid . 
+the methodolog use cryptanalysi . 
+the cryptanalyst take advantag incorrect assumpt . 
+often tri construct proof secur system see proof fail use failur start point analysi . 
+whi one-tim pad secur ? 
+by definit one-tim pad cryptosystem plaintext ciphertext key string say byte string length ekp sum let 's say exclus k p . 
+it easi prove mathemat nontrivi single-ciphertext attack one-tim pad assum uniform distribut key . 
+note n't assum uniform distribut plaintext . 
+here 's proof let a attack i.e . 
+algorithm take two input f g produc one output h probabl p h hp whenev f fp g gekp i.e . 
+g gk p . 
+then distribut k uniform independ p distribut k p must also uniform independ p . 
+but also distribut c uniform independ p . 
+henc probabl exact p h hp whenev f fp g gc p c . 
+thus fortiori a trivial . 
+on hand one-tim pad secur key k use one plaintext i.e . 
+nontrivi multiple-ciphertext attack . 
+so proper use key k must thrown away one encrypt . 
+the key also call pad '' explain name one-tim pad . '' what 's ciphertext-on attack ? 
+in notat ciphertext-on attack one f constant . 
+given inform gekp1 ... ekpn n ciphertext attack chanc produc inform hp1 ... pn plaintext . 
+the attack trivial good chanc produc hp1 ... pn given gc1 ... cn random c1 ... cn . 
+for exampl say gc c say hp first bit p . 
+we easili write attack-th guess attack '' simpli guess hp 1 . 
+this attack trivial n't use ciphertext fifty-fifti chanc guess correct matter . 
+on hand attack rsa produc one bit inform p 100 success use c . 
+if fed random c success rate drop 50 . 
+so nontrivi attack . 
+what 's known-plaintext attack ? 
+the classic known-plaintext attack fp1p2 p1 gc1c2 c1c2 hp1p2 depend p2 . 
+in word given two ciphertext c1 c2 one decrypt p1 known-plaintext attack produc inform decrypt p2 . 
+note known-plaintext attack often defin literatur produc inform key pointless cryptanalyst general care key insofar let decrypt messag . 
+what 's chosen-plaintext attack ? 
+a chosen-plaintext attack first increas impract seri activ attack cryptosystem attack cryptanalyst feed data encryptor . 
+these attack n't fit model passiv attack explain . 
+anyway chosen-plaintext attack let cryptanalyst choos plaintext look correspond ciphertext repeat figur decrypt messag . 
+more absurd exampl sort attack chosen-key attack '' chosen-system attack . '' a much import form activ attack messag corrupt attack attack tri chang ciphertext way make use chang plaintext . 
+there mani easi way throw kink attack instanc automat encrypt plaintext p tekhtrprp t time-key sequenc number chosen anew messag r random number h one-way hash function . 
+here comma mean concaten plus mean exclusive-or . 
+in mathemat term say brute-forc attack ? 
+consid follow known-plaintext attack . 
+we given plaintext p1 ... pn-1 ciphertext c1 ... cn-1 . 
+we re also given ciphertext cn . 
+we run everi key k . 
+when find k ekpi ci everi n print dkcn . 
+if n big enough one key work attack succeed valid input time produc correct result blue moon random input . 
+thus nontrivi attack . 
+it problem slow mani possibl key . 
+what 's key-guess attack ? 
+what 's entropi ? 
+say somebodi use one-tim pad-but n't choos key random uniform m-bit messag suppos secur proof . 
+in fact say 's known prefer key english word . 
+then cryptanalyst run english word possibl key . 
+this attack often succeed 's much faster brute-forc search entir keyspac . 

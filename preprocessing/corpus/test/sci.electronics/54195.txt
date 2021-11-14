@@ -1,0 +1,6 @@
+i look suitabl uart project . 
+what i requir stand alon devic i.e . 
+cpu control receiv 1200 baud rs232 . 
+also nice extra would receiv data buffer . 
+pleas repli info . 
+thank 

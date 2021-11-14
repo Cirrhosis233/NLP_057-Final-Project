@@ -1,0 +1,24 @@
+talk scsi-1 devic e.g . 
+hd scsi-2 control talk scsi-1 control chip upgrad use chip scsi-2 control board . 
+talk scsi-1 devic e.g . 
+hd scsi-2 control . 
+here rewrit mac info sheet scsi section scsi extern devic expans interfac common mac ibm . 
+allow use devic hard drive printer scanner nubus card expans mac plus monitor cd-rom . 
+normal asynchron scsi 5 mhz fast synchron scsi 10 mhz . 
+differ mode main softwar driver . 
+main problem lot extern devic intern termin caus problem two devis scsi port a scsi chain suppos termin onli begin end . 
+ani set caus problem either mac ibm . 
+scsi-1 8-bit 7 devic per scsi control . 
+asynchron 1.5mbs ave synchron 5mbs max transfer . 
+8-bit scsi-2 often mistaken fast version scsi-1 see scsi-2 detail . 
+scsi-2 fulli scsi-1 compliant . 
+scsi-2 mode 10 devic per scsi control . 
+8-bit scsi-2 impliment fast scsi-1 sinc run use scsi-1 hardwar softwar driver limit 7 devic result sometim mistaken consit part scsi-1 . 
+16-bit 32-bit scsi-2 requir differ port electron scsi softwar driver scsi-1 which make expens scsi interfac . 
+32-bit scsi seem run synchron mode henc term wide fast scsi ' transfer speed 4-6mbs 10mbs burst 8-bit 8-12mbs 20mbs burst 16-bit 15-20mbs 40mbs burst 32-bit . 
+8-bit scsi-2 biggest headach due fact onli scsi-2 i know pump scsi-2 speed scsi-1 devic softwar control . 
+it main impliment mac though see add scsi-2 10mbs maximum throughput pcs . 
+sinc 8-bit scsi-2 not need hardwar includ electon softwar 16-bit 32-bit scsi-2 cheepest scsi-2 interfac . 
+just pop scsi-1 electorn pop 8-bit scsi-2 electron . 
+some peopl consid 16-bit scsi-2 realli start i use one 4-6mbs averag though put theoret burst 10mbs not scsi-1 8-bit scsi-2 . 
+rule thumb scsin over 5mbs some type scsi-2 . 

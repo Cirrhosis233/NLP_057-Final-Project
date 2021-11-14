@@ -1,0 +1,17 @@
+do anyon know shade program base xlib public domain ? 
+i need exampl alloc correct colormap program . 
+appreci help . 
+i n't know might help i ve start play program call povray persist vision raytrac also display output via x window . 
+it fair good job alloc colormap psuedo-color 8-plane display . 
+i got sourc site canda . 
+i think origin post search exist implement f.i . 
+gouroud-shad triangl . 
+this fair complex plain x . 
+simpler shade model implement alreadi f.i . 
+x3d ask archi get latest version . 
+for gouroud fast implement possibl util extens either mit-shm shade imag fast updat window pexopengl abl shade . 
+the portabl vanilla x ' way would shade normal ximag use xputimag would good enough static thing f.i . 
+fractal landscap stuff . 
+to speak povray x preview come origin sourc packag good especi speed protocol-friendly icccm complianc . 
+have look x256q preview code . 
+it 141.76.1.11pubgfxraymiscx256q the readm state point better xwindow.c povray 1.0 

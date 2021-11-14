@@ -1,0 +1,14 @@
+well thank larg subscrib group 's xrastool 1.0 anim packag i start 3 week ago . 
+a number solut provid discuss incorpor code look ! 
+the full blurb post comp.windows.x.announc . 
+this post two part . 
+to unpack sourc code extract articl file1 file2 exampl . 
+use text editor remov lead trail text -cut here- marker includ marker . 
+next type cat file1 file2 file uudecod file zcat xrastool1.0.tar.z tar xvf - . 
+read readm file instruct proceed . 
+enjoy ! 
+derek p.s . 
+the sourc also avail anon ftp export.lcs.mit.edu contrib directori . 
+if enough demand static binari provid without xview librari includ file . 
+derek c . 
+richardson tel 0223 337548 x 37501 institut astronomi fax 0223 337523 cambridg u.k . 

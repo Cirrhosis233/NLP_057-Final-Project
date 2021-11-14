@@ -1,0 +1,7 @@
+dale i found odditi sgi indigo mip r3000 chip . 
+dale when xlock nolock run i work remot dale batch mode runtim program time dale use clock code 25 slower dale xlock not run . 
+no process seem affect dale runtim yet consist ! 
+unless run xlock -mode blank xlock consum cpu time generat nice anim display . 
+the code run compet xlock cpu . 
+if run top via remot login realli see go . 
+-- 

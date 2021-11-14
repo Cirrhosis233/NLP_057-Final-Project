@@ -1,0 +1,5 @@
+help ! 
+how write second bankpag memori vga 320x200x256 colour mode ? . 
+ie perform page flip anim buffer screen . 
+i tri use map mask regist perform requir task although someth . 
+note it must abl work standard vga ie necessarili svga card . 

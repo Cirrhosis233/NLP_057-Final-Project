@@ -1,0 +1,3 @@
+i check faq first luck .. 
+i need convert r5 tree widget use xview v3.0 . 
+the problem fact xview use event loop system i wonder anyon tip convert sourc convert pup . 

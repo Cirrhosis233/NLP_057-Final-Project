@@ -1,0 +1,27 @@
+i post ago n't receiv one repli anoth bug report subject . 
+can anybodi help ? 
+the problem motif use xgrabkey implement menu acceler grab specif modifi appli . 
+unfortun specif xgrabkey n't allow anymodifi combin modifi exact would desir case ctrl anykeyq . 
+in ora vol . 
+6 section acceler say for inform specifi translat tabl see vol . 
+4 .. 
+know put xmnacceler resourc . 
+if go vol . 
+4 say likewis modifi specifi noth prohibit modifi present well . 
+for exampl translat shiftkeyq quit take effect even ctrl key held time shift key q key . 
+this true acceler mnemon implement use event handler instead grab 's true menu acceler . 
+if re motif implementor i 'd suggest lobbi get xlib semant chang support featur i describ . 
+otherwis chang document menu acceler proper set user 's expect menu acceler not thing translat . 
+is possibl suppli 1 acceler menu entri ? 
+if mean menu acceler 's possibl . 
+that 's accord definit xmnacceler resourc xmlabel manual page . 
+keep mind answer question use motif ca n't use xtinstallacceler . 
+i ca n't think reason . 
+how ensur acceler work independ case ? 
+what i want ctrlo ctrlo acceler one menu entri . 
+there workaround motif user . 
+in addit normal menu acceler instal xmpushbuttongadget set xtnacceler resourc shell toplevel applic . 
+instal shell 's acceler descend xtinstallallacceler shell shell . 
+for exampl applicationshel mainwindow menubar filecascad filepulldown openpushbutton exitpushbutton openpushbutton.acceler ctrlkeyo openpushbutton.acceleratortext ctrlo exitpushbutton.acceler ctrlkeyq exitpushbutton.acceleratortext ctrlq applicationshell.acceler overriden ctrlkeyo performactionopenpushbutton armandactivaten ctrlkeyq performactionexitpushbutton armandactiv you write add applic action performact implement use xtnametowidget first argument xtcallactionproc rest argument . 
+i test someth similar . 
+to shorten develop time i use teleus 's tuninstallacceler resourc instal acceler shell i direct invok open quit d action instead ask pushbutton general approach i describ work . 

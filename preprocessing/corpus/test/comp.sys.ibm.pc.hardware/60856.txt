@@ -1,0 +1,5 @@
+the temp 486dx266 96c measur k-type thermocoupl fluke 55 dig thermomet . 
+this idl temp lot bus io float point 32-bit protect mode etc . 
+this micron comput without heatsink . 
+i recent put heatsinkfan chip i might take fan . 
+it make horribl whine time i wonder vibrat pin cpu etc ... 

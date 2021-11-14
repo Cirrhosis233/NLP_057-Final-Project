@@ -1,0 +1,8 @@
+i need know pin connect make loopback connector serial port i build one . 
+the loopback connector use test serial port . 
+thank help . 
+steve me too ! ! ! ! ! ! ! 
+in 25-pin serial loopback plug need connect follow pin pin 1 pin 7 pin 2 pin 3 pin 4 5 8 togeth pin 6 11 20 22 togeth pin 15 17 23 togeth pin 18 pin 25 . 
+that . 
+note lot pin redund mani implement .... 
+phil 

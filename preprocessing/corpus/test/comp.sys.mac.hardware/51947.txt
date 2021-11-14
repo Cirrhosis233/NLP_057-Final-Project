@@ -1,0 +1,9 @@
+doe anyon know ethernet card take advantag aros extens ? 
+hey aros extens anyway newsgroup comp.sys.mac.system subject re aros centri quadra model organ technisch universitaet muenchen germani 
+date mon 19 apr 1993 143326 gmt aros appl real time oper system environ this system extens nubus card use mcp macintosh coprocessor platform . 
+the mcp-card nubus card motorola 68000-processor 512 kb ram expand 1 meg . 
+mcp develop platform hardware-design use card processor thus main processor n't need card . 
+current card i know appl tokenring-card new appl ethernet-card appl nubus serial card perhap third-party-card i n't know . 
+frank probul emanuelstr . 
+17 d-8000 munich 40 germani 
+munich univers technolog depart comput scienc germani 

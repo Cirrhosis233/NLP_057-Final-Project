@@ -1,0 +1,15 @@
+this followup post someth i ve written previous . 
+sever peopl respond good inform i n't think i communic exact i look . 
+i 'm work custom io devic communic host via rs-232 . 
+my custom circuitri use 80c186eb ec cpu requir 64k ram prefer flash ram . 
+in look around i see lot peopl engin uart-cpu-rom-ram subsystem readi interfac custom io devic . 
+it 's done much would best i avoid reinvent system . 
+it need use 80c186 188 cpu abl load program host transfer control program . 
+well 's one thing rom need know . 
+it routin send receiv byte tofrom host util hardwar control line dtrrtsdtscts . 
+everyth i ve seen 200.00 rang . 
+that 's much applic . 
+i need someth around 100.00 . 
+the cpu uart built-in re look chip . 
+doe anyon know compani market good board rang public domain circuitri i use ? 
+thank advanc info . 

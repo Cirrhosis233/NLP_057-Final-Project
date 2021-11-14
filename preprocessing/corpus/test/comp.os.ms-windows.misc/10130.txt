@@ -1,0 +1,5 @@
+can anyon tell find standard vesa display driver support on-the-motherboard xga video 486 50mz dx2 ibm model 95 8595-0lf ? 
+i need use 640 x 480 higher resolut window 3.1 ms-dos . 
+minimum color 256 highest resolut 64k color need 640 x 480 . 
+the ibm xga svga vesa driver 2.02 refer diskett avail ibm bbs . 
+it 's also compuerv bang sale rep get later version . 

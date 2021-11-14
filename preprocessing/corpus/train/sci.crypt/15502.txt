@@ -1,0 +1,7 @@
+what typic size key commerci secret key algorithm ? 
+i know des 56 bit trippl des 112 bit idea 128 bit . 
+is anyth made us 128 bit key ? 
+anyth anywher larger key ? 
+i ve heard rc2 scale arbitrarili larg key actual implement anywher ? 
+final anyon even conciev timeplac 128 bit key n't suffici ? 
+i certain ca n't even trillion key second would take 10 billion year search one billionth key space . 

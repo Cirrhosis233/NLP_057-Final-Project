@@ -1,0 +1,6 @@
+hi ! 
+i 'm look tool dump x-window screen imag ? 
+ani one help see xwd xpr . 
+even better grab xdump ftp.cs.uwm.edu . 
+it make use program well much nicer interfac . 
+you dump postscript bitmap etc . 

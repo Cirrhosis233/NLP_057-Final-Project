@@ -1,0 +1,9 @@
+i n't know routin standard i came recent for polygon point p1 ... pn point p make tabl follow t1 angl p1 p p2 t2 angl p2 p p3 ... 
+tn angl pn p p1 express angl -pi angl pi . 
+add entri tabl . 
+if sum 0 point outsid . 
+if sum pi point insid . 
+if point xpi strang polygon . 
+if ani angl -pi point border . 
+i think 's known 's neat . 
+can extend 3d ? 

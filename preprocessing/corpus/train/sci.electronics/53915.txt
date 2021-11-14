@@ -1,0 +1,12 @@
+i built littl project use radio shack 5vdc relay switch audio . 
+i got pretti bad click ' thing switch . 
+i my question is good relayrelay circuit i use switch audio no nois kind audio line . 
+are switch high level signal low level signal like pre-amp a novel circuit i use build primit optic isol .. 
+it consist resist photocel lamp packag tube . 
+when lamp cell high resist . 
+turn lamp resist lower i use h11f1 fet optoisolat switch microphon level signal . 
+there click sinc i put .1uf cap across led . 
+distort measur low mic level went 0.03 14 db line level . 
+all i put fet seri one leg balanc line . 
+no hum pop audio jump silenc . 
+the fet run 100 million ohm led dark drop 150-200 ohm . 

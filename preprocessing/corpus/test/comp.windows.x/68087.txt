@@ -1,0 +1,8 @@
+i begin tri use athena toolkit problem get start . 
+i think file miss system possibl differ directori . 
+when i tri link program ca n't find xtinitail xtrealizewidget xtmainloop xtcreatemanagedwidget commandwidgetclass . 
+i ve includ intrinsic.h command.h . 
+i also problem compil xtncallback replac null order compil see problem . 
+i n't use toolkit simpli exampl i got manuel . 
+can someon tell i might look call file directori suppos system manag n't believ standard directori general thing way . 
+i use unix thank assist . 

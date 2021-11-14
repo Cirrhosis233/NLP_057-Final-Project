@@ -1,0 +1,14 @@
+for project i would like build infra-r remot control receiv regular vcrs tvs remot . 
+doe anybodi info tip build receiv in particular photo detector i use wavelength remot use b ic circuit i use c suggest circuit layout anoth suggest find brand tv use ir remot go look sam photofact . 
+you often find detail schemat part list receiv transmitt well includ carrier freq . 
+spec . 
+tone decod spec . 
+system use . 
+probabl wo n't help . 
+i 'd will bet everi manufactur use littl self-contain modul . 
+i think sharp made . 
+radio shack use sell buck mayb still . 
+the modul 3 lead power ground demodul output . 
+it contain photo-detector amplifi integr demodul tini metal . 
+if want buy one tri radio shack els tv repair shop probabl order one . 
+btw carrier frequenc 40 khz differ tvvcrcabl boxstereo manufactur use uniqu puls scheme perform differ function equip . 

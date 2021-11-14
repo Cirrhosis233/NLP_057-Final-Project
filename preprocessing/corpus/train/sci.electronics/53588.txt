@@ -1,0 +1,7 @@
+if set direct line power tri check like hybrid regul modul stream 170 volt suppli . 
+sever set i ve look use 135 volt regul . 
+the regul tendenc short make safeti circuit shut eht suppli section . 
+tri put set variac adjust transform lower ac input voltag set 90 volt . 
+if set oper nromal know ve got short regul . 
+there myriad area problem i ve seen one sever time . 
+also set use one trippler modul may shot 's fair common . 

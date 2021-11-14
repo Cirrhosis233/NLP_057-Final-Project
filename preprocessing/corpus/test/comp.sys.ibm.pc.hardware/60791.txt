@@ -1,0 +1,11 @@
+hello i problem combin two ide hard disk seagat st3283a quantum lps105a . 
+as singl hard disk work fine connect togeth control n't work . 
+my question has anybodi ever succes use hard disk togeth jumper set bio sett hesh use ? 
+is possibl control reason troubl the thing i know ide-harddisk-control . 
+how mani harddisk control control ? 
+in case one thank advanc volker ide drive jumper indic master slave . 
+if master second jumper indic slave present . 
+these must set correct accord drive 's manufactur spec- ific . 
+the cmos setup almost posit not problem . 
+it probabl control ide control support exact two drive maximum . 
+check jumper . 

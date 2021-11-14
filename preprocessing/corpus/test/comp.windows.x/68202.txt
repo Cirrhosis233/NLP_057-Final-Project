@@ -1,0 +1,10 @@
+i understood two method connect applic code widget callback action the problem i face i quit long piec applic code perform lot draw window . 
+i want connect widget . 
+no problem far . 
+i could use callback function action process event afterward . 
+but draw take i want applic code sequenc abl interrupt event . 
+then i want handl event resum process applic code point interrupt . 
+it seem n't possibl i give user impress input immedi process has anybodi idea ? 
+pleas answer via e-mail . 
+thank advanc . 
+soenk soenk voss faculti econom w-4800 bielefeld 1 germani the differ madman i mad salvador dali 

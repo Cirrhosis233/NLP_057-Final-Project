@@ -1,0 +1,77 @@
+whi n't start spec-sheet isa bus first ? 
+you quot scsi spec till re blue face exceed isa bus capabl 's point ? 
+who said isa necessari ? 
+eisa vlb interfac worth invest thousand dollar e.g . 
+new pc 's worth money then n't complain mayb n't scsi expens pc 's ve year two ago isa bus . 
+ie one buy scsi isa isa slow are say scsi isa bus automat winner compar ide ? 
+you n't read care . 
+vlb-ide use connect mechan standard ide . 
+if transfer rate limit ide whether 's interfac isa eisa vlb matter . 
+i get differ transfer rate ide i chang isa bus speed . 
+on mine one thing . 
+scsi blow ide water hand . 
+if ide better throughput n't use workstat file server ? 
+ide variant old ibm- mfm at control . 
+least 's look softwar point view . 
+it never meant all-encompass protocalstandard impliment across differ platform . 
+is argument ide ca n't transfer data ide drive least fast drive abl provid data ? 
+are scsi version ide drive abl deliv higher sustain transfer rate scsi interfac higher rpm platter differ arrang head etc ? ? 
+given origin question scsi use singl hard drive control necessari get scsi drive least 5 mayb 10 megssec scsi choic make senc ? 
+what 200-400 meg 5 megssec scsi drive cost ? 
+no 's nice thing multitask os scsi use drive . 
+i ve got unix load one pcs along windog os use one two ide drive one time . 
+it 's pretti ugli . 
+if data go one drive anoth scsi abil perform transfer without data go cpu main memori yes optim way . 
+as far i know ide ca n't . 
+but cpu want data drive data store main memori say scsi grab data drive time storetransf data main memori also time ? 
+work 1 irq 1 dma channel isa whatev bus ? 
+i bought quantum 240 mac home . 
+i paid 369 . 
+i n't seen ide drive cheaper . 
+a friend mine got maxtor 245 meg ide drive 320 . 
+'s 245 million byte 234 mega-byt . 
+with basic 20 interfac get close 1 megsec transfer 286-20 . 
+doe figur includ hundr scsi driver ? 
+no actual re talk scsi expens simpli nobodi common interfac pc . 
+if common read easili implement method ad scsi pc like sun mac 'd find scsi connect medium choic . 
+so re say scsi would default interfac type consid vast major pc 's n't cd-rom drive tape backup etc ? 
+that pc 's 1 hard drive run dos ? 
+that scsi hard drive cost lot mfm rll drive time ? 
+common scsi drive 80 meg 4 10 year ago ? 
+there 's lot lack common interfac card prevent scsi becom connect medium choic . 
+i wo n't argu scsi standard make good well impliment data highway i still want know intrins better ide isa bus come multi-task os 's manag data singl scsi hard drive . 
+on singl drive scsi expens . 
+but point faster ? 
+this . 
+do get perform money . 
+for peopl singl hard drive system regardless os scsi choic realli give perform ide ? 
+but bought pc expand 'd want add drive whatev . 
+true expand also start bus mean option cd-rom drive tape backup run card . 
+1 . 
+you add mani differ type devic access concurr . 
+no argument . 
+this alway held first time scsi buyer best reason . 
+but mani scsi devic first time scsi buyer eventu acquir ? 
+again make sens go scsi singl hard drive system ? 
+2 . 
+a scsi devic work mani differ machin i mac pc home move hard drive veri nice scsi hook away go with post scsi i ii spec realli sure pc appl scsi hard drive compat ? 
+and even data access either machin ie format partit file tabl differ ? 
+is realli plug'n'play ? 
+3 . 
+scsi devic work togeth better ide devic . 
+for instanc recent i ad older connor 100 meg ide maxtor 212 meg ide . 
+the connor must setup slave . 
+it work way . 
+on scsi set address check termin plug away goe . 
+so c drive connor becom logic d drive dos . 
+is realli problem ? 
+4 . 
+i problem ide 's mutual exclus i notic time take switch access drive c drive quit long compar time take switch drive c scsi system . 
+under multitask os notic mani thing go . 
+after two ide drive system temporari file transfer i never seen differ switch drive i ever seen differ transfer file drive tofrom drive . 
+one neat thing i ve notic late fring benefit abil add older almost dead drive storag scsi system littl problem ve got bunch almost dead 20 meg drive i ve ad pc . 
+i ve got interfac full allow 4 20 meg drive 1 240 meg drive 1 tape drive 1 105 meg drive card . 
+that nice long power suppli keep . 
+i believ possibl 4 ide drive pc . 
+simpli put scsi handier ide . 
+no mysteri jumper figur . 

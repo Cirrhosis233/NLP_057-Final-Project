@@ -1,0 +1,3 @@
+hi well i open ftp site get latest softwar driver genoa graphic card . 
+here access ftp 192.109.42.11 loginftp passwordftp cd pubgenoa ls -l binari prompt hash wan na latest driver 7900 board cd 7000seri mget quit this sequenc get driver . 
+if question pleas email . 

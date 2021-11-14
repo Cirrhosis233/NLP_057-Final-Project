@@ -1,0 +1,4 @@
+i applic run one window . 
+in applic i 'd like icon window later deicon back window . 
+how could i ? 
+your help would appreci . 

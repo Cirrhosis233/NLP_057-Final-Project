@@ -1,0 +1,130 @@
+what exact window bitmap format look like ? 
+i mean data store width height . 
+colour bitmap data ? 
+i could n't find anyth ths user manual refer materi would give inform ? 
+newsgroup comp.os.ms-windows.programmer.miscalt.binaries.pictures.util subject dibbmp creation guid request . 
+keyword dib bmp bitmap file format date 23 dec 92 214432 gmt organ precambiran electron rochest ny line 484 xref cradle.titech comp.os.ms-windows.programmer.misc3609 guid to creation of dib imag thoma b . 
+kinsman precambrian electron 29 falstaff rd . 
+rochest ny 14609 copyright march 15 1991 abstract the format imag creat use ms window 3.03.1 applic document ms window programm 's refer guid . 
+this guid intend clearifi word specif put forth recommend among various altern . 
+pleas send updatescorrectionssuggest revis . 
+pleas thank write time keep name document . 
+thank respect . 
+this document copyright 1991 thoma b . 
+kinsman . 
+if desir postscript version document avail . 
+this inform free . 
+you get pay . 
+do n't sue i 'm wrong . 
+overview the dib imag file format intend devic independ bitmap file format . 
+what microsoft mean devic independ unclear . 
+four pixel resolut support 1 bit 4 bit 8 bit 24 bit pixel . 
+these imag intend use dos ibm little-endian system . 
+if creat anoth architectur byte- swap short long integ valu . 
+by convent dib imag end extens .bmp . 
+this march 15 1991 2 super-set earlier bitmap imag file . 
+consequ sometim hear dib file refer bmp file . 
+sinc dib imag file super-set three flavor dib imag dos dib imag . 
+these recommend convent form i describ creat . 
+they intend applic run ms window 3.0 dos environ . 
+os2 dib imag . 
+my understand flavor dib imag use present manag . 
+old-styl bitmap imag . 
+march 15 1991 3 differ between flavor the dos dib imag consist 1 . 
+a bitmapfilehead file header identifi file dib file . 
+this header also give total size imag file offset imag data . 
+2 . 
+a bitmapinfohead imag header specifi imag attribut . 
+3 . 
+an option palett color use imag . 
+if exist may contain 2 16 256 entri . 
+each entri window rgbquad structur . 
+4 . 
+the imag data . 
+the os2 dib imag consist 1 . 
+the bitmapfilehead file header identifi file dib file . 
+this header also give total size imag file offset imag data . 
+2 . 
+a bitmapcorehead imag header specifi imag attribut . 
+3 . 
+an option palett color use imag . 
+again exist may contain 2 16 256 entri . 
+each entri window rgbtripl structur . 
+4 . 
+the imag data . 
+the old style imag bitmap consist 1 . 
+either bitmapinfohead bitmapcorehead . 
+which header type determin first long integ dword valu . 
+2 . 
+an option color palett . 
+this palett may compos either window rgbquad structur header bitmapinfohead window rgbtripl structur header bitmapcorehead . 
+3 . 
+the imag data . 
+creat dib imag file . 
+creat dos dib imag file consist sever straight forward step . 
+the header need creat written file . 
+these header structur defin ms windows3.0 windows.h includ file . 
+palett inform need store imag 24-bit imag . 
+the five general step 1 . 
+fill bitmapfilehead bitmapinfohead structur basic imag inform . 
+2 . 
+if imag 1-bit 4-bit 8-bit imag creat color palett rgbquad . 
+3 . 
+calcul total file size put inform march 15 1991 4 bfsize field bitmapfilehead . 
+4 . 
+calcul offset imag data start file put bfoffbit field bitmapfilehead . 
+5 . 
+write file bitmapfilehead bitmapinfohead color palett imag data order . 
+the follow section describ structur term microsoft c type- defin keyword . 
+the follow tabl describ keyword familiar microsoft c . 
+type-defin keyword microsoft c . 
+typedef mean byte unsign charact word two byte unsign integ dword four byte unsign integ march 15 1991 5 the bitmapfilehead this structur defin windows.h typedef struct tagbitmapfilehead word bftype dword bfsize word bfreserved1 word bfreserved2 dword bfoffbit bitmapfilehead the bftype field two ascii charact ' b ' 'm ' . 
+this serv identifi file dib imag file . 
+on intel byte order machin ibm compat constant form c quantiti 'm ' 8 ' b ' 0x4d42 intel system . 
+the bfsize field total size file . 
+for purpos field equal size bitmapfilehead plus size bitmapinfohead plus number entri color palett time size rgbquad plus number byte imag data . 
+if imag data written uncompress form valu calcul ahead time . 
+otherwis field need fill later . 
+both bfreserved1 bfreserved2 field alway set zero . 
+the bfoffbit field set offset start imag data start file . 
+for purpos field set size bitmapfilehead plus size bitmapinfohead plus number entri color palett time size rgbquad . 
+this work imag data written write color palett one exist . 
+march 15 1991 6 the bitmapinfohead this structur defin windows.h typedef struct tagbitmapinfohead dword bisiz dword biwidth dword biheight word biplan word bibitcount dword bicompress dword bisizeimag dword bixpelspermet dword biypelspermet dword biclrus dword biclrimport bitmapinfohead the bisiz field set size bitmapinfohead structur . 
+when read imag file valu use determin imag contain bitmapinfohead bitmapcorehead . 
+the biwidth field width imag imag pixel . 
+the biheight field height imag imag line . 
+the biplan field alway set 1 . 
+this data written one color plane . 
+the bibitcount field bit-depth imag . 
+this must either 1 4 8 24 depend bit-depth imag data . 
+the bicompress field tell imag data compress compress . 
+dib imag support two form run-length encod . 
+howev i never seen imag use n't know yet work . 
+set field zero long zero 0l indic data compress . 
+all subsequ field bitmapinfohead structur may set zero . 
+a requir interpret softwar abl comput field necessari previous inform . 
+the field might want explicit specifi might biclrus . 
+for 4-bit 8-bit imag field indic possibl color entri use imag contain biclrus color . 
+if use 32 color 8-bit imag may want save 32 possibl 256 palett entri . 
+general set field zero . 
+march 15 1991 7 color palett each entri color palett rgbquad structur . 
+the rgbquad structur defin windows.h includ file typedef struct tagrgbquad byte rgbblue byte rgbgreen byte rgbred byte rgbreserv rgbquad the rgbreserv field alway zero . 
+for color use amount blue green red fill structur structur written file . 
+a valu zero rgbblue rgbgreen rgbred field indic particular compon contribut color composit . 
+a valu 255 field indic compon contribut fulli color composit . 
+imag data there three surpris order imag data dib imag file . 
+the creator format determin creativ certain . 
+within imag data line written pad next four byte quantiti . 
+so 8-bit imag one pixel wide still write four byte everi imag line . 
+the number byte per line calcul bytesperlin widthinpix bitdepth 31 32 4 -or term field bitmapinfohead structure- bytesperlin biwidth bibitcount 31 32 4 when write imag data must write bottom line first . 
+the bottom line imag would look screen first line imag data file . 
+for 1-bit 4-bit 8-bit imag inform written would expect . 
+one bit imag pad eight pixel byte . 
+four bit imag pad two pixel byte . 
+eight bit imag written one pixel per byte . 
+twenty-four bit imag written three byte per pixel . 
+howev 24-bit imag inform must written order blue green red . 
+while imag file format write data march 15 1991 8 rgb order dib imag file write data bgr order . 
+summari this provid enough inform creat dib imag applic scanner imag export routin . 
+if find dib imag pleas pass inform i modifi document accord . 
+march 15 1991 practic random kind senseless act beauti -anon 

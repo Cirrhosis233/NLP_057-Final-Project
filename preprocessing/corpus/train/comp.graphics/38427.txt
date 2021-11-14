@@ -1,0 +1,9 @@
+anoth method first find center circl defin 2 set 3 point intersect normal . 
+this would also defin circl center . 
+howev small numer imprecis would make line intersect . 
+suppos 3 plane have intersect uniqu point parallel . 
+have thought n't project 2 line onto 2d plane form line . 
+do intersect calcul plane 2d re guarante uniqu solut unless re parallel wo n't happen case use parametr distanc along line circl centr determin exact point interest . 
+this bypass messi error propog requir calcul 3d . 
+hope i n't put foot ! 
+steve 

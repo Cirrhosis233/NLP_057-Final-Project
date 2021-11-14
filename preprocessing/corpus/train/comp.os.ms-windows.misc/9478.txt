@@ -1,0 +1,20 @@
+... 
+permen swap file ... 
+'m sure everyon uncompress part compress hard disk seen messag select swap file greater suggest size ... window use size suggest ... wa n't creat swap file anyway someth like . 
+well friend mine robert call microsoft ask . 
+said window check amount free disk space divid number 2 . 
+then check largest contigu block free disk space . 
+window suggest smaller two number . 
+they also said absolut circumst ... none ! ... window use swap file larger suggest size . 
+well ... 's said ! 
+avail 's go use ? 
+i think support droid malfunct confus disk space limit virtual address space limit . 
+as far disk concern limit amount contigu free space . 
+the limit caus messag window use ... 
+amount virtual address space virtual memori manag creat function amount free memori window start . 
+in 386enh section system.ini specifi paramet pageovercommitmultipli the follow descript window resourc kit this entri specifi multipli determin amount linear address space vmm creat system comput round amount avail physic memori nearest 4 mb multipli valu valu specifi pageovercommit . 
+increas valu increas amount avail linear address space caus size data structur increas . 
+this also increas page activ proportion slow system . 
+you specifi valu 1 20 . 
+the default 4 . 
+to chang entri must edit system.ini . 

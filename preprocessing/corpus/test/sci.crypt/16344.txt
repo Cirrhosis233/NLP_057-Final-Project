@@ -1,0 +1,2 @@
+so question fast hash function design hardwar implement yes use stream cipher chip hash data slight modif . 
+see a fast cryptograph checksum algorithm base stream cipher ' x lai ra rueppel j woolven auscrypt 92 pp 8-7 8-11 . 

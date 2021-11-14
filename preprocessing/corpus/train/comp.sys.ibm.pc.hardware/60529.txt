@@ -1,0 +1,5 @@
+it seagat 296n st-02 control . 
+i found control could n't keep 11 interleav best i could drive 21 interleav data transfer 450 ksec . 
+accord other told st-296n difficult run 11 interleav even though seagat claim . 
+i non-pc system n't ask probabl n't heard built around scsi ca n't 11 either . 
+brian 

@@ -1,0 +1,8 @@
+i overlap windowsay v child window abc etc the window show 's children fine . 
+now i creat anoth childt wsthickfram style place top one 's sibl . 
+style wsthickfram use i resiz . 
+how i make sure child 't ' alway top 's sibl . 
+i use setwindowpo bringwindowtotop without success . 
+what 's happen i resiz 't ' show soon i let go goe behild 's sibl . 
+the window probobl top lower window draw . 
+tri use wsclipsibl keep lower sibl draw top sibl 's space . 

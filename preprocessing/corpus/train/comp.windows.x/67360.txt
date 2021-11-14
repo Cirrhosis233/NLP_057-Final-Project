@@ -1,0 +1,8 @@
+can anybodi help ? 
+i problem display imag greater 32768 byte sparc ipc run openwindow 3.0 dni . 
+my program run vax display imag ipc problem i use openwindow 2.0 . 
+the program use follow line display imag xputimag routin crash . 
+ximag ximag ximag xcreateimagemydisplay defaultvisualmydisplay myscreen ddepth zpixmap 0 imag xwid ywid 8 0 xputimagemydisplay mywindow mygc ximag 0 0 xpos ypos xwid ywid the error i get is- xio fatal io error 65535 x server galaxy0.0 30 request 18 known process 0 event remain . 
+xlib-f-ioerror xlib io error -system-f-linkdiscon network partner disconnect logic link trace-f-traceback symbol stack dump follow modul name routin name line rel pc ab pc 000773b9 000773b9 00077bbe 00077bbe 0007259d 0007259d 00072741 00072741 00072840 00072840 00072a27 00072a27 myxsub myimtoik 3184 00000093 000010af test main 293 000000e5 00000ee5 i simpl test program anyon would like test ! ! 
+thank paul . 
+paul jaqu system engin camborn school mine rosemanow herniss penryn cornwal . 

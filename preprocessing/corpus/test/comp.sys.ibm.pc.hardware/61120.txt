@@ -1,0 +1,18 @@
+i interrest extrodinarili simpl concept null modem cabl . 
+actual i no idea n't count last statement . 
+what i 'm ask pin use 's specif ? 
+i want solder one instead buy one . 
+i n't even know port use . 
+db-25 db-9 pin pin name eia ccitt dte-dc descript 1 fg aa 101 frame ground 2 3 td ba 103 transmit data 3 2 rd bb 104 receiv data 4 7 rts ca 105 request send 5 8 cts cb 106 clear send 6 6 dsr cc 107 data set readi 7 5 sg ab 102 signal ground 8 1 dcd cf 109 data carrier detect 9 posit dc test voltag 10 negat dc test voltag 11 qm equal mode 12 sdcd scf 122 secondari data carrier detect 13 scts scb 121 secondari clear send 14 std sba 118 secondari transmit data 15 tc db 114 transmitt clock 16 srd sbb 119 secondari receiv clock 17 rc dd 115 receiv clock 18 dcr divid clock receiv 19 srts sca 120 secondari request send 20 4 dtr cd 108.2 data termin readi 21 sq cg 110 signal qualiti 22 9 ri ce 125 ring indic 23 ch 111 data rate selector 24 ci 112 data rate selector 25 tc da 113 transmit clock .-.-.- anoth post c.s.i.p.h .-.-.- .-.-.- sorri n't know author .-.-.-.-.- . 
+connect devic normal 7 wire connect use . 
+connect gnd1 gnd2 rxd1 txd2 txd1 rxd2 dtr1 dsr2 dsr1 dtr2 rts1 cts2 cts1 rts2 if modem connect add line follow ri dcd if softwar want connect dcd1 cts1 dcd2 cts2 . 
+bewar ! 
+while pcs use pin 2 rxd pin 3 txd modem normal pin revers ! 
+this allow easili connect pin1 pin1 pin2 pin 2 etc . 
+if connect two pcs cross rxd txd . 
+if hardwar handshak need so-cal null-modem connect use . 
+connect gnd1 gnd2 rxd1 txd2 txd1 rxd2 addit connect softwar need rts1 cts1 dcd1 rts2 cts2 dcd2 dtr1 dsr1 dtr2 dsr2 you wo n't need long wire ! 
+the null-modem connect use establish xonxoff-transmiss two pcs see softwar section detail . 
+rememb name dtr dsr cts rts refer line seen pc . 
+this mean data set dtr rts incom signal dsr cts output ! 
+.-.-.-.- end .-.-.- michael 

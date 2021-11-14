@@ -1,0 +1,9 @@
+forgiv faq i check list i cant find . 
+i problem cursor within xterm mono grayscal monitor the problem i charact applic display input field revers video xterm text cursor get lost edg input field . 
+the solut would appear set xterm cursor line rather block . 
+i ca n't find mean although various sourc seem indic done . 
+when xterm lose input focus cursor becom outlin block . 
+this would also prefer i ca n't seem forc default either . 
+configur motorola 88k x11r4 pleas repli email poss . 
+thank steve weet european mis motorola cellular subscrib group beechgreen court chineham basingstok hant england . 
+fax 44 0256 817481 mobil 44 0850 335105 post w10075 

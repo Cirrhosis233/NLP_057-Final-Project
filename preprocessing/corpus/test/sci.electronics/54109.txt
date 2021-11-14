@@ -1,0 +1,14 @@
+i question access certain address chip particulari 27c512 eprom . 
+although i n't know much i understand 's pin chip voltag appli kick address . 
+the question determin mani byte address increment ? ? 
+for exampl i code i want access 2000 also say 4000 i move address pointer posit ? ? 
+thank info ... 
+sean kelli sysop amizon bbs 312594-1146 alway look classic video game follow system atari 2600-atari 5200-colecovision-atari 5200-intellivision-vectrex judg .sig tri make kind game cartridg . 
+inform build eeprom cartidg vectrex avail via anonym ftp csus.edu ' . 
+sinc ve chosen 27c512 probabl tri make multicart ' . 
+to simpli 1 . 
+load game imag eeprom 2000 4000 etc . 
+your eeprom burner softwar may allow assembl imag one file suitabl gap . 
+2 . 
+wire cartridg lower address bit go game consol high bit go switch choos game . 
+to direct answer question pin kick address ' simpli anoth address line . 

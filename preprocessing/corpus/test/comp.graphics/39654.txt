@@ -1,0 +1,3 @@
+i recent read book tiff version 6.0 specif due releas spring 1992 . 
+i interest find new featur tiff spec . 
+specif i need know tiff 6.0 support vq decompress andor imag tile . 

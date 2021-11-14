@@ -1,0 +1,3 @@
+how 16 bit color hdtv work it 5 bit red green blue like macintosh . 
+this give 64 gray level . 
+appl also develop point-point network around 200mb sure bit byte per sec . 

@@ -1,0 +1,13 @@
+hi ! 
+i recent purchas toshiba 3401 cdrom . 
+i adaptec 1542b scsi card i far fail get cdrom work dos . 
+it work well os2 i know drive faulti . 
+in config.si i aspi3dos.si aspidisk.si aspicd.si . 
+in autoexec.bat i mscdex came dos 6.0 . 
+mscdex seem find instal drive drive f i switch drive tri dir i get error messag tell drive readi someth like . 
+the cdrom lock adaptec util n't seem recogn i cdrom point . 
+the current adaptec driver support toshiba 3401 . 
+get corel scsi driver support . 
+this method i use work well . 
+corel 's phone number 1613 728-3733 just satisfi user . 
+jb 

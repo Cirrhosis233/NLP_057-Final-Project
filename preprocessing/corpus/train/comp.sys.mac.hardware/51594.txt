@@ -1,0 +1,5 @@
+address mode . 
+command fill slight faster sinc new instruct fetch 2 byte time versus one . 
+even 68000 fetch two byte time . 
+the new instruct 68040 move16 fetch 16 byte time instead 4 68030 mean 4 24bit pixel instead one . 
+cheer h 

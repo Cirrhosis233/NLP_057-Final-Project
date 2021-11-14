@@ -1,0 +1,6 @@
+window placement screen i would like configur system hp unix avoid corner given window display outsid visibl screen . 
+the whole window visibl imposs move window outsid visibl aerea . 
+1 . 
+can done configur window manag 's resourc 2 . 
+can done applik level 3 . 
+a hardcod solut possibl possibl upper limit given window size 

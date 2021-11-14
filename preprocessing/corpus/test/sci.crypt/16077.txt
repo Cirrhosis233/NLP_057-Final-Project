@@ -1,0 +1,47 @@
+hi i 'd like thank fast respons . 
+special thank go repli lexic order my question sensibl des encrypt data toward bit error ? 
+how much data per bit lost averag i assum still correct key ? 
+how much des-encrypt data affect depend use cfb cipher feedback mode ecb electron code book mode cbc cipher block chain mode ofb output feedback mode mode stuff better other . 
+ofb cfb design communic stream file . 
+unfortun peopl strong disagre mode lead destruct follow data . 
+sure seem mode resync quit fast other never other even effect block . 
+summar peopl said concern matter todd w . 
+arnold . 
+if use cbc cihper block chain remaind data in cfb mode des synchron quit fast probabl within 1 block mayb someon definit know happen mode ? 
+nevertheless thank much . 
+axel dunkel i includ respons i got sensibl des encrypt data toward bit error ? 
+how much data per bit lost averag i assum still correct key ? 
+it depend mode re use . 
+for singl 64-bit input block one-bit error 50 percent chanc corrupt 64 output bit word essenti turn output block random number . 
+if re encrypt data cbc mode howev one 64-bit block affect . 
+the next block follow decrypt proper . 
+it 's good idea kind error correct system corrupt bit like . 
+todd hello sensibl des encrypt data toward bit error ? 
+how much data per bit lost averag i assum still correct key ? 
+at least 8 byte data destroy one bit encrypt data error . 
+if use cbc cihper block chain remaind data destroy well . 
+des veri seisit singl bit error . 
+this . 
+paul schlyter swedish amateur astronom 's societi saaf nybrogatan 75 a 6 tr s-114 40 stockholm sweden sensibl des encrypt data toward bit error ? 
+how much data per bit lost averag i assum still correct key ? 
+probabl bad might lose rest data stream . 
+if want safeti drop bit use error correct coder like freewar gnu ecc . 
+trust . 
+i know i 'm . 
+x fold fish jesus ! 
+sensibl des encrypt data toward bit error ? 
+how much data per bit lost averag i assum still correct key ? 
+it depend mode re use des . 
+electron code book ecb take block 64 input bit produc 64 output bit bit chang entir block 64 bit becom bad . 
+i forget feedback mode . 
+in result encrypt one block affect later block . 
+with mode system self-synchron error repair block . 
+with mode one block bad later block bad . 
+there 's also frame problem . 
+if bit chang block 's chang mayb later block also chang . 
+but bit lost bit ad 64 bit 63 65 bit everyth confus . 
+depend mode re use . 
+cfb exampl synchronis pretti fast . 
+figur bit error destroy current block next one . 
+mjr . 
+experi get n't get want ... 

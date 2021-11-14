@@ -1,0 +1,18 @@
+hello i post newsgroup reciev moder help respons coupl issu . 
+this i appreci much i would howev like know ther simpli no inform subject relativli novic graphic programm . 
+the subject 1 how access extra video memori video board . 
+i know somwher aresom standard video bio call allow dothi . 
+i 1meg memori board accord book info i read i maximum use 256k . 
+there way standard vga caus i seen vido page written assembl i n't know written app hat use mode 13h . 
+to get speed . 
+how i ? 
+2 the vesa standard . 
+what give . 
+i read net offer vesa far code vesa goe advic cryptic best . 
+where i get public domain info tell most plain english vesa call work . 
+my biggest gripe number 1 . 
+i bought graphic book i ask graphic professor i hunt net gopher archi i ahav ask app programm like lock inform . 
+graphic program book tell alot programmi algorithm inform alway fall short tell realli control video bio . 
+what call folk i know peopl know doall tis stuff . 
+where n't written book yet ? 
+pleas help thank advanc 

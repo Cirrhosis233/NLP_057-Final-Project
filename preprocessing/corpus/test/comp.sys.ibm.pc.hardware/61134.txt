@@ -1,0 +1,11 @@
+this may naiv question basi claim cpu get hotter comput intens job run ? 
+i total agre friend sinc cpu appar idl still fact churn away million instruct per second check keyboard input instanc . 
+the except cpu 's use laptop cpu enter idl state preserv current status absolut noth . 
+in case need hardwar interrupt get go . 
+actual iapx86 famili halt instruct caus cpu ceas process instruct . 
+the cpu resum process either reset receiv extern hardwar interrupt . 
+this differ power manag facil victor mention . 
+of cours whether oper system 's idl loop use halt instruct anoth matter entir . 
+kenneth r . 
+ballou voic 617 494-0990 oberon softwar inc . 
+fax 617 494-0414 

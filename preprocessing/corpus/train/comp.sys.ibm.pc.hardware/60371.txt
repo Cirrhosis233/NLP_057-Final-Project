@@ -1,0 +1,13 @@
+i old 3com ethernet card pc at bus came apollo workstat . 
+i 'm tri identifi order use pc . 
+the assembl number 4008-00 rev 2 16 bit card circa 1985 . 
+it aui port well bnc coax connect . 
+it select address bio io dma irq locat via berg jumper . 
+it also appear intel 80186 processor board presum buffer . 
+the ethernet chip appear intel 82586 48 pin dip packag . 
+is chip equival 8390 use card ? 
+there also 68 pin plcc chip call link i got two similar sound board dirt cheap . 
+their assi number 4000-seri descript fit otherwis . 
+they 3com 3c505 's aka etherlink plus card . 
+check ftp.3com.com driver diagnost program 3com card . 
+i conclud card 505 i ran diagnost program 3c505 succes .. pass fli colour anybodi know packet driver card os2 .. ? 

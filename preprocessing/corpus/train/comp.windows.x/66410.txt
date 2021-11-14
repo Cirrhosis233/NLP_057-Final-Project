@@ -1,0 +1,9 @@
+i might need futur display rotat text . 
+i notic xvertext packag net . 
+it look good one slight problem . 
+the api assum font name alreadi load font . 
+it n't difficult split function two interfac routin one font name one xfontstruct i thought i would ask author alan richardson unfortun email address bounc . 
+doe alan r . 
+current maintain xvertext see ? 
+the e-mail address mention use u.k . 
+as know brit everyth backward so real address state give tri . 

@@ -1,0 +1,16 @@
+i notic filemanag someth strang recent . 
+usual line bottom filemanag status bar i guess display total disk space total number byte current select . 
+if i select whole bunch file i get exact byte count . 
+recent i notic incorrect display count 's truncat ! 
+if i select file say 532 byte correct display 532 byte ' . 
+if i select select file 23482 byte display 23 byte ' 23 kbyte 23 byte ! 
+if i select 893352 report 893 byte select . 
+if i select meg worth file say 3356345 report 3 byte ! 
+it 's 's got problem display 3 charact ! 
+my system 486dx33 8m memori stacker 3.0 dos 5 win 3.1 . 
+i ve run latest virus scanner scan102 f-prot n't report anyth . 
+could i unknow alter someth control format status bar filemang ? 
+it sound like somethingon may set 1000 's separ contol panel intern . 
+this make 23482 look like 23.482 file manag chop think decim part file size . 
+3356345 becom 3.356.345 file manag confus decim point comma chop everyth right first period . 
+uucp ... ! uunet ! ssc60 ! tonyd p ghrw14b 

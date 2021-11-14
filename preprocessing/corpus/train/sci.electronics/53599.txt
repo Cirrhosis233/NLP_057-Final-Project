@@ -1,0 +1,3 @@
+the casio 7500 lectric diari 3-wire serial interfac param set like rs232 one get magic expens cabl connect pc . 
+doe anyon know spec interfac e.g . 
+need invert boost cmos signal match rs232 line ? 

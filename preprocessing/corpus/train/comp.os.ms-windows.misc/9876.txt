@@ -1,0 +1,20 @@
+i ve pursu research question last month i requir ...... long short window mous driver n't accept mice com1 com2 use irq4 irq3 unless buy special driver someon ..... i ve talk mous system say driver n't support com1 com2 claim releas one soon ! ? ? . 
+the altern seem possibl one case prohibit expens i.e . 
+4 port card 600 ? ? ? ? ? ? ! ! 
+author powerbb window claim 4 port serial card buffer 16550 uart driver window match i.e . 
+com3 irq5 120 ...... 
+the second paragraph hearsay i n't check yet ..... intend soon i free 120 g hope save step . 
+i problem i first load window . 
+my io card 2 hd 's 2 fd 's 1 parrelel 2 serial 1 mous 1 extern modem game port . 
+problem enter . 
+the darn serial port select com set stuck 3 4 . 
+good card hd 's fd 's lousi serial . 
+i call microsoft place . 
+the long short window want com1 2 onli ! 
+mous select . 
+i went bought small io card parrelel serial . 
+now i all 4 activ com port lpt1 lpt2 . 
+this half card less 20 . 
+mous com 1 extern modem com 2 i disabl lpt2 i could use interupt scanner card irq . 
+c-ya ..... 
+artin 

@@ -1,0 +1,5 @@
+i 'm tri get mh compil xmh i 'm problem . 
+i ve got mh-6.8 use gcc sco 3.2.4 . 
+my mh file list . 
+doe anyon suggest i add get compil ? ? 
+bin usrlocalbin debug etc usrlocallibmh mail usrmail mailgroup mail mandir usrman manual gen chown binchown editor prompter remov binmv -f tcpip sendmail avail chang mts entri sendmail mts sendmailsmtp bboard bbdeliveri bbhome usrspoolbboard mf pop option see below cc gcc ccoption -o -ansi -dstdc0 -dsysv -dsysv386 -dsco -dsvid curs -lcurs ldoption -s ldoptlib lex lex sprintf int sharedlib slibdir usrlocallib oldload ranlib defin bind bsd4.3 name tcpip use defin socket system bsd4.3 socket tcpip option atz bind dumb mhe mhrc more'usrbinmor ' option overhead shadow socket sys5 sys5dir option tzname whatnow 

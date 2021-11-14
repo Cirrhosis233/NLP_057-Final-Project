@@ -1,0 +1,8 @@
+i system scsi drive . 
+i want get qic-150 tape unit attach run softwar read mayb even write unix tar tape . 
+or least read stream dump file i ll take . 
+whi imposs ? 
+it n't . 
+use tar unx box gtak110.zip dos box . 
+need aspi driver . 
+ralf 

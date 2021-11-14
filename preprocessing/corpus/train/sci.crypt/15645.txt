@@ -1,0 +1,20 @@
+can someon tell hardwar compress need run digit speech 14.4k ? 
+i think i ve heard 's . 
+let say 8 bit sampl . 
+would raw data correspond sampl rate usabl ? 
+if fanci compress need ? 
+note i cabl freak i might complet misunderstood said . 
+also math frequent note wrong ll better check calcul . 
+i assum 14.4k mean 14.4k bit . 
+so assum one start one stopbit protocol overhead effect number byte per second 1.44k . 
+let 's also assum want transmit speech stereo send 1440 samplessec . 
+this correspond nyquist frequenc 720 hz low especi think 8-bit low qualiti sound . 
+furthermor da convert probabl present signal cut 720 hz instead alia higher frequenc . 
+although definit build filter overcom problem . 
+on hand speech easili compress . 
+for exampl could form power spectra could simpli band-pass filter linear fourier transform . 
+it wo n't cd qualiti sound ll discern . 
+the power spectrum method good respect . 
+i program softwar compressor compress rate 90 relat error due linear less 5 common . 
+although i must say music sound speech . 
+have fun . 

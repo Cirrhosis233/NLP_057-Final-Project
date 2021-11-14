@@ -1,0 +1,10 @@
+i understand need ground plane digit system . 
+howev i would like know ground plane also necessari analog system . 
+note ground plane connect except one point signal ground . 
+i keep get conflict answer . 
+doe ground plane analog system help reduc nois also ? 
+my system deal low frequenc signal 100hz ! ! ! . 
+well one reason get conflict answer depend want ground plane . 
+a continu conductor good electrostat shield . 
+do signal board need shield rom thing ? 
+this shield wo n't much good magnet field unless make continu around circuit shield like faraday cage . 

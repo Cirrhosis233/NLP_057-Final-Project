@@ -1,0 +1,5 @@
+hello thank peopl help problem display 24 bit imag . 
+all viewer like xli xloadimag display convert 24 bit imag 8 bit display screen . 
+what i realli want viewer make use 24 bit framescreen buffer case parallax one . 
+thank advanc . 
+gill 

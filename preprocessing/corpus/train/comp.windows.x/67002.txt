@@ -1,0 +1,3 @@
+hello i 'm tri get x11r5 run pc ran follow error messag tri start xserver . 
+set tcp sodontling option support protocol x386 version 1.2 x window system protocol version 11 revis 0 vendor releas 5000 fatal server error screen found give xinit softwar case connect abort errno 130 unabl connect x xserver . 
+anyon know error mean anyon experienc problem help much appreci thank advanc . 

@@ -1,0 +1,8 @@
+what pink nois use sound experi ? 
+pink nois constant power per geometr frequenc increment octav 13 octav etc . 
+thus 10khz-20khz octav amount nois power 10hz-20hz octav . 
+white nois constant power per arithmet frequenc increment hz khz etc . 
+thus 10khz-10.1khz band amount nois power 10hz-110hz band band 100hz wide . 
+pink nois made pass white nois thru -3dboctav filter usual approxim network sever rc pair . 
+note ca n't get -3dboctav use half -6dboctav network pink nois common use audio power respons measur . 
+it show audio spectrum analyz octave-rel band flat line across band . 

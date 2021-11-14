@@ -1,0 +1,9 @@
+my question is mean determin state capslock andor numlock ? 
+i n't know way except see modifi th keypress event . 
+of cours reason need alway know state modifi even window n't keyborad focus alway ask keypress event root window . 
+then get keypress alway know press . 
+an even point question is easi mean make x keyboard act like pc keyboard ? 
+ie capslock activ user press shift-a i 'd like get lowercas ' ' instead ' a ' . 
+i think question implement xlookupstr . 
+you alway write anoth function interpret keypress like . 
+you look implement xlookupstr xlib sourc modifi littl bit . 

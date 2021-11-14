@@ -1,0 +1,508 @@
+archive-nam net-privacypart3 last-modifi 199333 version 2.1 note anonym internet 8.1 what known anonym remail post site ? 
+8.2 what respons associ anonym ? 
+8.3 how i kill ' anonym post ? 
+8.4 what histori 
+behind anonym post server ? 
+8.5 what valu anonym ? 
+8.6 should anonym post group allow ? 
+8.7 what system oper anonym post ? 
+8.8 what go anon.penet.fi maintain j . 
+helsingius ? 
+8.1 what known anonym remail post site ? 
+current stabl anonym remail post site system adminstr privileg own equip . 
+includ anonym mail usenet post return address hal finney contribut instruct manual cypherpunk remail ftp site soda.berkeley.edu 128.32.149.19 pubcypherpunkshal's.instruct . 
+see also scripts.tar.z unix script aid remail use anonmail.arj msdos batch file aid remail use . 
+anonym mail . 
+request inform address . 
+experiment anonym remail run karl barrus inform address . 
+experiment remail encrypt server return address . 
+request inform address . 
+experiment remail . 
+includ header request-remailing-to ' . 
+experiment remail allow one level chain . 
+run chael hall . 
+request inform address . 
+experiment remail encrypt server . 
+finger ' site address inform . 
+note cypherpunk remail tend unstabl often run without site administr knowledg . 
+liabil issu wholli unresolv . 
+so far encrypt base public-key cryptographi pgp softwar see question cryptographi . 
+encrypt aspect messag text destin address repli vari site . 
+multipl chain alia unlink address encrypt most untest problemat unsupport time . 
+8.2 what respons associ anonym ? 
+user use anonym . 
+frivol use weaken serious use capabl other . 
+do use anonym provok harass threaten other . 
+do hide behind anonym evad establish convent usenet post binari pictur regular newsgroup . 
+if post larg file attent bandwidth consider . 
+rememb simpli send post servic increas network traffic . 
+avoid post anonym regular hierarchi usenet most like place alien reader . 
+the alt ' hierarchi prefer . 
+give much inform possibl post i.e . 
+refer etc . 
+rememb content mean reader judg truth messag inaccuraci tend discredit entir messag even futur one handl . 
+be care includ inform reveal ident enabl someon deduc . 
+test system send anonym mail . 
+be awar polici anonym site respect . 
+be prepar forfeit anonym abus privileg . 
+be consider respect 's object anonym . 
+hit-and-run '' anonym use utmost reserv . 
+use servic provid anonym return address instead . 
+be courteous system oper may invest larg amount time person risk account dedic hardwar conveni . 
+oper document thorough accept unaccept use introductori file sent new user . 
+have coher consist polici stick . 
+state clear log monitor occur . 
+describ background interest secur measur . 
+will general approach totalitarian lassaiz-fair ? 
+formul plan problemat ethic situat anticip potenti intens moral quandari dilemma . 
+what user blackmail someon servic ? 
+what user post suicid messag servic ? 
+rememb user trust protect . 
+in site introductori note give clear exampl situat take action action e.g . 
+warn user limit anonym email post revok account out ' user contact local administr etc . 
+describ exact limit softwar hardwar . 
+address bandwidth limit site . 
+report candid thorough bug occur . 
+work close user isol fix bug . 
+address bug note instabl anonym '' . 
+document stabil site-how long run ? 
+what compromis occur ? 
+whi run ? 
+what commit ? 
+includ disclaim outgo mail messag . 
+includ address complaint ideal append everi outgo item . 
+consult lawyer liabil . 
+be commit long-term stabil site . 
+be prepar deal complaint hate mail ' address . 
+if hardwar system run system adminstr consult . 
+be consider provid anonym various group . 
+if possibl queri group reader . 
+keep uniform simplic style outgo messag format screen effect kill file . 
+ensur key text anon ' somewher everi header . 
+take precaut ensur secur server physic network-bas attack infiltr . 
+reader do complain attack discredit poster sole reason post anonym make blanket condemn equat anonym cowardic crimin assail anonym traffic general most neutral reason e.g . 
+volum heavi increas . 
+react anonym inform unemot . 
+abus poster encourag get irrate irat respons . 
+sometim effect respons silenc . 
+notifi oper sever abus occur piraci harass extort etc . 
+do complain post inappropri offend person . 
+use kill file screen anonym post object idea anonym . 
+avoid temptat proclaim anonym post bar particular group possibl ' conceiv ' need exist . 
+refer see e.g . 
+ftp.eff.orgpubacademicanonym this articl excerpt issu fidonew individu privaci use handl . 
+it accept need system oper know name user suggest use handl analog request withhold name letter editor . 
+the articl conclud set guidelin preserv right anonym . 
+8.3 how i kill ' anonym post ? 
+tri put kill file anonhj anonymoushj this search header messag kill contain anon ' anonym ' . 
+not perfect wo n't kill followup . 
+note anonym server oper capabl mask anonym post method work far practic widespread may becom common countermeasur widespread anonym filter . 
+8.4 what histori 
+behind anonym post server ? 
+origin anonym post servic introduc individu particular volatil newsgroup anonym almost prefer method communic talk.abort alt.sex.bondag . 
+one first one dave mack start 1988 alt.sex.bondag . 
+anoth earli one wizvax.methuen.ma.us run stephani gilgut gilgut enterpris disband due lack fund . 
+the system provid anonym return address . 
+n7kbt.rain.com john opalko took function server includ reinstat anonym alia file . 
+the group alt.person chew server like 's tomorrow . '' spur disappear wizvax ' interest research idea karl kleinpast scratch six hour . 
+by time idea extend server new mainstream ' group start emerg explor possibl part specif request multipl user anonym group . 
+the intend advantag system specif allow multipl group support singl anon identifi across . 
+this arguabl singl biggest defici previous anon system . '' k . 
+kleinpast post messag rec.nud ask user whether anonym servic would welcom judg consensus . 
+k . 
+kleinpast introduc call fire extinguish '' squelch ' plonk ' abus user respons complaint use three case . 
+nevertheless month intens traffic eventu overwhelm abus server . 
+even restrict system subject abus point order dismantl facil staff . 
+such abus start right creat . '' controversi anonym site date . 
+anon.penet.fi base script c code written k . 
+kleinpast support anonym mail post return address . 
+he initi want confin servic scandinavian user expand worldwid access respons lot ' intern request . 
+j . 
+helsingius polici allow anonym post everi usenet newsgroup met strong serious ideolog opposit e.g . 
+news adminstr news.admin.polici . 
+becaus relat new recent emerg medium abus anonym poster tend higher visibl routin '' abus . 
+his total commit preserv anonym also controversi . 
+for exampl high controversi public case feb 1993 anonym user post suppos transcript desper crew dialogu challeng shuttl disast via anon.penet.fi sci.astro . 
+despit transcript post place year earlier non-anonym actual origin poster new york news tabloid subsequ respons consist larg vocifer outrag poster 's use anonym reverber mani newsgroup . 
+the origin poster use anonym handl later conced stori seem like fabric '' suggest plausibl possibl origin intent provok outrag gaug reaction authent stori albeit crude free person risk perceiv associ item . 
+the ensu commot generat queri origin articl late-ent reader . 
+the anonym user later post deliber offens comment detractor . 
+despit pierc irat outrag complaint even vocal opposit verbal abus k . 
+kleinpast emin news oper j . 
+helsingius larg avoid use fire extingish '' group bouncer '' mechan limit scope servic . 
+as march 1993 anon.penet.fi site best describ inund ' regist 13000 user initi three month oper forward 3000 messag day approxim 5 usenet post anonym site . 
+the immens popular probabl larg due capabl global ' anonym allow user find creativ use divers area previous envis . 
+johan helsingius subject extraordinari pressur dismantl server feb 1993 . 
+at one point k . 
+kleinpast threaten public organ sort vigilant group irat news oper send revoc command messag origin site . 
+j . 
+helsingius also allud threat flood server . 
+the server crash sever time least due satur mailbomb ' anonym user . 
+mr . 
+helsingius report spend 5 hour per day answer email request alon associ servic 's administr . 
+in respons serious threat disabl global group access temporarili one week encourag user defend servic public . 
+base fast-mov dialogu creativ suggest cypherpunk '' j . 
+helsingius identifi mani secur weak valuabl new featur servic current process code develop test . 
+he plan upgrad ibm compat 386 machin 486 soon handl volumin load consid integr new system sophist function includ multipl email alias alia alloc control public-key encrypt etc . 
+a sophist anonym post system set dec . 
+direct tofrom server highest degre confidenti seen far . 
+howev run public access account shut sever week upon receiv request condit appar ultim origin nsf repres . 
+d . 
+cluni releas softwar public domain . 
+recent idea newsgroup devot whistleblow ' govern abus receiv wide focus attent group format current underway . 
+in basic scenario group would allow peopl post pseudonym use remail even establish reput base authentifi digit signatur . 
+the traffic may eventu reach report attack multipl aspect project includ distribut easy-to-read document post anonym encrypt . 
+see also section view anonym post '' go anon.penet.fi ? '' document . 
+thank carl kleinpast contribut . 
+8.5 what valu anonym ? 
+i think anonym post help focus attent content one 's messag . 
+sure lot anonym post abus frivol case user find anon facil novel . 
+onc novelti wear stop prank ... 
+i n't mind see miscellan hatredprejudicerac thing part natur . 
+howev notion provid anonym 's shield idea repuls . 
+if strong feel ca n't put name post ? 
+... 
+quit frank i loath communic peopl refus use name . 
+mani seem question valu anonym . 
+but say risk anoth individu take there question rather conserv societi live hold certain view make certain statement adopt certain lifestyl like result public censur ridicul loss status employ even legal action . 
+given heterogen legal jurisdict mani contributor usenet post know legal some say anonym poster coward stand count . 
+perhap one point view right detractor exercis censorship whi censorship expect someon speak without cloak anonym . 
+this best lame argument . 
+you tell say requir anonym . 
+and tell wish major non-anonym user newsgroup disregard n't want anonym post . 
+anonym user less right other . 
+they legitim usenet particip . 
+i would honor rfds cfvs control messag vote one . 
+i think disadvantag caus anon post site n't alreadi exist fact make naiv net user n't know post anonym old way prone . 
+i speak other i regard anonym post serious discuss pretti much worthless . 
+... 
+view hide behind veil anon hard worth troubl read . 
+sinc i began post anonym show support general principl person privaci i subject far abus attack i ever receiv . 
+peopl seem find easier flame insult someon whose name n't know . 
+perhap 's easier pretend person behind email address feel sting abus comment . 
+anonym hinder method control poster ' action . 
+peopl seek control natur oppos . 
+instead make free-er medium allow poster protect anonym simpli requir poster prepar discuss sourc inform take heat unsubstanti dribbl . 
+this seem way thing current done in misc.kid three thread go start anonym poster . 
+one chang job work less hour job share woman n't want anyon current place work know think look work elsewher . 
+the next woman think babi sometim soon n't want cowork friend famili etc etc know want advic . 
+the third sex parenthood actual start peopl post usual way point anonym post servic might let peopl particip . 
+misc.kid n't seem suffer harm presenc anonym poster fact seem help . 
+while never real secur anonym forg post usenet process suffici inconveni error-pron undocu limit use person learn cultur net . 
+on hand recent use anonym post servic sci.math seem seem student ask help homework problem . 
+it attribut teacher ask explan dubious answer teach guid . 
+he say news post broken use anonym servic mail-to-new gateway . 
+some argu opinion peopl hide behind veil anonym worthless peopl thought . 
+i agre latter point ideal world would sit around engag socrat dialogu freeli exchang opinion effort learn . 
+but ideal world nobodi threaten thought ridicul . 
+but live world peopl n't agre may tri harm . 
+let 's face peopl n't go agre opinion matter logic tri present reason may . 
+this sad sinc restrict peopl voic opinion . 
+the consensus seem general anonym post servic anon.penet.fi seem suffici corros trust civil net particular experi end . 
+perhap next time question come say we tri learn harm good stop anonym post creat major problem asid anger irat peopl like ? 
+would rather ban anonymouspseudonym post altogeth real men stand said compar pueril argument other brought . 
+what primal exampl human natur . 
+i three question folk . 
+do peopl realli say differ thing base upon whether ident n't known ? 
+are peopl realli affect peopl say verbag label abus ? 
+most import forum prize freedom communic enjoy realli thing freedom communic ? 
+sigh ... 
+just mani anon servic need ? 
+will everybodi start run one soon ? 
+what 's purpos ? 
+who stand benefit n anon servic 2n n2 . 
+where sudden fasin anon servic come ? 
+for better imho wors look like we'er gon na get stuck thing much i n't like idea servic like becom norm i n't realli think 's much done sinc 's obvious anyon want set one bit work . 
+weak reason . 
+with freedom come respons . 
+respons n't real enforc . 
+true responsibilti come coercion . 
+8.6 should anonym post group allow ? 
+i first admit i hold controversi opinion inde i 'm sure none us complet orthodox opinion . 
+howev i ve receiv hundr anonym email messag last year fewer 20 reason post made good motiv it 's get difficult rememb need anonym abus lous thing truli need servic would put good use . 
+i 'm suggest ban anonym server i ve said sever situat anonym good thing tm . 
+howev notion anonym 's shield automat extend everi usenet discuss ridicul open door abus . 
+of cours one determin whether group request servic ? 
+a flat major poster vote favor ? 
+a posit margin 100 vote ? 
+or ? 
+no one speak newsgroup . 
+i 'm convinc argument anonym post servic newsgroup inher bad idea simpli 's divers status quo . 
+sinc status quo previous permit anonym post newsgroup anonym post servic would reject status quo . 
+it facist suggest newsgroup best abl decid whether want allow anonym post instead forc upon servic administr ? 
+the servic provid mechan forward mail origin poster . 
+sinc usenet reader n't know john smith jane doe except opinion address effect anonym post mail repli direct minim except person know posterand ... 
+lack anonym could serious . 
+ani mechan like liabl abus benefit well cost must weigh . 
+limit servic alt group specif group would help want advic sensit issu profession ' newsgroup . 
+an addit point us find anonim technic matter profound offens anonim differ forum differ mean . 
+if i get phone call someon wo n't identifi i hang . 
+if i get u. . 
+mail return address goe garbag unopen . 
+if someon accost street wear mask i back away care expect violenc . 
+in technic discuss anonim mean individu n't will associ matter discuss discredit utter make listen wast time . 
+anonim lead fun psych experi literatur fill various thing peopl anonym wo n't otherwis . 
+includ one notori studi involv tortur would pass today 's ethic standard . 
+fun stuff case . 
+fine . 
+leav us out of it . 
+you obvious never submit articl refere journal receiv anonym review server editor behav much like one finland e.g . 
+may repli editor maintain anonym . 
+... 
+your comparison someon want express himherself technic issu anonym person approach dark street ski mask emot overwrought nonsens poster pose physic threat . 
+it seem obvious default allow anonym post newsgroup . 
+the usenet alway oper principl status quo kept unless 's larg number peopl want chang . 
+if someon realli need post messag anonym newsgroup usual n't done usual find someon net . 
+they n't need autom servic autom servic natur incap make judgment call necessari decid whether particular post realli need anonym . 
+for newsgroup name i bet i envis scenario involv need secreci . 
+if accur content-bas filter anonym post could devis screen n't requir secreci wonder . 
+but ca n't done . 
+if newsgroup want noise- nuisance-fre call moder . 
+this happen per-newsgroup basi general usenet ban anonym post . 
+of cours one principl moder might keep anonym post could achiev automat . 
+it would still moder . 
+person i would prefer moder criteria base actual content . 
+if group n't want receiv certain post becom moder clear defin mechan non-alt group take place . 
+an autom moder exclud post certain eg . 
+anonym site individu could easili establish . 
+if anyon want take draconian approach welcom good luck . 
+i doubt i read group what possibl need would someon post anonym sci . 
+group ? 
+sure adult will post name . 
+whi would want hide behind anonym post servic ? 
+asham say tri rile peopl without fear identifi ? 
+anonym post place certain group . 
+if i anyon els need tell group ve anoth planet breath exot gase long . 
+it 's bloodi fascin ? 
+propon unimped univers anon post access ca n't seem find middl ground . 
+whi percept absolut ? 
+where instant gratif syndrom come i want anon access i want now ? 
+who control freak ? 
+rememb newsgroup poster write scientif issu . 
+anonym discuss scientif issu lead bad scienc . 
+though mani person philosoph argument anonym poster argument compel enough convinc omni-newsgroup anonym post ban sever restrict . 
+though i prove seem like anonym post principl reason person read psycholog discomfort rather reason relat maintain integr usenet . 
+rememb imposs abl ascertain conceiv legitim motiv anonym post newsgroup one normal would deem sensit . 
+... 
+general i fear even let newsgroup reader vote either allow allow anonym post sinc priori know motiv legitim poster i believ system ever institut would inhibit post legitim inform post . 
+i person n't believ pseudonym post appropri serious discuss area . 
+if legitim reason conceal poster ' ident perhap simpli re sure want name attach n't qualifi legitim book . 
+oh come legitim purpos anonym post pleas enlighten . 
+three u.s. 's found father madison hamilton jay seem think anonym post ok . 
+the federalist paper origin print new york newspap authorship attribut publius . 
+i wonder would find purpos legitim ? 
+8.7 what system oper anonym post ? 
+i would like know junk articl post anonym servic current discuss . 
+ideal i would actual tell feed site feed articl post anonym servic . 
+assum c news perform releas simpl way accomplish ? 
+or i look learn ? 
+that 's bit draconian n't have user unanim decid would like decid good question . 
+nobodi decid . 
+i definit plan want technic data . 
+... i posit offer servic promis protect anonym would limit . 
+not basi person opinion get post basi post disrupt smooth oper usenet . 
+the obvious direct recours would ' abus individu . 
+less drastic possibl exist softwar support fire extinguish individu prevent post . 
+sinc usenet democraci ? 
+if someon want run anonym servic 's busi . 
+if want put host killfil 's busi . 
+if newsadmin want blanket-drop post site 's peopl site . 
+if everyon ignor servic servic effect n't exist . 
+nntp server allow post anyon not servic net they net disservic . 
+termin server problem open nntp server allow peopl want illegalimmoraluneth thing internet without account . 
+there public access site countri world allow inexpens access usenet internet . 
+there reason nntp server allow anyon post messag reason termin server allow anyon connect make outbound connect . 
+perhap harder get internet usenet open server could justifi . 
+i think ... 
+point show clear anonym post servic great deal respons toward client toward net whole . 
+such servic imho set well-defin rule contract client sign term assur anonym . 
+is problem use punish poster upset vagu way complain usual acquiesc sysadmin organ poster belong ? 
+that sure gutless approach solv problem experi net show user vilifi anonym post first write obsess detail grievanc poster 's supervisor tranquil disturb intrus subvers post anoth . 
+anonym post prevent kind intimid . 
+the main point i would like make go revis news sw reject anon post technic newsgroup thing i think attempt prove futil . 
+each attempt modifi news result chang approach anon servic provid thwart chang . 
+i think would pointless . 
+i tri stay discuss see discuss lead . 
+but i ralli feel like i speak . 
+... 
+i repeat made clear ... 
+i block user continu abus warn . 
+in mani case user taken heed warn stop case even apolog public . 
+and warn desir effect i block number user . 
+i also block access group readership taken vote ban anonym post although i feel chang newsgroup status moder perman solut newsgroup want formal discuss . 
+doe ... 
+mean volunt issu request for discuss ban anonym post moder 4000 newsgroup server reach ? 
+i n't think illustr troubl server caus ! 
+pleas listen consensus news administr group newsgroup consult let server post messag group . 
+there pompous consensus news administr mayb would like invent one . 
+there sizeabl number peopl concern possibl minor extent actual abus server configur . 
+these concern respect johan deal . 
+... 
+there rage foam mouth condemn servic altogeth . 
+and number defend point like kate gregori even group like misc.kid . 
+benefit pseudonym post . 
+i answer lot person mail relat server abus result block number abus user . 
+i also withdrawn servic sever newsgroup user taken vote issu . 
+i made comment news.admin.polici part newly-impl password featur emerg measur secur hole kept realli busi answer user queri last two week part i feel justifi servic user . 
+the problem news.admin.polici readership rather elect repres peopl whith strong interest centralis control . 
+this seem rather bigot attitud . 
+i would consid group anyon wish discuss net control . 
+say interest central control clear indic bias . 
+you perfect welcom join discuss promot view control . 
+this whole debat lot sound furi signifi noth even decid ban anonym post server enforc . 
+the peopl conceiv could enforc retrict control intern link . 
+polici chang made cooper attempt dictat . 
+... need persuad run servic act like friend persuas tri beat head stick especi stick n't even . 
+i find bias pseudonym bore . 
+our friend post penet point . 
+the old guard would like keep network way alway ... 
+new thing pseudonym server cut turf . 
+so whine bitch everi time 's slightest abus somebodi 's .sig long tri parlay argument pseudonym . 
+i ll go record say three cheer admin anon server like penet pax n7kbt ... 
+access servic provid will preserv client privaci . 
+and pox tri defeat restrict pseudonym . 
+i would n't help peopl get rid anon post group . 
+if n't like someon say put that anon address kill file . 
+of cours i get anon site go i 'm go assign fake name like jsmith instead anon5564 avoid hassl . 
+you ll never know anonym ? 
+i must admit astonish argument . 
+i see valu anonym post circumst yet believ strong identifi peopl wish read materi peopl wo n't identifi n't . 
+i fail see good would accomplish inde surmis caus mani peopl inconveni annoy hide anonym post anonym site . 
+would care justifi hell get gall tri prevent peopl effect filter news see fit ? 
+i thought i reach australia . 
+unfortun one us site involv usaus feed complain australian academ reasearch network site connect anyth particular concept anonym mail redeem featur consum narrow bandwidth link i ca n't argu ... 
+stop servic face disconnect . 
+i consid demis servic rather unfortun i wish finnish remail luck it piti similar servic provid us . 
+i guess 's benefit constitut guarante one freedom speech legal polit system conspir subvert name public good . 
+8.8 what go anon.penet.fi run j . 
+helsingius ? 
+funni beat rest usenet head stick ok 's anon.penet.fi univers anon access . 
+but somehow peopl side equat even argu shut entir rather control appli abus manifest n't allow . 
+i written johan sever time last coupl week . 
+he use repli quit readili . 
+after i sourc softwar origin deliv use downright prompt repli . 
+funni 's impolit bastard n't answer mail atal even consist realli civil queri . 
+in mail told sent one messag feb . 
+8th . 
+feb 7th 8th server flood mail result server come crash mail host . 
+the problem aggreg abus user send thousand messag anoth user fill user mailbox . 
+the bounc messag end mailbox overflow local disk well . 
+i suppos messag got lost hassl i tri answer much possibl anon-rel messag i get routin mis-addess messag complaint servic . 
+on averag i spend 4-5 hour per day answer anon-rel messag . 
+whi everybodi els put impolit insensit misus anon.penet.fi ? 
+whose definit polit sens appli ? 
+whi univers anon access consid within realm fuzzi concept polit first place ? 
+i think johan long sinc cross line rude bastard i told privat mail littl ago . 
+at point i deepli regret creat anonym system support 1 newsgroup b given code johan . 
+i n't copyright i thought concept polit good sens might follow new home . 
+interest johan 's idea polit good sens seem near interesect mine . 
+i could even cope univers anon access johan would will engag abus control somehow seem outsid rang realiti ... 
+there way convey sad upset messag made . 
+i extent understand feel still feel realli bad . 
+run server requir get use lot flame mindless abus hate mail much easier deal someth like i respect valu view opinion high degre . 
+no i 'm ask sympathi i want know i realli give view quit lot weight . 
+when i ask softwar i actual go provid servic scandinavian user . 
+but lot peopl request i keep servic open intern communiti . 
+i realiz i ought contact point ask feel use stuff context . 
+again i realli want apologis . 
+and i replac remain piec code thet still stem system . 
+unfortun way remov idea structur i got . 
+again i realli sorri result work end use way n't approv . 
+and i give lot hard thought possibl shut server alltogeth . 
+i think i 'm feel especi rude impolit . 
+if 's good johan 's good . 
+after n't ask greater usenet whether univers anon access good idea . 
+... 
+yes i 'm serious rude pain ass i think i ll arm usenet death penalti slight modifi strateg whole-sit attack tactic assault let 's say . 
+to parrot line ... peopl thing like udp cancel other ' post year one could ever stop 's polit good sens prevent . 
+in fact i 8 peopl express privat desir abil arm udp . 
+... 
+ps- no fact 8 newsadmin readi arm udp . 
+it would amus know mani peopl gulp hard read though . 
+i n't see differ johan 's configur . 
+pps- now i ve calm fear ps ... 
+there 2 newsadmin readi arm udp . 
+they ve ask code . 
+i n't sent yet . 
+onli one site would necessari bring anon.penet.fi screech halt . 
+anyon implement udp care . 
+polit good sens prevent . 
+i wonder long one form impolit bring anoth form . 
+it would trivial easi bring anon.penet.fi screech halt . 
+in fact happen coupl time alreadi . 
+but talk threat let make one well . 
+a simpl one . 
+if somebodi use someth like udp malici bring anon.penet.fi mean stay . 
+but i let user know . 
+and name person . 
+ok ? 
+as somebodi said thread you take person respons action right ? 
+i grate appreci servic courtesey penet.fi . 
+some import question person lifecareerjob resolv due kind help peopl thru similar situat . 
+in return i also repli anon post i thought i could make posit contribut . 
+in general anon servic great opinion although like tool peopl use respons . 
+i suggest kept aliv . 
+wast bandwidth less import save live i think . 
+i inform anonym post servic mani newsgroup turn result discuss newsgroup peopl abus . 
+i post nontechn misc newsgroup intim topic i felt i requir privaci . 
+i receiv immeasur help peopl newsgroup i never use anonym behav abus immatur uneth fashion toward anyon . 
+pleas folk believ i need servic . 
+pleas servic back ... 
+thank . 
+see also part 1 first file 1.1 what ident ' internet ? 
+1.2 whi ident unimport internet ? 
+1.3 how email address identifi background ? 
+1.4 how i find somebodi email address ? 
+1.5 whi identif unstabl internet ? 
+1.6 what futur identif internet ? 
+2.1 what privaci ' internet ? 
+2.2 whi privaci unimport internet ? 
+2.3 how insecur internet network ? 
+2.4 how insecur account ? 
+2.5 how insecur file directori ? 
+2.6 how insecur x window ? 
+2.7 how insecur email ? 
+2.8 how i liabl email post ? 
+2.9 how i provid moreless inform other ident ? 
+2.10 who sysadmin ? 
+what know ? 
+2.11 whi privaci unstabl internet ? 
+2.12 what futur privaci internet ? 
+3.1 what anonym ' internet ? 
+3.2 whi anonym ' unimport internet ? 
+3.3 how anonym protect internet ? 
+3.4 what anonym mail ' ? 
+3.5 what anonym post ' ? 
+3.6 whi anonym unstabl internet ? 
+3.7 what futur anonym internet ? 
+part 2 previous file 4.1 what unix program relat privaci ? 
+4.2 how i learn use cryptographi ? 
+4.3 what cypherpunk mail list ? 
+4.4 what privacy-rel newsgroup ? 
+faq ? 
+4.5 what internet privaci enhanc mail pem ? 
+4.6 what request for comment rfcs relat privaci ? 
+4.7 how i run anonym remail ? 
+4.8 what refer privaci email ? 
+4.9 what email usenet internet use polici ? 
+4.10 what mit crosslink '' anonym messag tv program ? 
+5.1 what digit cash '' ? 
+5.2 what hacker '' cracker '' ? 
+5.3 what cypherpunk '' ? 
+5.4 what steganographi ' anonym pool ? 
+5.5 what secur obscur ' ? 
+5.6 what ident daemon ' ? 
+5.7 what standard need guard electron privaci ? 
+6.1 what electron frontier foundat eff ? 
+6.2 who comput profession social respons cpsr ? 
+6.3 what oper sun devil ' steve jackson game case ? 
+6.4 what integr servic digit network isdn ? 
+6.5 what nation research educ network nren ? 
+6.6 what fbi 's propos digit telephoni act ? 
+6.7 what u. . 
+legisl relat privaci network ? 
+6.8 what refer right cyberspac ? 
+6.9 what comput academ freedom caf archiv ? 
+7.1 what background behind internet ? 
+7.2 how internet anarchi ' like english languag ? 
+7.3 most want list 7.4 chang histori 

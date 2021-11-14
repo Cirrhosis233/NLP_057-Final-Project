@@ -1,0 +1,14 @@
+i design built hardwar 1988 would output logic level 567 tone detector upon detect 500 microwatt led 28 feet away . 
+use motorola mrd360 bias linear dc-feedback loop servo variat sunlight 60hz light . 
+use lens . 
+allen sullivan i would interest know sens hardwar . 
+what use detector ? 
+could detect angl locat system simpli respond presenc transmitt sensor field view ? 
+phototransistor- x100 x100 ne567 330kohm limit feedback base control oper point i expect realli hurt nois figur ! 
+ani comment phototransistor expert ? 
+we intend use atop stepper motor provid head beacon . 
+the plan 3 4 beacon differ frequenc room tell 567 frequenc phase-lock . 
+we . 
+one challeng avail stepper 8 degre step ! 
+know head beacon would use surveyor techniqu resect determin robot locat . 
+no i ai n't go explain resect net . 

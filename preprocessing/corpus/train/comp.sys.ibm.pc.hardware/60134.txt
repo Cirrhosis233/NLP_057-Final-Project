@@ -1,0 +1,10 @@
+in latest pc magazin pentium isssu editori advantag pc use eisevesa-lb rather plain isavesa-lb . 
+suppos user eventu want 16mb ram . 
+howev sinc isa bus 24 bit anyth bus access 16mb even i 32mb motherboard . 
+so far i agre argument . 
+then writer claim glitch occur system 16mb limit . 
+that part i n't understand ram right motherboard . 
+so cpu problem talk ram . 
+can anybodi explain the problem isa bus-mast address first 16mbs system memori . 
+bus-mast use cpu system dma actual data transfer transfer data direct system ram . 
+rp93 

@@ -1,0 +1,19 @@
+can someon tell hardwar compress need run digit speech 14.4k ? 
+i think i ve heard 's . 
+let say 8 bit sampl . 
+would raw data correspond sampl rate usabl ? 
+if fanci compress need ? 
+a good vocod like give 8000 bit per second lock full rate 's variabl rate voic activ vocod . 
+if want less qualiti cut 4000 bps half rate . 
+at full rate variabl could put two full-duplex convers v.32bis modem . 
+this requir dsp asic though . 
+an rs-6000 cpu could probabl real-tim add-and-multipli instruct dsp thing . 
+if want speech real-tim need 4000 sampl second good voic 8 bit sampl isdn 8000 8-bit sampl second 32 kbps . 
+you could fast 21 compress get 16 kbps v.32bis . 
+the qualiti point bleah work . 
+now add time encrypt method . 
+you re go need sampl hardwar problem new mac amiga . 
+or pc soundblast card re popular cheap could also build simpl adc . 
+the problem soundblast n't seem full duplex ca n't sampl play backq time make two-way convers bit tough . 
+the special hardwar capabl sound card may requir . 
+the thing worri 21 compress soundblast automat hardwar i n't good feel processor intens i ca n't estim fast pc 'd need . 

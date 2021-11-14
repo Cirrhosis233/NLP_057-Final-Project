@@ -1,0 +1,12 @@
+for project i would like build infra-r remot control receiv regular vcrs tvs remot . 
+doe anybodi info tip build receiv in particular photo detector i use wavelength remot use b ic circuit i use c suggest circuit layout pleas repli group wish well via e-mail link usenet alway avail . 
+i 'd like see info well . 
+as wavelength i think re primarili go find two 880 nm bit andor 950 nm bit . 
+usual 10 nm either way . 
+the two common i seen 880 950 i also heard 890 940 . 
+i 'm sure 10 nm one way anoth make great deal differ . 
+anoth suggest find brand tv use ir remot go look sam photofact . 
+you often find detail schemat part list receiv transmitt well includ carrier freq . 
+spec . 
+tone decod spec . 
+system use . 

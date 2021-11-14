@@ -1,0 +1,18 @@
+1 . 
+i receiv amish util window i purchas turbo c window . 
+what amish util ? 
+what ? 
+all i receiv disk doc . 
+mayb milk dogcow ? 
+9- 2 . 
+i run window 1024x768x256 mode use driver suppli svga card . 
+the card boca svga card 1meg ram i think et4000 chip least that program tell . 
+the driver old driver written window 3.1 seem work fine would i gain benefit switch newer driver ? 
+if one i use could i find ? 
+lot driver avail ftp.cica.indiana.edu pubpcwin3 driversvideo . 
+i ve tri two et4cview.zip et4turbo.zip . 
+these give choic turbo non-turbo driver . 
+the turbo driver fast caus mous problem machin diamond speedstar card . 
+i final got turbo driver wndspeed binar diamond . 
+amaz . 
+blaze fast non-acceler card best gpf 's month ... 

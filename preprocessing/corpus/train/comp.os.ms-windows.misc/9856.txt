@@ -1,0 +1,35 @@
+dear friend the risc mean reduc instruct set comput . 
+the risc usual small instruct set reduc circuit complex increas clock rate high perform . 
+you read book comput architectur inform risc . 
+hmm ... 
+i author risc i clear rememb read instruct set risc cpus rather larg . 
+the differ address mode risc instruct set orthogon cisc . 
+theoret suppos reduc .... 
+longer . 
+that 's everyon argu risc v.s . 
+cisc . 
+person i think cisc win . 
+just take look pentium ! 
+not i like intel architectur either 's anoth stori ... 
+bye ! 
+do mean pentium better risc ? 
+outsel ? 
+if first rememb intel cisc like pentium alway generat away best risc ... 
+also risc cpu cost sold quantiti even order ... 
+i rememb read 3 year mayb 2 t800 ? 
+hypercub 100 mip superscallar and reorder instruct i 'm 100 sure i think t800 25mhz transput ? 
+ya tie gazillion togeth get 100mip . 
+the newest t9000 kick anyon 's butt ... 
+n't seen use much though . 
+anyway respond i think pentium cisc better advanc risc e.g . 
+like alpha etc . 
+66mhz pentium approxim perform superdup 133mhz alpha perform weird specint92 everyon refer ? 
+i heard alpha still kick p5 's butt fp i heard . 
+comput world sell lot chip like intel make faster like intel winner like intel even though sucki architectur 10 year ago like intel 0 . 
+if make cisc chip superscalar superduperpipelin superfast idea behind risc ideolog got cisc chip . 
+and i admit i ca n't see advantag risc cisc ... 
+if latest technolog generat behind suck relat speak . 
+now i may sound like i like intel i ll say p5 real kick butt pile si sio2 ... 
+but i hope motorola realli catch 68k line ... 
+i 'm gon na start cri ... 
+brian brian hojo lee hey excus miss could i .gif ? 

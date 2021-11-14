@@ -1,0 +1,2 @@
+traci monitor way . 
+mike damico 

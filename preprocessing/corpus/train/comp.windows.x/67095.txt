@@ -1,0 +1,25 @@
+the situat run fortran execut creat xterm . 
+an option menu contain xterm run fortran subroutin creat tektronics-mod xterm display graphic . 
+type ret tektronics-mod xterm futur refer 
+tek-term activ make xterm read futur keystrok shift input focus 
+xterm i 'm base statement fact border tek-term stay highlight color tek-term stay top xterm . 
+if i 'm describ n't input focus let know . 
+the xterm brought 
+top click mous button . 
+subsequ select xterm menu item display graphic highliht border display updat graphic move tek-term 
+top . 
+if tek-term icon 
+conserv screen space stay icon . 
+the desir behavior one two option 1 . 
+whichev window activ alway top inact one . 
+2 . 
+whenev tek-term inactiv revert 
+icon activ becom window higher level xterm . 
+what i think i need mean specifi xterm tek-term highest level way 
+iconifyexpand xterm tek-term . 
+these command would i 'd guess need 
+fortran command start xterm tek-term . 
+other inform all take place vt-1300 dec dumb x-window termin connect 
+vax run vms motif . 
+thank time . 
+if ve got word wisdom give pleas send email 

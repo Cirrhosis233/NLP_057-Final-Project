@@ -1,0 +1,20 @@
+a week ago i post problem se30 i 20 meg true ram yet i set extens use larg amount memori total extens system crash finder come . 
+what i meant larg amount font load sound huge disk cach control panel appl 's memori control panel . 
+appl 's cach 64k mode 32 32 bit address . 
+all extens work other i increas memori use method mention . 
+well 's latest followup ... 
+i ran now system profil got inform memori info physic ram size 20480k . 
+logic ram size 20480k . 
+size low memori area 8k . 
+virtual memori inact . 
+address mode 32bit mode use . 
+32 bit system zone absent . 
+pariti ram not capabl . 
+growabl system heap true . 
+temporari memori support present . 
+tempori memori support real track . 
+note 32 bit system zone absent . 
+could problem ? 
+how i turn ? 
+ani idea ? 
+can anyon help ? 

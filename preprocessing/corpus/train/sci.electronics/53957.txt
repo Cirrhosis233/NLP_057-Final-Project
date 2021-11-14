@@ -1,0 +1,10 @@
+one not-so-quick question throw guy ... 
+for class project need design build power suppli follow spec voltatg adjust 1-12v current limit 1a voltag must stay within 2 design valu i 0-1a ac rippl less 5 mv rms of cours ca n't use adjust voltag current-limit regul chip our problem current limit i.e . 
+ve found stuff rest part circuit . 
+what suppli must present load would draw 1a given suppli voltag reduc voltag current equal one amp . 
+thus short thing ammet read one amp . 
+if measur current 1 ohm resistor 12v read one amp output voltag necess must 1v . 
+the basic idea seen current limit involv circuit pull current base output power transistor therefor reduc output . 
+so anybodi idea could work ? 
+thank advanc . 
+andi collin kc6yey 

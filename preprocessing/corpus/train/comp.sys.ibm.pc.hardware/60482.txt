@@ -1,0 +1,3 @@
+what 4 com port board avail pcs ? 
+we want standard com port need mention expens coprocess one . 
+they either abl share irq abl use irq 8-15 . 

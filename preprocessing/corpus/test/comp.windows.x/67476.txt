@@ -1,0 +1,45 @@
+i got bug report fix exact problem ... 
+serious problem i identifi incorpor . 
+this problem occur tabl widget 's geometrymanag invok child . 
+this work correct tabl widget parent compli xt protocol . 
+howev case motif widget ignor xtcwqueryon size incorrect . 
+in order see problem follow event must happen 1 . 
+a child tabl widget must request new size . 
+2 . 
+the tabl widget must queri parent new size set xtcwqueryon . 
+3 . 
+the parent must ignor xtcwqueryon bit resiz tabl widget . 
+as part resiz xmptableforgetproposedlayout call . 
+this set tw-table.currentcol tw-table.currentrow zero . 
+4 . 
+the tabl continu set new size work assumpt work propos actual layout . 
+at end call xmptablesaveproposedlayout . 
+this save tw-table.col tw-table.row restor valu tw-table.currentcol tw-table.currentrow . 
+howev alreadi set zero . 
+5 . 
+sinc tabl widget alreadi resiz need second resiz . 
+6 . 
+next anoth widget manag ancestor tabl resiz . 
+this result parent tabl request tabl prefer size . 
+sinc tw-table.col tw-table.row zero return 0x0 prefer size . 
+7 . 
+the parent like grant request result loss whole tabl display . 
+he isol problem propos workaround seem precis correct . 
+here new implement xmptablenewproposedlayout releas next updat 5 week xmptable.c void xmptablenewproposedlayout tw xmptablewidget tw xmptableconsidersames tw xmptableproposedcolsandrow tw xmptablequeryparentforres tw queri resiz sinc made queri still need continu . 
+howev motif broken actual may alreadi resiz . 
+in case propos layout alreadi forgotten quiet exit . 
+tw-table.resizestatus rsduetorequest xmptablemakecolsfitquerywidth tw xmptablemakerowsfitqueryheight tw xmptablegetproposedchilds tw xmptablesaveproposedlayout tw els resiz alreadi done . 
+our propos layout would forgotten process . 
+the xptabl fix ident except cours name xptable.c void xptablenewproposedlayout tw xptablewidget tw xptableconsidersames tw xptableproposedcolsandrow tw xptablequeryparentforres tw queri resiz sinc made queri still need continu . 
+howev manag widget broken actual may alreadi resiz . 
+in case propos layout alreadi forgotten quiet exit . 
+tw-table.resizestatus rsduetorequest xptablemakecolsfitquerywidth tw xptablemakerowsfitqueryheight tw xptablegetproposedchilds tw xptablesaveproposedlayout tw els resiz alreadi done . 
+our propos layout would forgotten process . 
+senior softwar engin 818306-6193 not use v-mail yet ! 
+cccp x object guru . 
+offic 525c165 jet propuls lab ms 525-3660 4800 oak grove drive pasadena ca 91109 that sun window thingi 's call ? 
+you know realli aw . 
+x ? 
+motif ? 
+that 's motif ! 
+yuck ! 

@@ -1,0 +1,16 @@
+hi i run x11r4 ibm rs6000 aix 3.2 x11r5 sun4 suno 4.1 . 
+sinc i run x colour blackwhit display i need differ valu resourc i want use ifdef color applic default file . 
+howev cpp invok xrdb resourc load demand . 
+is proper solut ? 
+so far proper solut i ve come think creat 2 differ file app-default say xterm xterm-color set xfilesearchpath either hometn hometn-color . 
+but alway seem work e.g . 
+execut remot shell command without read .cshrc set xfilesearchpath . 
+furthermor i thought use includ xterm xterm-color . 
+howev resourc xterm i want overrid xterm-color thing differ machin . 
+on sun first found resourc use i.e . 
+one xterm bw one rs6000 last found valu use i.e . 
+one xterm-color . 
+what i ? 
+i one last question specif xfilesearchpath i use t n c s . 
+t stand app-default n resourc class c s stand ? 
+thank advanc repli marcel . 

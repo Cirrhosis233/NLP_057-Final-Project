@@ -1,0 +1,13 @@
+the clipper chip 's user key form r1 eden1s1s2s1 r2 eden2s1s2s1 r3 eden3s1s2s1 whi triple-encryt use ? 
+is gain effect increas keyspac defeat potenti keysearch ? 
+if use 80 bit key ? 
+not know anyth skipjack algorithm 's realli possibl guess whether make harder easier guess s1s2 . 
+whi n1 n2 n3 form ? 
+it would facin see skipjack algorithm look way attack requir three ciphertext block form odd way . 
+where 34-bit constant valu concaten serial number form n1n2n3 come ? 
+are chang chip chip session session ? 
+even re publish ny time skipjack resist known-plaintext attack use triple- encrypt 's break secur . 
+but allow kind weird format ? 
+if three 34-bit valu truly-random bit mayb 's use ensur known-plaintext attack skipjack exist ca n't easili use deriv s1 s2 whole product run chip .... 
+doe dorothi den read group ? 
+if someon group forward question like martin hellman anyon els 's seen detail chip ? 

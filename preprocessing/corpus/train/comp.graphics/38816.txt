@@ -1,0 +1,7 @@
+hi i ve notic save model map plane posit care .3ds file reload restart 3ds given default posit orient . 
+but save .prj file positionsorient preserv . 
+doe anyon know inform store .3ds file ? 
+noth explicit said manual save textur rule .prj file . 
+i 'd like abl read textur rule inform anyon format .prj file ? 
+is .cel file format avail somewher ? 
+rych 

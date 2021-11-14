@@ -1,0 +1,10 @@
+hi i buy quantum lps240at 245 mb hardisk decid hddfdd control . 
+is 32-bit vl-bus hddfdd control faster 16 bit ide hddfdd control card ? 
+i hear vl bus control slower ide control ? 
+which one true ? 
+the vl-ide adapt much faster normal ide depend drive use board use . 
+i use nonam vl-ide io contr . 
+test coretest 2.000 kbs use cheap seagat 3196 near 4000 kbs use wd-caviar 2340 figur jumper set control get reliabl diskaccess fastest set get 4600 kbs coretest work reliabl . 
+you shadow adapt bio get fast speed . 
+i haven´t use vl-ide-cach control yet might speed twice . 
+dieter 

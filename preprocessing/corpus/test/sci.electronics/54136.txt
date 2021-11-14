@@ -1,0 +1,4 @@
+i project mind requir array led address individu microprocessor say 16x16 . 
+is lsi design drive led array includ ram hold array state fail way multiplex display i n't latch bit led use discret latch ? 
+i want avoid huge board cover 373s possibl ! 
+thank advanc ... 

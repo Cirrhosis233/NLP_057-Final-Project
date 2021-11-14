@@ -1,0 +1,8 @@
+descript compil problem delet . 
+gcc -fpcc-struct-return -o bmtoa bmtoa.o -o2 -funroll-loop -l ..... libxmu -lxmu -l ..... libxt -l ..... extensionslib -l ..... libx -lafscfasyst msun4c413usrheadlibx11x11r5 ld undefin symbol xgetvisualinfo xfree xinternatom etc . 
+there 's bug suno 4.1.3 allud faq although 's talk x11r4 affect . 
+you need forc libxmu link static rather dynam work around linker error . 
+the simplest thing edit makefil 's failur chang line read xmulib -lxmusrc -lxmu xmulib -lxmusrc -bstatic -lxmu -bdynam no . 
+this relev openwindow 3.x ship suno . 
+it relev mit r5 . 
+mit r5 compil without problem . 

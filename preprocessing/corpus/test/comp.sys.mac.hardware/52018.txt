@@ -1,0 +1,7 @@
+doe system 7.x support scsi cd rom drive ? 
+or specif driver need differ makemodel ? 
+specif i 'm look get nec cdr-25 main cheap . 
+i know slow drive multimedia n't interest . 
+i main want extract softwar distribut cd . 
+will i need get specif driver use drive mac ? 
+thank ... charl 

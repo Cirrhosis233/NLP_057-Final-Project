@@ -1,0 +1,10 @@
+encrypt k k encrypt unit key uk serial number unit ad produc three part messag encrypt system key sk produc e em k ek uk serial number sk my understand em k encrypt sk call famili key decrypt key correspond sk held law enforc . 
+doe anyon first hand knowledg ? 
+i also check 7am sunday i want wait . 
+ok fact two distinct compon transmit chip real messag encrypt convent key serial number encrypt convent key encrypt imho kind bogus whole concept one key million peopl use ca n't chang n't seem reason famili key . 
+suppos i analyz output chip i 'm abl determin bit encrypt packet contain serial number session key . 
+suppos i also design simpl algorithm base inform take data contain encrypt session key twiddl bit sever 's sent line . 
+mind i 'm sure nsa thought along dozen attack i ca n't imagin system probabl somehow design manipul inform caus compliant receiv chip somehow fail decrypt success . 
+but ? 
+what two parti agre advanc kind consist bit-twiddl scheme decrypt chip see restor proper bitstream eavesdropp get ek uk packet 's wrong ? 
+i suppos could easili defeat chip send inform mani time slight differ way make effect imposs certain know inform sent . 

@@ -1,0 +1,6 @@
+yes 's possibl ... 
+fact 's gl widget code usrlppgl somewher ... 
+'s name glib.c ibm 's right though i ca n't find exact locat warn code feel quit bogus . 
+it thing like call noport winopen extract x window id anyway . 
+it work fine aix 3.1 i spent last weekend tri port 3.2 gl 3.2 n't seem like 's turn hard job . 
+check info page pretti good document whan ca n't mix gl x go . 

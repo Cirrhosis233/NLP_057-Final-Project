@@ -1,0 +1,4 @@
+hi . 
+i 'm tri figur make window manag place window creat window command tell regardless may think right . 
+applic reason know better i n't want set override-redirect i want embellish window manag give i want wm accept choic locat . 
+i ve tri twm tvtwm mwm uncoop . 

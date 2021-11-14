@@ -1,0 +1,43 @@
+archive-nam atheismoverview alt-atheism-archive-nam overview last-modifi 5 april 1993 version 1.2 overview welcom alt.ath alt.atheism.moder . 
+this first seri regular post aim new reader newsgroup . 
+mani group controversi ' natur notic new reader often come question mis-stat misconcept post net . 
+in addit peopl often request inform post time time . 
+in order tri cut alt.ath group seri five regular post follow titl 1 . 
+alt.ath faq overview new reader 2 . 
+alt.ath faq introduct atheism 3 . 
+alt.ath faq frequent ask question faq 4 . 
+alt.ath faq construct logic argument 5 . 
+alt.ath faq atheist resourc this articl number 1 . 
+pleas read number 2 3 post . 
+the other entir option . 
+if new usenet may also find help read newsgroup news.announce.newus . 
+the articl titl a primer how work with usenet communiti answer frequent ask question usenet hint write style usenet particular relev . 
+question concern news work best ask news.newusers.quest . 
+if unabl find articl list see find stuff section . 
+credit these file could written without assist mani reader alt.ath alt.atheism.moder . 
+in particular i 'd like thank follow peopl ... countless other i ve forgotten . 
+these articl free . 
+truli free . 
+you may copi distribut anyon wish . 
+howev pleas send chang correct author pleas re-post copi articl alt.ath nobodi good multipl version document float around network . 
+find stuff all faq file somewher news system . 
+here suggest ca n't find 1 . 
+check newsgroup alt.ath . 
+look subject line start alt.ath faq . 
+2 . 
+check newsgroup news.answ subject line . 
+if n't find anyth step 1 2 news system n't set correct may wish tell system administr problem . 
+3 . 
+if anonym ftp access connect rtfm.mit.edu 18.172.1.27 . 
+go directori pubusenetalt.ath ll find latest version faq file . 
+ftp way copi file network comput . 
+if need help use get start ftp send e-mail send usenetnews.answersftp-listfaq bodi . 
+4 . 
+there site also carri news.answ post . 
+the articl introduct news.answ newsgroup carri list site articl post regular news.answ . 
+consist follow line send usenetnews.answersfinding-sourc send usenetalt.atheismfaq send usenetalt.atheismintroduct send usenetalt.atheismlog send usenetalt.atheismresourc follow line send atheismfaqfaq.txt send atheismfaqlogic.txt send atheismfaqintro.txt send atheismfaqresource.txt poor overwork modem tri send copi file . 
+there 's stuff interest command tri help send atheismindex . 
+newsgroup ask get faq file . 
+you ve tri method ve fail 's nice clutter newsgroup peopl 's mailbox request file . 
+'s better post without read faq though ! 
+for instanc peopl whose email address get mangl transit n't ftp probabl need assist obtain faq file . 

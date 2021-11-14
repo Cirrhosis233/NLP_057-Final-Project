@@ -1,0 +1,7 @@
+i 'm look program abl display 24 bit imag . 
+we use sun sparc equip parallax graphic board run x11 . 
+utah raster toolkit use getx11 . 
+convert sun raster file presum ppm pbm toolkit convert ppm utah rle format ppmtorl provid toolkit . 
+i seem rememb xloadimag 24 bit server . 
+possibl xwud x window un-dump program display 24 bit imag certain xwd grab . 
+chris lilley technic author itti comput graphic visualis train project comput graphic unit manchest comput centr oxford road 

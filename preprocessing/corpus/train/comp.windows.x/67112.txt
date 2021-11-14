@@ -1,0 +1,10 @@
+xsetfunct mydisplay gc gxxor xsetforeground mydisplay gc drawindex then draw i xdrawlin mydisplay xtwindow drawingarea1 gc x1 y1 x2 y2 xflush mydisplay and i 'm done return thing normal i xsetfunct mydisplay gc gxcopi what i 'd like happen line i draw invers whatev i 'm draw . 
+instead happen i get white line . 
+if line white background noth show . 
+if line black area noth show ! 
+it 's strang . 
+but gxxor function seem right sinc i rubber-band box eras redraw correct ie . 
+disturb under imag . 
+ani suggest i 'm wrong ? 
+david tri chang gxxor gxequiv . 
+i program run ncd termin sun termin i chang back gxxor ... 
