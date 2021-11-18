@@ -3,4 +3,4 @@ Topic: Document Classification
 
 
 
-Group member: Letian Ye, Zhenyuan Liang(terminal)
+Group member: Letian Ye, Zhenyuan Liang
