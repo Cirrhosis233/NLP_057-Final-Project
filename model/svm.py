@@ -14,7 +14,9 @@ import zipfile
 
 
 # In[108]:
-
+import os
+dir1 = 'D:\\personal\\personal\\personal\\freelancer\\scrapping\\2020_09_22_agri'
+os.chdir(dir1)
 
 all_files = []
 with zipfile.ZipFile('NLP_057-Final-Project-main.zip') as z:
