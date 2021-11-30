@@ -1,4 +1,0 @@
-will support round circular widget motif 's next releas ? . 
-i 'd love circular knob widget could use instead slider . 
-how much support need ? 
-i n't think 's anyth prohibit implement widget though write version function draw 3d shadow travers highlight . 

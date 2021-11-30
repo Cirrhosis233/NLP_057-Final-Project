@@ -1,8 +1,0 @@
-g'day can anybodi point util readconvertcropwhatnot display hdf imag file i ve look hdf stuff ncsa must take award odd directori structur strang storag approach minimalist document part problem i want look larg 5mb hdf file crop section . 
-ideal i would like hdftoppm type util i use pbmplus stuff quit merrili . 
-i convert crop part anoth format viewinganim . 
-otherwis someon pleas explain set ncsa visualis sw hdf 3.2.r5 3.3beta croppingetc . 
-this sun suno 4.1.2 . 
-ani help great appreci . 
-ta much cheer markus markus buchhorn parallel comput research facil australian nation univers canberra 0200 australia . 
-intern 61 6 australia 06 phone 2492930 fax 2490747 

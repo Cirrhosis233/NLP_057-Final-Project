@@ -1,5 +1,0 @@
-hi could someon explain exact xlib function xcreateregion xpolygonregion xpointinregion suggest ftp site i find program use function . 
-ps the man page explain much ...... 
-thank leo . 
-dept . 
-comput 

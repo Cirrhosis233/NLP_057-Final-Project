@@ -1,9 +1,0 @@
-scsi-1 scsi-2 control chip also call scsi-2 8-bit 4-6mbs 10mbs burst . 
-this advertis scsi-2 byte 493159 for pc at these speeds.not mac pc . 
-i follow mess . 
-excus need clarif . 
-iam think serious ide vs . 
-scsi thread could come better time . 
-quot scsi-1 scsi-2 control chip talk scsi-1 devic e.g . 
-hd scsi-2 control talk scsi-1 control chip upgrad use chip scsi-2 control board . 
-thank -david -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - 

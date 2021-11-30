@@ -1,6 +1,0 @@
-it seem like xtranslatecoord . 
-n't work way i expect . 
-right perform xmovewindow i want know absolut window posit respect root window . 
-to get info . 
-i xtranslatecoordin absx absi n't right ? 
-doe anybodi know way find inform ? 

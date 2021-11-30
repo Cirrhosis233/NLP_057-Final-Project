@@ -1,3 +1,0 @@
-sorri garbag code follow use cours xsetforegrounddisp pixgc backgroundcolor xfillrectangledisp pix pixgc 0 0 scrwidth scrheight xsetforegrounddisp pixgc foregroundcolor xdrawlinestringrectangledisp pix pixgc ... 
-xcopyareadisp pix win pixgc 0 0 winwidth winheight 0 0 juergen schietk research insitut discret mathemat univers bonn nassestr . 
-2 5300 bonn 1 

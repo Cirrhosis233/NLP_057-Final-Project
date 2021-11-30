@@ -1,8 +1,0 @@
-hhhheeeellllpppp meeeeeee ! 
-i instal 256 color svga driver window last week . 
-this driver download ftp.cica.indiana.edu specif paradis svga card . 
-howev i instal i run window startup screen begin becom old window 3.0 startup screen ? ? ? ? ! ! ? ? ! ! 
-everyth work fine except startup screen . 
-i know startup screen must chang system.ini file i could n't figur alter ! 
-can one help ? 
-pleas e-mail address in addit anyon know i get 1024x680 paradis svga driver 256 color use comput i anyth driver etc regard driver .... 

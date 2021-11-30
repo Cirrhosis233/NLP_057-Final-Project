@@ -1,9 +1,0 @@
-rhi ve notic save model map plane rhposit care .3ds file reload restart rh3ds given default posit orient . 
-but save rhto .prj file positionsorient preserv . 
-doe anyon rhknow inform store .3ds file ? 
-noth this prj project format save set right last render file 's name . 
-rhi 'd like abl read textur rule inform anyon rhthe format .prj file ? 
-sorri ... 
-do n't anyth cel format . 
-.... r.c v.t.ell . 
-.r ... 

@@ -1,7 +1,0 @@
-can anyon tell get total number color cell alloc default colormap ? 
-e.g . 
-colormap defaultcolormapmydisplay myscreen the maximum number alloc cell given defaultcellsmydisplay myscreen general number cell actual alloc much less depend color requir window current place . 
-i 'd like way determin number . 
-thank advanc ! 
-derek derek c . 
-richardson tel 0223 337548 x 37501 institut astronomi fax 0223 337523 cambridg u.k . 

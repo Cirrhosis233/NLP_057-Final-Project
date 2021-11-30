@@ -1,4 +1,0 @@
-with sound card interrupt 5 two serial port one modem i4 one miracl piano i3 printer port i7 i run low interrupt . 
-what i would like mous port interrupt 10 11 12 ever interrupt ps2 mous port use isa i486 comput . 
-i call technic support microsoft logitech ati check interrupt mous port ati video card use said interrupt possibl card one lower 7 . 
-doe anyon know board isa bus allow mous port even serial port high interrupt ? 

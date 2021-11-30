@@ -1,5 +1,0 @@
-i 'm write xwall ' simpl x version wall ' i want put messag default list display . 
-the problem xopendisplay hang one display current control xdm login screen . 
-i ve manual faq n't see simpl way see display open ' ahead time get xopendisplay fail short period time . 
-ani hint suggest clue pointer info ? 
-thank ... 

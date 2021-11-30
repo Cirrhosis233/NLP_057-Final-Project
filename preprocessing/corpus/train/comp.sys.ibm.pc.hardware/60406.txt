@@ -1,6 +1,0 @@
-hi is possibl use esdi-control hdd togeth ide-harddisk control one isa-system ? 
-i ve read stuff secondari control . 
-doe trick work ? 
-thanx advanc guido i question guido . 
-it possibl use esdi drive master ide drive slave i definitili say use rll master ide slave i upgrad machin 200mb ide and custom control mdl ci-1010 extend ide control while maintain rll 'd wren master drive . 
-the trick control support 4 ide drive coexist exist control mfmrllesdiscsi so accord document work esdi i assur work rll . 

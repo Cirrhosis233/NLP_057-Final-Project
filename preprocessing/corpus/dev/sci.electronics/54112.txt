@@ -1,7 +1,0 @@
-i bought littl gizmo suppos instal seri tip ring line phone wire . 
-which one ? 
-suppos i hold regular phone wire littl plastic tooth littl plastic squar thing nake lead end plug phone face away . 
-which 4 wire i see tip ring ? 
-mike levin assum refer standard pot ground start line if look loop start line idl condit ring conductor one approxim -48 -52 vdc respect ground tip conductor near ground potenti sure refer telco ground take measur . 
-if deal ground start line idl condit ring conductor one approxim -48 -52 vdc tip conductor would look like 's float may see potenti line capacit bleed time . 
-rememb use telco ground refer make measur . 

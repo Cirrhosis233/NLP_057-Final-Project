@@ -1,7 +1,0 @@
-also i seem rememb post say scsi spec call 1 foot devic cabl cabl get intern n't meet spec . 
-scsi ii draft propos rev . 
-10h section 4.2.1 single-end cabl cabl requir section implementor 's note stub cluster avoid . 
-stub space least 0.3 meter apart for non-techn stub scsi devic . 
-howev also awar implementor 's note basic recommend not part spec . 
-as other note mani vendor includ sgi violat . 
-inde main point reduc imped chang therefor reflect therefor nois ' bus . 

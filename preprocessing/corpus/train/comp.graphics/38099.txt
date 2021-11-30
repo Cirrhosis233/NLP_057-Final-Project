@@ -1,7 +1,0 @@
-hi i digit ntsc signal display pc video monitor . 
-it known display respons tube non-linear sometim said follow gamma-law . 
-i certain non-linear gamma-correct encod ntsc signal tv display suppos correct . 
-also 256 grey level exampl code c program intens level appear linear bright pc monitor ? 
-in word pc monitor display circuitri correct gamma errror ? 
-your respons much appreci . 
-amjad . 

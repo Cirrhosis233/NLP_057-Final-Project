@@ -1,9 +1,0 @@
-we need terrain data visual research current take place tel-aviv univers . 
-we two databas current work would like work databas possibl complic one give prettier imag . 
-befor i describ kind data need let mention go present paper titl photo-realist imag digit terrain describ research result eurographics'93 confer barcelona septemb . 
-we go show video-tap result good data receiv present tape mention donat . 
-we work databas consist aerial satelit photograph terrain elev map dtm . 
-each databas consist 2d array height valu data format use valu correspond 2d array color valu gray-level 256-color valu full 24-bit rgb valu . 
-other format also use . 
-we work 512x512 1024x1024 resolut databas . 
-if anybodi access kind data know get data file pleas respond news group better email us direct 

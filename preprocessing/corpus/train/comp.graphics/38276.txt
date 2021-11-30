@@ -1,8 +1,0 @@
-i would thrill kind person could help follow given cylind 3d -defin line segment two point radius e.g . 
-sxsysz exeyez r easiest expens way find ray -defin anoth line two point -cut cylind ? 
-i think test touch rather simpl closest approach two line less r ray penetr cylind . 
-nope wo n't work cylind . 
-you line arbitrarili close cylind backbon yet intersect . 
-the test work pillbox though . 
-cylind two hemispher attach end . 
-thank -arun 

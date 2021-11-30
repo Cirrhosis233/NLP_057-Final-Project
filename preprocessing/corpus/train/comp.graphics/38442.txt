@@ -1,7 +1,0 @@
-help ! ! 
-i need codepackagewhatev take 3-d data turn wirefram surfac hidden line remov . 
-i 'm use dos machin code ansi c c ansi fortran basic . 
-the data i 'm use form rectangular grid . 
-pleas post repli net other may benefit . 
-imho general interest question . 
-thank ! ! ! ! ! ! 

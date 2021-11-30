@@ -1,6 +1,0 @@
-i bought western digitalcaviar 340mb ide drive i want add system alreadi wd120 ide drive . 
-the control say support 2 hard drive i plug cabl bio setup tri start system paus i get invalid drive d error messag . 
-the system boot i access new hard drive . 
-the new drive work fine drive c 's alon i abl get drive work time . 
-ani help appreci . 
-thank mike you need run fdisk . 

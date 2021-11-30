@@ -1,7 +1,0 @@
-chip futur . 
-i must miss someth sinc everyon buy dx2 66 ... 
-mani add n't even mention dx 50 . 
-the 50 mhz extern bus speed provid hell cach design . 
-most dx-50 board slow cach make effect dx2-50s . 
-also someon els point local bus board better 33 mhz bus speed . 
-the 8k intern cach allow dx2-66 general faster anyway . 

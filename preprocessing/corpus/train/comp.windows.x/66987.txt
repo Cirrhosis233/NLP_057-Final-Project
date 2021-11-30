@@ -1,7 +1,0 @@
-hi folk . 
-as part self-introduct x i ve tri simpl icon anim sort like icondoit mswindow . 
-chang applic icon fair simpl if widget id xtsetvalu xtniconifypixmap whatev re done . 
-altern set window manag hint . 
-these method n't seem work icon applic n't specif . 
-in situat i chang icon random window sit icon box question given window-id chang icon pixur a work exampl would much appreci . 
-if make differ i 'm use motif 1.1 vms t6.0-5ke . 

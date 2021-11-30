@@ -1,8 +1,0 @@
-dear reader i'am search implement polygon reduct algorithm march cube surfac . 
-i think best one reduct algorithm schroeder et al . 
-siggraph 92 . 
-so implement algorithm would nice could leav . 
-also i'am look fast ! ! ! 
-connect test march cube surfac . 
-ani help hint use . 
-thank lot 

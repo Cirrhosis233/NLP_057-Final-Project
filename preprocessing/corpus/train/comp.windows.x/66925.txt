@@ -1,4 +1,0 @@
-the follow problem realli bug i would appreci help . 
-i creat two window w1 child root eventmask buttonpressmaskkeypressmask w2 child w1 donotpropagatemask buttonpressmaskkeypressmask keypress event w2 discard buttonpress event fall w1 subwindow set w2 . 
-fyi i 'm use xnewsolvwm . 
-am i someth fundament wrong ? 

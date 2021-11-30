@@ -1,6 +1,0 @@
-dear netter i notic someth rather wear i think creat dialog shell widget run hp vue 's vuewm . 
-for reason everi time i creat dialog shell foreground backgroun color 
-differ compar toplevel shell . 
-i anyth specialdiffer . 
-doe bodi know anyth problem ? ? 
-how fix without hardcodin g color 

@@ -1,2 +1,0 @@
-is util let use filenam longer standard 8.3 format . 
-yep 's call os2 ! 

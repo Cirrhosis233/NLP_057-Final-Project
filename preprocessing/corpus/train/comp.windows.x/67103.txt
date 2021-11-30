@@ -1,7 +1,0 @@
-dear xpert i 'm develop applic use motif slider select imag file directori . 
-now i would like display name file correspond valu drag scale button i.e . 
-mb1 press . 
-as xmnshowvalu display current valu scale button actual correspond imag file name i thought use xtaddeventhandl map scale valu file name xtaddeventhandlerscaleimagebutton1motionmask fals slidermov null eventhandl xchecktypedwindowev display event-window motionnotifi return xmscalegetvaluescaleimagevalu map valu file entri directori final obtain file name open howev i move pointer scale widget i get callback co urs null effect mb1 press move scale button . 
-so goin g wrong ? 
-or wrong approach problem ? 
-ani hint high appreci . 

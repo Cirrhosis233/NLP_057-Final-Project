@@ -1,5 +1,0 @@
-i process modifi x applic use xlib . 
-i 'd like includ timer-driven facil network poll you sort thing xt main loop . 
-that rig timer queue put select2 poll2 call main loop . 
-you obtain file descriptor x display 
-connect use fd connectionnumb display 

@@ -1,9 +1,0 @@
-hello somebodi know function xtshellstr xtstring ? 
-i n't found librari xm xt x11 i need instal tool . 
-ani hint great appreci ! 
-pleas repli via e-mail . 
-they n't function charact array . 
-the standard string either defin string constant charact pointer xtshellstr xtstring determin xtstringdefin . 
-your librari compil defin applic undefin simpli recompil one . 
-it probabl worth ad -dxtstringdefin cflag . 
-michael salmon includ standard.disclaim includ witty.say includ fancy.pseudo.graph 

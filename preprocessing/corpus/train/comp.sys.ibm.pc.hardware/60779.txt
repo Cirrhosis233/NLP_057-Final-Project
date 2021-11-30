@@ -1,9 +1,0 @@
-hi everyon i question regard stack pc . 
-i program turbo c 3.0 program rather larg model larg . 
-i keep get error i run memori run program . 
-when i compil program say i 4.45 meg ram i ca n't seem explain crash . 
-all run loop oper idl sit screw variabl . 
-this lead believ stack fill overflow . 
-doe program take memori call void function return anyth ? ? 
-i work problem day i would realli appreci responc . 
-if correct newsgroup i glad re-post i could find . 

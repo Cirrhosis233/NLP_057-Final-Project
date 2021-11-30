@@ -1,8 +1,0 @@
-i task program x applic first time sever difficulti creat window i draw someth . 
-unfortun basic book topic x applic program avail moment . 
-i run hp720 hpux 8.07 vue x11r4 use xt anbd xaw . 
-what i i initi x intrins cxreat top level widget xtappiniti . 
-i pass applicationclass name commandwidgetclass ' . 
-then i set argument valu window height width use xtsetarg pass toplevel widget xtsetvalu . 
-when i call xtrealizewidget i get window specifi size i idea i draw someth . 
-can anybodi send help perhap basic inform use widget in situat use use thank much advanc soenk soenk voss faculti econom germani 

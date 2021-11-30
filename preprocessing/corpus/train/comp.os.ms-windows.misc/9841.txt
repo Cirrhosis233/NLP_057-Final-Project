@@ -1,4 +1,0 @@
-whenev i start file manag status bar display even though select option menu . 
-if i deselect select bar appear . 
-anyon idea happen ? 
-thank 

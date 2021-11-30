@@ -1,5 +1,0 @@
-i ve think difficult would make pgp avail form ebcdic machin . 
-the messag authent would ugli i think least idea encrypt could work pgp switch tell use idea ofb-mod ecb-mod . 
-in ofb-mod error translat ebcdicasciiebcd would affect byte 16 byte would affect cbc . 
-is pgp set use differ idea mode ? 
-i n't recal notinc execut i n't gone care i probabl .... 

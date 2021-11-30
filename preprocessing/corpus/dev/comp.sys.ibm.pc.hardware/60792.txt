@@ -1,9 +1,0 @@
-this may naiv question basi claim cpu get hotter comput intens job run ? 
-my friend claim littl differ temperatur idl cpu cpu run comput intens job . 
-it first depend idl cpu ! 
-i 'm sure dos mani multitask oss loop like loop anyth ? 
-yes goto loop no goto loop the cpu work still process instruct ... 
-i ve done asic digit design cpu design . 
-it would seem 486 fpu use cach access chip buffersdriv idl multipli n't multipli barrel shifter n't shift microcod n't microcod etc . 
-this mean transistor n't switch mean less power dissip cmos mean less heat . 
-from i understand pentium shut section cpu n't use order cut heatpow . 

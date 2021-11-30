@@ -1,5 +1,0 @@
-sorri i didnt tell exact i need . 
-i need util automat updat delet ad chang .ini file window . 
-the program run dos batchfil program run script window . 
-i use util updat win.ini file meni pcs . 
-do i find ftp host ? 

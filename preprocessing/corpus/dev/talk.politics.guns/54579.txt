@@ -1,2 +1,0 @@
-ditto . 
-great post . 

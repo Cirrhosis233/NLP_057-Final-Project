@@ -1,7 +1,0 @@
-hello ! 
-we want configur x11r5 sytem i486 33mhz run bsd-like unix com chooser menu differ machin work connect . 
-but connect work localhost ! 
-an ' x -indirect machin ' work well ! 
-the configur start xdm ' boot time server specifi xserver start x-server boot time x -indirect localhost chooser menu appear machin name xacc bye chooser machine1 machine2 ... 
-broadcast number user machin load display correct select machin host x-server start noth happen time chooser menu appear . 
-i know xdm bug x11r4 machin run x11r5 pleas help lar 

@@ -1,8 +1,0 @@
-doe anyon know follow possibl i go . 
-i want abl display remot x11 applic vaxstat 2000 internet node . 
-here problem come vaxstat n't connect direct internet connect via decnet node connect internet . 
-doe anyon know possibl get display use tcpip remot internet node local internet node send via decnet vaxstat 2000 ? 
-for machin connect internet run ? 
-if run vms obtain multinet multinet come tcpip decnet gateway x11 . 
-patrick l . 
-mahan 

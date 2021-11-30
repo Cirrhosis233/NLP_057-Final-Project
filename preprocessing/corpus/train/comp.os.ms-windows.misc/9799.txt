@@ -1,5 +1,0 @@
-hi everyon i would like get exampl programsourc code get start simpl editor similar window dialog editor lot simplifi can someon point sourc program window book exampl program come window sdk microsoft borland . 
-i would great appreci . 
-all i want abl place edit control combobox listbox window abl drag resiz . 
-if anyon written similar program n't mind share code idea i would appreci much . 
-thnx advanc manu das 

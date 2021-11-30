@@ -1,7 +1,0 @@
-macintosh iisi 340 80ns . 
-clock-upgrad iisi work well 25mhz howev work nubus adaptor 1400k disk even though readwrit 800k disk at32mhz . 
-interest upgrad iisi overcom basic fight vedio system cpu never reduc 8 mater whether cach . 
-this pretti use use virtual memori system 7 . 
-20mhz 25mhz 32mhz cpu 5.466.0.7 6.816.0.7 8.836.0.7 8.747vm graf . 
-6.72 8.56 11.07 9.19 disk 1.44 1.50 1.56 1.49 math . 
-5.72 11.27fpu 9.36 8.84 

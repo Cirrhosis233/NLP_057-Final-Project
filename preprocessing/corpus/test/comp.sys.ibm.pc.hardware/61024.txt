@@ -1,4 +1,0 @@
-i write program use parallel port . 
-my problem i need generat interrupt ack line puls . 
-i get occur unabl generat succes interrupt . 
-can someon suggest i may resolv problem . 

@@ -1,7 +1,0 @@
-hello i instal one wav driver pc-speaker instal mpeg 2.0 phoenix.oulu.fipubincomingmpeg20mpegexe.zip window 3.1 . 
-i load one mpeg file make sound type wav mpegit alway say error . 
-i load one mpeg file wav file .wavthen select sound type wavit normal errorbut i still ca n't hear sound . 
-what i ? 
-fix sounddrv number mfw.ini ? 
-thankx help ... 
-english name erik wang chines name wang jyh-shyang 

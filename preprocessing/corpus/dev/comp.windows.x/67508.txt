@@ -1,6 +1,0 @@
-greet i need help detail geometri specif . 
-i program use xlib creat simpl window . 
-i tri hard code xy locat xcreatewindow n't work . 
-i also tri xsetstandardproperti xsetwmhint luck . 
-could somebodi enlighten subject . 
-han . 

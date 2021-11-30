@@ -1,3 +1,0 @@
-dear xpert i want place specif group icon icon box icon appear outsid box . 
-doe anyon know 's way i ? ? 
-i 'm use x11r5 motif 1.2.1 . 

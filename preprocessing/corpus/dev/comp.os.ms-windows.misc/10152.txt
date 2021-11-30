@@ -1,9 +1,0 @@
-on pc i almost exclus run window . 
-the dos base applic i procommplus . 
-in config.si i emm386 load option noem expand memori . 
-follow thread one comp newsgroup i read necessari emm386 load . 
-inde emm386 noem enabl system use upper memori 640 1024 . 
-that 's good place devic driver dos kernal etc . 
-keep ! 
-emm386 not reqir load dos kernal high els could n't 286 . 
-in mail messag i recommend remov sinc run procomplus frequent dos i suspect emm386 slow window . 

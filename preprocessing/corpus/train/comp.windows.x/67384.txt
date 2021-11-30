@@ -1,9 +1,0 @@
-hi netter ! 
-i ve built x11r5 pl 21 solari 2.1 . 
-i ve use multi-screen patch well r5.suno ... 
-patch everyth build great except error messag xsun give upon startup . 
-it say can set default font path stuff delet ' can set default font fix ' . 
-if i suppli -fp option n't complain font path still complain font . 
-i symlink usrlib place distribut live . 
-could somebodi help ? 
--joel 4340 redwood hwi suit b.50 san rafael ca 94903 

@@ -1,3 +1,0 @@
-is possibl run mit r5 base xserver sun rasterop tc colorboard 24bit board ? 
-i xsun24 patch support sun 's 24bit frame buffer rasterop appear cgtwelv someth els ? 
-i know noth rasterop might buy one put ipx . 

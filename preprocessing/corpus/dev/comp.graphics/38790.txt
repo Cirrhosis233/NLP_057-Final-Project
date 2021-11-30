@@ -1,6 +1,0 @@
-a good reason mani compani use 48 bit pixel use doubl buffer anim scene i.e . 
-2 24-bit plane . 
-you write one background flip ! 
-entir screen updat second image-plan . 
-the screen updat one refresh n't see differ object appear order re drawn cadmacdraw effect . 
-now readi updat imag use foreground . 

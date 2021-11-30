@@ -1,5 +1,0 @@
-there need load emm386 . 
-qemm anyth els mani window pcs . 
-it 's use still stuck run msdos base applic need lot low memori free . 
-otherwis need load himem.si let window go straight extend memori . 
-.. 's i thought 's i never use emm386.ex . 

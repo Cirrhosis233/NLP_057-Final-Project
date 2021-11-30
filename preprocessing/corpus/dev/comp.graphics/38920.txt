@@ -1,8 +1,0 @@
-i 'm work system use given set 3d key frame posit xyz control imaginari camera movement . 
-i 'm use kochanek-bartel spline describ siggraph 84 proceed creat variabl number inbetween key frame . 
-i want inbetween given form xyzdxdydz last three argumentsa x z compon view direct vector camera posit xyz . 
-the method present kochanek bartel deal posit inbetween view point generat . 
-i ve tri set view direct view point equal chord two adjac view point general key frame caus sligt discontinu view direct vector key frame posit although spatial movement seem work fine i 'm quit certain i think i ve simpli made implement error ... 
-now i wonder anyon use spline form similar purpos decid view vector . 
-i 'd appreci repli email anyon els interest answer sent summari repli contact . 
-nth norwegian institut technolog 

@@ -1,4 +1,0 @@
-help ! 
-i 'm tri configur ncsa telnet v2.3.05 work 3c503 ethernet board . 
-i use ftp fine whenev i attempt use telnet machin hang blank screen blink green cursor . 
-ani idea ? 

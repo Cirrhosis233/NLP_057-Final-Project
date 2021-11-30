@@ -1,6 +1,0 @@
-win-os2 ibm work ? 
-you make laugh ... 
-re-writ coupl thousand line code make window compat dpmi implement make rest window ibm work ... 
-i n't think ms anyth brag come follow dpmi . 
-but consist hobgoblin etc . 
-i suppos . 

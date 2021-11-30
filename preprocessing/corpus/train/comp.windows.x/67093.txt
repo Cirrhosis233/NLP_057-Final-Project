@@ -1,7 +1,0 @@
-i sun 360 mono framebuff bwtwo0 built motherboard . 
-the system also cgfour cgfour0 bwtwo1 daughterboard . 
-i use system color monitor color front screen cgfour mono back screen bwtwo1 tube . 
-i recentley pick 1600 x 1280 sun mono monitor i would like make two head system cgfour0 bwtwo0 . 
-i care i loos back screen color tube bwtwo1 . 
-after look xsun man page i sure possibl . 
-has anybodi sucessfuli done ? 

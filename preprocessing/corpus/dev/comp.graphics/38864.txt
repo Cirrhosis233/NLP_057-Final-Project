@@ -1,9 +1,0 @@
-has anyon got multivers work i ve tri compil sever sparcstat gcc 2.22 . 
-after fix bug 3 miss constant definit plus coupl thing i got compil link start client server i get black window sometim client core dump sometim server sometim i get broken pipe sometim sit noth although i occassion get cursor becom cross-hair dog-fight 's . 
-i ve sent word author plus i fix last week repli yet . 
-peter k . 
-campbel i ve discov bug librariesparserparser.c loadcolour function generat segment fault . 
-it appear colourlist gete corrupt somehow . 
-i return random colour instead everyth work great except colour problem i know thing wrong . 
-the colour tabl somehow get coupl null place name colour compar crash . 
-i n't found problem yet mayb someon els . 

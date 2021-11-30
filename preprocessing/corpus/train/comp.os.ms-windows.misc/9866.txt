@@ -1,5 +1,0 @@
-when run dos 5.0 window 3.0 i lose abil print-screen . 
-i problem i 'm run dos window . 
-... 
-open .pif file pif editor click advanc button reserv prtsc key applic . 
-ani key select section pass along applic rather process window . 

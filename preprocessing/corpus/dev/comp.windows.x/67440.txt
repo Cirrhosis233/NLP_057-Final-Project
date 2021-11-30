@@ -1,7 +1,0 @@
-and first patch the follow fix problem imakefil file make possibl compil xv-3.00 solari without use ucb stuff oop i n't get signal process right that i get work ascii termin . 
-here fix patch the patch xv.h need use ifdef svr4 '' rather over complex definedsun definedsysv '' order generic compil xv i386svr4architectur . 
-also rand srand n't work wellus lrand48 seed48 get better result . 
-otherwis xv-3.00 compil fine esix system v 4.0.4 box xfree86 gcc-2.3.3 . 
-i uncom gcc definit makefil ad -lusrx386lib -iusrx386includ copt line modifi lib includ -lsocket -lnsl . 
-realli john use imakefil thing like n't even get mention ... 
-1.1 19930428 083313 xv.h 19930428 174738 284292 284298 signal macro ifdef svr4 defin holdsig sigholdsigalrm defin releasesig sigrelsesigalrm defin pausesig sigpausesigalrm els defin holdsig sigblocksigmasksigalrm defin releasesig sigblock0 defin pausesig sigpause0 endif 

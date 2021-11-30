@@ -1,6 +1,0 @@
-hi . 
-our problem follow we design rf link distanc 250 . 
-we re use standard rs232 wave squar puls modul wave carrier wave sinusoid . 
-the link bidirect . 
-we would appreci advic type modul techniqu antenna use . 
-thank much advanc . 

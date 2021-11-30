@@ -1,6 +1,0 @@
-i ve tri compil x11r5 patchlevel 23 sun sparc ipx use sunos4.1.3 gcc 2.3.3 . 
-the problem occur initi make world . 
-when get compil standard x client ca n't seem find librari . 
-right high suspect program ld updat 413 . 
-yip problem fix found link static client btw use cc . 
-- . 

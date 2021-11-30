@@ -1,3 +1,0 @@
-i 486dx 25mhz local bus . 
-would i see much increas speed drive i got vesa ide control card ? 
-i need advic ! 

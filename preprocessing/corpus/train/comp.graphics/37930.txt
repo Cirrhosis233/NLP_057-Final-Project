@@ -1,5 +1,0 @@
-doe anybodi know good 2d-graphic packag avail ibm rs6000 aix i 'm look someth like dec 's gks hewlett-packard starbas reason good support differ output devic like plotter termin x etc . 
-i tri also xgks x11 distribut ibm 's implement phig . 
-both work requir output devic x-window . 
-our salesman ibm familiar graphic i expect good solut . 
-ari 

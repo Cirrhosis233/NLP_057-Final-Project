@@ -1,7 +1,0 @@
-r jd all pc parallel port compat ibm standard r jd includ origin ibm adaptor bi-direct . 
-not all parallel port are bi-direct without modif . 
-my experi standard old zenith parallel port origin 286s prove . 
-they input direct disactivi tie rw select line circuit vcc . 
-to make bi i i modifi scrape trace solder jump proper locat . 
-i thought lazi part zenith zenith-bul group time . 
--rdd winqwk 2.0b0 unregist evalu copi kmail 2.95d w-net hq hal9k.ann-arbor.mi.us 1 313 663 4173 3959 

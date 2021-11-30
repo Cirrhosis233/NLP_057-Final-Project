@@ -1,7 +1,0 @@
-the xview version 3 sourc distribut includ contrib section x11r5 includ sourc textedit program . 
-i 'd like take sourc modifi add support tooltalk-lik messag server mayb tooltalk i 'm sinc sun-suppli textedit binari n't seem speak tooltalk . 
-howev sourc r5 contrib area seem older version textedit version ship openwindow 3 . 
-for exampl own 3.0 textedit includ drag drop support dropsit main control area sourc contribxview know noth drag drop . 
-the textedit.c includ xview sourc say 's version 15.50 date 52290 what textedit ' own 3.0 binari say textedit.c 2.62 910914 copyr 1990 sun micro dragdrop.c 1.26 910914 copyr 1990 sun micro tooltalk.c 2.16 910914 copyr 1990 sun micro dsrelname.c 1.7 910914 copyr 1990 sun micro so anyon know 91491 sourc textedit avail ? 
-i 'd realli like work latest sourc possibl . 
-pleas repli email i ll post summari 's enough interest . 

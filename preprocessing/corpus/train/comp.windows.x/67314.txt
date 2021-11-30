@@ -1,8 +1,0 @@
-i creat pixmap drawabl window use xdrawlin function draw line fingur width 300 p1 height 300 p3 p2 i creat pixmap drawabl window size 300x300 . 
-but i draw line p1x1270y1100 p2x2500y2800 . 
-my question dose xdrawlin function finger correct p3x3 y3 ? 
-if calcul x3 y3 . 
-x3 300 how i prove xdrawlin give right x3 y3 ? 
-pleas n't ask i n't creat 900x900 pixmap . 
-no i n't wan . 
-thank advanc ! 

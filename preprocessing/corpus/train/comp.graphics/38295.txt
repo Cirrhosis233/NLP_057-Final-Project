@@ -1,3 +1,0 @@
-use vmode command need type vmode vesa dos prompt . 
-vmode includ speedstar 24 . 
-i use vesa mode autodesk anim pro . 

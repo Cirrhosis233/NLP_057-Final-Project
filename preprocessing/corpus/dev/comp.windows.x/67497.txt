@@ -1,4 +1,0 @@
-... whi x design decid associ color object drawn instead associ display drawn ? 
-in x10 draw attribut bundl draw request server 's draw model stateless . 
-this caus problem perform network traffic x11 redesign includ graphic context codifi draw state . 
-most applic design want draw thing sever differ color creat gc color initi pass gc id draw request . 

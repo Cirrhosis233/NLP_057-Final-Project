@@ -1,6 +1,0 @@
-i upgrad my old 386 with 486dx-50 local bus motherboard two month ago and with it i bought a control card local bus and a grafic card diamond stealth vlb . 
-but when i tri to put my new grafic card and my new control togeth my system do n't want to boot up it stop after control card check . 
-i have tri to chang my ami-bio setup but noth work . 
-just one thing when i disabl my rom-bio adress on my control card my system do one more step check all system and cach memori but noth more . 
-thank for answer . 
-chrobert 

@@ -1,5 +1,0 @@
-what i want abl set cursor color forground color set xterm . 
-from man page ..... 
--cr color this option specifi color use text cur- sor . 
-the default use foreground color use text . 
-howev doesnt seem case appear default black whatev xtermcursorcolor set . 

@@ -1,7 +1,0 @@
-i wonder anyon knew view .ep ms word 2.0a .. 
-here first coupl line help ... 
-! ps-adobe-3.0 creator prowrit titl tcwn orient portrait page 12 pageord ascend can one help ? 
-jame burk by read agre hold writer respons evil we similar problem convert .ep file . 
-the solut simpl . 
-we chang first line ! ps-adobe-3.0 ! ps-adobe-2.0 this foul convert .ep file contain simpl move draw statement . 
-mario 

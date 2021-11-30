@@ -1,6 +1,0 @@
-hi i ve got multi io card ide control serialparallel interfac two floppi drive 5 14 3 12 quantum prodriv 80at connect . 
-i abl format hard disk i could boot . 
-i boot drive a disk drive matter i remov disk drive a press reset switch led drive a continu glow hard disk access . 
-i guess must problem either multi io card floppi disk drive set jumper configur ? 
-doe someon hint could reason . 
-thank thoma thoma dachsel phone 49 6221 4150 work 49 6203 12274 home fax 49 6221 415101 snail sas institut gmbh p.o.box 105307 d-w-6900 heidelberg taglin one bad sector ruin whole day ... 

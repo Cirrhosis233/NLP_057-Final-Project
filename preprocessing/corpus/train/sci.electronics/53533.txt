@@ -1,3 +1,0 @@
-i got ibm-pc xt document . 
-it true ibm i wonder anyon definit 2 8 posit dip switch ? 
-sw8sw7 number 5.25 drive 00 1 drive 01 2 drive 10 3 drive 11 4 drive sw6sw5 type display 00 reserv 01 40x25 color mono mode 10 80x25 color mono mode 11 mono 80x25 sw4sw3 amount memori system board 64k chip 256k chip 00 64k 256k 01 128k 512k 10 192k 576k 11 256k 640k 

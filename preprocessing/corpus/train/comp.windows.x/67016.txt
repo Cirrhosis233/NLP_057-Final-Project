@@ -1,7 +1,0 @@
-2nd post question n't seem get answer suppos idl app realiz map window contain xlib graphic . 
-a button widget press caus new item drawn window . 
-this action clear call xcopyarea equiv direct instead regist exist new item memori structur let expos event handler handl regular expos event e.g . 
-window manager-driven exposur take care render new imag . 
-use expos event handler proper way time handler call xlib window guarante map . 
-the problem cours expos event generat window alreadi visibl map . 
-what need somehow tickl window expos handler hit argument enabl render part window contain new item . 

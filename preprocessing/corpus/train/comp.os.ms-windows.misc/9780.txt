@@ -1,5 +1,0 @@
-subject say . 
-do exist ? 
-are sharewar ? 
-where ? 
-phil trodwel 

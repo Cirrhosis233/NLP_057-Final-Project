@@ -1,9 +1,0 @@
-also dblspace crap . 
-it write 40 slower stacker read 20 slower compress 10 less . 
-all test made comput disk cach big file use . 
-could n't agre . 
-on 486-50 i n't miss speed . 
-it 's still faster normal disk read would . 
-as less compress koberg i recal read review articl pc comput wherein report reduct load time lengthi program use stacker 3.0 . 
-this due compress algorithm per se fact fewer fetch requir sequenti file access . 
-doe anyon actual perform number relat speed stacker dblspace ? 

@@ -1,8 +1,0 @@
-i question regard process program argument -geometri option . 
-sinc standard x option i 'm wonder wether i pars manual whether predefin function ? 
-if use intrins pars . 
-if work xlib level pars use follow bit code . 
-static xrmoptiondescrec option -geometri .geometri xrmoptionseparg xpointernul defin numberx sizeofxsizeofx0 xrmparsecommanddb option numberopt myapplic argc argv then use xrmgetresourc retriev valu pars use xparsegeometri . 
-it probabl quicker pars argv howev i much prefer use x resourc manag routin . 
-patrick l . 
-mahan 

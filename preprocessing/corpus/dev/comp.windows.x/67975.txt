@@ -1,8 +1,0 @@
-i compil xfig 2.1 patchlevel 7 hp 's x11r5 hp-ux 9.01 augment athena mu librari x11r5 distribut iworks.ecn.uiowa.edu . 
-it compil nice although one file preprocessor macro definit tabl size need increas . 
-but execut noth happen except ever-grow memori requir eventu climax core dump . 
-the binari ident program compil 8.07 x11r4 problem . 
-other program like xtpanel compil link run fine librari . 
-doe sound familiar i go figur one ... ? 
-pleas see post i made yesterday may 10 fix problem . 
-this post comp.windows.x.app . 

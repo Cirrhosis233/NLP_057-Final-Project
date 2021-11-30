@@ -1,8 +1,0 @@
-experi from sun openwindow 4.1.3 xterm window log solari 2.x machin use rlogin ls get first charact line display last column display rest line wrap next line display . 
-log condit persist . 
-check stti tri reset effect . 
-use telnet instead rlogin n't occur . 
-tri unix consol n't occur . 
-1 what 's caus ? 
-2 can avoid ? 
-3 how termin characterist reset ? 

@@ -1,4 +1,0 @@
-i 'm tri creat button label bitmap use menubutton widget . 
-is possibl ? 
-right i get bitmap sign label . 
-ani help would appreci . 

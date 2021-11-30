@@ -1,6 +1,0 @@
-i question y'all i 'm look ad new 3.5 fast scsi-2 drive micropoli june 1993 macworld . 
-i seen similar ad ide version ibm pc magazin well ad say three drive fast scsi-2 interfac say dtr rate drive 5 megabytessecond max . 
-how ? 
-i thought drive fast scsi-2 dtr 10meg second ? 
-i assum 5megssec claim micropoli 512k cach . 
-i admit i would impress drive readwrit data 5meg second ! 

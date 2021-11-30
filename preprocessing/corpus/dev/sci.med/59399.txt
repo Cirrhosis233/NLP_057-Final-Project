@@ -1,2 +1,0 @@
-i need ecg data uncompress hope ascii format . 
-do n't care look like signal process project . 

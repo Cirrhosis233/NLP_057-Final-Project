@@ -1,5 +1,0 @@
-hi i need know 256 color graphic mode allow multipl page . 
-i want someth like mode 0x10 640x350x16 2 page . 
-i experi graphic call bio borland turbo c . 
-i feel like i fli blind area could use help give . 
-thank ivan ...... 

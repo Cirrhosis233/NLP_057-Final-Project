@@ -1,3 +1,0 @@
-gateway telepath 96009600 faxmodem gateway 
-comput crosstalk winfax pro 2.01 window never use . 
-170 ship 195 gateway 

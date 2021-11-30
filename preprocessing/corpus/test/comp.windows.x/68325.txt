@@ -1,6 +1,0 @@
-i work compani one connect internet . 
-this firewal gateway unix workstat . 
-i would like abl telnet host outsid compani set display pc run x-termin emul exceedw . 
-the display set gateway workstat problem i set variabl ip address i get error ca n't open display messag . 
-this ca n't hard work around ? 
-btw i troubl run x-client local workstat compani display pc . 

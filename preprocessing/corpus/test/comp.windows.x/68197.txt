@@ -1,8 +1,0 @@
-ow 3.0 . 
-but definit broken relat . 
-pageview requir dsc compliant postscript file order stop page break . 
-i n't consid broken . 
-i say program put postscript file n't dsc compliant broken . 
-well may true . 
-howev man page pageview ow 2.0 mention dsc complianc . 
-in event point tri display ps file use pageview find 's practic tool . 

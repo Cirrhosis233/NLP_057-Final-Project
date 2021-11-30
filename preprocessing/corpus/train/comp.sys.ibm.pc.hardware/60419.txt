@@ -1,4 +1,0 @@
-then writer claim glitch occur system 16mb limit . 
-that part i n't understand ram right motherboard . 
-so cpu problem talk ram . 
-can anybodi explain the floppi serv dma motherboard origin dma-control ca n't reach first 16mb the address-spac isa-bus joerg 

@@ -1,8 +1,0 @@
-an adaptec acb-2322 rev b disk control come hand document . 
-is esdi control ? 
-mfm ? 
-rll ? 
-someth els ? 
-the bio date 1987 help . 
-i think esdi control need doco help . 
-stefan 

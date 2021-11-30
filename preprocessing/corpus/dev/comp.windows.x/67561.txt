@@ -1,6 +1,0 @@
-i ve instal mani x app mani imakefil line startingwith xcomm . 
-when i xmkmf creat makefil makefil also xcomm comment ? 
-line . 
-i alway edit line make command barf . 
-i wonder line i might wrong caus make command dislik . 
-thank ! 

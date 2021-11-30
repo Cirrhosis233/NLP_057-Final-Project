@@ -1,4 +1,0 @@
-anonym i saw post choic 80486dx-50 80486dx2-50 . 
-i wonder although dx-50 faster path 's extern cach n't choic dx2-50 one made work proper local-bus ? 
-i mean cach speed one thing speed block video io get faster ... 
-i 'm will specul dx2-50 local-bus 2-4 time fast dx-50 probabl expens cheap - ! 

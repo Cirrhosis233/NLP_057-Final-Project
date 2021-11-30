@@ -1,8 +1,0 @@
-i almost done port xfree86 1.2 new piec display hardwar run snag i think may somewhat commonplac i 'm send net-feel . 
-i display non-interlac memori map 1-bit 720x280 display . 
-the server 's view world obtain via xwd xwud seem exact . 
-howev display version framebuff give impress server use scanlin long . 
-after bit experiment seem problem server pad line word boundri scanlin size buffer 90 byte n't exact divis four . 
-chang follow defin mitserverincludeservermd.h defin bitmapscanlinepad 32 defin log2bitmappad 5 defin log2bytesperscanlinepad 2 defin bitmapscanlinepad 16 defin log2bitmappad 4 defin log2bytesperscanlinepad 2 was exact right solut . 
-how i tell server either n't pad scan line caus server built run particular display pad byte boundri ? 
-i 'm use custom version xfree86v1.2 mach 3.0 . 

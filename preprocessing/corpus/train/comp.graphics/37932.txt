@@ -1,9 +1,0 @@
-whi n't creat 8 grey-level imag display 1248163264128 ... 
-time slice ? 
-by ' 8 grey level imag ' mean 8 item 1bit imag ? 
-it work ! 
-n't work 1bit screen screen intens non-linear . 
-with 2 bit per pixel could 1c1 4c2 time give 16 level linear screen intens linear . 
-with 1c1 2c2 work find best compin 's 10 level 16 chois best 10 must chosen . 
-differ compin level vari bit level keep order . 
-reader verifi i wrote ... 

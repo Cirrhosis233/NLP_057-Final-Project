@@ -1,8 +1,0 @@
-8 i requir bgi driver super vga display super xvga display . 
-doe 8 anyon know i could obtain relev driver ftp site ? ? 
-i would like know ! 
-regard domin garbo.uwasa.fi one mani mirror file call svgabg40 program subdirectori . 
-these svga bgi driver varieti card . 
-readm card type support supervga driver ahead ati chip tech everex genoa paradis oak trident 8800 8900 9000 tseng 3000 4000 chipset video7 . 
-these driver also work video card vesa capabl . 
-the tweak driver work register-compat vga card enjoy clark verbrugg 

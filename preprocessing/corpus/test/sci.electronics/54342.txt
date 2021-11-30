@@ -1,6 +1,0 @@
-i 'm tri bring 8 bit pc would like use interrupt-driven routin . 
-without buy io board make new port i bring bit ? 
-lpt seem input i ve heard rumour lpts bidirect line . 
-anybodi know fer sure ? 
-if bi-d lpts board i ll run new 386dx-33 ? 
-sunrayc 93 competitor i hope re get much sleep i ..... 

@@ -1,5 +1,0 @@
-after set window use cirrus logic 5426 vlb graphicscard it move normal window one place anoth . 
-my paramet follow 486 dx 33 vlb the card equip 1 mb dram vram 8 socket vram and move window look like look friend 386dx 25 387dx normal isa et4000 what i wonder use bitblt engin suupos chip . 
-how experi .. 
-have i done someth wrong i instal mswin 3.1 multiresolut driver suppli card ? ! 
-would nice somebodi could tell experi card also newhop faster drriver around i would love get hold ftp whatsoev 

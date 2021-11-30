@@ -1,5 +1,0 @@
-yes problem xinit . 
-the problem seem come fact xopendisplay0 fail . 
-if tri machin name godzilla setenv display godzilla0.0 xibm xterm it work fine follow work setenv display unix0.0 xibm xterm did set configur option incorrect ? 
-thank assist offer . 
-intern institut appli system anaylsi iiasa a-2361 laxemburg austria 43 2236 715 21 ext 548 

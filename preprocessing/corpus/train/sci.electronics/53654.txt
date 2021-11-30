@@ -1,6 +1,0 @@
-mcay 's rub draw enough current light led th mcequip phone compani think ve gone hook . 
-mcin on-hook state re suppos draw current . 
-ok let calcul go australian standard i presum might similar countri if let input phone use 600ohm loop 48v line 80ma . 
-a standard led drain 20ma . 
-so actual loop current requir hook indic know ? 
-up 60 microamper hook over someth like 10 ma hook in defect line phone compani come look leaki insul . 

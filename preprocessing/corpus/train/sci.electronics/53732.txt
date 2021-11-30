@@ -1,7 +1,0 @@
-articl crosspost comp.windows.m author kevin routh post 19 apr 1993 123555 gmt for inform i hook imagewrit i com1 serial port use c-itoh 8510 driver window 3.1 . 
-the cabl i use straight-thru cabl connect null modem adapt i got radio shack catalog 26-1496a 4.95 . 
-it seem work fine dos window . 
-i use follow command dos cdosmod com19600n81p set port way window port setup . 
-null modem connect follow 1 1 2 3 3 2 4 5 5 4 68 20 20 68 7 7 i print sever applic seem ok . 
-ford electron ibmmail prof usfmctmf eld ic engin 17000 rotunda drive b-121 voic mail 313 337-5136 dearborn mi 48121-6010 facsimil 313 248-6244 
-ford electron ibmmail prof usfmctmf eld ic engin 17000 rotunda drive b-121 voic mail 313 337-5136 dearborn mi 48121-6010 facsimil 313 248-6244 

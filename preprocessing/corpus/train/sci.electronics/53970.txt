@@ -1,7 +1,0 @@
-i built littl project use radio shack 5vdc relay switch audio . 
-i got pretti bad click ' thing switch . 
-is good relayrelay circuit i use switch audio no nois kind audio line . 
-i miss first part thread switch line level speaker level audio ? 
-if line level 's singl chip 4x1 stereo audio switch avail switch 4 two-channel input 1 two-channel output also mute function control ttl input . 
-lm1037 i think ? 
-if speaker level never mind . 

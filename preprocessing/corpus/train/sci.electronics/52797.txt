@@ -1,9 +1,0 @@
-i 'm look build dsp guitar process . 
-henc lot background inform would realli use if anyon 's got info could email ..... 
-well i 'm sure i 'd use process guitar audio filter dsp construct articl sept 92 issu qst magazin ham radio orient . 
-the dsp avail kit form 120 . 
-this particular dsp filter target toward process audio remov nois static . 
-i built realli work well . 
-the sourc code avail . 
-it make noisi audio signal much easier hear . 
-note communic applic high fidel . 

@@ -1,2 +1,0 @@
-i would like refer algorithm detect whether one close curv bound number bezier curv lie complet within anoth close curv bound bezier curv . 
-thank . 

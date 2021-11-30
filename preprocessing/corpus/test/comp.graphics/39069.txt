@@ -1,5 +1,0 @@
-xv load 24 bit imag display 's 24 bit glori 24 bit x display . 
-b all oper crop dither smooth etc . 
-support 24 bit imag . 
-hard would ? 
-not type xloadimag getx11 instead xv . 

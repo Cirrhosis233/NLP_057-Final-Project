@@ -1,4 +1,0 @@
-i would like prevent window user use ctl-alt-del within window . 
-i know must way . 
-could anyon point right direct ? 
-thank advanc mike glynn 

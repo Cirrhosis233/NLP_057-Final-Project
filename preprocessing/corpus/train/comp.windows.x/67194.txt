@@ -1,2 +1,0 @@
-i 'm look version xterm handl color vt220 style status line . 
-can anyon help ? 

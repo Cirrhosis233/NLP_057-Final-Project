@@ -1,4 +1,0 @@
-ep is plain postscript . 
-it wrap comment strip dubious command compat . 
-you simpli save gsave showpag def includ ep file grestor restor showpag end file way show 's natur page posit size . 
-program may use boundingbox comment ep file arbitrari scale rotat translat includ complic way . 

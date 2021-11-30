@@ -1,7 +1,0 @@
-is possibl use winqvtnet machin use ndis connect token ring i tri older version 3.2 got invalid packet class error someth like ... 
-how attempt ? 
-are use dispkt9 program ? 
-this provid packet driver top ndis driver . 
-i tri peopl told even i use dispkt packet would still incompat . 
-is true wellington nz hound hire . 
-will work dog biscuit . 

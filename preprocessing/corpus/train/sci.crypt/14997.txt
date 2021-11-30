@@ -1,9 +1,0 @@
-michael levin wrote i look refer algorithm use password encrypt . 
-i.e . 
-someon clear-text word run algorithm becom sequenc symbol . 
-i want algorithm properti next imposs revers b would take long tri possibl word see one work even use high-spe comput . 
-the origin one-way encrypt i put multic 1968 suggest joe weizenbaum invert . 
-an air forc tiger team demonstr may 1973 . 
-i ask expert request anonym i use instead expert 's suggest treat 8-byte password key data lucif encrypt algorithm similar ident des . 
-this method someth stronger take care . 
-issu b discuss comp.security.misc longer password qualiti control user choos password common tactic . 

@@ -1,4 +1,0 @@
-i sever peopl share machin would like set separ environ window . 
-is way set thing separ desktopsdirectori ? 
-ideal i 'd like total separ virtual machin . 
-i 'd will settl less may end batch file copi .ini file around depend want use machin . 

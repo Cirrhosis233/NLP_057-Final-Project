@@ -1,5 +1,0 @@
-there new version rtrace ray-trac packag 8.2.0 asterix.inescn.pt 192.35.246.17 
-directori pubrtrac . 
-check readm file . 
-cant seem reach site ping 192.35.246.17 
-icmp net unreach gateway nsn-fix-pe.sura.net 192.80.214.253 icmp ccws-24.brunel.ac.uk 134.83.176.30 192.35.246.17 

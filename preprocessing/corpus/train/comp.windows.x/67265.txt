@@ -1,9 +1,0 @@
-i togglebutton widget yes widget i routin chang color foreground background label . 
-well background chang alright label text redraw . 
-i guess i forc redraw xexposeev sent via xsendev . 
-is best way get text ? 
-i ca n't seeem get xsendev work right .... 
-good approach might anyon exampl lie around show ? 
-i ve rtfm even find decent exampl . 
-ps i keep get segment fault xsendev tho valu expect . 
-thank advanc 

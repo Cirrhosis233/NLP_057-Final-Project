@@ -1,9 +1,0 @@
-lo i writ program check comput configur . 
-it 's go run everytim comput boot campus network . 
-actual alreadi run 's get info i want yet ... 
-anyway i want check mous . 
-i alreadi check mous driver use code microsoft 's mous book . 
-but guarante driver load program run ever load driver . 
-sinc i interest hardwar attach machin i detect mous attach ? 
-i know done mous driver . 
-thank advanc andi 

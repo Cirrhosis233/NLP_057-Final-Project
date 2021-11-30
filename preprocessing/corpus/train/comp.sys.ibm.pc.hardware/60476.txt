@@ -1,4 +1,0 @@
-they n't conflict technic lpt1 use irq7 ! . 
-the parallel printer processor actual number escap contain printer control regist enabl chip transmit interrupt interrupt control irq7 onto main processor int 0x0f . 
-by default parallel printer processor enabl 's interrupt line therefor int 0x0f 's sourc printer control chip thus enabl devic use actual irq7 . 
-note appli com port also default rout interrupt system bus although com 's softwar usual enabl featur make monitor com port activ easier poll serial uart thus probabl get sound card slighti confus ! . 

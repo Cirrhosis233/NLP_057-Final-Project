@@ -1,3 +1,0 @@
-hello i have a problem with my window 3.1 program sometim when i save set of program manag the system corrupt one or more .grp file and progman.ex ca n't open it on next start . 
-thank for ani answer . 
-chrobert 

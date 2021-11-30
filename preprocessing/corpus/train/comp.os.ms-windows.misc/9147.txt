@@ -1,9 +1,0 @@
-articl crosspost comp.speechcomp.sys.ibm.pc.soundcardcomp.os.linux author mario lauretti post mon 5 apr 1993 214424 gmt i have sound blaster ver 1.5 when i tri instal driver ver 1.5 driver come window 3.1 it tell upgrad card first ! ! ! ? ? ? ? 
-now i found new driver creativ lab . 
-but i problem instal after remov vsbd.386 old version come window after instal creativ sound blaster midi synthes i tri instal creativ sound blaster 1.5 wave ... 
-but i menu add unlist updat driver doubl click driver i error driver error- can load creativ sound blaster 1.5 wave midi driver . 
-the driver file may miss . 
-tri instal driver contact system administr . 
-yes yes yes i read readme.1st tri everi thing ! 
-somebodi help ? ? 
-mario laureti 

@@ -1,9 +1,0 @@
-from i understand radar dectector passiv devic much like radio car . 
-they work antenna pick radar signal radar gun send . 
-therefor would way detect radar detector would detect whether one radio car . 
-unfortun re wrong count . 
-the common method implement tunabl receiv local oscil . 
-the local oscil 's frequenc radiat receiv via antenna unless circuit design construct great care . 
-for refer detect radio get paperback book spi catcher . 
-the author discov detect radio receiv local oscil emiss back 1950s work british intellig . 
--greg 

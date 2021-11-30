@@ -1,3 +1,0 @@
-mani ? 
-xt drive control bio board handl low- level format . 
-the bio also allow set drive proper cylindersheadsetc . 

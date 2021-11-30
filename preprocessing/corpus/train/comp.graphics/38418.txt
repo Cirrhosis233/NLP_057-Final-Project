@@ -1,8 +1,0 @@
-i final got 24 bit viewer povray generat .tga file . 
-it written c sean malloy kind sent copi . 
-he wrote purpos view .tga file use speedstar 24 . 
-it onli work speedstar 24 i send copi sinc program . 
-i believ author may releas version futur time program develop . 
-he may may comment pleas . 
-thank help . 
-regard 

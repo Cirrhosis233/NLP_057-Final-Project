@@ -1,8 +1,0 @@
-on pc i almost exclus run window . 
-the dos base applic i procommplus . 
-in config.si i emm386 load option noem expand memori . 
-follow thread one comp newsgroup i read necessari emm386 load . 
-inde manual say emm386 use get expand memori extend memori . 
-sinc i noem option seem emm386 devic useless case . 
-should i use emm386 i remov config.si ? 
-thank help 

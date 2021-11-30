@@ -1,5 +1,0 @@
-i recent decid tri use emm386.ex memori manag i tri print printer lpt1 word55 i would n't work . 
-it would send linefe top margin printer readi light would go stop work . 
-i disabl emm386.ex problem went away . 
-i would like continu use emm386.ex possibl . 
-i would great 

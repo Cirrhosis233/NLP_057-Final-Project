@@ -1,5 +1,0 @@
-the idea clip one polygon use anoth polygon necessarili rectangular window . 
-my problem find new vertic result subpolygon first one . 
-is simpli matter extend usual algorithm wherebi edg one polygon check anoth polygon ? ? ? 
-is simpler way ? ? 
-comment welcom . 

@@ -1,8 +1,0 @@
-the pads.zip file contain subdirectori unzip via pkunzip -d . 
-then xcopi three floppi creat disk need instal . 
-i 'm still sure suppos work sinc .zip file took 2.5mb must tight squeez floppi ... 
-howev i manag instal pad i 'm pretti impress . 
-i creat coupl schemat without problem whenev i tri creat pcb layout one circuit rather demo n't work . 
-i 'm wonder mayb file n't ... 
-can anyon print manual comment whether registr fee worth pay ? 
-chris 

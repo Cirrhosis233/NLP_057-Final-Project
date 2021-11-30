@@ -1,2 +1,0 @@
-doe anyon know i find code would take concav polygon break set convex polygon ? 
-i also would like code algorithm . 

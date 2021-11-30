@@ -1,8 +1,0 @@
-i tri build circuit detect presenc video vs . 
-blank screen monitor rg b output graphic card . 
-it abl detect presenc singl pixel 65 mhz would mean detect 15 ns puls . 
-it also abl tell differ blank screen 300 mv dim screen say around 310 mv . 
-oh yes also need cheap . 
-............... 
-in fact differ complet black complet white 650 mv . 
-i wonder i go amplifi video signal make work . 

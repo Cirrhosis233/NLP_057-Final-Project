@@ -1,6 +1,0 @@
-i tri use xcopyplan copi singl plane depth-8 pixmap depth-1 pixmap . 
-everytim i tri i see absolut noth display . 
-i know data depth-8 pixmap becuas i check xcopyarea screen . 
-the code fragment look reason logic valid ? 
-just someth appear 8 bit deep pixmap n't mean everi bit plane contain data . 
-did tri plane ? 

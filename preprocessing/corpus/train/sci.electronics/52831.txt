@@ -1,7 +1,0 @@
-here 's question electr engin i bought infrar detector modul ' radio shack 3.95 littl gizmo sens infrar remot produc output signal . 
-then i hook output transistor infrar led . 
-the circuit work like minatur remot control extend car all remot command relay cd player hidden glove compart . 
-it work fine denon cd player i tri build circuit friend 's vcr n't work . 
-the circuit appear work remot see infrar soni ccd camcord coincident seem work cd player ... 
-ani advic would appreci .... 
-brian 

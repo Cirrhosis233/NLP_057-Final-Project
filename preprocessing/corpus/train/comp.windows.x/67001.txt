@@ -1,8 +1,0 @@
-hey guy ! 
-i work mani station would like name current lognam titl xterm 's open machin name 's close . 
-in word i want host lognam appear titl open xterm host xterm close . 
-how i ? 
-almost window manag twm mwm olwm deriv support escap sequenc . 
-for purpos put follow .login re use csh tcsh sh modifi . 
-term xterm endif 1 this not featur window manag xterm . 
-2 this sequenc not ansi compat doe anyon know if compat sequenc i would think dcs devic control sequenc introduc may csi sequenc exist this must work dxterm vt ansi compat may work xterm . 

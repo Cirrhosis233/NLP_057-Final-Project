@@ -1,2 +1,0 @@
-if i tri creat pixmap larger size screen program termin display messag x error badalloc insuffici resourc mani x server support graphic acceler allow creation pixmap exeed size screen . 
-one workaround creat sever smaller pixmap add result . 

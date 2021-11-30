@@ -1,8 +1,0 @@
-could someon point toward sourc ftpbbswhatev develop tool 8051 microprocessor . 
-i specif look macintosh cross-assemblerdisassembl . 
-also mailing-list dedic discuss 8051 ? 
-thank . 
-i question tool 6502 deriv processor 65c816 processor design western design center . 
-thank oscar . 
-oscar r . 
-mitchel ibm advanc workstat system divis risc system6000tm futur system hardwar architectur design group mail stop zip 9461 11400 burnet road austin texa 78758 usa phone 512823-0000 ibm tielin 678-8513 usa fax 512838-8561 ibm vnet oscar ausvm6 includ standard.disclaim i do not speak ibm myself 

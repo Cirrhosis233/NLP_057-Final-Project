@@ -1,5 +1,0 @@
-i 'm write mail manag system use word window 2.0 front end . 
-the user dial remot system download batch mail foo.txt i ve set autoexec macro winword load foo.txt ok subsequ invoc macro cours pose file name content problem . 
-what i 'd realli like creat autoexit macro winword would move foo.txt specifi directori renam use current date time delet origin foo.txt in word foo.txt get renam 5012300 say may 1 2300- user get time-index backup mail file foo.txt freed next packet mail sinc autoexec macro point . 
-my main question how may one renam file within wordbas macro includ timed variabl new filenam ? 
-thanks- if ever reach total enlighten drink beer i bet make beer shoot nose jack handey 

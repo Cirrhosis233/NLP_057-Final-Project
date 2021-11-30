@@ -1,9 +1,0 @@
-i problem configur mous window use com3 irq5 . 
-com1 com2 use support two 24 hour bbs line there go . 
-com1 com3 use irq therefor ca n't use mous com3 modem com1 vice versa . 
-it 's limit dos . 
-and fact window see mous anyth com1 com2 . 
-accept fact either get bus mous get new comput . 
-i would also like know possibl use mous port com1 com2 . 
-no . 
-the advic appli .... 

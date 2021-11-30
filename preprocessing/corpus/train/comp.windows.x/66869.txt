@@ -1,8 +1,0 @@
-hello when start bx reciev error messag say load app-default file .. 
-check xapplresdir environ variabl put file builderxcessori app-default file bx directori specifi xuserfilesearchpath environ variabl . 
-if n't xuserfilesearchpath environ variabl set xuserfilesearchpath directori builderxcessori file . 
-you use setenv command csh . 
-note name end .ad set xuserfilesearchpath bxn.ad get app-default load correct . 
-to make sure app-default file read user make sure copi link app-default file exist usrlibx11app-default usropenwinlibapp-default depend system set . 
-onc taken care set systemdirectori resourc directori instal bx . 
-for exampl let 's say i ve instal bx system directori resourc set like systemdirectori tbuilderxcessori 

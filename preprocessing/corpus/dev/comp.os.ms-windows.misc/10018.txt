@@ -1,7 +1,0 @@
-recent window start give error sound blaster pro requir newer version window 3.1 it work correct long time n't know problem could . 
-thank ! 
-i problem i initi instal sound blaster pro 's tech support told . 
-they told look file state readm file win31 subdirectori soudblast directori . 
-now look system.ini file say devicexxxxxxx.386 chang devicexxxxxxx that work . 
-was system.ini file eras reason ? 
-that would reason i would think windo give error . 

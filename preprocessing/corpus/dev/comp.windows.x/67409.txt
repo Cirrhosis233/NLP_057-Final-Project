@@ -1,5 +1,0 @@
-i follow problem x11r5 server . 
-when window obscur pop window save under attribut set subwindow window restor . 
-normal subwindow redrawn parent window get expos event save attribut use pop window obscur window expos event sent . 
-we problem machin work use back store instead save . 
-marcus 

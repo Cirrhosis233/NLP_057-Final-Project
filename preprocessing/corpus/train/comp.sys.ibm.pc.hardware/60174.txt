@@ -1,6 +1,0 @@
-i recent bought monichrom vga monitor 99 1024x768 non-interlac seem like good deal . 
-howev fixed-scan rate monitor handl 52 khz horizont i think . 
-with trident card work graphic mode 5e 62 much use sinc applic set mode someth els especi want text i suppos . 
-anyway way i use general-purpos vga display 1-meg trident 8900c card ? 
-i sort differ vga card ? 
-peter desnoy 

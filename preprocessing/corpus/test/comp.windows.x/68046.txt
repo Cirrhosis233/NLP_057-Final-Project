@@ -1,9 +1,0 @@
-xkernel avail sun 350s . 
-is similar packag avail is public domain ? 
-if yes one obtain copi ? 
-yes . 
-it avail ftp.ctr.columbia.edu probabl pubxkernel . 
-in respons earlier gentleman question could theoret recompil xkernel sun4 . 
-the binari avail sun350 author say could use architectur do-it-yourself ' type distribut . 
-we use xkernel 7 machin . 
-email question i help ... 

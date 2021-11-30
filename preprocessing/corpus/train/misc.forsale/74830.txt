@@ -1,8 +1,0 @@
-hifon cere 3-band parametr equal spec 3-band 1 . 
-40-640hz 2 . 
-100hz-3khz 3 . 
-500hz-16khz boostcut -20db thd less 0.02 sizewxhxd 190mmx53mmx120mm this eq three variabl band indic variabl q . 
-it also subwoof output variabl cutoff frequenc . 
-i origin paid 129 unit use 3 month sell car . 
-it excel condit wire hardwar intact manual origin box . 
-ask price 75 

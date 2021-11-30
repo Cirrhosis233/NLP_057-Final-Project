@@ -1,6 +1,0 @@
-i wonder anybodi know x-window-bas postscript file viewer run suno prefer hpux ibm aix . 
-if run sun openwindow use pageview . 
-this x window postscript preview like ghostview display much nicer yes 's broken ow 2.0 . 
-it handl multipl page well . 
-if n't proper postscript command draw entir document page instead paus page . 
-i n't tri ow 3.0 yet though . 

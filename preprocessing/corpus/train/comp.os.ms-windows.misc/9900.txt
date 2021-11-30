@@ -1,7 +1,0 @@
-is anyon run ms-dos system localtalk board ? 
-i appletalk network hook daystar digit lt200 mc localtalk interfac board run ps2 model 70 . 
-i 'm use appleshar pc softwar file server network access . 
-it work fine dos window os2 dos box . 
-but i tri load window everi applic i run could get access machin crash hard soon i start applic . 
-and cours thing look pretti hopeless os2 know . 
-so anyon experi bizarr obsolet setup ? 

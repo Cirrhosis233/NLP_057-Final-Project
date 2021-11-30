@@ -1,5 +1,0 @@
-hi i 'm look tool make x program easi . 
-i would like tool enabl creat x motif gui interactivli . 
-current i 'm work sgi form . 
-a packag enabl creat gui code callback . 
-ani help appreci . 

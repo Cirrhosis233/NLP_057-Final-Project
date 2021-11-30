@@ -1,4 +1,0 @@
-want someth like date xcb -s 0 xcutsel get output date command put xprimari select . 
-unfortun xcutsel interact littl bugger n't command argument tell put littl window . 
-command can use like ? 
-analog xcb put stuff xprimari instead cut buffer 0 ? 

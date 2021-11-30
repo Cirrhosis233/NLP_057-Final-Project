@@ -1,5 +1,0 @@
-file check graphic ' directori grasp . 
-the problem .clp file generat decod mani pd format convert i use . 
-ani hint welcom ! 
-the gl2p1.lzh stuff gfxshow aminet site includ util call pic2hl filter hamlab handl common use kind .pic .clp file . 
-the biggest problem .clp file n't usual contain palett need convert .pic right palett first creat rampicp file convert .clp file . 

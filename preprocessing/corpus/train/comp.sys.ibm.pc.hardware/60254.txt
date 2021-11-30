@@ -1,5 +1,0 @@
-do happen know i get serial mous 9 pin work ibm l40 notebook kind bus mous connect besid serial parallel interfac . 
-the manual n't say anyth . 
-i ve tri two driver result left right button recogn mous movement . 
-should i cut shortcut wire tofrom mous ? 
-thank help . 

@@ -1,6 +1,0 @@
-is possibl either pin configur softwar program chang ip number ethernet card ? 
-the ethernet card n't use ip number 32-bit usual ... 
-use ethernet address 48-bit usual i never run across ethernet control program use address assign . 
-decnet requir featur . 
-howev said reason ever chang ethernet address . 
-they global uniqu first three byte assign manufactur ieee last three manufactur . 

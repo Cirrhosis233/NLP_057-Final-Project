@@ -1,9 +1,0 @@
-i often use notepad view print read.m type file . 
-i often find rush get print manag stop printer delet file print queue i ve forgotten reset print margin .75 inch left right 0 inch . 
-the result print text look chop hard return sourc file . 
-... 
-i struggl margin problem age well i final got hold sharewar binari editor beav133 dug notepad.ex setup facil forc notepad default 0.0 margins- 's hardwir code ! ! ! . 
-do search .75 chang offend byte .00 et viola . 
-who guy hardcod option anyway ? 
-i 'm interest whether problem rear 's ugli head certain printers- i 'm use old epson lx-800 ex-800 ? 
-never rememb . 

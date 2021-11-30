@@ -1,5 +1,0 @@
-given 4 point non coplanar one find sphere center radius exact fit point ? 
-find circumcent tetrahedron discuss page 33 contour a guid analysi display spatial data dave watson pergamon press 1992 isbn 0 08 040286 0 321p . 
-each pair tetrahedr vertic defin plane perpendicular bisector line pair . 
-express plane form ax by cz d solv set simultan equat three plane vertex common vertic use . 
-the solut circumcent . 

@@ -1,7 +1,0 @@
-hi ! 
-i recent purchas toshiba 3401 cdrom . 
-i adaptec 1542b scsi card i far fail get cdrom work dos . 
-it one aspi-driv i think 's aspicd support norst paramt mean reset scsi bus load . 
-this fix problem friend mine adaptectosh 3401 . 
-regard -terj it work ! ! ! 
-thank much ! 

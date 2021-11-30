@@ -1,7 +1,0 @@
-can someon tell hardwar compress need run digit speech 14.4k ? 
-i think i ve heard 's . 
-let say 8 bit sampl . 
-would raw data correspond sampl rate usabl ? 
-if fanci compress need ? 
-as far i know isdn call swissnet 's plug 's 8 bit 8000hz give one channel 64kbitsec i guess go sampl rate 6000 hz want qualiti analog-lin . 
-anybodi know compression-algorithm -factor voic greet germano caronni 

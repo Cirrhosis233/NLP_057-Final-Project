@@ -1,3 +1,0 @@
-doe anyon enough experi report whether disk data compress effect optim disk sector interleav ? 
-offhand i expect time requir decompress disk data would increas optimum disk sector interleav . 
-alan hind 

@@ -1,2 +1,0 @@
-we use iter system compress board compress patholog imag get ratio 401 701 without much loss qualiti . 
-it take 4 min per imag compress 25mhz 486 decompress almost real time 386 softwar alon . 

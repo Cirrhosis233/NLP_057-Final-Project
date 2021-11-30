@@ -1,3 +1,0 @@
-in win 3.1 one may assign hot-key program item within program manag . 
-how program manag ? 
-is one alreadi way assign one ? 

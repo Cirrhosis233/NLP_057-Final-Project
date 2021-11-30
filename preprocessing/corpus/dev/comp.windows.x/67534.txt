@@ -1,7 +1,0 @@
-i 'm tri get mh compil xmh i 'm problem . 
-i ve got mh-6.8 use gcc sco 3.2.4 . 
-my mh file list . 
-doe anyon suggest i add get compil ? ? 
-here 's one i use sco 3.2.4v2 bin usrlocalbin bboard etc usrlocallibmh mail usrspoolmail mailgroup mail ldoptlib -lsocket -lcrypti mandir usrman cc gcc ccoption -tradit manual none chown binchown mts sendmailsmtp pop debug sharedlib signal void sprintf int option attvibug bind dpop dumb renam socket sys5 sys5dir vsprintf fcntl mhe mhrc mime more'usrbinmor ' popservice'pop3 ' rpath foldprot'700 ' msgprot'600 ' sbackup'043 ' shadow curs -lcurs -ltermcap ranlib you may want use differ lock style mailbox mount nfs i use fcntl-style lock . 
-i also appli follow tweak sbrmakedir.c srcpublicmh-6.8sbrmakedir.c tue dec 15 105522 1992 sbrmakedir.c tue apr 13 140204 1993 2430 includ systypes.h includ sysstat.h endif sys5dir definedsvr4 definedncr includ unistd.h endif 2431 includ systypes.h includ sysstat.h endif sys5dir definedsvr4 definedncr definedsys5 defin maxpathlen 1024 includ unistd.h endif that took care everyth man page i instal hand . 
-good luck steve 

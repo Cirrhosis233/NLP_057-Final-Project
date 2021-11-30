@@ -1,6 +1,0 @@
-hello folk i 'm see error i tri modifi key map mwm invalid acceler specfic line x i ve ad line start file line start mwm . 
-it look like follow xmodmap keymapfil mwm i think problem conflict function key f1 f7 alreadi assign function e.g . 
-move minim etc . 
-the odd thing i n't see error i run xmodmap keymapfil xterm . 
-can anyon suggest way modifi key map specif f1 f7 and mwm motif window manag complain . 
-i realiz bit stupid time implement time learn implement . 

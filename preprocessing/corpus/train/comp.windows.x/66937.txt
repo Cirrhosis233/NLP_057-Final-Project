@@ -1,3 +1,0 @@
-.. continu build problem i got stuck build xterm ... 
-gcc -fpcc-struct-return -o xterm main.o input.o charproc.o cursor.o util.o tabs.o screen.o scrollbar.o button.o tekproc.o misc.o vtprstbl.o tekprstbl.o data.o menu.o -o2 -rusrwgepx11r5.sos5libldrunpathldrunpath -l ..... libxaw -lxaw -l ..... libxmu -lxmu -l ..... libxt -lxt -l ..... extensionslib -lxext -l ..... libx -lx11 -lusrwgepx11r5.sos5lib -lsocket -lnsl -ltermcap undefin first referenc symbol file index usrucbliblibtermcap.atermcap.o rindex usrucbliblibtermcap.atermcap.o ld fatal symbol referenc error . 
-no output written xterm error code 1 make fatal error command fail target xterm ' ani clue help ? 

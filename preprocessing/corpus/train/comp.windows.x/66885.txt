@@ -1,4 +1,0 @@
-i 'm tri set ipx anoth group . 
-i copi x stuff i compil 4280 run suno 4.1.1 use gcc 2.1 thing run fine . 
-howev i find coupl bug i tri recompil client ipx run 4.1.3 i get ld undefin symbol xshapequeryextens xshapecombinemask i know i includ libxext get rid messag i ca n't figur i get ipx 4280 . 
-idea ? 

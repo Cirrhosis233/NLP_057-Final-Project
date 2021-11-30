@@ -1,8 +1,0 @@
-i work program display 3d wirefram model user abl arbitrarili chang view paramet . 
-also wirefram object also go dynam attribut move around user explor wirefram world . 
-to i think use srgp packag describ van dam foley feiner book i wonder anoth pd graphic packag faster . 
-i would like make program fast possibl provid satisfactori real time perform sun ipx . 
-ideal i 'm look pd graphic packag allow open new window x allow draw line within window . 
-also would also need sort event driven interact handl sinc user go move around wirefram model use keyboard . 
-if know wrote packag i would grate could direct ftp site contain packag . 
-thank . 

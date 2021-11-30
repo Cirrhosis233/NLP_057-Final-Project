@@ -1,7 +1,0 @@
-hello everybodi ! 
-i littl question due featur pex dragdrop mani applic link exampl motif 1.2 instead motif 1.1 need memori xserver . 
-x-termin limit memori normal swap possibl . 
-so question is possibl determin via x protocol call size free memori avail xserver ? 
-so one determin exampl whether start pex applic css client side server side enough memori . 
-pleas repli via e-mail i ll summar ! 
-sincer matthia 

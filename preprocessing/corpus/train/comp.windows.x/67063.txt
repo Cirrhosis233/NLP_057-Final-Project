@@ -1,6 +1,0 @@
-i current attempt get copi hp widget set compil linux sls releas kernel 99.6 run problem . 
-actual seem gcc question i got compil without troubl use cc rs6000 . 
-basic number function prototyp set let 's say compositep.h instanc composit widget 's insertchild procedur set type typedef void xtwidgetproc widget sever place hp sourc code refer insertchild procedur pass multipl argument instead one prototyp suggest . 
-for exampl superclass-compositeclass.insertchildw arg pnumarg now gcc choke give error messag mani argument pass function . 
-so anyon suggest turn check gcc i go chang code accomod call without chang usrincludex11compositep.h anyon success built hp widget set suggest . 
-mani thank advanc help . 

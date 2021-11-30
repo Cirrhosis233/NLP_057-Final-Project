@@ -1,7 +1,0 @@
-i run system 7.1 centri 610 . 
-i abl setup printer yet i open chooser i get blank screen . 
-i kind print driver none show . 
-i even get port iconn either . 
-it one big blank screen . 
-your help appreci . 
-btw i rebuild desktop help either . 

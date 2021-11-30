@@ -1,5 +1,0 @@
-i 'm afriad 's true . 
-the monitor problem seem occur whenev 15 mag monitor put 1024x768 mode . 
-i 'm run os2 1024 symptom appear . 
-it seem like video card problem cirrus logic 5426 chip ati gup seem caus problem ... 
-two veri differ card . 

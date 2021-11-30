@@ -1,5 +1,0 @@
-perus window 3.1 directori i came across file call regload.ex . 
-i assum part registr databas neither window manual win resourc kit pc mag 's descript file window directori refer . 
-at least one i could find . 
-doe regedit.ex use ? 
-or i way base ? 

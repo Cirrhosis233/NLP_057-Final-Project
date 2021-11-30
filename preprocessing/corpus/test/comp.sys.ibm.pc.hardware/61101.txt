@@ -1,7 +1,0 @@
-subject dx50 vs dx266 date wed apr 21 195512 1993 would someon will explain 486dx 50mhz popular ? 
-i would think would fast faster 486dx 66mhz certian applic . 
-plus 50mhz motherboard would seem better plan upgrad chip futur . 
-i must miss someth sinc everyon buy dx2 66 ... 
-mani add n't even mention dx 50 . 
-thank lot -matt yes reali simpl one make mother board run bus 33mhz .... sam this n't quit true depend number local bus slot whether devic integr mother board possibl run local bus 40 50 mhz . 
-i ve also spoken peopl run standard local bus video card 50 mhz without troubl coupl peopl could n't get lb card work speed . 

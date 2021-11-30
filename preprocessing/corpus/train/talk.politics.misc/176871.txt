@@ -1,4 +1,0 @@
-if unit state ' citizen resid state citizenship d.c . 
-thus 14th amend citizen . 
-are citizen state live ? 
-if resid . 

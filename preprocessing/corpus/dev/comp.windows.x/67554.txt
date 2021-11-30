@@ -1,2 +1,0 @@
-hi doe anyon know redirect stdout stderr program callback function x the program fork child process i guess i ca n't use pipe . 
-can anyon help thank 

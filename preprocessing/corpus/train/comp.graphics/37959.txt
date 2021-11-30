@@ -1,4 +1,0 @@
-you ll probabl set palett tri draw new colour . 
-use bio interrupt call set r g b valu rang 0-63 card particular palett colour rang 0-255 256 colour mode . 
-then abl draw pixel palett valu result ok . 
-you might bit colourmap compress 256 uniqu rgb triplet 256 colour mode . 

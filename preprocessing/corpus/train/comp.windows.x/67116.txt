@@ -1,4 +1,0 @@
-tri xcreatewindow includ x11xutil.h display display window window xsizehint xsizehint xallocsizehint xsizehints-flag usposit ussiz pposit psize xsizehints-x 42 xsizehints-i 42 xsizehints-width 100 xsizehints-height 100 xsetwmnormalhint display window xsizehint xfree xsizehint these hint tell window manag posit size window specifi user window manag accept valu . 
-if use xsizehints-flag pposit psize tell window manag valu prefer valu program user . 
-i n't know window manag n't place window like prefer specifi posit size like . 
-greet berlin 

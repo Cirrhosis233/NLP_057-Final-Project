@@ -1,8 +1,0 @@
-given program run workstat x base window system one pop window run top . 
-by window i mean termin window invok . 
-one ca n't . 
-the applic may start termin emul termin emul may still exist may condit pop top eg may iconifi . 
-and even may want consid virtual-root window manag like tvtwm relev window portion virtual desktop 's outsid real desktop . 
-some x termin emul provid environ variabl give window id . 
-even thing present environ may want may correspond window differ server exampl . 
-der mous 

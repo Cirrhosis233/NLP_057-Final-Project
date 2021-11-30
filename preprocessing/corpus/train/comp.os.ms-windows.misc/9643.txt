@@ -1,4 +1,0 @@
-hi ! 
-i like know fortran librari ms-window v3 . 
-i sever lot sourc code written past ap ms-fortran recent need port ms-window ... 
-i would like avoid major code-rewrit possibl mayb window librari i need ? 

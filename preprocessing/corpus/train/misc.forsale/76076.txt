@@ -1,7 +1,0 @@
-doe anyon know jumper set maxtor 2190 ? ? 
-i 2190 came vs2000 i would like use pc . 
-from maxtor product specif oem manual doc . 
-1011002 rev . 
-f page 35 j2 20 j1 34 power xxxxxxxxxx xxxxxxxxxxxxxxxxx uuuu 4 c 3 2 c 1 o o o o o o the option jumper drive select shown 4c32c1 . 
-there also drive power-up option jumper elsewher drive 's board odd unset slim . 
-sinc 3b1 normal one hd would jumper betwwwn c1 select first possibl drive address 2190 second drive 3b1 jumper 2c . 

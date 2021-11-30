@@ -1,6 +1,0 @@
-excerpt cmu.comp.sys.mac 5-apr-93 re se serial port speed ? ? ? ? 
-sorri i got bit technic . 
-to answer question mac se problem whatsoev communic modem 57600 bps less sinc modem that fast n't exist yet standard form 's need worri . 
-actual 14.4 kbps modem use standard compress v3.2 v4.2.bis ? 
-cna reach 57600 bps howev i seen server modem hardwar compress . 
-i told annex modem break 36k i never seen faster 14.4kbps . 

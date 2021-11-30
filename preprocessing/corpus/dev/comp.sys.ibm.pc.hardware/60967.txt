@@ -1,7 +1,0 @@
-hello i 'm tri use bio timer interrupt occur everi .055 second 18.2 time second time peopl 's respons time psycholog experi respons time order .01 second . 
-is way i get better precis count tick ? 
-or i make tick occur frequent ? 
-i 'm tri dos 5.0 386 would nice could also work old 8086 machin run dos 2.1 i know i know i n't like mean requir possibl . 
-so basic inform bio tick scheme relat inrterruot would appreci well inform altern way improv accuraci . 
-email prefer i 'm plan post board i n't read . 
-thank 

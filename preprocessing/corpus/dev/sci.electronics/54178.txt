@@ -1,9 +1,0 @@
-hi i question lay pcb . 
-i use easytrax dos great program . 
-but question when lay trace thick ? 
-i main design low voltag low current board micro control app . 
-what pad size resistor ? 
-i turn commerci pcb maker produc 1 's board i wonder minimum distanc trace . 
-well info would great . 
-thank . 
-anton 

@@ -1,7 +1,0 @@
-final anyon even conciev timeplac 128 bit key n't suffici ? 
-i certain ca n't even trillion key second would take 10 billion year search one billionth key space . 
-it depend attack . 
-ad bit key doubl amount work done straight brute-forc attack tri everi singl possibl key one work . 
-process storag requir kind attack 128-bit key seem like ought make effect imposs . 
-howev may attack whose difficulti exampl proport say 2sqrtn . 
-also long key littl good way increment guess littl key time .... 

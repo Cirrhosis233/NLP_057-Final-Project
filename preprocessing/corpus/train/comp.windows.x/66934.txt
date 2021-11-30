@@ -1,5 +1,0 @@
-i two motif widget . 
-i would like control one via keyboard mous . 
-i set keyboard focus first widget soon i click mous second one i lose keyboard focus first one . 
-could kind soul show ? 
-thank 

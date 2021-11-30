@@ -1,5 +1,0 @@
-is pd version cfb pd server stuff colour frame buffer implement work bitplan mode i.e . 
-screen memori group bit 0 everi pixel bit 1 etc the beast i know moment gfxbase server commodor amiga commerci . 
-i n't know wrote cfb i suspect . 
-pleas respond email i n't read group . 
-mani thank dave 

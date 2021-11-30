@@ -1,6 +1,0 @@
-i want go 512k 1m vram quadra 800 . 
-how mani 512k simm i need buy ? 
-is current 512k solder board i need take current vram i add ? 
-you need add two 256k vram simm 512k vram simm work quadra centri machin . 
-there alreadi 512k vram solder logic board . 
-you add two 256k simm give total 1 mb . 

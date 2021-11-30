@@ -1,4 +1,0 @@
-hi i 'm look rgb cube hls doubl hexcon hsv cylind convers routin . 
-i rgb hsv miss hls rgbhsv . 
-have check foley 's book ? 
-the solut chapter 13 . 

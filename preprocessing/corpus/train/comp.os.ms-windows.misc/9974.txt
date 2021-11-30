@@ -1,4 +1,0 @@
-what exact window bitmap format look like ? 
-i mean data store width height . 
-colour bitmap data ? 
-i could n't find anyth ths user manual refer materi would give inform ? 

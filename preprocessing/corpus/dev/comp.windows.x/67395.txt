@@ -1,8 +1,0 @@
-i 'm run xterm x11r5 motif 1.1 mwm unix svr4 unisi 386 base machin . 
-my default shell bincsh c shell . 
-whenev i run xterm i get follow messag first c shell prompt warn access tti thus job control shell ... 
-after i ca n't run job control command like fg bg etc . 
-also i ca n't run anoth xterm command line xterm i launch addit xterm .mwmrc menu . 
-i 'd appreci help problem pointer i get help . 
-by way environ variabl term set xterm . 
-saad mufti person librari softwar 

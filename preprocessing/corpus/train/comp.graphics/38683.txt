@@ -1,6 +1,0 @@
-hi i 'm get povray i wonder graphic packag output .pov file . 
-ani help would appreci . 
-thank . 
-a good model packag i found irit ' look irit.tar.z . 
-howev convert 's format pov format . 
-i postet request convert group got respons i 'm consid write program . 

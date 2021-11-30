@@ -1,9 +1,0 @@
-i 486dx33 isa system 4 meg . 
-i use diamond speedstar hicolor video card 1 meg vram standard ctx 14-in svga monitor . 
-when i run window i overlap window say applic overlap program manag window i close activ applic window erasur slow . 
-the part window overlap eras first slowli . 
-this also happen i iconifi applic . 
-the hicolor card advertis faster-than-standard video card acceler chip . 
-i run 800x600x32k . 
-is slow speed simpli expect without acceler chip someth els bottleneck system i unawar ? 
-thank . 

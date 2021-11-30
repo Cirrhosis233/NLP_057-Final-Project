@@ -1,6 +1,0 @@
-hi i 'm problem truetyp font window 3.1 . 
-i instal cyril font i found cica strang thing happen sometim window use cyril suppos use time roman . 
-exampl the pc-tool backup version 7.1 one line cyril text open banner next last line . 
-import word window text written time wp5.2 also result cyril . 
-doe anyon idea look problem ? 
-thank 

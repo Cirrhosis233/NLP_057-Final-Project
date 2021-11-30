@@ -1,2 +1,0 @@
-i got follow today gari risebrough work fine excerpt mail 29-apr-93 re olvwm 3 virtual keybo .. 
-hi with regard i follow line .xresourc olwm.keyboardcommand full olvwm.keyboardcommand full olwm.grabvirtualkey true olvwm.grabvirtualkey true i openwindows.keyboardcommand full openwindows.virtualgrabkey fals seem work . 

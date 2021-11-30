@@ -1,7 +1,0 @@
-question familiar quadra vram i put 2 256k vram simm quadra 700 2 slot closest ram simm slot i got result whatsoev . 
-i told built-in video support least 16bit mayb 24bit color macintosh color display . 
-howev monitor control panel still list 8bit 256 color highest possibl . 
-q700 8bit 24bit color . 
-want higher color depth 's 2mb 's vram altogeth monitor 16 . 
-21 monitor get 8bit max . 
-hope answer question . 

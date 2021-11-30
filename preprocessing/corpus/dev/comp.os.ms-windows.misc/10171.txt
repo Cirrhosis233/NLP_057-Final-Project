@@ -1,6 +1,0 @@
-i funni yet confus problem . 
-i use telem within win 3.1 . 
-everytim i close dos box telem oper get affect normal i file transfer . 
-howev i open close window program everyth seem run smooth . 
-my file transfer oper get affect i close dos box . 
-can somebodi pleas gim pointer go fix ? ? 

@@ -1,8 +1,0 @@
-dear folk it 's pleasur abl announc releas new freewar program xavier audio video extens interview . 
-xavierextens av class interview c class librari add multimedia capabl interview . 
-it allow composit multimedia object built media object . 
-specif add audio video object class avail interview 3.0.13.1 without chang sourc code origin class though sever configur file interview need chang via patch file . 
-current xavier audio class support sun workstat audio interfac sparcstation2 . 
-xavier test follow environ sun machin sparcserver470 sparcstation-ipc os sun-os4.1.1 later c sun c ver2.1 necew machin ews4800210230 os ews-uxvrel4.0 wsos41 release5.1release5.2 c c release3.1 it obtain via anonym ftp interviews.stanford.edu pubcontrib xavier.large-demo.tar xavier.tar we prepar mailing-list inform regard xavier . 
-if interest pleas contact i add e-mail address list . 
-refer rei hamakawa hizekazu sakagami jun rekimoto audio video extens graphic interfac toolkit the third intern workshop network oper system support digit audio video san diego 1992 

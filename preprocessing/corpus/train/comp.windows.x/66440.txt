@@ -1,8 +1,0 @@
-jan nntp-posting-host 134.244.49.156 jan on relat note i use xv display color gif jan root display hp vue ? 
-jan all i vue display xbm 's jan backdrop style manag . 
-jan xv seem abl overrid whatev vue jan put . 
-i suspect vue creat window probabl overrideredirect size larger root window . 
-becaus window manag know move resiz etc . 
-. 
-xv mean time busi chang root window whatev request never get see vue 's window overlaid top root window . 
-contact hp support see whether vue support colour bitmap format xpm cant probabl creat colour backdrop insid code . 

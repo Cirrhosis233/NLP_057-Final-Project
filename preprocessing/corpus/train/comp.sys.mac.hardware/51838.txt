@@ -1,3 +1,0 @@
-is fix ? 
-we quadra 900 not finish startup unless monitor connect . 
-this would problem sinc re run file server need monitor connect time . 

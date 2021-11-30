@@ -1,9 +1,0 @@
-accord osfmotif style guid one use cursor shape give user visual clue happen expect . 
-so hourglass cursor shown applic busi caution cursor shown area input expect anoth . 
-defin cursor widget done rather low level . 
-so defin cursor widget applic certain subpart rather complic matter . 
-when cursor defin window e.g . 
-crosswir cursor drawingarea thing get even complic . 
-my intuit say thing easier ? 
-if anyon solid complet solut problem pleas let know . 
-the topic busi cursor sever faq 's help sinc work applic window cursor window attribut set none ' . 

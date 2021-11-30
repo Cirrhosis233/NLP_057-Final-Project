@@ -1,3 +1,0 @@
-for imag display 10 frame per second seem lower limit interact oper . 
-for bring imag view less 1 second seem good number . 
-of cours measur respons time base applic plan run . 

@@ -1,8 +1,0 @@
-i use xnlock screensav pc-base x server . 
-howev interv activ x session end . 
-this happen i use xscreensav . 
-my screensav command fire .xsession like xautolock -time 1 -locker xnlock -corner -cornerdelay 1 my hypothesi xdm i use xdmcp start x session detect period inact server termin session . 
-howev reason happen xscreensav . 
-is workaround ? 
-i 'd prefer respons via e-mail . 
-thank . 

@@ -1,8 +1,0 @@
-can someon pleas give pointer set imak sun openwindow enviorn i ve check document find clue . 
-sun 's openwindow imak broken . 
-i suggest instal imake-pur mit 's x11r5 imak . 
-you get ftp.germany.eu.net file pubx11miscimakeimake-pure.tar.z 117807 byte . 
-dipl.-inform . 
-rainer klute i r b immer richtig beraten univ . 
-dortmund irb postfach 500500 tel . 
-49 231 755-4663 d-w4600 dortmund 50 fax 49 231 755-2386 

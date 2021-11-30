@@ -1,7 +1,0 @@
-how one print non-appletalk printer use dmm laserwrit stuff . 
-i 'm use serial driverand nothig . 
-i'vetri save postscriptfil tri send sendps2.0 say can'topen laserwrit driver appletalk messagethatprint specifi . 
-i 'm use imagewritwrit one cabl . 
-should i use null-modem adapt ? 
-help ... 
--lowel 

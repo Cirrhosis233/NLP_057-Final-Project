@@ -1,8 +1,0 @@
-receiv usma1.usma.edu trotter.usma.edu 4.1smi-4.1-eef id aa01628 tue 20 apr 93 112750 edt receiv usma1.usma.edu 5.5125-eef id aa03219 tue 20 apr 93 112018 edt date tue 20 apr 93 112017 edt subject problem . 
-status or i run unisi pw2 386sx20 dos 6 . 
-my problem even i dos 5.0 i emm386 load i ca n't ctl-alt-del . 
-if i comput beep time rapid hang . 
-then i use obscur reset requir screwdriv pencil power switch reboot . 
-doe anyon solut problem ? 
-dave thank dave u. . 
-militari academi jason brown 

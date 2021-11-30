@@ -1,9 +1,0 @@
-i .bat file i run window icon . 
-i set pif file run bat file exclus mode use entir screen . 
-the first line bat file set environ variabl . 
-my problem machin run ms-dos 5.0 window 3.1 enhanc mode set command bat file fail out of environ space error . 
-i rais amount environ space 2048 byte use shell command config.si i know i nowher near run . 
-if i click ms-dos icon i creat bunch environ varibl dos shell . 
-the problem machin set valu environ variabl bat file fail . 
-has anyon seen behavior ? 
-i see place pif fail configur environ space . 

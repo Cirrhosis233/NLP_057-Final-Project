@@ -1,7 +1,0 @@
-this came i decid configur mit-magic-cookie-1 secur x11r5 . 
-for work need stick bit intrud ca n't guess file readabl x client applic read . 
-they pass bit back server want establish connect . 
-... 
-what i settl grab bunch traffic network . 
-basic i ran etherfind -u -x greater 0compress skip 10k output grab bit . 
-as best i tell bit expect reason uniform distribut quit unguess intrud . 

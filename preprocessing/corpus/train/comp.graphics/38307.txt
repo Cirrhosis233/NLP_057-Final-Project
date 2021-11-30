@@ -1,5 +1,0 @@
-hello i ve tri bump map gif onto sphere i ca n't seem get work . 
-imag map work bump map . 
-here 's simpl file i work could kind soul tell what wrong ..... 
-includ colors.inc includ shapes.inc includ textures.inc camera locat 0 1 -3 direct 0 0 1.5 0 1 0 right 1.33 0 0 lookat 0 1 2 object lightsourc 2 4 -3 color white object sphere 0 1 2 1 textur bumpmap 1 0 1 2 gif surf.gif note surf.gif plasma fractal fractint use landscap palett map . 
-thank advanc -daniel- 

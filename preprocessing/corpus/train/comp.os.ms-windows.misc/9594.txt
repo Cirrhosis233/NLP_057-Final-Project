@@ -1,2 +1,0 @@
-help problem 48633mhz hang in extend mode tri to access drive a or b sometim it will do dir sometim will hang on access sometim will when tie a text file . 
-hardwar american megatrend motherboard ami bio 91 conner 85mb hard drive trident 1 meg svga 

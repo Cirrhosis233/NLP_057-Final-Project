@@ -1,5 +1,0 @@
--begin pgp sign message- hi .. 
-doe anyon know unix util allow encrypt telnet session use public-key ? 
-i 'd like someth nobodi snoop password session text i 'm log remot network . 
-thank g . 
-pleas report unsign henc unauthoris messag purport from me -begin pgp signature- version 2.2 

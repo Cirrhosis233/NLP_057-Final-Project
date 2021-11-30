@@ -1,4 +1,0 @@
-we get memori fault core dump whenev end motif session ultrix 4.3 run dec 5000240 . 
-an examint core file lead us believ 's getcon . 
-doe anyon know ? 
-marc 

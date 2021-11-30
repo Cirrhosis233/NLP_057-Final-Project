@@ -1,1 +1,0 @@
-vesa local bus motherboard 4mb ram 64k cach 1.2 1.44 floppi 130 mb hard drive ide control 2hd2fd 2s1p1g local bus 1mb svga video card 14 svga monitor .28dpi mini tower 101-key keyboard 

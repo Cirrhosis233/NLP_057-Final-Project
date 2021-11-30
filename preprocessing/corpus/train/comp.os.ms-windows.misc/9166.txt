@@ -1,8 +1,0 @@
-i question winbench pc lab thing 3.11 .. 
-i 38633 ahead b 512k card got results- window vga driver 2.44 million ahead b 640-480-256 driver 455000 winmark window svga 800-600-16 driver 1.68 million winmark ... 
-i think upgrad diamond 24x card .. 
-i read 8 million winmark .. 
-on 386dx 33mhz 4mb ram winbench 2.5 24x v2.02 16.7m 1668274 v2.03 16.7m 1668985 v2.03 16 4602428 v2.03 256 7635278 be care result ! 
-as i recal number winbench 2.5 calcul differ 3.1 figur compar . 
-howev answer stephen 's question replac ahead b card diamond 24x yield cost-effect dramat speed increas window . 
-that ati graphic ultra plus .... 

@@ -1,4 +1,0 @@
-my disk joystick code kind enough mail puke .... specif i look c code read posit joystick without use int15h i.e . 
-access port 0x2000x201 direct . 
-i need c becau memori model consider . 
-i need abl read x y posit also . 

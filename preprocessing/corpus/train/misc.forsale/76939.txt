@@ -1,2 +1,0 @@
-ibm 3510-001 cd-rom drive 350ms . 
-drive make offer trade . 

@@ -1,5 +1,0 @@
-due number bug gks4.1 suno 4.1.3 i instal patch 100533-15 100755-01 . 
-patch 100533-15 appear work fine fix number problem . 
-patch 100755-01 howev requir fix number annoy bug break applic . 
-is recent revis patch 10075 ? 
-ani idea ? 

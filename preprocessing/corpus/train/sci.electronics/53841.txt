@@ -1,6 +1,0 @@
-after i produc schemat pads-log i import pads-pcb creat pcb pattern ? 
-the way i ve gotten work output futurenet netlist import pads-pcb . 
-is anoth way ? 
-i n't see inform instruct provid i might miss someth . 
-ani suggest would great appreci . 
-thank ! 

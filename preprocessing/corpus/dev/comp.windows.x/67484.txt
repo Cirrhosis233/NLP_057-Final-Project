@@ -1,7 +1,0 @@
-how solv problem messag can perform malloc show xtcreatemanagedwidget call ? 
-i applic written x11r5 run decstat use athena widget . 
-as soon i ad code remot procedur call program refus work . 
-i also program work use xlib call rpc . 
-my execut code 1.4m i n't idea much memori decstat 31005100 . 
-ani help appreci . 
-thank . 

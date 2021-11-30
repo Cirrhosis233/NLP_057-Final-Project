@@ -1,8 +1,0 @@
-i wonder anyon net-land knew simpl way make 4-band equal singl channel . 
-i need accept line input tape deck cd player etc . 
-output ! 
-so input imped equal output imped . 
-also sinc i drive line i would need 1 volt p-p output . 
-final requir i either 1 . 
-control digit or 2 . 
-control easili resistor 

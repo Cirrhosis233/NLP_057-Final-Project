@@ -1,6 +1,0 @@
-i lot .cgm file produc ncar graph util v3.00 . 
-they color graph i want print . 
-the printer i postscript hp 7475a . 
-anyon experi pleas tell e-mail nice . 
-or someon know convert .cgm file .gif pcx .bmp .... 
-help lot . 

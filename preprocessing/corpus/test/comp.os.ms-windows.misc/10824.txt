@@ -1,5 +1,0 @@
-hello i have some problem with my diamond stealth local bus graphic card . 
-when i tri to start window my system stop and display no free file handlescannot load commandsystem halt it 's perhap a bio setup problem but i 'm not use to my ami-bio setup if somebodi can explain mehow to setup shadow video rom other shadow rom and also how to config the two advenc ... 
-setup for a best utilis of my graphic card . 
-thank for ani answer . 
-ch.robert 

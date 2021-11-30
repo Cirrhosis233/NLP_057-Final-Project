@@ -1,5 +1,0 @@
-stuff connect ide ida deleat 8mhz clock 16 bit width 5mbsec . 
-if ide speed come ida where 8.3mbs sight ide come ? 
-well quick math part show 8.3mhz bus 16 bit wide perform transfer everi two clock cycl provid 8.3m bytessec . 
-someon said realli take 3 clock cycl perform transfer reduc transfer rate 5.5mbs commonly-us figur isa bus speed . 
-howev i believ two-clock transfer possibl 0 wait state . 

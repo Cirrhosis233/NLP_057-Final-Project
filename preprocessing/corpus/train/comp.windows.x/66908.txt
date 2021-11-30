@@ -1,5 +1,0 @@
-apolog read no-on solv one yet i 'm post ! 
-sorri i 'm problem creat cursor bigger 64x64 i 'm use motif 1.1 x11r4 run hp-ux 8.07 function return valid result cursor appear bitmap bigger aforement size . 
-i tri use follow code unsign int wh xquerybestcursorxtdisplayprogramarea xtwindowprogramarea 72 71 w h return nearest size i requir howev return 72 71 width height respect . 
-what i wrong ? 
-i get round problem ! ! 

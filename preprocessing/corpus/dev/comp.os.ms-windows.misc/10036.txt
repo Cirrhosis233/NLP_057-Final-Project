@@ -1,8 +1,0 @@
-path kth.se ! sunic ! pipex ! uunet ! noc.near.net ! howland.reston.ans.net ! wupost ! waikato.ac.nz ! comp.vuw.ac.nz ! zephyr.grace.cri.nz ! zephyr.grace.cri.nz ! usenet newsgroup comp.os.ms-windows.misc subject re need longer filenam date mon 26 apr 93 032442 gmt-100 distribut world organ industri research ltd . 
-new zealand . 
-nntp-posting-host rmayston.grace.cri.nz line 10 is util let use filenam longer standard 8.3 format . 
-yep 's call os2 ! 
-yep use type unix mayb vms buy mac someth ... 
-if want longer filenam document i heard wordprocessor window let assign long name file . 
-those long filenam could seen program opensav dialog though ... 
-mayb someon know wordprocessor i ? 

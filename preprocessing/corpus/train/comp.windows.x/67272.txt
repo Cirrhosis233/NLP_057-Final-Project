@@ -1,3 +1,0 @@
-xcursor version 4.1 export xcursor4.1.tar.z . 
-i ve ad new option determin request cursor size ok . 
-of cours server may lie ! 

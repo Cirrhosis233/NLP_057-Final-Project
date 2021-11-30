@@ -1,7 +1,0 @@
-at moment 'm tri grab portion starbas screen store area memori . 
-the data need 24-bit format n't problem app run 24 bit screen though 'm fussi exact format . 
-i actual intend write data tiff bit problem doe anyon know grab portion screen ? 
-the blockread call seem grab screen 24 bit colour whatev screenwindow type get 1 byte per pixel . 
-thank advanc martin comput graphic unit manchest comput centr univers manchest load ball . 
-manchest u.k . 
-m13 9pl phone 061 275 6095 

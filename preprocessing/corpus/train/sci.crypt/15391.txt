@@ -1,7 +1,0 @@
-april 16 1993 initi eff analysi of clinton privaci and secur propos detail of the propos escrow the 80-bit key divid two escrow agent hold 40-bit key . 
-the manufactur communic devic would requir regist key two independ escrow agent . 
-a key tie devic howev person use . 
-so subvert one two escrow agent 40-bit space search ... 
-240 n't sound big digit telephoni subject known plaintext attack ? 
-in case half key seem need two agent escrow arrang pointless . 
-of cours unknown algorithm might turn gap speech pseudo-random sequenc might magic involv ... 

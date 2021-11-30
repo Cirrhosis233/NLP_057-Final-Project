@@ -1,8 +1,0 @@
-when two devic isa bus pc share interrupt 's re implement singl card . 
-interest . 
-would care explain soundblast pro card printer card share irq 7 success ? 
-i assur set irq 7 i problem . 
-my comput dtk 286-12 ibm clone . 
-paul bartholomew you configur devic irq long n't use simultan dos least . 
-both lpt1 sb sit tell someth . 
-you ca n't configur soundblast irq7 got ethernet card hit irq thousand time per second . 

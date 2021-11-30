@@ -1,7 +1,0 @@
-i solv problem . 
-i still understand happen ths way perhap c gurus explain us ! 
-for reason i defin follow functin class definit .h file compil think pure virtual function defin . 
-when i place two separ sourc file compil problem went away . 
-ani idea happen ? 
-are function defin class construct inlin is problem ? 
-virtual int isequ const object far obj const return hashentri obj virtual void printon rostream os const os hwindow void far hwindow n 

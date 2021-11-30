@@ -1,8 +1,0 @@
-sinc on-hook line aprox 48-50v off-hook usual drop 10v . 
-how led seri zener say around 30v . 
-on-hook led off-hook led . 
-would work ? 
-if anyon triestri pleas let know . 
-not recommend . 
-your circuit would take much current telephon on-hook . 
-telephon compani like . 

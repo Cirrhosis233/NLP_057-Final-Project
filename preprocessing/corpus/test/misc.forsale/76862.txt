@@ -1,2 +1,0 @@
-gateway 2000 faxmodem send receiv fax 9600 baud send receiv 57000 baud .. 
-never use come softwar crosstalkwinfax new 195 gateway sold gateway custom fit at bus 

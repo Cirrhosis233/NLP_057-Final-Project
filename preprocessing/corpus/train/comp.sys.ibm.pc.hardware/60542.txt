@@ -1,7 +1,0 @@
-i colorado memori system jumbo 250 tape backup unit gateway 48633v tower system . 
-i found suppli backup capabl fair unreli . 
-in approx 3 case 10 i backup fail one point anoth often hang middl write tape . 
-seek error drive communic error seem common . 
-i use dos backup softwar colorado memori system . 
-should i return drive get better backup softwar reformat tape use cms tape ? 
-ani hint would appreci stuff time-consum cooper ... 

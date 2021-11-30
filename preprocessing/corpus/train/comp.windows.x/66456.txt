@@ -1,7 +1,0 @@
-i 'm write xwall ' simpl x version wall ' i want put messag default list display . 
-the problem xopendisplay hang one display current control xdm login screen . 
-xdm xgrabserv 's run secur mode screen-lock . 
-there 's realli simpl way tell case . 
-you take xdm secur mode probabl cool . 
-you wrap call xopendisplay code solict futur sigalrm longjmp past xopendisplay signal handler . 
-an exampl seen xdm sourc . 

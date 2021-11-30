@@ -1,9 +1,0 @@
-when attempt connect sgi indigo pc clone use commerci x window emul packag x packag hang pre-login x screen mode . 
-the login box wo n't display . 
-use packag telnet ' mode i logon sgi run none graphic type thing . 
-on pc i get error read error 0 socket 1 raw socket error on sgi xdm-error i get termin error i kill stall screen pc on sgi syslog datetimesgi xdmhung xopendisplayremote0 abort server open fail remote0 give i access control disabl i believ syslog messag confirm i login sgi . 
-i believ i sgi set proper describ x adm . 
-book o'rielli .... 
-the x emul packag tech support n't abl solv problem . 
-so i 'm look suggest look problem possibl test run narrow question . 
-thank 

@@ -1,9 +1,0 @@
-my three-d librari lot project duh current project object 's vertic per triangl basi . 
-this grossli ineffici 99 object display optim project one time vertex object whose z-extent intersect hither plane ca n't benefit new vertic must creat z-clip . 
-anyon better idea ? 
-yes . 
-here 's . 
-keep vertic array polygon triangl okay n-side polygon slight effici store indic array vertic compris . 
-you set flag vertex transform n't transform vertex also backfac elimin process polygon vertic belong bacfac poli n't transform . 
-whenev transform vertex check 's far side hither plane project right away store result . 
-then z clip vertic get produc project done stage . 

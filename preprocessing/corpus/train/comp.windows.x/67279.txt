@@ -1,1 +1,0 @@
-my hp720 workstat use pseudocolor id 0x21 255 color 

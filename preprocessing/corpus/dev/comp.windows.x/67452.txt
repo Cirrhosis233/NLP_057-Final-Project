@@ -1,3 +1,0 @@
-i ve found i add -8 option display jpeg new version . 
-for reason i n't goe 24-bit mode result imag display 216 color 6x6x6 array instead 256 look grainier . 
-sinc i 'm ubiquit 8-bit pseudo color display i would thought could tell . 

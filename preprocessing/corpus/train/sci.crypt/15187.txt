@@ -1,6 +1,0 @@
-i bunch question encrypt scheme referenc subject messag . 
-what relat data privaci provid sequenc compar straight des ? 
-doe addit compress encrypt make cyphertext signific harder crack use current method straight des ? 
-would run crypt des provid greater data privaci ? 
-is import remov constant compress header encrypt ? 
-thank net wisdom . 

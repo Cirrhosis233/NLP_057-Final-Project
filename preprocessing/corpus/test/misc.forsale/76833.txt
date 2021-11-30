@@ -1,8 +1,0 @@
-cad setup for sale g486plb local bus motherboard can use 32mb simm 256k1m4m 9 expans slot 8 16-bit slot 1 32-bit slot weitek 4167 co-processor socket 33 mhz intel cpu 33 mhz weitek 4167 math co-processor g-host4000 local bus et4000 video card base tseng lab ' et4000 chip design support resolut 1280x1024 interlac non-interlac use ramdac allow 32k color 800x600 65k color 640x480 regist level compat cga ega vga mda softwar driver avail 1-2-3 symphoni autocad autoshad window wordperfect vesa 8514a emul also contain card local bus ide control floppi disk control two fulli configuar serial port 1 parallel port 1 game port i use setup run autocad 3d studio . 
-the combin local bus weitek co-processor made veri fast cad model work . 
-the weitek coprocessor cut 3d studio render time half sometim . 
-it also increas redraw regen model 3d studio autocad . 
-everyth less year old . 
-i ask 950.00 ship whole packag . 
-pleas respond via email . 
-thank . 

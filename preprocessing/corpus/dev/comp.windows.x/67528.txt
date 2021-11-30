@@ -1,8 +1,0 @@
-our group interest use pixmap ' format multi-color iconsbutton etc easili convert format resourc ' file . 
-use pbmplus easili move tofrom xpm environ ms-window os2 pm - . 
-we wonder xpm format consider use standard x consortium r6 would prefer use whatev best support x . 
-along subject line reason standard x pixmap use n't associ colormap attribut ? 
-involv ? 
-wonder n't editor pixmap origin ' format . 
-email repli prefer . 
-thank advanc . 

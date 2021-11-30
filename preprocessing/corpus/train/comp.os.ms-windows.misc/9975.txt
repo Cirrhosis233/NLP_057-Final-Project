@@ -1,7 +1,0 @@
-hi i dll i regist class creat window class type . 
-both call requir modul instanc handl hinstanc . 
-petzold 's 3.1 book say best use modul instanc handl call program modul instanc handl dll page 934 . 
-i two question 1 is way find modul instanc handl modul ? 
-2 what possibl problem use instanc handl dll ? 
-thank advanc mike bull hn inform system inc . 
-phone 508 294-2049 300 concord road ma30 815a fax 508 294-3807 billerica ma 01821 usa 

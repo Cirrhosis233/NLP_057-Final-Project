@@ -1,7 +1,0 @@
-i 'm look program abl display 24 bit imag . 
-we use sun sparc equip parallax graphic board run x11 . 
-utah raster toolkit use getx11 . 
-convert sun raster file presum ppm pbm toolkit convert ppm utah rle format ppmtorl provid toolkit . 
-or use urt tool rastorl . 
-i seem rememb xloadimag 24 bit server . 
-yes newer xli . 

@@ -1,8 +1,0 @@
-hi folk say i 'm new r5 one quick question . 
-in use xon xon machinenam i notic alway come small window i 'm pretti sure default font . 
-my xterm work normal . 
-is xon suppos read .xresourc font size xrdb -q appear show right stuff . 
-i use xon argument xterm -fn 10x20 etc everyth correct . 
-of cours could alway simpl script i feel i 'm miss someth simpl . 
-comment suggest appreci . 
-thank advanc 

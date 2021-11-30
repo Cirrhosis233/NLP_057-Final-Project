@@ -1,3 +1,0 @@
-libxaw3d 3d athena widget set great improv sculptur look . 
-in linux share jump-tabl lib n't even recompil relink . 
-mere ln -sf liblibxaw3d.so.3.0 liblibxaw.so.3 

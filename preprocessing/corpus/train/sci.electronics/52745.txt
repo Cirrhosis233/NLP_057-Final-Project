@@ -1,8 +1,0 @@
-there least one optically-isol rs-232 transceiv chip . 
-i n't rememb i saw . 
-rs compon exist australia uk . 
-do n't know us littl chip call isol max 250 251 . 
-they give isol rs-232 singl 5v suppli . 
-extern compon 4 cap 4 optoisol diod islot transform . 
-they go 19.2k baud .. 
-john west 

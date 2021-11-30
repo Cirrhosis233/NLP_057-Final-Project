@@ -1,5 +1,0 @@
-i set dosunix box 116m ide 412m scsi drive wonder use ms-dos 5.0 join command . 
-i like way set thing sinc i wo n't stick c d e crap dos enforc . 
-i like would mimic mount point unix filesystem . 
-i heard problem use least older version dos . 
-pleas tell ! 

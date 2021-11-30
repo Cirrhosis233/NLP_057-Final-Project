@@ -1,6 +1,0 @@
-hi i 48666mhz sys base pc 8m ram problem . 
-what best way configur high memori qemm386max ? ? 
-i speedstar 24x video card use hyperdisk disk cach softwar . 
-the problem run window 3.1 enhanc mode high memori load stuff high ? 
-note i tri recommend exclud region a000-c7ff window insist start standard mode . 
-ani suggest ? 

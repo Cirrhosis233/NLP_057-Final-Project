@@ -1,8 +1,0 @@
-hello net . 
-i 386sx motherboard phoenix bio on-board ide control port two on-board serial port . 
-unfortun i n't manual beast i would like abl disabl ide control order use mfm control i . 
-the board say made korea use chip chipset . 
-if anyon give clue go configur board use ide control go find help would great appreci . 
-thank advanc assist . 
-tenuous . 
-thank much ! 

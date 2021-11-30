@@ -1,3 +1,0 @@
-i sparc12 german type 4 keyboard . 
-has anybodi patch x11r5 ? 
-export.lcs.mit.edupubsunkbd .. 930314.tar.z maf 

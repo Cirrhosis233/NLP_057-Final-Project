@@ -1,4 +1,0 @@
-is tn3270 program support xterm ? 
-i n't like x3270 . 
-you ca n't copi window . 
-thank . 

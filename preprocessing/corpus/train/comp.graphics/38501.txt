@@ -1,6 +1,0 @@
-i diamond speedstar 24x board i want program 24 bit 640x480 graphic possibl 800x600 16 bit color . 
-doe anybodi librari support mode board ? 
-even some simpl routin set graphic mode plot individu pixel would great help . 
-i plan use routin djgp . 
-thank advanc . 
-pleas respond also via e-mail . 

@@ -1,5 +1,0 @@
-major user read floppi . 
-well us 1400-pictur cd-rom would like use cview fast work well ca n't moron lack foresight creat temp file program 's path current didrectori ? 
-actual flexibl way creat temp file check temp tmp environ variabl creat file drive directori pointedto variabl . 
-this pretti much standard dos window os2 applic . 
-what i say opinion bear person organ includ employ . 

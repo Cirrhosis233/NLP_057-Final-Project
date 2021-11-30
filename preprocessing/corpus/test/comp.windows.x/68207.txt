@@ -1,4 +1,0 @@
-when i chang svr4 svr4.2 intel box i discov svr4 xclient xload etc would longer work . 
-they bomb messag error ca n't open display unix0.0 is ca n't find correct share librari need recompil i use correct option ? 
-both system use x11r5 . 
-thank . 

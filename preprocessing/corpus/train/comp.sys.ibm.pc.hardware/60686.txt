@@ -1,8 +1,0 @@
-i tri put togeth new pc vesa local bus . 
-i would like get vlb card video scsi i heard problem bus master control vlb . 
-someth effect actual slow system . 
-anyon heard problem ? 
-specif i interest ultrastor 34f vlb scsi control . 
-befor i shell buck thing i would like get straight scoop someon know . 
-doe anyon control ? 
-ani problem ? 

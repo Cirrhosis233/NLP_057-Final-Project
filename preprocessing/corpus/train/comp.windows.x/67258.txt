@@ -1,8 +1,0 @@
-i problem icon pixmap . 
-my applic run openwindow motif . 
-i wrote program motif pixmap icon . 
-it run fine motifmotif window manag x11r5mwm . 
-but icon pixmap show openwinolwm x11r5olwm . 
-has anybodi got kind problem ? 
-need clue . 
-an exampl work x11r5motif openwindow great . 

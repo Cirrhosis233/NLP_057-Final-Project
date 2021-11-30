@@ -1,6 +1,0 @@
-hi i 'm hope someon abl help comput scienc project group . 
-we comput scienc honour project graphic simul finit state automata ' . 
-basic program must draw diagram fsa textual grammar show circl state label arc 's in-between . 
-the problem work best way layout state draw arc 's in-between arc 's possibl cross . 
-if anyon suggestionsalgorithmsbug-fre readi compil c code might help us would much appreci . 
-thank advanc 

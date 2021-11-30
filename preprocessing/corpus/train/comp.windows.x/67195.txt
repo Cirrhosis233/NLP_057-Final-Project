@@ -1,9 +1,0 @@
-when i run rs6000 's info util remot login shell rlogin sun sparc 1 i longer type lower case info 's window prompt 's . 
-i thought prob . 
-may due sun window mgr . 
-openlook incompat aix motif applic i tri tvtwm also . 
-same result . 
-so presum x11 key definit problem workstat system admin . 
-feign ignor . 
-what i need abl type lower case remot aix motif app . 
-within local openlook window manag ? 

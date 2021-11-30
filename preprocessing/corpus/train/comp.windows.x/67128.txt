@@ -1,5 +1,0 @@
-anyon know applic retriev name font applic given xfontstruct would xgetfontproperti work i pass xafontnam ? 
-anyon know detail ? 
-thank advanc . 
-brian brian deali 301-572-8267 it know 's ! uunet ! dftsrv ! kong ! deali 's ... 
-b.dylan tri char namenul unsign long valu ifxgetfontpropertyfont xafont valu namexgetatomnamedpi valu dpi display connect font xfontstruct pointer . 

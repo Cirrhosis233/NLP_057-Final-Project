@@ -1,3 +1,0 @@
-i problem compil x11r5 ipc suno 4.1.3 . 
-if compil make -k world ' stop ld error . 
-as state anoth post client error still run correct . 

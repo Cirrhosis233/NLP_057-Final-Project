@@ -1,5 +1,0 @@
-i would like modul 40khz squarewav rf . 
-this rf remot control project . 
-the squarewav high 5 v low 0v . 
-thank . 
-tron 

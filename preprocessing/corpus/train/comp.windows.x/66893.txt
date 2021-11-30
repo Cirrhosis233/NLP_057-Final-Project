@@ -1,8 +1,0 @@
-greet i use x server provid 3 visual pseudocolor 8 bit truecolor 24 bit directcolor 24 bit . 
-a problem occur i tri creat window visual differ visual parent use default visual tc24 . 
-in xlib refer guid ' o reilli one read section xcteatewindow someth like in current implement x11 when use visual parent 's sure creat find suitabl colourmap use window attribut creat els badmatch occur this warn strang enough mention newer edit x11r5 guid . 
-howev even i pass along suitabl colourmap i still get badmatch i creat window non-default visual . 
-the code look like cut ll destroy crt window create8bitwindowontruecolourdisplaydpywidthheight display dpi int width height window win xvisualinfo vinfo xsetwindowattribut attr fprintfstderropen 8 bit window ... n ! xmatchvisualinfodpydefaultscreendpy8pseudocolorvinfo fprintfstderryour display ca n't handl 8 bit pseudocolor.n exit1 fprintfstderrus visual xnvinfo.visual-visualid cmap xcreatecolormap dpi defaultrootwindowdpi vinfo.visu allocnon xsyncdpyfals xinstallcolormapdpycmap ommis line give result attr.colormap cmap win xcreatewindow dpi defaultrootwindowdpi 1010 widthheight copyfrompar border width 8 depth inputoutput class vinfo.visu visual cwcolormap attr return win cut ll destroy crt execut piec code result badmatch error . 
-anybodi know ? 
-if pleas drop line . 
-take care 

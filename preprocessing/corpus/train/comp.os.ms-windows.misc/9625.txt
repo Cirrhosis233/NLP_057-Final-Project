@@ -1,3 +1,0 @@
-hi anybodi tri compil ctrltest mfcsampl directori compil mfc-lib bwc seem bwc n't abl distinguish pointer overload function . 
-for exampl imagin follow 2 overload function void samenam void void samenam int after tri whole day i think bwc imposs take adress one two function assign proper defin function pointer . 
-am i right has anybodi els problem 

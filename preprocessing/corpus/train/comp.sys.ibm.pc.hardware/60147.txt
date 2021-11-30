@@ -1,9 +1,0 @@
-hello i question anyon may familiar isa eisa sytem configur . 
-1 after i switch isa board eisa board card isa system seem work problem ever . 
-but interupt problem isa board continu eisa board . 
-is understand eisa board abl handl irq confict run window . 
-problem when run network via telnet tcpip window run system kick us window irq confict within window i assum . 
-also memori address problem happen board switch base memori . 
-as far i know use eisa mother board use also eisa card els comput system slower re use isa board isa card . 
--bill that 's nonsens ! ! 
-you use isa card eisa-system without problem speed isa system ! ! 

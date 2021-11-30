@@ -1,8 +1,0 @@
-i ve come across circuit integr circuit system inc call gsp500 . 
-this chip genlock vga card dual input ntsc signal . 
-the output chip basic pixel clock various speed . 
-i notic output 28mhz clock .. 
-output use amiga system ? 
-and must ntscvga ntscntsc ani simpl circuit boost ntsc vga signal ? 
-need genlock laser disc 31khz video . 
--john 

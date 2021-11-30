@@ -1,5 +1,0 @@
-doe mean either alpha stencil simultan ? 
-i n't know answer one although 8-bit i would assum one . 
-stereo support yes yes other machin doubl buffer stereo output per window . 
-both auxiliari video output rs-170a ntsc pal same question mean either doubl buffer stereo simultan ? 
-accord literatur quadrupl buffer doubl buffer stereo output . 

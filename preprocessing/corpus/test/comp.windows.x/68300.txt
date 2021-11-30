@@ -1,7 +1,0 @@
-i ve found hpgl viewer x . 
-convert hpgl postscript .. 
-doe anybodi anyth allow convert anyth hpgl ? 
-i 'm desper need someth like . 
-hpgl support raster primit formatt would punt popular imag format . 
-this probabl explain lack translat . 
-what need plot 

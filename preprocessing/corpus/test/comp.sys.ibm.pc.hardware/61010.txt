@@ -1,5 +1,0 @@
-yes monitor 3 bnc 's expect get composit sync signal green ? 
-there ought littl black box take vga signal horiz vert composit sync differ pin plus r g b pair merg green composit sync togeth output . 
-it 's 1v analog far i know . 
-i build op-amp i n't think i get shield done well enough handl frequenc involv without lot shadow junk screen . 
-doe anyon know vga-rgbcomposit sync green convert ? 

@@ -1,7 +1,0 @@
-i problem i 'm use postscript . 
-when i work local sun sparcstat ipc postscript work good i connect sun x-termin i get error messag postscript connect news-display . 
-whi n't postscript work x-termin becaus xtermin news server . 
-xtermin speed natur limit function add news everyth els workstat . 
-there workaround i ve heard one involv perl script . 
-what tri replac program need news like pageview program n't like ghostview . 
-mayb someon els elabor perl workaround i person experi . 

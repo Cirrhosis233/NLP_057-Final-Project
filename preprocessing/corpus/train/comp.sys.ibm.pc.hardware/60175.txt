@@ -1,6 +1,0 @@
-while rummag box old pc 5150 part i found half-siz board look like comm port board . 
-it made fort data system copyright date 1986 . 
-the board provid male 24-pin connector 3 jumper 3 pin two label a b c . 
-i plug pc ran advanc diagnost sever time chang jumper posit time system recognis comm port . 
-doe anyon clue board might configur ? 
-i could use anoth comm port 's free . 

@@ -1,9 +1,0 @@
-hi ! 
-i ve instal new xarchi 2.0.1 work fine except grayscal xterm custom icon compil program n't work bw termin work fine . 
-i set icon xbm file .twmrc n't give neat-o chang busi action . 
-other program similar action e.g . 
-xmail xbiff work fine . 
-the x-interfac author georg ferguson suggest might problem x intrins n't will hack around fix . 
-but i know zero x program i n't think i find . 
-doe anyon know obvious fix problem ? 
-andrew 

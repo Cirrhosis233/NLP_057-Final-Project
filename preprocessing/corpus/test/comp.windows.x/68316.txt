@@ -1,8 +1,0 @@
-help i ve got applic seri pushbutton across top toolbar . 
-i want add eventhandl pushbutton enterwindowmask leavewindowmask i put descript text function pushbutton pointer cross . 
-i ve done fine i ve turn follow problem when pushbutton sensit i get callback event sensit i get callback leavewindow event . 
-this seem odd . 
-i would expect all-or-noth type thing . 
-is bug ? 
-if someon explain behavior ? 
-thank 

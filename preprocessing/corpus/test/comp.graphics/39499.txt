@@ -1,9 +1,0 @@
-i question svga card . 
-i tseng 4000 svga 1mb memori 3x 6-bit dac far i know . 
-to display 640x480x32768 now can i display 640x480 15bitpixel bit-map card ? 
-you . 
-at least hardwar capabl support mode . 
-i know noth video bio though ... 
-if ? 
-silli fool-proof way instal window 640x480x32k color wideo driver display pictur window ... 
-chees 

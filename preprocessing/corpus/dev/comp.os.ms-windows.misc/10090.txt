@@ -1,6 +1,0 @@
-when i use file manag 's disk copi i find window 3.1 read whole 1.2mb disk one time 98 1.44 disk . 
-it look like problem memori . 
-howev the pc 4mb ram . 
-there way allocat extend memori disk copi . 
-pleas advis matter . 
-thank advanc . 

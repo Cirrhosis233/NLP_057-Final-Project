@@ -1,5 +1,0 @@
-i need abl caus beep without use interrupt routin i use bio . 
-i believ pic might someth i 'm troubl deciph inform i figur program ! 
-i 'm program turbo c make difer ... 
-pleas anyon help ? ? ! 
-thank 

@@ -1,5 +1,0 @@
-can anybodi tell anyth avail non-roman font x-window ? 
-especi unicod andor han idiograph font . 
-also convers tool get pcmacintosh font format suitabl x ? 
-i would assum difficult bitmap font . 
-the faq 's group comp.font help question . 

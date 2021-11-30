@@ -1,5 +1,0 @@
-i routin chang color rgb attribut vga adapt n't work mode i need . 
-specif 68 hex . 
-an obscur mode cours i need chang zillion color 64 shade greyscal i correct memori address pointer i need . 
-pleas someon i need start address mayb somewher i find . 
-thank . 

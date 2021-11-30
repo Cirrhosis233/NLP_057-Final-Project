@@ -1,7 +1,0 @@
-we recent purchas tektronix xtermin i 'm problem . 
-we graphic widget wrote display waveform n't work xtermin . 
-button etc show seem take right ' amount time draw noth visibl graphic window . 
-i clue start look program work fine sun 3s 4s color bw . 
-could anyon suggest line attack problem ? 
-tekxpress xp380 color xtermin run 6.0.0 . 
-host sun ipx run suno 4.1.3 x11r5 pl17 . 

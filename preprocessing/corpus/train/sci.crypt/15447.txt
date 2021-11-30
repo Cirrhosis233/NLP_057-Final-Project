@@ -1,8 +1,0 @@
-i set bbs use public-key encrypt encrypt file disk . 
-the general setup design user connect send privat key encrypt use system public key user 's public-priv keypair use wrap one-tim session key use encrypt file disk . 
-the result even i reveal system privat key imposs anyon gain access file store machin . 
-what possibl someon use reveal system privat key entic user reveal thier person privat key authent sequenc . 
-ani answer general muse subject would appreci ... 
-just question . 
-as provid public bbs servic n't bound law gurante intelligbl access data user bbs polic come suffic authoris i guess would basic condit system . 
-i run bbs time ago switzerland friend greet germano caronni 

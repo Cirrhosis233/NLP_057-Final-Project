@@ -1,5 +1,0 @@
-i receiv kaypro 286i comput dos without manual describ jumper motherboard . 
-it came 640kb i 'd 1mb . 
-but comput setup recogn extra 384k . 
-doe anyon know comput capabl greater 640k main board jumper requir expand 1mb ? 
-some spec kaypro main board assi number 81-621 phoenix bio v1.51 1985 

@@ -1,8 +1,0 @@
-i 48633 vlb machin wang 9624 faxmodem . 
-when use window termin applic way i get see ' modem chang com2 go back chang com4 . 
-then work fine . 
-i set com4 port use i n't anyth plug com2 i ve look manual 's worth i miss ? 
-the modem jumper com4irq3 i understand mean i ca n't use second serial port modem time i 'm use second serial port anyway . 
-also use procomm dos alway see modem dial n't alway connect end answer . 
-do n't know help . 
-thank 

@@ -1,3 +1,0 @@
-do scsi card dos system requir separ devic driver load memori scsi devic hook ? 
-will also true 32-bit os 's ? 
-thank . 

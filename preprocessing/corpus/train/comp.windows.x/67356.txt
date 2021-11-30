@@ -1,6 +1,0 @@
-a motif 1.2.2 applic period hang run openwindow 3 . 
-server xnew . 
-i seen problem use sparcstat 10 solari 2.1 ow 3.1 . 
-in case happen far often period . 
-i n't know 's correspond patch solari 2.1 sound like follow bug suppos fix 100492-06 solari 1.x olwm jumbo patch 1108642 window system hang errant pointer grab actual i suspect ow 3.1 problem may differ sinc readm file say patch suno 4.x version ow 3.1 olwm mayb line came earlier version patch forgot take -06 version . 
-barri margolin system manag think machin corp . 

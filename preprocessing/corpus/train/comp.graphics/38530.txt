@@ -1,8 +1,0 @@
-i download imag earth re-construct elev data taken 12 degre increment . 
-the author wrote c-code includ read data file generat bw pseudo color imag . 
-they work well incumb copyright . 
-they aminet site near call earth.lha amigapixmisc area ... 
-i refer includ doc detail author sorri i forget name creat imag . 
-the raw data includ . 
-david david m . 
-ingebretsen evan sutherland comput corp . 

@@ -1,1 +1,0 @@
-doe anybodi know calcul rgb valu requir set 256 color vga palett color 0 .. 255 give 256 color rainbow ie red orang yellow etc . 

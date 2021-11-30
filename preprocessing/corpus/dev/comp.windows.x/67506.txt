@@ -1,3 +1,0 @@
-the good news got two sparc10 's . 
-the bad news devcgtwelve0 appar support x11r4 x11r5 . 
-doe anyon know patch i obtain either x version enabl us use x11 sparc10 's ? 

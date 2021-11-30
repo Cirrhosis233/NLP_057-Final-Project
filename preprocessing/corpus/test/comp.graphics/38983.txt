@@ -1,7 +1,0 @@
-i download file xv221exe.zip site someon post . 
-it contain file cjpeg.ex djpeg.ex xv.ex when i tri run said could n't run go32.ex halt . 
-what 's matter ? 
-are file miss .zip ? 
-what go32.ex ? 
-help appreci . 
-bye wolfram 

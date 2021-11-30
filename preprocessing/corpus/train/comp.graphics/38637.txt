@@ -1,6 +1,0 @@
-there anoth use method base least sqyar estim sphere equat paramet . 
-the point xyz spheric surfac radius r center abc written x-a2 y-b2 z-c2 r2 this equat rewritten follow form 2ax 2bi 2cz r2 a2 b2 -c2 x2 y2 z2 approxim left hand part fxyz p1.x p2.x p3.z p4.1 for datapoint i.c . 
-4 determin 4 paramet p1 .. p4 minimis averag error fxyz x2 y2 z22 . 
-in numer recip c ' found algorithm solv paramet . 
-the best fit sphere center abc p12 p22 p32 radius r sqrtp4 a.a b.b c.c . 
-so last solv sphere estin problem least situat i think ? . 

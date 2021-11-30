@@ -1,3 +1,0 @@
-doe anyon know access andor display multipl page mode 13h still maintain 1 byte per pixel memori organ ? 
-exampl c assembl would appreci ... 
-thank scott 

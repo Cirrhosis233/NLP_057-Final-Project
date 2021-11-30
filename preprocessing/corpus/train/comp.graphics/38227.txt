@@ -1,7 +1,0 @@
-greet ! 
-doe anybodi know possibl set vga graphic mode 640x400 instead 640x480 ? 
-ani info appreci ! 
-some vesa bio 's support mode 0x100 . 
-and vga abl support 640x480 256 color sinc requir 256000 byte . 
-my 8514a vesa tsr support 's vesa mode card support due 8514a restrict . 
-a wdparadis i respons anyth i say i 'm opinion . 

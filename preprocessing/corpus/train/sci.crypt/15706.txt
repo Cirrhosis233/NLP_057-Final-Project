@@ -1,5 +1,0 @@
-and key size one thing verifi extern . 
-gee . 
-say feed 80-bit key snefru-8 take first 60 bit result use 60 bit real key . 
-how figur key one 220 equal '' key ? 
-you tri birthday attack key chang second need sever lifetim get reliabl statist . 

@@ -1,5 +1,0 @@
-hi i use dtk 386-20mhz 13meg memori run varieti program problem lock i tri run applic want lot memori period time playmat 24 bit render lock everytim . 
-i ati ultra w2meg i tri video mode i exclud region video memori a000-c800 segment use emm386 tri adjust swap partion larg nonexist prevent swap i rem 'd all tsr 's util config.syus autoexec even tri use default program manag disabl hp dashboard . 
-even minim system swap smartdrv tsr 's window util exclus video region still lock complet mous control respons anyth except 3finger salut even stop standard window screen simpli full reset immedi . 
-just idea anyon ? ? ? ? 
-thank tom branham 

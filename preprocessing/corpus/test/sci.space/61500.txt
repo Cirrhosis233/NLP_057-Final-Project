@@ -1,6 +1,0 @@
-the current orbit element norad two-lin element set carri celesti bbs 513 427-0674 updat daili possibl . 
-document track softwar also avail system . 
-as servic satellit user communiti current element current shuttl mission provid . 
-the celesti bbs may access 24 hoursday 300 1200 2400 4800 9600 bps use 8 data bit 1 stop bit pariti . 
-element set also updat daili shuttl element document softwar also avail via anonym ftp archive.afit.af.mil 129.92.1.66 directori pubspac . 
-sts 55 1 22640u 93 27 a 93120.24999999 .00044939 00000-0 12819-3 0 129 2 22640 28.4643 241.8868 0011265 284.7181 109.3644 15.91616537 580 

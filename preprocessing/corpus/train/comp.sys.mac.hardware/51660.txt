@@ -1,5 +1,0 @@
-we heavi duti imag process serious underpow mac 's mac iisi exampl . 
-most cpu time burn fft 's . 
-what card would allow us take away part load cpu ? 
-ani dsp 56001 i860 card exampl ? 
-they 'd callabl think pascal replac one two dimension fft 's routin alreadi exist program . 

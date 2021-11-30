@@ -1,4 +1,0 @@
-experi from sun openwindow 4.1.3 xterm window log solari 2.x machin use rlogin ls get first charact line display last column display rest line wrap next line display . 
-log condit persist . 
-check stti tri reset effect . 
-the condit happen tab set 8 space set check . 

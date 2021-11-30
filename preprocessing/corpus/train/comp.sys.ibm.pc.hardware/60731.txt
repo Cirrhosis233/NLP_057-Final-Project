@@ -1,6 +1,0 @@
-hi i buy quantum lps240at 245 mb hardisk decid hddfdd control . 
-is 32-bit vl-bus hddfdd control faster 16 bit ide hddfdd control card ? 
-no vl-bus ide faster isa ide . 
-the ide interfac fundament noth extens isa bus hook vl-bus ll work fast slower two mean isa speed . 
-i hear vl bus control slower ide control ? 
-on hand i would n't expect slower ... 

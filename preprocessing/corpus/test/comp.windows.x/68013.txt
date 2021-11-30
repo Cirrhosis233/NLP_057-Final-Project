@@ -1,7 +1,0 @@
-i ve written applic sparcstat 2 gx openwindow 3.0 . 
-the applic use xview stuff creat window sun xgl graphic librari render canva . 
-the applic real-tim 2-d anim updat display fast enough . 
-i 'm use notifysetitim xview call period kick updat routin 's happen fast enough . 
-i want updat 25 time second . 
-it 's 11 . 
-also appear comput bound i run anyth els appplic updat rate slow even . 

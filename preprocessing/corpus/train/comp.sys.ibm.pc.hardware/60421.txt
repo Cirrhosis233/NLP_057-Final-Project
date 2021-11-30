@@ -1,3 +1,0 @@
-i 486 machin 3.5 a drive 5.25 b drive . 
-i want swap 3.5 drive a what i ? 
-tia 

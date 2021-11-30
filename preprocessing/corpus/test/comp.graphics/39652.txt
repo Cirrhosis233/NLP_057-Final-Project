@@ -1,8 +1,0 @@
-hi i 'm new imag advisor i would like 3d reconstruct . 
-we take slide biolog imag 486 . 
-then softwar allow us trace outlin object want save . 
-the outlin store tiff file . 
-we would like convert group outlin 3d imag . 
-we unsur begin . 
-someon mention could convert tiff vector format could view autocad . 
-ani help would great appreci . 

@@ -1,6 +1,0 @@
-i 'm make custom paint program dos need algorithm read bitmap file like gif pcx bmp . 
-doe anyon algorithm ? 
-i ve tri copi one book read .pcx format n't work . 
-i take algorithm format creat window paint . 
-thank ! 
-toni 

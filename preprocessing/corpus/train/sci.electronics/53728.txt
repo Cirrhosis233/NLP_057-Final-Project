@@ -1,6 +1,0 @@
-my goal come inexpens design receiv back end if input one end fsk demondul . 
-i 'm particular interest way use higher if 10.7 current chip work say 150mhz intern downconvers normal if filter use ? 
-gecplessey specifi seri fm demodul sl1454 etc use satellit tv receiv 150 600mhz 10mhz baseband video . 
-i think 's also relat data slicer clock recoveri circuit intend use dmac decod though n't use common implement may volum product . 
-the easili avail compon probabl vari local satellit standard i think european system vari rather wide us may worth investig locally-avail receiv design find 's common use . 
--adrian 

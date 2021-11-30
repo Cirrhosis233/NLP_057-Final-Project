@@ -1,9 +1,0 @@
-forward mar observ project mar observ status report april 30 1993 1130 am pdt dss-65 madrid 34 meter antenna acquir expect mar observ spacecraft signal schedul begin track yesterday morn 429 approxim 600 am . 
-indic spacecraft enter fault protect mode sometim time receipt normal telemetri end previous station pass dss-15 goldston 34 meter antenna approxim 800 pm even . 
-entri conting mode verifi signal reacquir telemetri indic spacecraft sun cone . 
-after subsystem engin report system perform nomin fault protect telemetri mode reconfigur memori readout command system audit queue aac attitud articul control subsystem starex perform . 
-these readout verifi conting mode entri occur short 130 am yesterday 42993 . 
-preliminari indic sun ephemeri check failur trigger fault protect . 
-howev flight team determin precis caus next day . 
-as last even spacecraft command back inerti refer stabl mode . 
-the flight team plan command spacecraft back array normal spin state today . 

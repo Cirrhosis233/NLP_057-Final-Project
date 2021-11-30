@@ -1,5 +1,0 @@
-i bought new amiecu eisa motherboard adaptec 1742a fast-scsi control . 
-i want instal aha-1742a written amiecu manual . 
-but cfg-util told get newer version adaptec configur overlay file name adp0000.ovr ' old one compat motherboard . 
-the adaptec driver util version 3.0 . 
-can you help me pleas do so . 

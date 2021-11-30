@@ -1,5 +1,0 @@
-okay configur 80486-33 gateway 433c micron isa 12mb ram wd212mb ide hd drive c st3144a 125mb ide hd drive d adaptec scsi 1542b control scsi bio enabl seagat st296n 80mb scsi drive alrighti i boot i get adaptec bio messag say someth like drive c instal drive d instal adaptec scsi bio instal ! 
-and i ca n't get seagat drive . 
-i go phoenixbio setup remov entri drive d boom i access seagat . 
-is way get two ide drive seagat time ? 
-i aspi4dos.si hang system . 

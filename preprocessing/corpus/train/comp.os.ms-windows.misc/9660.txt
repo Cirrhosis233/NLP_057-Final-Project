@@ -1,7 +1,0 @@
-is util avail make window random select one window directori 's .bmp file wallpap file ? 
-there coupl . 
-i person use screenpeac if need chang wallpap i ve written short program vb use systemparametersinfo-funct . 
-the bad news need vbrun200.dll run dll 350kb program 7kb . 
-the order pictur depend system date number bmp-file directori pictur remain execut program multipl time day number bmps chang . 
-if feel need i could uuencod email . 
-it unavail via ftp . 

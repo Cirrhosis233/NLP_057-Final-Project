@@ -1,5 +1,0 @@
-i ve instal x11r5 patch solari 2.1 sparcstat lx sparcclass pool . 
-on lx x11r5 run fine classic give command startx xsun print follow messag warn cg3mmap ca n't map dummi space ! 
-map cg3c no devic address exit . 
-doe anybodi know fix problem ? 
-thank advanc . 

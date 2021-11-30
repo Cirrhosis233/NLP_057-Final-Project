@@ -1,5 +1,0 @@
-valu also refer mean . 
-for exampl comput scienc valu 1 true 0 fals . 
-not lisp . 
-true need defin one statement defin one polar state consid polar . 
-then mean nil fals true cheer kent 

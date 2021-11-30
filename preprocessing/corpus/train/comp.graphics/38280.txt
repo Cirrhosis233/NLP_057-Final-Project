@@ -1,4 +1,0 @@
-hi i 'm look algorithm would generat good cross-sect rgb colour given limit colour map size . 
-the problem i 'm write applic pc may 256 color . 
-i want use one colormap palett applic i 'd like contain even spread colour visibl spectrum . 
-i could use 6x6x6 rgb cube problem lot colour almost ident human eye . 

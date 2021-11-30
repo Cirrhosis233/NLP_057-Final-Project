@@ -1,9 +1,0 @@
-i applicationshel use colormap creat xcreatecolormap use color avail 8-bit display .... when i popup dialogshel prompt user input i want xmndialogstyl set xmdialogprimaryapplicationmod . 
-the result cursor dialogshel i get colormap cursor applicationshel window dialogshel i get default colormap . 
-but i 'd like cursor window applic i get colormap . 
-i think correct behavior . 
-rememb default colormapfocuspolici keyboard mean cmap focus follow keyboard focus . 
-sinc dialog modal mwm wo n't allow keyboard focus onto main shell wo n't allow cmap focus either . 
-sinc sound though keyboardfocuspolicypoint i suggest set colormapfocuspolicypoint also . 
-that way cmap focus wo n't slavish follow keyboard focus beat path . 
-keyboardfocuspolici explicit set cmap focus explicit also need bind f.focuscolor probabl mb1 . 

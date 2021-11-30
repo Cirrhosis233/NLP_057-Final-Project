@@ -1,9 +1,0 @@
-dear netter i want send emg-sign run person comput . 
-each signal 4khz wide 30 run person . 
-the signal sent hundr meter . 
-it seem frequenc intend use 150mhz 440mhz . 
-to make transmitt light possibl i suppos best send signal analog form . 
-as applic rather special i expect abl buy exact transmitter- unit need . 
-on hand i imagin i buy receiv somewher . 
-i need multichannel 30 channel receiv 30 complet receiv rack system one add mani receiv need particular case . 
-do anybodi know if there is exist such receiv system on the market ? 

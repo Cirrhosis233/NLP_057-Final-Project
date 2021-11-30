@@ -1,4 +1,0 @@
-nec multisync plus model jc-1501vma 15 960x720 250 ship . 
-price frim . 
-do send emai offer less ask . 
-thank . 

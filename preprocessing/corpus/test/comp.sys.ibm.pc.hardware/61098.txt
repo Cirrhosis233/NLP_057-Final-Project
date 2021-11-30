@@ -1,6 +1,0 @@
-what 's differ 16550 uart 16550a uart ? 
-thank ! 
-the differ 16550 got bug 16550a use whithout problem even fast serial communic . 
-other sourc say 16550afn nat semi i.e . 
-second sourc realli ok . 
-best wish 

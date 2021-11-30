@@ -1,8 +1,0 @@
-i save imag one machin redisplay imag anoth machin hp 9000 model 750s . 
-the imag creat use xcreateimag xgetimag display xputimag . 
-the imag redisplay correct except color wrong server machin use differ colormap . 
-i tri save colormap pixel rgb valu redisplay perform tabl lookup new colormap . 
-this n't work rgb combo n't exist new colormap . 
-is way forc server load color set pixel valu simpler way solv problem ? 
-i tri use xinitcolormap could n't get work either . 
-ani help would appreci . 

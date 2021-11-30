@@ -1,9 +1,0 @@
-word 2.0c n't show period-centr charact indic space i use ttfont coreldraw . 
-our editor need abl see mani space text charact display larg hollow box . 
-they overlap charact side useless . 
-i believ charact use w4w period-centr 0183 . 
-this charact show window charmap display hollow box tend confirm . 
-i edit corel font fontmong chang font graphic 0183 charact make differ font output charmap w4w . 
-alter paragraph 0182 cedilla 0184 alter font graphic display howev ! ! 
-is w4w charact use indic space period-centr charact ? 
-has anyon abl get charact display coreldraw ttf ? 

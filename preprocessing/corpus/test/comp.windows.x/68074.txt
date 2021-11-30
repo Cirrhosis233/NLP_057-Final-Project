@@ -1,6 +1,0 @@
-hi ! 
-i question direct relat x screen saver . 
-what x screen saver blank screen idl time . 
-i n't want screen go blank get lock call xlock program . 
-is parallel call xsetscreensav lock screen call lock program certain amount idl time ? 
-or way find long server idl ? 

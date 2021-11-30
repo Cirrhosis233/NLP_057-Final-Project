@@ -1,1 +1,0 @@
-hi- doe anyon know i would get start write devic driver appl cd300 cd-rom drive read audio cd format scsi bus ? 

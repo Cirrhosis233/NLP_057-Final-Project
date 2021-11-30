@@ -1,2 +1,0 @@
-on 486dx33 stealth 24 vlb i get 11.4 winmark ver . 
-3.11 

@@ -1,6 +1,0 @@
-i tri write imag display program use mit share memori extens . 
-the share memori segment get alloc attach process problem . 
-but program crash first call xshmputimag follow messag x error fail request badshmseg invalid share segment paramet major opcod fail request 133 mit-shm minor opcod fail request 3 xshmputimag segment id fail request 0x0 serial number fail request 741 current serial number output stream 742 like i said i error check call shmget shmat necessari creat share memori segment well check xshmattach . 
-there problem . 
-if anybodi problem use mit-shm without problem pleas let know . 
-by way i run openwindow 3.0 sun sparc2 . 

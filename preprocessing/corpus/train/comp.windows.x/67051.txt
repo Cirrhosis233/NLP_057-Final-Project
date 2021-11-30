@@ -1,6 +1,0 @@
-help ! 
-i 'm tri run dxterm 's dec ' xterm decstat 5000240 ultrix 4.3 x11r4 motif 1.1.3 display variabl set apollo dn2500 domaino 10.3 x11r4 motif ? . ? . 
-i get error appear decstat dxterm x toolkit warn can convert string keyapchardel type virtualbind x toolkit warn can convert string keyapcopi type virtualbind x toolkit warn can convert string keyapcut type virtualbind x toolkit warn can convert string keyappast type virtualbind x toolkit warn can convert string keyapupbox type virtualbind x toolkit warn can convert string keyapdownbox type virtualbind x toolkit warn can convert string keyaprightbar type virtualbind x toolkit warn can convert string keyapleftbar type virtualbind segment fault ani idea ? 
-is motif problem ... dec apollo version motif incompat ? 
-or someth xkeysymdb ? 
-xterm run fine dec display apollo .. arggh i need run dxterm packag use dec 's oracl case use dxterm default lab apollo workstat would like run oracl . 

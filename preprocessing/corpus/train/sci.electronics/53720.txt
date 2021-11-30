@@ -1,7 +1,0 @@
-hi right i character opamp . 
-becaus i n't special equip task i job relativli simpl equip frequenc sweeper dso etc .. 
-doe anyon know good test circuitri character opamp ? 
-especi measur open-loop gain phase margin pssr cmmr . 
-are book applic note subject avail ? 
-pleas repli vi e-mail nn . 
-thank mark 

@@ -1,7 +1,0 @@
-the titl line say . 
-the galaxi packag recent announc includ gui-build portabl toolkit . 
-i 'm interest feedback may use thus far . 
-we ve use year unix sun hp window platform . 
-in opinion best toolkit market . 
-it support rich api high level ipc mechan file system abstract memori manag command driven applic develop draw geometri manag oh yeah open look motif ms-window mac flip switch . 
-thank jim grier 

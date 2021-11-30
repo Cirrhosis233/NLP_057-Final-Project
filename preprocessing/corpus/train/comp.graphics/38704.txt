@@ -1,9 +1,0 @@
-i ve got old demo disk i need view . 
-it made use rix softwork . 
-the file two diskett set end .scf the demo vga resolut 256 color i n't know spatial resolut . 
-accord colorix manual .scf file 640x480x256 first problem when i tri run demo screen two black bar cut across horizont screen top third bottom third screen . 
-the bar 1-inch wide . 
-other demo anim part seem run fine . 
-second problem i ca n't find graphic program open display file . 
-i coupl imag convers program none mention .scf file . 
-you may tri vpic i think handl 256 color rix file ok .. 

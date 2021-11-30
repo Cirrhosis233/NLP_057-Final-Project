@@ -1,9 +1,0 @@
-doe impli german tone dial compat american one ? 
-i know least british system suppos close enough though american phone work . 
-but modem american special set british standard ... 
-bzzzzzt ! 
-wrong answer . 
-the uk tone diall ident us system . 
-the differ set modem use ccitt v21 v22 tone data transmiss rather bell 103 bell 121 tone use usa canada afaik . 
-as peopl use least v22bis larg irrelev . 
-toni 

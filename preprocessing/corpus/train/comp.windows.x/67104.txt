@@ -1,5 +1,0 @@
-can anyon help ? 
-i problem display imag greater 32768 byte decwindow program run vax 6310 display sparc ipc run openwindow 3.0 dni . 
-the program work fine openwindow 2.0 . 
-the code segment fail given program simpli crash xlib io error xputimag call . 
-ximag ximag ximag xcreateimagemydisplay defaultvisualmydisplay myscreen ddepth zpixmap 0 imag xwid ywid 8 0 xputimagemydisplay mywindow mygc ximag 0 0 xpos ypos xwid ywid paul jaqu system engin camborn school mine rosemanow herniss penryn cornwal . 

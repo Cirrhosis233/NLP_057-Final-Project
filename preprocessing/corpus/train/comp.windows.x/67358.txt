@@ -1,6 +1,0 @@
-i creat pixmap drawabl window use xdrawlin function draw clip line ... 
-300 ... 
-i creat pixmap drawabl window size 300x300 . 
-but i draw line p1x1270y1100 p2x2500y2800 . 
-my question dose xdrawlin function finger correct p3x3 y3 ? 
-if calcul x3 y3 . 

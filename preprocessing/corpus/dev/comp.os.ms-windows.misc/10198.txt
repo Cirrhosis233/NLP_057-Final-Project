@@ -1,6 +1,0 @@
-i ve start get messag window 3.1 whenev i tri execut dos program window either thru program manag file manag . 
-a messag box come say this program one compon compress . 
-use ms-dos expand command expand file now i know bogus i alway execut program dos run window . 
-the program question command.com yup basic dos command line shell ... 
-and expand command tell file alreadi expand . 
-all window app work fine i get messag tri execut dos program window . 

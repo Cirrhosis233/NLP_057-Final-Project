@@ -1,7 +1,0 @@
-even 24bit truecolor machin case run emul 8 bit pseudocolor visual get standard x client motif app thelik run . 
-i strong suppos emul least 24 bit truecolor . 
-should problem translat . 
-round make big misfit depend natur round x allow user bit arithmet pixel valu i.e . 
-xor foreground backgroun pixel valu togeth calcul foreground color use function gxxor fill chang foreground background vice-versa . 
-if round preserv type calcul client use break . 
-ken 

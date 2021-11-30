@@ -1,5 +1,0 @@
-unless i complet misunderstand tri use either notepad sysedit.ex found system subdirectori edit .ini file . 
-you add sysedit regedit program group ... 
-window program . 
-the sysedit.ex program cool automat open win.ini system.ini autoexec.bat config.si file edit . 
-is possibl get load .ini file ? ? ? ? 

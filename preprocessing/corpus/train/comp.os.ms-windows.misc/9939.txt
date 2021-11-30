@@ -1,8 +1,0 @@
-if i put lastdriv z config.si netx run i ca n't access drive f log novel . 
-if i n't put lastdriv z config.si i ca n't access w4wg drive file-manag . 
-it seem way make netx work lastdriv statement config.si . 
-first i n't use w4wg i think 's chang ! . 
-the problem lastdriv command way netwar general case netx particular add drive devic chain . 
-set lastdrivez mean unassign oppos unus drive letter netwar use tack drive map -onto end- exist list drive . 
-w4wg obvious attach network drive exist unus drive letter . 
-i 'd guess next thing i 'd tri someth like lastdrivem machin leav fair swath drive w4wg still allow 13 netwar drive map well . 

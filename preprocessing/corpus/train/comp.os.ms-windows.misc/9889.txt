@@ -1,9 +1,0 @@
-1 . 
-truetyp font file least 13 larger type-1 equival . 
-if use disk compressor though awar truetyp font compress wherea type-1 font encrypt . 
-this n't entir true . 
-it true truetyp font larger atm counterpart atm font get minim compress . 
-run stacker 3.0 report generat i get file type compress ratio .ttf truetyp 1.41.0 .pfb atm 1.11.0 .pfm atm metric 11.81.0 although metric file small compress quit larg . 
-and see even regular .pfb file compress . 
-so math one comparit font file ttf time 83260 bytes1.4 59471 byte compress pfb time 51549 bytes1.1 46862 byte compress you still win even atm time font n't compress . 
-your mileag may vari depend compress program . 

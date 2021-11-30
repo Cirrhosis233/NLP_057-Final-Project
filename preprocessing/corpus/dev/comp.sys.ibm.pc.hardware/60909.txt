@@ -1,5 +1,0 @@
-all dure attempt find at harddisk control work i stumbl across io port 376h . 
-the normal control port 1f0h-1f7h rang port ? ? ? 
-the inform i upto port write port inform write relat number head disk . 
-could somebodi shed light give miss info . 
-thank 

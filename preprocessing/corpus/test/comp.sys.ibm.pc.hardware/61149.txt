@@ -1,9 +1,0 @@
-do scsi card dos system requir separ devic driver load memori scsi devic hook ? 
-no . 
-all i ve seen also on-board bio enabl use 2 hard drive direct dos 2 drive dos limit problem ide standard matter . 
-softwar driver often allow better perform though . 
-you use want use devic besid hard disk 2 disk . 
-no . 
-the alway in-2000 among other requir driver 7 scsi hard drive . 
-dos 2 drive maximum i alreadi 3 . 
-all done hardwar 's softwar driver . 

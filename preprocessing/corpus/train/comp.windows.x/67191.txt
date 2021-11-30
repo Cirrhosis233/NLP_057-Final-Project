@@ -1,8 +1,0 @@
-i applicationshel use colormap creat xcreatecolormap use color avail 8-bit display . 
-when i move cursor window i get technicolor effect fine . 
-basic program work . 
-my problemquest when i popup dialogshel prompt user input i want xmndialogstyl set xmdialogprimaryapplicationmod . 
-the result cursor dialogshel i get colormap cursor applicationshel window dialogshel i get default colormap . 
-but i 'd like cursor window applic i get colormap . 
-ani suggest ? 
-thank 

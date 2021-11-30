@@ -1,7 +1,0 @@
-hi . 
-i recent switch old amiga 500 486dx-50 . 
-my comput configur 486dx-50 mhz . 
-8256 kb eisa micron motherboard asic eisa 50mhz 16mb ram st3283n 248 mb harddisk scsi ultrastor24f eisa cach control when i use norton6.0 harddisk benchmark i get harddisk data transfer 980 kbsec . 
-sometim 1mbsec . 
-is good i thought eisa i could get 2mbsec . 
-somewher manual harddisk i read host adapt need perform low-level format optim harddisk perform system i need a guy i know get hd transfer 1.2mbsec st3283a isa 486dx-50 isa system faster is anyth i get speedier harddisk thank . 

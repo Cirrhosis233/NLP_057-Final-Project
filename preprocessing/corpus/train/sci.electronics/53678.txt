@@ -1,4 +1,0 @@
-how hard would somehow interfac popular motorola microcontrol . 
-not hard refresh access cycl softwar hog avail cpu cycl low-end control . 
-i ve seen applic note philip use one 8051 deriv printer buffer 1mb dynam ram access refresh softwar bit-bang . 
-anoth altern would use one nice dram control chip creat static ram appear may expens make worthwhil . 

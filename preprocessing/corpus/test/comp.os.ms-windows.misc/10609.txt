@@ -1,5 +1,0 @@
-i would like find window 3.x driver video board base chip technolog chipset . 
-the actual board scorpion framegrabb made univis . 
-it base ct chipset bare support graphic mode . 
-i hope ct driver could use 640x480x256 mode . 
-thank . 

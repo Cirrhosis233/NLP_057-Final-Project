@@ -1,3 +1,0 @@
-sin cos pow floor link -lm ' math librari . 
-getwmshellwidgetclass getapplicationshellwidgetclass this bug sun 's share librari . 
-link -assert nodefinit ' trick . 

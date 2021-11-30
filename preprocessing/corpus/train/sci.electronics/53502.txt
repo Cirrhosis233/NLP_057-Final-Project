@@ -1,5 +1,0 @@
-doe anybodi circuit decod 1000hz tone ? 
-use ne567 tone decod pll chip ... 
-my impress 's area i ve play much much-belov ne567 basic obsolet . 
-if want detect 1khz tone set switched-capacitor filter chip frequenc feed input see anyth come end . 
-the ne567 use good clean bandpass filter hard nowaday re easi result better . 

@@ -1,9 +1,0 @@
-hi i applic draw graph bar chart etc . 
-i need includ print support within applic i.e . 
-user print graph within applictaion click print button . 
-i sure i invok xwd xpr within applic specifi window id get window dump send file print way . 
-i would appreci help regard . 
-thanx . 
-mahendra . 
-ps pleas mail repli i regular reader news group . 
-i post summari suffici interest . 

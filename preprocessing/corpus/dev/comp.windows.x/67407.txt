@@ -1,4 +1,0 @@
-is offici extens x allow use audio ? 
-most x audio program use system-specif way access audio capabl comput run . 
-is hardware-independ way like video extens xv ? 
-thank help . 

@@ -1,5 +1,0 @@
-ok let say youv got grid hexagon go 10 9 10 9 etc .. 
-total 15 row mean 10 hexagon 1st line 9 line underneath second line 10 line underneath third line 9 line neath fourht ... 
-problem given center arbritrari hexagon line arbritrari slope which hexagon line cross the line n't necessarili cross center hexagonit even tangent count . 
-ani helper friend baffel tri figur . 
-w 

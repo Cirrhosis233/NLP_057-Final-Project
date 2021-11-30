@@ -1,8 +1,0 @@
-as i said i know multisess cd-rom necessari photo .. 
-but writabl cd-rom drive second session need one ? 
-if write second time cd need multi-sess capabl read second session . 
-whether photo data whatev . 
-here simplifi way look the first session directori structur burn track . 
-the second session newer directori structur first directori still exist chang add . 
-so put normal ' drive look first directori think found data . 
-multisess kindof mean drive look last directori written disc older system look the ' directori take multipl directori account . 

@@ -1,8 +1,0 @@
-most graphic system i seen draw routin also specifi color draw like drawpointxycolor drawlinex1y1x2y2color fillrectanglex1y1x2y2color with x i someth like xsetforegroundcurrentcolor xdrawpointdwxi whi split two function ? 
-whi x design decid associ color object drawn instead associ display drawn ? 
-for flexibl . 
-anyway say realli true . 
-the color inform associ graphicscontext display gc is paramet draw routin . 
-so need fast switch green dot line blue one width 2 make 2 gcs case simpli xdrawlinedpywingcredx1y1x2y2 xdrawlinedpywingcbluex3y3x4y4 effect . 
-this eventu complic programm also much effici flexibl . 
-you would includ paramet like line pattern cap joinstyl drawmod everi draw call color btw stay away xdrawpoint n't realli need draw random point imag transfer imag routin . 

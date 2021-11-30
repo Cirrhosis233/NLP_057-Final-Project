@@ -1,6 +1,0 @@
-beta . 
-support buslog card includ os2 2.0 longer . 
-whi ? 
-this rather disappoint ... 
-if wish instal beta cdrom need rem adaptec devic driver nasti tendenc crash buslog card os2 attempt use . 
-thank adaptec ! 

@@ -1,7 +1,0 @@
-i need graphic display program take paramet name file display display imag quit . 
-all graphic display program come menu first silli . 
-this program go run within anoth program . 
-i lot memori vga color . 
-ani graphic format . 
-has anyon heard beast ? 
-keith 

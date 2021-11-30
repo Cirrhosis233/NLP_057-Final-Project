@@ -1,8 +1,0 @@
-yes increas rpm slip boxer type fan instal capacitor seri fan 's power suppli . 
-the air flow small 3.5 inch fan reduc 50 use 1 4 uf capacitor . 
-use good grade nonpolar unit work voltag rate around 250 volt . 
-note impriic studi usual requir experiment determin best size capacitor given applic . 
-for dc power applic tri radio shack 12 volt box fan . 
-it run start reliabl low 4.5 vdc . 
-it except quiet admit low flow . 
-i wish i knew made fan radio shack . 

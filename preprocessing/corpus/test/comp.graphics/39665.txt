@@ -1,8 +1,0 @@
-i current grayscal imag file standard format . 
-they simpli contain 8-bit pixel valu . 
-i would like display imag pc . 
-the convers gif format would help . 
-this convers take place either pc unix system i could download pc . 
-can anyon suggest i find softwar ? 
-altern i may write convers program . 
-in case could someon tell i find gif format specif ? 

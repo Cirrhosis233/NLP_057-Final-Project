@@ -1,5 +1,0 @@
-i finish build x11r5 386 run interact unix sysvr3 i problem xterm . 
-on font larger 5x7 mess charact type cursor seem larg split 12 revers video 12 outlin block chang pointer move window . 
-i tri use monospac font -p- font . 
-is way chang appear block cursor xterm ? 
-thank 

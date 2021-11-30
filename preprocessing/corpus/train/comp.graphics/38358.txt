@@ -1,8 +1,0 @@
-hi netter i 'm build cad packag need 3d graphic librari handl rudimentri task hidden line remov shade anim etc . 
-can pleas offer recommend ? 
-it 's realli hard . 
-there book explain everyth basic 3d function translat rotat shade hidden line remov pretti easi . 
-i wrote program week witht help book would happi give sourc . 
-also quickdraw lot 3d function built think pascal access i would expect think c could well . 
-if find use quickdraw graphic librari would excel choic sinc lot stuff built mac fast . 
-libertarian atheist semi-anarch techno-rat . 

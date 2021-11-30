@@ -1,5 +1,0 @@
-what vlb 486dx50 . 
-doe local bus still run 33mhz tri run 50mhz ? ? ? 
-brian hi vlb defin 3 card 33mhz 2 card 40mhz design 50mhz 2 vlb-slot . 
-. 
-c't 9.92 10.92 11.92 50mhz 2 slot reali difficult design . 

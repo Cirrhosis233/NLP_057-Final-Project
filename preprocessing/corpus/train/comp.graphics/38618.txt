@@ -1,6 +1,0 @@
-second problem i ca n't find graphic program open display file . 
-i coupl imag convers program none mention .scf file . 
-rix 's file extens .sci .scf raw file 256 color palett . 
-the first 10 byte kind header name rix among 7byte unknown stuff . 
-the 768 byte palett info 3256 color rgb pictur raw format . 
-if dont know make viewer descript get vpic abl read file ! 

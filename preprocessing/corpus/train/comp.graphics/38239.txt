@@ -1,5 +1,0 @@
-up last week i run povray v1.0 48633 dos5 without major problem . 
-over easter i increas memori 4meg 8meg found povray reboot system everi time dos5 . 
-i go run povray dos window run win3.1 system work fine even lot slower . 
-i would like go back use povray direct dos anyon idea ? ? ? 
-john 

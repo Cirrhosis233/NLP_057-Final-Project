@@ -1,4 +1,0 @@
-hi ! 
-i need window 3.1 driver matrox pg-1281 cv svga card . 
-at moment window run 640x480 mode . 
-if driver card pleas send oemsetup.inf thank ! 

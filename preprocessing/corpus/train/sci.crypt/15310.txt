@@ -1,3 +1,0 @@
-whoi -h rs.internic.net tis-dom trust inform system inc . 
-tis-dom 3060 washington road rout 97 glenwood md 21738 domain name tis.com administr contact 301 854-6889 technic contact zone contact 301 854-6889 record last updat 02-jul-92 . 
-domain server list order tis.com 192.33.112.100 la.tis.com 192.5.49.8 and dockmast infam address ... 

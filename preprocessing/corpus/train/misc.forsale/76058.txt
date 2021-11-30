@@ -1,5 +1,0 @@
-bewar from i understand neither amd cyrix 486s clone intel 486 . 
-they use name 486 run fast intel 486 . 
-they exact instuct set fit socket . 
-most fast 386s without coprocessor . 
-amd recent appeal intel use microcod put real 486 chip near futur . 

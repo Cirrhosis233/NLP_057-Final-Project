@@ -1,6 +1,0 @@
-the irq interface-select jumper pretti straightforward i n't grok set w10-w18 also label a15 a18 . 
-could somebodi tell set four jumper correspond io address ? 
-the u-b pcnic also oem ibm ethernet card i know n't use io address . 
-it interrupt share memori . 
-the jumper see control bit 15-18 base address share memori . 
-i ca n't recal 1 0 's easi determin debug . 

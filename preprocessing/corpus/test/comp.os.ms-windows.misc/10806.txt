@@ -1,5 +1,0 @@
-i use winqvtnet 2.81 win3.1 dos 5.0 quit sometim without problem . 
-i recent instal dos 6.0 386-40 pc i run winqvtnet . 
-i keep get packet receiv invalid port-reset sent messag consol window . 
-i ca n't get 1 telnet window ca n't use ftp ! ! ! 
-ani suggest would great appreci . 

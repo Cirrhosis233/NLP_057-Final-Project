@@ -1,5 +1,0 @@
-hi i got gateway 4dx-33v tri configur x11r5 . 
-has anyon done more specif i need correct xconfig file entri set graphic card monitor . 
-i 15 color crystalscan 1572fs monitor vesa local bus ati ultra pro 1mb vram video card . 
-ani help extrem appreci . 
-thank advanc . 

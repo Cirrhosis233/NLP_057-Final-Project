@@ -1,8 +1,0 @@
-doug nntp-posting-host se05.wg2.waii.com doug nntp-posting-host se05.wg2.waii.com doug i big problem tri build mit x11r5 xlc 1.2.1 doug one bundl aix 3.2.3e . 
-it almost linker doug work proper share librari . 
-doug i ve built x11r5 problem .. 
-headach . 
-doug for exampl xset client complain libxmu doesnt bunch doug xt routin shr.o miss someth like . 
-the doug build libxmu doe link libxt i realli perplex doug go . 
-doug .... follow specif error i get doug could load program .xset doug symbol xtvasetvalu ..... libxmulibxmu.a undefin doug symbol xtname ..... libxmulibxmu.a undefin doug symbol xtwindowofobject ..... libxmulibxmu.a undefin doug symbol xtgetconstraintresourcelist ..... libxmulibxmu.a undefin doug symbol xtdisplaytoapplicationcontext ..... libxmulibxmu.a undefin doug symbol xtappsettypeconvert ..... libxmulibxmu.a undefin doug symbol xtscreendatabas ..... libxmulibxmu.a undefin doug symbol xtresolvepathnam ..... libxmulibxmu.a undefin doug symbol xtcvtstringtofont ..... libxmulibxmu.a undefin doug symbol xtcallconvert ..... libxmulibxmu.a undefin doug symbol xtdisplaystringconversionwarn ..... libxmulibxmu.a undefin doug could load librari libxmu.ashr.o doug error exec format error .... 
-search ibmlink reveal similar ix33890 howervr close use . 

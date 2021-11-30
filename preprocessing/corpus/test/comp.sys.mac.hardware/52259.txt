@@ -1,3 +1,0 @@
-has anyon heard scsi devic captur video ? 
-we need sort devic captur 10 frame per second work scsi bus . 
-the idea use sort video conferenc applic . 

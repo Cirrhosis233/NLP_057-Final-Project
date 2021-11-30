@@ -1,5 +1,0 @@
-to netter in last post concern cyrix 486dlc cpu i said benchmark program comptest state bug cyrix cpus . 
-this not true i must apolog author comptest . 
-the actual program give report f-prot 2.07 virus detect remov program . 
-the report state bug cx486slc dlc . 
-sorri sorri sorri ... 

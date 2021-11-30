@@ -1,3 +1,0 @@
-hi look advic suggest problem i 'm mit x11r5 's editr particular twm variant . 
-for start 9 time 10 not alway editr wo n't grab widget tree run ncd decwindow xterm i 'm told fix r5 r4 xdm instal . 
-ok i tri run sun run real r5 network i get widget tree 's alway twm icon manag ' anybodi know patch twm b editr i look ? 

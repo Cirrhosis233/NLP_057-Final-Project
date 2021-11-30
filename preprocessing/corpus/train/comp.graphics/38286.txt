@@ -1,4 +1,0 @@
-on sunsite.unc.edu pubmultimediautilitiesunix find mpegplay-2.0.tar.z . 
-i find mono work best mpegplay -dither threshold though use mpegplay -dither mono face best view situat . 
-also someon made patch mpegplay give two mono mode mono2 halfton . 
-and patch found csc.canberra.edu.au 137.92.1.1 pubmotifmpeg2.0.mono.patch . 

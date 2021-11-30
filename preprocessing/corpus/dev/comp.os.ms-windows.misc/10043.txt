@@ -1,5 +1,0 @@
-subject re window zipunzip date 28 apr 93 223155 gmt we use pkzip v2.04 i interest hear peopl use one mani window program call . 
-is full window version call dos pkzippkunzip command ? 
-there wunarch replac wunzip . 
-it extract ssupport pkzip 2.04 . 
-it not requir pkzunzip order work ccost 10 regist . 

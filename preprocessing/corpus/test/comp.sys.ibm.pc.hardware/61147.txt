@@ -1,8 +1,0 @@
-quantum lps240a hard disk phantom seek i purchas instal 240mb quantum 3.5 hard drive model lps240a concern behavior . 
-although disk drive seem behav proper respect file io perform i call phantom seek . 
-when pc absolut idl i hear spurt activ drive everi 30-40 second last 1-2 second . 
-this activ seem initi strict within drive sinc disk led never come . 
-the disk led attach disk control card drive . 
-my hard disk seagat st3283a kind behavior . 
-can anyon comment strang phenomenon ? 
-hpg20011 408 447-5580 

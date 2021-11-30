@@ -1,6 +1,0 @@
-this seem simpl problem i solv . 
-i wrote c program draw polygon screen i want print printer . 
-so i press print-screen keyboard . 
-the problem printer print ascii charact . 
-is way print screen without use print-screen ? ? ? ? 
-pleas help ! 

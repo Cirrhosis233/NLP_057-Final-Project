@@ -1,9 +1,0 @@
-i instal diamond stealth 24 isa card 486dx2-66 system 256k cach 16 meg memori get 126 si 6.0 cpu benchmark rate . 
-use 1024x768x16 color driver window i get winbench winmark rate 9.5 million . 
-sinc i heard other get 15-to-16 million card i assum someth wrong setup . 
-what possibl caus card slow like ? 
-most import winbench version use ? 
-on local bus ati graphic ultra pro i ve gotten various winbench score 15.8 million 31 million winmark depend version . 
-winbench 2.5 give optimist score 3.11 give least . 
-a winmark rate meaningless without correspond version number . 
-dan 

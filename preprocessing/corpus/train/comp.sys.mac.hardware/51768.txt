@@ -1,7 +1,0 @@
-if devic exist limit number serial devic i use ? 
-how mani nubus slot ? 
-appli engin someth call quadralink card 4 serial port get comm toolbox addit built-in one it also come softwar fool applic open ae port think open built-in port . 
-they also expens card dma better perform i think someon els card handl 8 port simultan . 
-as i said nubus re green . 
-learn use comm resourc manag get various instal card . 
-cheer h 

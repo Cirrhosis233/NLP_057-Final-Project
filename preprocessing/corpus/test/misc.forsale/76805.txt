@@ -1,1 +1,0 @@
-maxtor xt8670s 660 mb scsi drive 16ms access time 2 year old extern case 777 

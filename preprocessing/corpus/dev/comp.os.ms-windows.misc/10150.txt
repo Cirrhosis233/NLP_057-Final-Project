@@ -1,8 +1,0 @@
-here 's situat at home i ms word window printer . 
-at work i window postscript printer ms word . 
-so i configur machin home use postscript printer use print file option produc nice postscript file i bring work . 
-my question i print postscript file print manag work ? 
-if exampl i select print file manag treat postscript text file give sever page postscript gibberish . 
-i know i open dos window copi file.p com1 work seem multitask well applic run rather slowli often paus 10 's second . 
-there ought way pass postscript file print manag i ca n't find mention document . 
-anyon know ? 

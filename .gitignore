@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# OS generated files #
+# OS generated files
 .DS_Store
 .DS_Store?
 ._*
@@ -136,3 +136,6 @@ dmypy.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# feature .npy files
+feature/word2vec/*.npy

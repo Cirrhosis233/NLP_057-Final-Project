@@ -1,9 +1,0 @@
-i 16mb memori 386sx . 
-i run window without swap file sever month . 
-will mathcad 4.0 happi insist swap file ? 
-i got mathcad 4.0 manual clear matter . 
-on page 8 at least 4 megabyt memori . 
-all memori 640k configur xms . 
-at least 8 megabyt virtual memori .... 
-common sens suggest abl run 4812 16 new mathcad kinda kooki thus subject law common sens ... 
-dan 

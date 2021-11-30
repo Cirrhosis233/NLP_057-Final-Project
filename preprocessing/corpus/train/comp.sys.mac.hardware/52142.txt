@@ -1,6 +1,0 @@
-we ll releas whole new suit quickdraw gx-relat doc . 
-if re go wwdc next month ll get preliminari version document cd . 
-we re talk multipl thousand page i 'm afraid gx compris graphic layout print lot new api call function need document ... 
-dave opstad gx line layout weeni doe gx take place 32 bit qd add ? 
-right 32 bit kinda aesthet pain place hack upon hack maintain compat origin qd-i think thing like cast cgrafport grafport . 
-it would lot cleaner ditch entir mess start over-do get ? 

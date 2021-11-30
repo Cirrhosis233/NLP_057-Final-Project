@@ -1,3 +1,0 @@
-usual appli r 1 0 1.402 y g 1 -0.34414 -0.71414 u b 1 1.772 0 v unlevelshift u v subtract 128 . 
-this matrix multipl may give result rgb space clamp result byte 0 .. 255 . 
-the convers done arbitrari big integ float this appli yuv data wherea ntsc may yiq 33 degre rotat uv buid . 

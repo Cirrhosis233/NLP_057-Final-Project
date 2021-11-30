@@ -1,9 +1,0 @@
-excerpt netnews.comp.windows.x 19-apr-93 month question a button widget press caus new item drawn window . 
-this action clear call xcopyarea equiv direct instead regist exist new item memori structur let expos event handler handl regular expos event e.g . 
-window manager-driven exposur take care render new imag . 
-hmmm .... 
-clear ? 
-depend program model . 
-it forbidden draw outsid context expos event . 
-certain intern data structur maintain visual appear would maintain proper whenev expos event happen generat . 
-this n't preclud draw immedi updat datastructur though ... 

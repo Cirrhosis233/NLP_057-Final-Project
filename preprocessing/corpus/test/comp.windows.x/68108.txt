@@ -1,5 +1,0 @@
-doe anyon idea may implement help prevent user lose sight cursor xterm window certain circumst mani screen-bas field . 
-what i would like make cursor flash far n't found way . 
-has anybodi els similar problem fix make cursor stand standard type . 
-user ca n't find cursor ? 
-run xneko ll turn cursor mous rodent varieti if user still ca n't find cat ! 

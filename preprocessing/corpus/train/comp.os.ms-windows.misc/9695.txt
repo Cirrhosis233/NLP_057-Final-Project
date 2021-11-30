@@ -1,7 +1,0 @@
-dear friend the risc mean reduc instruct set comput . 
-the risc usual small instruct set reduc circuit complex increas clock rate high perform . 
-you read book comput architectur inform risc . 
-risc use mean reduc instruct set comput true . 
-they still use acronym familiar . 
-what risc realli mean recently-design cpu . 
-in general risc cpus like a larg number 32 general-purpos regist a fix instruct size usual 32 bit an instruct may make one memori refer memori refer must align there delay branch branch next instruct target predict bit probabl willwo n't branch instruct may complet order relat instruct stream 

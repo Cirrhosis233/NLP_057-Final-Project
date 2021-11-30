@@ -1,9 +1,0 @@
-key allow public key system encrypt post . 
-in theori work fine long priva key remain secur . 
-in practic would good idea check see would violat net rule practic custom etc . 
-i n't say would would good idea check . 
-this like rot13 everybodi key trivial . 
-it would also good idea check see post would forward site need make chain work . 
-of cours 'd problem discuss group travel facil entir control member . 
-probabl would also problem mail list approach . 
-it might even fun . 

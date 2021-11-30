@@ -1,6 +1,0 @@
-hi i ve replac exist dtc scsi control adaptec 1542b troubl restor jumbo 250 tape drive . 
-i troubl instal adaptec dos recognis scsi drive exist ide drive howev i went restor backup jumbo tape i found extrem slow estim time 3 min actual time 15 min ! 
-i troubl restor tape ide drive . 
-i seem rememb read set chang enabl jumbo drive adaptec work togeth i ca n't find mention manual . 
-my system config i486dx33 4mb adaptec 1542b run 180mb fujitsu scsi ide control run 200mb ide jumbo 250 run floppi control ide ani help would appreci thank 41 mariposa rd phone 61 2 ? ? ? - ? ? ? ? 
-work bilgola plateau 2107 61 2 918-8152 home australia 

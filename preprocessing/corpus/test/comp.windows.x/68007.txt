@@ -1,4 +1,0 @@
-hey guy ! 
-i run twm would like execut program leav twm . 
-in word i would like run program i f.quit . 
-is possibl make menu section would contain two part ? 

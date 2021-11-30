@@ -1,1 +1,0 @@
-qrttoppm file.di ppmtotga file.tga ? ? 

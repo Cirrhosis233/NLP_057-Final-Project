@@ -1,5 +1,0 @@
-i 8-bit serial card two port . 
-each port option use irq 234 5 . 
-i also two serial port multi-io card port set irq 3457 9 . 
-from post i ve read i get impress irq2 8-bit card irq9 multi-io card . 
-am i right ? 

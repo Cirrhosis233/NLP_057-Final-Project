@@ -1,7 +1,0 @@
-i need help posit slider list widget 's horizont scrollbar . 
-i display full path select file list widget . 
-the horizont 's slider default left side list widget howev i need slider right side . 
-this user see file name select . 
-i know 's possibl file display file select dialog box slider right side . 
-thank help advanc rodney f . 
-clay 

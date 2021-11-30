@@ -1,9 +1,0 @@
-i hope someon help follow problem i 'm sure must known solut . 
-given rectangl defin -x x x -y y x y constant parallelogram defin -c1 ax c1 -c2 cx dy c2 c1 c2 b c constant ba dc i.e . 
-parallel line equal area intersect ? 
-what i 'm general algorithm suitabl all rectangl parallelogram describ equat . 
-at moment look like i 'm go look possibl case examin seper e.g . 
-1 rectangl enclos parallelogram . 
-2 parallelogram enclos rectangl . 
-3 two corner parallelogram insid rectangl y y origin -y -y -x x 4 two corner parallelogram outsid rectangl i hope someon help . 
-mani thank advanc dave nettleton . 

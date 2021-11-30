@@ -1,8 +1,0 @@
-i problem high order bit charact clip enter xterm window motif . 
-i reprogram f1 key transmit ff charact sequenc use follow line .xdefault ctrl shift alt key f1 string0xff string0xb n i merg line xrdb -merg creat new xterm remap f1 key . 
-the problem aris applic reciev input time see 7f 3e sequenc ff high order bit charact filter ignor . 
-when i run xev press f1 key i get correct valu show follow two key event keypress event serial 14 synthet no window 0x2800001 root 0x28 subw 0x0 time 2067815294 6780 root74104 state 0x0 keycod 16 keysym 0xffbe f1 samescreen yes xlookupstr give 0 charact keyreleas event serial 16 synthet no window 0x2800001 root 0x28 subw 0x0 time 2067815406 6780 root74104 state 0x0 keycod 16 keysym 0xffbe f1 samescreen yes xlookupstr give 0 charact notic keysym transmit correct 0xffbe . 
-but i use f1 key vi program i wrote spit back hex valu keyboard input i get 7f 3e . 
-doe anyon know high order bit filter i make sure entir 8bit make final applic ? 
-ani help great appreci . 
-pleas email respons . 

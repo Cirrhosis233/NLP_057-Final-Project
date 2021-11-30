@@ -1,4 +1,0 @@
-i look public domain 3d viewer . 
-it fanci . 
-the featur i want simpl wirefram display flat shade simpl transform . 
-it would nice hidden line . 

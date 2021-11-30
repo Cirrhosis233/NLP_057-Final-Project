@@ -1,6 +1,0 @@
-hi i ve read faq i ve fiddl around i still problem get poor old hp9000300 let inputdisplay charact 127 . 
-i follow .xdefault xtermfont -adobe-courier-bold-r-normal14-140-75-75-m-90-iso8859-1 so i believ i correct font select use xterm . 
-i not set lcctype environ variabl whatev i put tell local support appar addit local defin least liblocal n't exist . 
-i get charact 127 print i 'd expect exampl alt-v produc u umlaut . 
-this lead believ fault lie stti set follow speed 9600 baud line 0 susp undef dsusp undef -parenb -parodd cs8 -cstopb hupcl cread -clocal -loblk -crts -ignbrk -brkint -ignpar -parmrk -inpck -istrip -inlcr -igncr icrnl -iuclc ixon -ixani ixoff -ienqak isig icanon iexten -xcase echo echo echok -echonl -noflsh opost -olcuc onlcr -ocrnl -onocr -onlret -ofil -ofdel -tostop anyway i ve struggl coupl week help anyon could offer would great appreci . 
-thank ! 

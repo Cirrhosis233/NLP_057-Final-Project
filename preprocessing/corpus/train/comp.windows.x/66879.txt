@@ -1,8 +1,0 @@
-i repost i sure first post ever made . 
-i built instal x11r5 sparcstat 2 . 
-my aim run mit x server retain openlook window manag . 
-i sure uncommon i want make sure i chang andor delet everyth i need . 
-for instanc i start xdm rc.local i get rid xnew ? 
-the openlook window manag sourc avail mit contrib tape export.lcs.mit.edu .i would suggest build rather use version openwindow . 
-it olwm v3 . 
-regard 

@@ -1,4 +1,0 @@
-hi if want soft-scrol vga chang intern regist crtc . 
-but littl bit difficult explain i would suggest take look the program egavga-adapt addison-wesley . 
-you find use descript everi avail vga-regist . 
--bori 

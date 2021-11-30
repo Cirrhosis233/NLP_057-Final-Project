@@ -1,7 +1,0 @@
-i use xdm x11r5 ow3 xview3 sun3 sparc run suno 4.1.1 . 
-prior use xdm i use set path environ variabl like manpath helppath arch etc .login file . 
-with xdm .login file n't get execut therefor neither olwm root-window applic know variabl . 
-you tri .xsession script home thing . 
-xdm start process use system version usual usrlibx11xdmxsess check whether chang . 
-take copi system one edit . 
-note file requir x access set . 

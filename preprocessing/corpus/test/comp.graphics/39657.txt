@@ -1,9 +1,0 @@
-mani high-end graphic card come c sourc code basic graphic sort thing chang color draw pointslinespolygonsfil etc .. 
-doe librari exist generic vga graphic cardschip hope public domain ? 
-this would purpos compil non-do oper system run standard pc . 
-i 'm also interest info public domain commerci graphic librari packag pc vga graphic . 
-i 'm current work realtim applic run pcc non-do kernel need simpl graphic . 
-i 'm sure reentranc graphic librari go issu . 
-i suspect i ll implement display control server process handl graphic request queu mailbox one time . 
-if provid suffici frequent display updat i believ i restrict graphic oper perform server thus constrain access librari singl process avoid need reentrant graphic librari . 
-be fair new realtim system world i may overlook someth think ? 

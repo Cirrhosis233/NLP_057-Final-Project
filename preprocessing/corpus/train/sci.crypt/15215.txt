@@ -1,7 +1,0 @@
-as yet descript general principl behind clipper propos . 
-for exampl public key system privat key system ? 
-if latter i n't see system could work given key tie devic person . 
-further escrow 80-bit key split two 40-bit chunk . 
-i would guess avail one 40-bit chunk reason key-search machin would allow read traffic . 
-i 'm suggest deliber weak system make think . 
-of cours easili fixabl give two 80-bit chunk could x-ore generat real 80-bit key . 

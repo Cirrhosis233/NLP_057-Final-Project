@@ -1,4 +1,0 @@
-i want press function key text string appear xmtext widget . 
-when i put xmtext.transl augment n keyf1 insert-stringhello resourc file translat n't happen . 
-if i put xmtext.transl keyf1 insert-stringhello file i get text string hello f1 press key work make sens sinc default translat mode replac . 
-do i syntax problem someth deeper ? 

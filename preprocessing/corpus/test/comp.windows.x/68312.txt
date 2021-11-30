@@ -1,8 +1,0 @@
-hi could someon explain exact xlib function xcreateregion xpolygonregion xpointinregion suggest ftp site i find program use function . 
-ps the man page explain much ...... 
-thank leo . 
-dept . 
-comput i use routin widget redraw expos area . 
-'s small piec code use routin static void redisplaypw ev region xtpmanagerwidget pw xexposeev ev region region pp-exposureregion xregion xtpmanagerpart pp pw-plotter pp-exposureregion xcreateregion region pass via expos event ifregion null ev-sendev synthet event sent widget want full redraw exporect.x pw-core.x exporect.i pw-core.i exporect.width pw-core.width exporect.height pw-core.height els exporect.x ev-x exporect.i ev-i exporect.width ev-width exporect.height ev-height stuff delet region contain exposur region xunionrectwithregionexporectpp-exposureregionpp-exposureregion els xunionregion region pp-exposureregion pp-exposureregion stuff delet we need clip expos region redraw grid xsetregionxtdisplayofobjectpw pp-plotareagcpp-exposureregion stuff delet check see child expos xrectinregion pw-plotter.exposureregion child-core.x child-core.i child-core.width child-core.height so i build region exposur i servic contain widget redraw rectobj children i redraw need redrawn . 
-it work hope help . 
-brian 

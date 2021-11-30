@@ -1,4 +1,0 @@
-suppos two cubic bezier curv control point v1 .. v4 w1 .. w4 equal first last control point v1 w1 v4 w4 . 
-how i get upper bound distanc curv . 
-which distanc ? 
-the distanc one point ti first curv point curv paramet u ti ? 

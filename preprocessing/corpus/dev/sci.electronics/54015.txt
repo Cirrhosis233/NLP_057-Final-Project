@@ -1,3 +1,0 @@
-can anyon point cross compil andor assembl motorola 68008 host pc compat . 
-prefer free sharewar . 
-also anyon know gnu cc port chip . 

@@ -1,6 +1,0 @@
-stuff delet so lowli low-dens origin pc fdd card use dma pc-at hdd control n't ! ? ! ? 
-that make real sens . 
-actual make reason amount sens . 
-fix disk sector buffer control transfer memori rep insw ' whatev instruct call quit effici singl instruct goe fast controllercpu know use bus . 
-sinc 286 n't cach bus like critic resourc relat cpu perform 's possibl dma bus interfer would caus much loss cpu cycl comput ' rep insw ' sequenc . 
-the floppi hand buffer use cpu floppi data transfer done pc jr way realli stink . 

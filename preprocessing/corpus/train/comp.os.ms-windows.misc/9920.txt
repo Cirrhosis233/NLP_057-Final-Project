@@ -1,9 +1,0 @@
-i instal sw ati graphic card bash window logo file . 
-when i start window 3.0 logo instead 3.1 logo . 
-i thought file control windowssystemvgalogo.rl windowssystemvgalogo.lgo i restor file n't chang logo . 
-anyon know correct file ? 
-for vga card correct file ca n't copi back expect work . 
-you creat new win.com file . 
-tri command worri directori file sinc i n't know setup copi b win.cnfvgalogo.lgovgalogo.rl win.com i grab supercharg window judd robbinsgreat book this also put logo window startup screen . 
-an rle file special compress bmp file . 
-hope help 

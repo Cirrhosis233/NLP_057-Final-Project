@@ -1,9 +1,0 @@
-newsgroup comp.ibm.pc.hardwar subject logitech 2-button mous pin-out bio routin avail ? 
-distribut world organ purdu univers engin comput network i logitech 2s-2f 2f-2s 2-button mous i want interfac serial port differ non-ibm-compat system . 
-the mous xtatps2 compat db25 connector . 
-i tri revers engin mous micro-control insid . 
-if i could get db25 pin-out perhap copi bio routin support i could map target system ? 
-anyon know i might get pin-out bio routin ? 
-are routin publish someplac conveni ? 
-thank ! 
-silvio 

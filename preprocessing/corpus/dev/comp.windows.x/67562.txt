@@ -1,7 +1,0 @@
-hi i 'm work project involv store applic 's render x display play back . 
-rather reinvent wheel like find file format save x protocol . 
-softwar save replay session . 
-ani idea ? 
-i ve heard version xscope save replay session . 
-i 'd will share much code i develop back x communiti . 
-axel ............ 

@@ -1,6 +1,0 @@
-recent found tiff manipul packag recogn tiff file output xv . 
-this due miss xresolut yresolut tag appar requir least believ requir valid tiff . 
-i check xv 2.x xv 3.x neither inde copi tag . 
-has anyon hack fix xv support tag ? 
-i told i could find code tifftoolstiffcp.c directori one mani tiff group distribut xv . 
-i hope obtain origin tiff src look would prefer find code alreadi known work xv . 

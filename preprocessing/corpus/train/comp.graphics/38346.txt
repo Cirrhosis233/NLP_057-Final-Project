@@ -1,8 +1,0 @@
-hello i purchas new 486 nonam graphic card instal obvious speedstar 24 compat . 
-it name vga 4000 truecolor . 
-it accompani driver util vmode xmode least one mode well driver lotus window etc . 
-onli one driver told provid truecolor mode name window 3.1 driver . 
-nowher els except ad pointer truecolor mode . 
-some articl group speedstar 24 fact made believ card compat one . 
-doe anybodi know mode adjust ? 
-how i write driver allow 16.7 million color resolut 640 x 480 45 hz interlac 

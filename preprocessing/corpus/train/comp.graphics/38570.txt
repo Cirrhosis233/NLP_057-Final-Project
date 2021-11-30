@@ -1,8 +1,0 @@
-doe anyon know softwar allow convert coreldraw .cdr file contain bitmap scodal format bureau 's filmrecord recognis . 
-jeff lyall i use combin a qcr-z record i think far i rememb corel export scodal .scd format . 
-just select export ' main file menu . 
-this may implement earlier version cours case re ! ! ! 
-also i seem think sw qcr-z time strang undesir thing ani part pic outsid screen area corel . 
-i spent afternoon pain discov one pixel somehow stray off-screen caus whole slide blank ! ! ! 
-the qcr-z also could n't handl grad-fil grad-fil use graduat colour background grad-fil object top fill appear final slide circl i think total ignor shape object fill ! ! ! 
-of cours record n't qcr ignor feel suitabl 

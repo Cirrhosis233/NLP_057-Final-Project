@@ -1,8 +1,0 @@
-i 486dx-33 comput soundblast 1.0 card . 
-i 'm run microsoft window v3.1 . 
-i sb driver set proper play normal sound .wav file etc .. 
-i want play midi file media player includ window . 
-i know i set patch map someth midi-mapp control panel . 
-i know noth about midi . 
-this way i ll get feet wet . 
-how i set window i play midi file ? 

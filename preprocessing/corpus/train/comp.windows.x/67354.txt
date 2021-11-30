@@ -1,7 +1,0 @@
-i 'm write applic run x use motif i need stuff applic quit . 
-now i shut x window session n't seem send sigterm whatev signal applic i 'm trap various signal like . 
-therefor i thought i could use x signal check top level window destroy . 
-howev i seem get destroynotifi event whenev i move window . 
-is way check window actual destroy field check combin event ? . 
-repli e-mail pleas i summaris . 
-thank help ian 

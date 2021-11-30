@@ -1,6 +1,0 @@
-hmmm . 
-how orang isol ground outlet often use comput room wire ? 
-they requir two separ ground . 
-one ground goe ground pin outlet ground wire connect outlet 's mount tab thus ground box facepl screw metal facepl . 
-the boxfacepl ground goe normal distribut panel ground . 
-the outlet ground-pin wire general connect insul busbar distribut panel turn connect building-entr main ground wire . 

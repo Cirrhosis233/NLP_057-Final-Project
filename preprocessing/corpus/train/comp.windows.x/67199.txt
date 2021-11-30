@@ -1,7 +1,0 @@
-i write custom widget support display graphic imageri . 
-the user widget abl specifi creat whether oper x gl mode . 
-i set translat action handl mous button press . 
-they work fine widget x mode . 
-in gl mode work widget glx widget child manag . 
-put anoth way translat work widget configur gl mode child shell . 
-doe anyon know happen ? 

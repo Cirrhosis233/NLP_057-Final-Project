@@ -1,8 +1,0 @@
-our shop use packag call cadcor good scan subsequ vector origin map digit map . 
-the problem raster file load cadcor packag header ad .hrf file make unread suppli convert . 
-we would like abl ship already-alt raster imag use workstat . 
-so question 1 what hitachi format ? 
-i need format i recogn precis strip . 
-i strong suspect 's compress format might possibl strip offend header . 
-2 are unix packag read recogn hrf ? 
-it would realli nice find sort hrftopbm convert . 

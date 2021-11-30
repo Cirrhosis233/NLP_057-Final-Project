@@ -1,2 +1,0 @@
-emu emax ii rackmount sampler w 16 bit stereo sampl 3 stereo input 6 out . 
-intern sequenc 32 voic polyphoni 170 meg intern hd stock ram 2 meg i think perfect condit 5 month old 

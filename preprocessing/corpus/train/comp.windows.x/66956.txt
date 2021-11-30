@@ -1,5 +1,0 @@
-distribut comp pleas n't misus newsgroup hierarchi name distribut . 
-i wonder possibl parent window paint area child . 
-yes 's attribut window 's attribut gc use draw . 
-set subwindow-mod includeinferior rather default clipbychildren . 
-der mous 

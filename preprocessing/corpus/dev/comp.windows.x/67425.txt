@@ -1,5 +1,0 @@
-how i captur buttonpressbuttonreleas event multipl client ? 
-i want know user still display lock screen . 
-i get keypresskeyreleas pointer motion event user press mous button locat mous n't move i ca n't captur event . 
-the o'reilli xlib program manual vol . 
-1 say page 252 onli one client select button event one window one time due grab automat take place ani help would appreci . 

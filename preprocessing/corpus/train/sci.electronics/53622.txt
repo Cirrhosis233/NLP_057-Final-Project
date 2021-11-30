@@ -1,9 +1,0 @@
-how thick i need make pcb trace 15 amp current ? 
-doe anybodi thought process kind pcb use materi thick copper advic gracious accept ? 
-in four repli i ve seen hard number goe for trace outsid inner layer expect 1 oz copper 15 amp follow temperatur rise versus width . 
-this sam ' refer data engin seventh edit pg 5-30 claim turn mil-std-275c ... 
-width temp rise inch degre c .125 100 .15 75 .17 60 .20 45 .24 30 .33 20 at 10 amp rise .125 width 30 degre . 
-power goe squar current plus copper resist goe temperatur goe ... 
-certain .20 5mm trace ampl want . 
-and 2 ounc copper almost cut requir width half . 
-i 'd 2 oz 0.08 width i think ... given rate current 10 amp 15 transient fault condit . 

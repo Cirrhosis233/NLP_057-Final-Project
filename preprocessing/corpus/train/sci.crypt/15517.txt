@@ -1,4 +1,0 @@
-final anyon even conciev timeplac 128 bit key n't suffici ? 
-it depend algorithm use . 
-128-bit secret key rsa definit secur enough . 
-regard vesselin 

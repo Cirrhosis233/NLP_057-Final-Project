@@ -1,6 +1,0 @@
-could someon pleas give guess simpl littl program caus badpixmap error fourth bizarr ? ? ? 
-call xtrelaizewidget ? 
-here code int stoploop 0 static void callbackwidget xtpointer xtpointer main xttoolkitiniti xtappcontext app xtcreateapplicationcontext 1 int junk 0 display dis xtopendisplayapp null null null null 0 junk null widget top xtappcreateshellnul null applicationshellwidgetclass dis null 0 widget box xtvacreatemanagedwidgetx xmpushbuttonwidgetclass top xmnheight 25 xmnwidth 25 null xtaddcallbackbox xmnactivatecallback callback null xtrealizewidgettop ! stoploop xevent event xtappnexteventapp event xtdispatcheventev stoploop 0 xtreleasegctop xdefaultgcofscreenxtscreentop need ? 
-xtdestroywidgettop xtclosedisplaydi static void callbackwidget xtpointer xtpointer stoploop 1 the error i get yes 4th time i tri show box x error fail request badpixmap invalid pixmap paramet major opcod fail request 55 xcreategc resourc id fail request 0xd0000d serial number fail request 71 current serial number output stream 85 pleas respond via email . 
-thank much ! 
-note i realiz program noth use ultra-trivi version fo real librari routin 

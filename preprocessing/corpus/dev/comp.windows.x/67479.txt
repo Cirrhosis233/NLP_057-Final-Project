@@ -1,9 +1,0 @@
-hello our applic requir us captur keypad press window number applic . 
-we tri use action translat tabl implement . 
-we succeed assign translat tabl everi individu widget window singl applic . 
-the xt call make includ . 
-it would much conveni could assign translat tabl class widget rather individu widget instanti also accomplish multipl applic . 
-if someon could describ would great appreci . 
-platform sun sparc w x11r4 motif 1.1.4 static xtactionsrec actionst doup right doright middl domiddl left doleft dodown bye quit static char defaulttransl keykp8 n keykp6 right n keykp5 middl n keykp4 left n keykp2 n keykp1 bye xttranslat transtabl 
-transtable2 xtaddactionsactionst xtnumberactionst transtabl 
-xtparsetranslationtabledefaulttransl widget xtcreatemanagedwidgetmsg xmpushbuttonwidgetclass form warg n xtoverridetranslationswidget transtabl 

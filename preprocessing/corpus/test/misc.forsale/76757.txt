@@ -1,3 +1,0 @@
-i look vesa local bus card . 
-control ide drive floppi game port parallel port serial port . 
-serial port must socket uart non intergrad chipset generic board . 

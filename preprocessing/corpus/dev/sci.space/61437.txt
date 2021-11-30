@@ -1,4 +1,0 @@
-2 . 
-on april 23 cruis scienc memori readout mro perform magnetomet mag instrument . 
-analysi indic data receiv proper . 
-am i correct assum scienc instrument buffer acquir data onboard ram download upon receipt mro command ? 

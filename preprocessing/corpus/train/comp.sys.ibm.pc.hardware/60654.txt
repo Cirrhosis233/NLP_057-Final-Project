@@ -1,9 +1,0 @@
-i gateway 4dx-33v 3.5 inch floppi drive a . 
-i accident discov floppi one particular box diskettet a drive i boot rather get non-system diskett messag machin hang cmos get overwritten luckili gateway send print standard cmos set system . 
-this happen box pre-format fuji disk i disk caus problem . 
-if i re-format one fuji disk problem goe away . 
-i virus scan scan v1.02 disk found noth . 
-anyon idea go ? 
-hardwar problem ? 
-a virus ca n't detect ? 
-the system read garbag boot sector ? 

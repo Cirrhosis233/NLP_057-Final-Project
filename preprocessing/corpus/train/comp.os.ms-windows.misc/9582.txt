@@ -1,3 +1,0 @@
-dear friend the risc mean reduc instruct set comput . 
-the risc usual small instruct set reduc circuit complex increas clock rate high perform . 
-you read book comput architectur inform risc . 

@@ -1,8 +1,0 @@
-hi we ve problem setup print serial printer dmp laser . 
-i use work window write . 
-the output ok dos i send plain text output anyth fanci garbl n't output . 
-the except output lserjet 4 appear ' fast enough receiv data bother handshak messag . 
-i 'm sure i 'm alon . 
-i ve tri printnetwork manag option i think . 
-anyon similar problem ve cure would like tell bout ? ? 
-thank 

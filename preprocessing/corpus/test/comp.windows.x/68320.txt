@@ -1,6 +1,0 @@
-i current program athena toolkit . 
-i problem creat text widget . 
-ani guidenc help great appreci . 
-i assum liter tri creat widget type textwidgetclass . 
-use asciitext widget instead . 
-jim 

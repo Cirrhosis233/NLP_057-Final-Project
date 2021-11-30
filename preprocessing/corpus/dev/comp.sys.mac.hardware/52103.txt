@@ -1,5 +1,0 @@
-my recent modifi quadra 700 socket clock oscil complet near 40 hour error free oper 32 mhz 64 mhz clock oscil . 
-i also tri 55 mhz cmos clock work well . 
-on stupid side i ve discov use 40 mhz clock make q700 slow centri 610 . 
-howev 25 mhz clock would yield 12.5 mhz quadra 700 who 'd want one ? 
-n't work . 

@@ -1,7 +1,0 @@
-hi . 
-i 'm wonder possibl replac singl modul xkeybind.o share librari libx11.so sun openwindow . 
-i tri rtfm i n't get wiser way . 
-also i rs6000 machin run 3.2.2 possibl . 
-i know real librari ar . 
-i tri replac xlookupstr deliv librari anoth special thing . 
-per 

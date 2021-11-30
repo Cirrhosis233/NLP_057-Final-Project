@@ -1,5 +1,0 @@
-hi netter i requir window appear co-ordin 00 top left corner screen root window . 
-could window guru help go . 
-i write whole program creat window imag display i requir imag appear top-left corner i grab record video use miniva control expect window spot everi time . 
-thank advanc . 
-sincer sanjeev sharma 

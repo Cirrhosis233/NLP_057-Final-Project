@@ -1,9 +1,0 @@
-i need inform display postscript strokeadjust featur . 
-this featur adjust endpoint line display line look better low resolut devic . 
-the postscript literatur explain process extent . 
-they also give exampl emul strokeadjust postscript environ absent . 
-the suggest emul modifi coordin endpoint line use follow formula coordin newcoord round oldcoord 0.25 0.25 do end coordin end .25 . 
-from read i thought might actual newcoord trunc oldcoord 2 2 0.25 this result coordin end either 0.25 0.75 whichev closer . 
-by actual comparison display postscript i find neither dps realli use . 
-sinc i like dps result look better stuff look i 'd like know anyon know dps willing tell . 
-thank 
