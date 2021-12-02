@@ -137,10 +137,8 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 
-# feature .npy files
-feature/word2vec/*.npy
-feature/word2vec/*.model
-feature/word2vec/*.bin
-
-# all .npy and files
+# all .npy and model like files
 *.npy
+*.model
+*.bin
+*.w2v
