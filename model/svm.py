@@ -8,10 +8,10 @@ import zipfile
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import classification_report,confusion_matrix, accuracy_score
 import warnings
-dir1='D:\\nlp' 
+dir1='/Users/leung/Desktop/Junior_1/NLP' 
 os.chdir(dir1)
 
-zip_fn ='NLP_057-Final-Project-main.zip'
+zip_fn ='NLP_057-Final-Project.zip'
 
 grp1 = [ 'comp.graphics',
  'comp.os.ms-windows.misc',
@@ -43,7 +43,7 @@ with zipfile.ZipFile(zip_fn) as z:
     for filename in z.namelist():
         all_files.append(filename)
 
-train_file =[x for x in all_files if (('NLP_057-Final-Project-main/preprocessing/corpus/train/' in x) & (x[-4:] =='.txt'))]
+train_file =[x for x in all_files if (('NLP_057-Final-Project/preprocessing/corpus/train/' in x) & (x[-4:] =='.txt'))]
 train_lvl = [x.split('/train/')[1].split('/')[0] for x in train_file]
 x_train =[]
 with zipfile.ZipFile(zip_fn) as z:
@@ -74,7 +74,7 @@ vectorizer = TfidfVectorizer()
 vectors_train = vectorizer.fit_transform(x_train)
 vectors_train.shape
 
-dev_file =[x for x in all_files if (('NLP_057-Final-Project-main/preprocessing/corpus/dev/' in x) & (x[-4:] =='.txt'))]
+dev_file =[x for x in all_files if (('NLP_057-Final-Project/preprocessing/corpus/dev/' in x) & (x[-4:] =='.txt'))]
 dev_lvl = [x.split('/dev/')[1].split('/')[0] for x in dev_file]
 dev_grp_lvl = []
 for l in dev_lvl:
