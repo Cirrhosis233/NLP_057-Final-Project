@@ -1,0 +1,15 @@
+CNN Model needs a long time to run, so I record the result in this file. 
+
+Epoch 1/5
+366/366 [==============================] - 381s 1s/step - loss: 1.2581 - sparse_categorical_accuracy: 0.5082
+Epoch 2/5
+366/366 [==============================] - 374s 1s/step - loss: 0.2375 - sparse_categorical_accuracy: 0.9272
+Epoch 3/5
+366/366 [==============================] - 374s 1s/step - loss: 0.0603 - sparse_categorical_accuracy: 0.9848
+Epoch 4/5
+366/366 [==============================] - 375s 1s/step - loss: 0.0237 - sparse_categorical_accuracy: 0.9938
+Epoch 5/5
+366/366 [==============================] - 381s 1s/step - loss: 0.0167 - sparse_categorical_accuracy: 0.9964
+92/92 [==============================] - 23s 252ms/step - loss: 0.7572 - sparse_categorical_accuracy: 0.8421
+[0.7572490572929382, 0.8421052694320679]
+accuracy: 84
