@@ -1,0 +1,78 @@
+The pure tfidf + SVM written by Yuanhao Zhang:
+one time accuracy: 88
+
+Dataset: cust1
+LSA LR: 
+one time: 80, 10-fold: 76
+TFIDF LR:
+84, 78
+
+LSA SVM:
+81, 79
+TFIDF SVM:
+84, 80
+
+LSA RF:
+79, 78
+TFIDF RF:
+80, 77
+
+-----------------------------------------
+
+Dataset: no_num_0
+LSA LR: 
+one time: 80, 10-fold: 76
+TFIDF LR:
+85, 77
+
+LSA SVM:
+82, 78
+TFIDF SVM:
+84, 80
+
+LSA RF:
+79, 76
+TFIDF RF:
+80, 74
+
+-----------------------------------------
+
+Dataset: no punct
+LSA LR: 
+one time: 78, 10-fold: 73
+TFIDF LR:
+83, 75
+
+LSA SVM:
+81, 77
+TFIDF SVM:
+83, 78
+
+LSA RF:
+72, 69
+TFIDF RF:
+76, 70
+
+-----------------------------------------
+
+Dataset: no st
+LSA LR: 
+one time: 80, 10-fold: 75
+TFIDF LR:
+85, 78
+
+LSA SVM:
+82, 79
+TFIDF SVM:
+85, 80
+
+LSA RF:
+79, 76
+TFIDF RF:
+80, 74
+
+-----------------------------------------
+
+
+
+
