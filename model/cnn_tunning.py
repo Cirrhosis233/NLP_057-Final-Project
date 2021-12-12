@@ -10,17 +10,11 @@ from sklearn.model_selection import train_test_split
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
+import keras_tuner as kt
+import tensorflow_datasets as tfds
 from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.callbacks import EarlyStopping
-
-from sklearn.metrics import classification_report
-from sklearn.metrics import roc_curve, auc, roc_auc_score
-from sklearn.preprocessing import LabelBinarizer
-
-import matplotlib.pyplot as plt 
 
 import os
-
 
 # This file was written by Zhenyuan Liang
 
@@ -29,7 +23,7 @@ import os
 # https://www.kaggle.com/faressayah/20-news-groups-classification-prediction-cnns 
 # written by FARES SAYAH
 
-# obtain data 
+# obtain data and do LSA dimension reduction
 dir1='/Users/leung/Desktop/Junior_1/NLP/NLP_057-Final-Project/model' 
 os.chdir(dir1)
 
@@ -57,15 +51,9 @@ test_X = test_df.text
 
 labelEncoder = LabelEncoder()
 y = labelEncoder.fit_transform(data['class'])
-test_Y = labelEncoder.fit_transform(test_df['class'])
 
-# x_train, x_dev, y_train, y_dev = train_test_split(X, y, test_size=0.2)
 
-# Using test_X and test_Y for final testing !!!
-x_train = X
-y_train = y
-x_dev = test_X
-y_dev = test_Y
+x_train, x_dev, y_train, y_dev = train_test_split(X, y, test_size=0.2)
 
 # Tokenization
 tokenizer = Tokenizer(num_words=x_train.shape[0])
@@ -111,8 +99,8 @@ print(type(y_train))
 # Build CNN Model
 class DCNN(tf.keras.Model):
     
-    def __init__(self, vocab_size, emb_dim=128, nb_filters=50, FFN_units=512, nb_classes=2,
-                 dropout_rate=0.1, training=False, name="dcnn"):
+    def __init__(self, vocab_size, emb_dim, nb_filters, FFN_units, nb_classes,
+                 dropout_rate, training=False, name="dcnn"):
         super(DCNN, self).__init__(name=name)
         
         self.embedding = layers.Embedding(vocab_size, emb_dim)
@@ -128,7 +116,7 @@ class DCNN(tf.keras.Model):
             self.last_dense = layers.Dense(units=1, activation="sigmoid")
         else:
             self.last_dense = layers.Dense(units=nb_classes, activation="softmax")
-    
+        
     def call(self, inputs, training):
         x = self.embedding(inputs)
         x_1 = self.bigram(x)
@@ -147,30 +135,45 @@ class DCNN(tf.keras.Model):
 
 
 # Setting Parameters
-VOCAB_SIZE = np.shape(x_train)[0]
+# hp = kt.HyperParameters()
 
-EMB_DIM = 200
-NB_FILTERS = 100
-FFN_UNITS = 256
-NB_CLASSES = len(set(y_train))
+# VOCAB_SIZE = np.shape(x_train)[0]
 
-DROPOUT_RATE = 0.2
+# EMB_DIM = hp.Int("dim", min_value=50, max_value=500, step=32)
+# NB_FILTERS = hp.Int("units", min_value=50, max_value=500, step=32)
+# FFN_UNITS = hp.Int("units", min_value=32, max_value=512, step=32)
+# NB_CLASSES = len(set(y_train))
 
-BATCH_SIZE = 32
-NB_EPOCHS = 5
+# DROPOUT_RATE = hp.Float("dr", min_value=0.1, max_value=0.9, sampling="log")
+
+# BATCH_SIZE = 32
+# NB_EPOCHS = 5
 
 
 #  Compile and Train the Model
-Dcnn = DCNN(vocab_size=VOCAB_SIZE, emb_dim=EMB_DIM, nb_filters=NB_FILTERS,
-            FFN_units=FFN_UNITS, nb_classes=NB_CLASSES,
-            dropout_rate=DROPOUT_RATE)
+def buildModel(hp):
 
+    VOCAB_SIZE = np.shape(x_train)[0]
 
-Dcnn.compile(loss="sparse_categorical_crossentropy",
-                optimizer="adam",
-                metrics=["sparse_categorical_accuracy"])
-# METRICS = [keras.metrics.AUC(name='auc')]
-# Dcnn.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=METRICS)
+    EMB_DIM = hp.Int("dim", min_value=50, max_value=500, step=32)
+    NB_FILTERS = hp.Int("filters", min_value=50, max_value=500, step=32)
+    FFN_UNITS = hp.Int("units", min_value=32, max_value=512, step=32)
+    NB_CLASSES = len(set(y_train))
+
+    DROPOUT_RATE = hp.Float("dr", min_value=0.1, max_value=0.9, sampling="log")
+
+    BATCH_SIZE = 32
+    NB_EPOCHS = 5
+    Dcnn = DCNN(vocab_size=VOCAB_SIZE, emb_dim=EMB_DIM, nb_filters=NB_FILTERS,
+                FFN_units=FFN_UNITS, nb_classes=NB_CLASSES,
+                dropout_rate=DROPOUT_RATE)
+
+    learning_rate = hp.Float("lr", min_value=1e-4, max_value=1e-2, sampling="log")
+    Dcnn.compile(loss="sparse_categorical_crossentropy",
+                    optimizer=keras.optimizers.Adam(learning_rate=learning_rate),
+                    metrics=["sparse_categorical_accuracy"])
+    return Dcnn
+
 
 # print(type(train_inputs))
 # print(type(y_train))
@@ -179,44 +182,34 @@ rows_len = np.shape(x_train)[0]
 for i in range(rows_len):
     x_train[i] = np.sort(x_train[i])
 
-callbacks = [EarlyStopping(monitor='val_loss')]
+# Dcnn.fit(train_inputs,
+#          y_train,
+#          batch_size=BATCH_SIZE,
+#          epochs=NB_EPOCHS)
 
-Dcnn.fit(train_inputs,
-         y_train,
-         batch_size=BATCH_SIZE,
-         epochs=NB_EPOCHS,
-         validation_data=(test_inputs, y_dev),
-         callbacks=callbacks
-         )
+# results = Dcnn.evaluate(test_inputs, y_dev, batch_size=BATCH_SIZE)
+# print(results)
 
-results = Dcnn.evaluate(test_inputs, y_dev, batch_size=BATCH_SIZE)
-print(results)
+hp = kt.HyperParameters()
+buildModel(hp)
 
-
-y_pred = Dcnn.predict(test_inputs, batch_size=10)
-y_pred_bool = np.argmax(y_pred, axis=1)
-
-print(classification_report(y_dev, y_pred_bool))
-
-# ROC AUC score 
-fig, c_ax = plt.subplots(1,1, figsize = (12, 8))
-def multiclass_roc_auc_score(y_test, y_pred, average="macro"):
-    lb = LabelBinarizer()
-    lb.fit(y_test)
-    y_test = lb.transform(y_test)
-    y_pred = lb.transform(y_pred)
-    target = ['0', '1', '2', '3', '4', '5']
-    for (idx, c_label) in enumerate(target):
-        fpr, tpr, thresholds = roc_curve(y_test[:,idx].astype(int), y_pred[:,idx])
-        c_ax.plot(fpr, tpr, label = '%s (AUC:%0.2f)'  % (c_label, auc(fpr, tpr)))
-    c_ax.plot(fpr, fpr, 'b-', label = 'Random Guessing')
-    return roc_auc_score(y_test, y_pred, average=average)
-
-
-y_pred = y_pred.argmax(axis=-1)
-print('ROC AUC score:', multiclass_roc_auc_score(y_dev, y_pred))
-
-c_ax.legend()
-c_ax.set_xlabel('False Positive Rate')
-c_ax.set_ylabel('True Positive Rate')
-plt.show()
+# Random Search for Hyperparameter Tunning. Inspired by the example in keras documentation
+tuner = kt.RandomSearch(
+    hypermodel= buildModel,
+    objective="val_sparse_categorical_accuracy",
+    max_trials=10,
+    executions_per_trial=1,
+    overwrite=True,
+    directory="my_dir",
+    project_name="helloworld",
+    )
+# You can print a summary of the search space:
+print(tuner.search_space_summary())
+print('reach')
+# The call to search has the same signature as model.fit()
+tuner.search(train_inputs, y_train, epochs=3, validation_data=(test_inputs, y_dev))
+# When search is over, you can retrieve the best model(s):
+models = tuner.get_best_models(num_models=2)
+print(models)
+# Or print a summary of the results:
+print(tuner.results_summary())
