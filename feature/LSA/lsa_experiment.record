@@ -73,6 +73,129 @@ TFIDF RF:
 
 -----------------------------------------
 
+The following Experiments is to measure how much time LSA can save for each machine learning model
 
+LR Model: 
+LSA 10-fold CV Accuracy: 0.7550 (+/- 0.0453)
+--- 8.648154258728027 seconds ---
+
+TF-IDF 10-fold CV Accuracy: 0.7655 (+/- 0.0543)
+--- 14.263437986373901 seconds ---
+The time LSA saves is: 5.61526894569397
+if only measure the process of training and prediction, it is about -0.0988929271697998 seconds
+Note that it is a negative value, so the LSA indeed cannot save time in this case. 
+
+SVM model:
+SVM LSA 10-fold CV Accuracy: 0.7966 (+/- 0.0505)
+--- 13.299516201019287 seconds ---
+SVM TF-IDF 10-fold CV Accuracy: 0.7850 (+/- 0.0525)
+--- 90.98806190490723 seconds ---
+The time SVM saves is: 77.6885461807251
+if only measure the process of training and prediction, it is about 40 seconds
+
+RF Model:
+......
+I did not measure it, but it should save more time than that in the SVM model.
+------------------------------------------
+
+The following experiments are the final testing results by testing data. 
+Since the chart only have one row for each trail, I will report macro average. 
+
+LR TF-IDF output shape: (14628, 73966)
+LSA output shape: (14628, 200)
+Sum of explained variance ratio: 16%
+LSA Accurary: 0.801480669043049
+              precision    recall  f1-score   support
+
+           0       0.83      0.89      0.86       953
+           1       0.86      0.50      0.64       191
+           2       0.81      0.75      0.78       510
+           3       0.79      0.87      0.83       751
+           4       0.89      0.71      0.79       478
+           5       0.72      0.79      0.75       764
+
+    accuracy                           0.80      3647
+   macro avg       0.82      0.75      0.77      3647
+weighted avg       0.81      0.80      0.80      3647
+
+LR LSA 10-fold CV Accuracy: 0.7593 (+/- 0.0327)
+One-vs-One ROC AUC scores:
+0.959358 (macro),
+0.959954 (weighted by prevalence)
+One-vs-Rest ROC AUC scores:
+0.961625 (macro),
+0.961635 (weighted by prevalence)
+
+------------------------------------------
+LR TF-IDF Accurary: 0.8483685220729367
+              precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89       953
+           1       0.87      0.59      0.70       191
+           2       0.85      0.83      0.84       510
+           3       0.85      0.90      0.88       751
+           4       0.92      0.76      0.83       478
+           5       0.80      0.84      0.82       764
+
+    accuracy                           0.85      3647
+   macro avg       0.86      0.81      0.83      3647
+weighted avg       0.85      0.85      0.85      3647
+
+LR TF-IDF 10-fold CV Accuracy: 0.7798 (+/- 0.0352)
+One-vs-One ROC AUC scores:
+0.972504 (macro),
+0.973147 (weighted by prevalence)
+One-vs-Rest ROC AUC scores:
+0.974462 (macro),
+0.974710 (weighted by prevalence)
+
+------------------------------------------
+(3647,)
+SVM LSA Accurary: 0.8113517959967096
+              precision    recall  f1-score   support
+
+           0       0.86      0.89      0.87       953
+           1       0.80      0.67      0.73       191
+           2       0.78      0.79      0.78       510
+           3       0.83      0.85      0.84       751
+           4       0.88      0.72      0.79       478
+           5       0.73      0.79      0.76       764
+
+    accuracy                           0.81      3647
+   macro avg       0.81      0.78      0.80      3647
+weighted avg       0.81      0.81      0.81      3647
+
+SVM LSA 10-fold CV Accuracy: 0.7908 (+/- 0.0456)
+One-vs-One ROC AUC scores:
+0.962376 (macro),
+0.962761 (weighted by prevalence)
+One-vs-Rest ROC AUC scores:
+0.963122 (macro),
+0.964029 (weighted by prevalence)
+
+------------------------------------------
+SVM TF-IDF Accurary: 0.8459007403345216
+              precision    recall  f1-score   support
+
+           0       0.85      0.90      0.88       953
+           1       0.84      0.69      0.76       191
+           2       0.81      0.85      0.83       510
+           3       0.88      0.89      0.88       751
+           4       0.89      0.78      0.83       478
+           5       0.81      0.81      0.81       764
+
+    accuracy                           0.85      3647
+   macro avg       0.85      0.82      0.83      3647
+weighted avg       0.85      0.85      0.85      3647
+
+SVM TF-IDF 10-fold CV Accuracy: 0.7913 (+/- 0.0381)
+One-vs-One ROC AUC scores:
+0.971828 (macro),
+0.971996 (weighted by prevalence)
+One-vs-Rest ROC AUC scores:
+0.972447 (macro),
+0.972879 (weighted by prevalence)
+
+------------------------------------------
 
 

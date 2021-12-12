@@ -19,7 +19,13 @@ from sklearn.model_selection import ShuffleSplit
 from sklearn import metrics
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
+
 # from sklearn.neighbors import KNeighborsClassifier
+
+
+dir1='/Users/leung/Desktop/Junior_1/NLP/NLP_057-Final-Project/feature/word2vec_new/TFIDF_w2v' 
+os.chdir(dir1)
 
 #%%
 # data = pd.read_csv('../../../corpus_new/train_no_num_0.csv')

@@ -1,4 +1,4 @@
-CNN Model needs a long time to run, so I record the result in this file. 
+CNN Model needs a long time to run, so I recorded the result in this file. 
 
 Epoch 1/5
 366/366 [==============================] - 381s 1s/step - loss: 1.2581 - sparse_categorical_accuracy: 0.5082
@@ -13,3 +13,106 @@ Epoch 5/5
 92/92 [==============================] - 23s 252ms/step - loss: 0.7572 - sparse_categorical_accuracy: 0.8421
 [0.7572490572929382, 0.8421052694320679]
 accuracy: 84
+
+--------------------------------------------
+Tunning Results:
+Best val_sparse_categorical_accuracy So Far: 0.8342446982860565
+Total elapsed time: 02h 29m 28s
+
+Showing 10 best trials
+Objective(name='val_sparse_categorical_accuracy', direction='max')
+Trial summary
+Hyperparameters:
+filters: 178
+units: 480
+dr: 0.482446505781083
+lr: 0.0012427198242250346
+Score: 0.8342446982860565
+
+Trial summary
+Hyperparameters:
+filters: 274
+units: 128
+dr: 0.2909209384392832
+lr: 0.008961982192815124
+Score: 0.7534176409244537
+
+Trial summary
+Hyperparameters:
+filters: 146
+units: 160
+dr: 0.37848312414222085
+lr: 0.00014791121556251174
+Score: 0.7510252892971039
+None
+
+-----------------------------------------------
+
+2021-12-07 14:21:01.862012: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2021-12-07 14:21:01.862300: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-12-07 14:21:02.200105: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+Epoch 1/6
+458/458 [==============================] - 1968s 4s/step - loss: 1.2399 - sparse_categorical_accuracy: 0.5182
+Epoch 2/6
+458/458 [==============================] - 1937s 4s/step - loss: 0.2483 - sparse_categorical_accuracy: 0.9220
+Epoch 3/6
+458/458 [==============================] - 2093s 5s/step - loss: 0.0608 - sparse_categorical_accuracy: 0.9859
+Epoch 4/6
+458/458 [==============================] - 2080s 5s/step - loss: 0.0240 - sparse_categorical_accuracy: 0.9947
+Epoch 5/6
+458/458 [==============================] - 2078s 5s/step - loss: 0.0125 - sparse_categorical_accuracy: 0.9969
+Epoch 6/6
+458/458 [==============================] - 2002s 4s/step - loss: 0.0128 - sparse_categorical_accuracy: 0.9971 
+115/115 [==============================] - 139s 1s/step - loss: 0.8247 - sparse_categorical_accuracy: 0.8311
+[0.8247380256652832, 0.8310514688491821]
+              precision    recall  f1-score   support
+
+           0       0.88      0.89      0.88       954
+           1       0.82      0.71      0.76       191
+           2       0.82      0.79      0.80       510
+           3       0.90      0.84      0.87       755
+           4       0.91      0.72      0.80       478
+           5       0.70      0.88      0.78       764
+
+    accuracy                           0.83      3652
+   macro avg       0.84      0.80      0.82      3652
+weighted avg       0.84      0.83      0.83      3652
+
+-----------------------------------------------------
+
+458/458 [==============================] - 500s 1s/step - loss: 1.1832 - sparse_categorical_accuracy: 0.5417
+114/114 [==============================] - 36s 312ms/step - loss: 0.4864 - sparse_categorical_accuracy: 0.8358
+[0.48635193705558777, 0.8357554078102112]
+              precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89       953
+           1       0.81      0.61      0.70       191
+           2       0.74      0.83      0.79       510
+           3       0.89      0.86      0.88       751
+           4       0.84      0.81      0.83       478
+           5       0.80      0.81      0.80       764
+
+    accuracy                           0.84      3647
+   macro avg       0.83      0.80      0.81      3647
+weighted avg       0.84      0.84      0.84      3647
+
+-----------------------------------------------------
+
+458/458 [==============================] - 557s 1s/step - loss: 1.1927 - sparse_categorical_accuracy: 0.5373
+114/114 [==============================] - 37s 321ms/step - loss: 0.4935 - sparse_categorical_accuracy: 0.8316
+[0.49350398778915405, 0.8316424489021301]
+              precision    recall  f1-score   support
+
+           0       0.87      0.90      0.89       953
+           1       0.82      0.60      0.69       191
+           2       0.82      0.79      0.81       510
+           3       0.81      0.90      0.85       751
+           4       0.84      0.80      0.82       478
+           5       0.81      0.78      0.79       764
+
+    accuracy                           0.83      3647
+   macro avg       0.83      0.80      0.81      3647
+weighted avg       0.83      0.83      0.83      3647
+
+ROC AUC score: 0.8804837685467901
